@@ -1,0 +1,68 @@
+sunday:
+  ruling planet: sun
+  norse diety: sol
+  properties:
+    - legal matters
+    - healing
+    - protection
+    - confidence
+    - vitality
+    - success
+
+monday:
+  ruling planet: moon
+  norse diety: mani
+  properties:
+      - sleep
+      - prophetic dreams
+      - fertility
+      - inner peace
+      - healing
+      - emotional balance
+
+tuesday: 
+  ruling planet: mars
+  norse diety: tyr
+  properties:
+    - courage
+    - strength
+    - confidence
+    - protection
+    - fitness
+    - hex-breaking
+
+wednesday:
+  ruling planet: mercury
+  norse diety: odin
+  properties:
+    - mental clarity
+    - knowledge
+    - problem-solving
+    - communication
+
+thursday:
+  ruling planet: jupiter
+  norse diety: thor
+  properties:
+    - money
+    - prosperity
+    - luck
+    - legal matters
+
+friday:
+  ruling planet: venus
+  norse diety: freyja
+  properties:
+    - love
+    - friendship
+    - beauty
+    - harmony
+    - pleasure
+
+saturday:
+  ruling planet: saturn
+  norse diety: loki
+  properties:
+    - long-term goals
+    - patience
+    - perseverance

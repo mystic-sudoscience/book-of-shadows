@@ -1,0 +1,65 @@
+root:
+  color: red
+  location: base of the spine
+  meaning: 
+    - grounding
+    - stability
+  signs of blockage:
+    - stomach issues
+    - arthritis
+sacral:
+  color: orange
+  location: lower abdomen
+  meaning:
+    - creativity
+    - sexuality
+    - pleasure
+  signs of blockage:
+    - lower back pain
+    - uti
+    - sexual dysfunction
+solar plexus:
+  color: yellow
+  location: upper abdomen
+  meaning:
+    - confidence
+    - self-esteem
+  signs of blockage:
+    - ulcers
+    - indigestion
+heart:
+  color: green
+  location: center of the chest
+  meaning:
+    - love
+    - compassion
+  signs of blockage:
+    - heart problems
+    - respiratory issues
+throat:
+  color: blue
+  location: throat
+  meaning:
+    - communication
+  signs of blockage:
+    - sore throat
+    - dental issues
+third eye:
+  color: indigo
+  location: forehead, between the eyes
+  meaning:
+    - intuition
+    - imagination
+  signs of blockage:
+    - headaches
+    - vision problems
+    - concentration issues
+crown:
+  color: violet
+  location: top of the head
+  meaning:
+    - awareness
+    - intelligence
+  signs of blockage:
+    - stubbornness
+    - narrow-mindedness
