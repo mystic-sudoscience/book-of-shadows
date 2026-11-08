@@ -11,20 +11,22 @@ A community-maintained collection of correspondences (plants, crystals, elements
 | [data/elements.yml](data/elements.yml) | Earth, air, fire, and water and what they govern |
 | [data/weekdays.yml](data/weekdays.yml) | Days of the week, ruling planets, Norse deities, and properties |
 | [data/chakras.yml](data/chakras.yml) | The seven chakras: color, location, meaning, and signs of blockage |
+| [bibliography/](bibliography/) | Source citations (one YAML file per data file) that entries reference by id |
 | [load_db.py](load_db.py) | Script that loads the YAML data into a local MongoDB database |
 
 ## How to contribute
 
 1. Fork the repository and create a branch (`username/[update]`, etc.).
 2. Edit the relevant YAML file, following the formatting rules and templates below.
-3. Check that the file is still valid YAML (see [Validating your changes](#validating-your-changes)).
-4. Add every source you used to [bibliography.md](bibliography.md) (see [Citations](#citations)).
+3. Check your changes pass the linter (see [Validating your changes](#validating-your-changes)).
+4. Add every source you used to the matching file in [bibliography/](bibliography/) and reference its id in the entry's `citation` list (see [Citations](#citations)).
 5. Open a pull request describing what you added or changed and which sources support it.
 
 You can add new entries, fill in missing fields on existing entries, fix errors, or add safety notes.
 
 ## Formatting rules
 
+- Two-space indentation. No tabs, no trailing spaces, and a newline at the end of the file (enforced by yamllint).
 - Entry names and values are lowercase (`solar plexus`, not `Solar Plexus`).
 - Keep entries in alphabetical order within each file.
 - Multi-value fields are YAML lists (one `- item` per line). The exception is `parts used`, which is a comma-separated string.
@@ -47,16 +49,25 @@ aconite:
   properties:
     - consecration
     - protection
-  notes:
-    - poisonous to humans and pets
-    - always wear gloves when handling
+  toxicity:
+    humans: true
+    pets: true
+    notes:
+      - always wear gloves when handling
   holidays:
     - samhain
+  citation:
+    - plant-2
 ```
 
-Only `parts used`, `planet`, `element`, and `properties` are typically present. `moon phase`, `zodiac sign`, `chakra`, `notes`, and `holidays` are optional.
+Only `parts used`, `planet`, `element`, `properties`, and `citation` are typically present. `moon phase`, `zodiac sign`, `chakra`, `toxicity`, `notes`, and `holidays` are optional.
 
-Safety is important. If a plant is toxic, an irritant, or unsafe during pregnancy or for pets, say so in `notes`.
+Safety is important. Record it in `toxicity`:
+
+- `humans` and `pets` are booleans: `true` if the plant is toxic to that group, `false` if it is nontoxic. Omit a key if your source does not say.
+- `notes` elaborates on details such as whether small amounts can be consumed, whether gloves should be worn, skin irritation, or pregnancy cautions.
+
+Use the plant's regular `notes` for anything that is not about safety.
 
 ### Crystals (`crystals.yml`)
 
@@ -67,14 +78,19 @@ crystal_name:
     - property two
 ```
 
-Replace the `crystal_name` placeholder with the crystal's name. Additional fields (element, planet, chakra, cleansing notes) are welcome if you keep them consistent across entries.
+Replace the `crystal_name` placeholder with the crystal's name. Additional fields (element, planet, chakra, cleansing notes) are welcome if you keep them consistent across entries. Crystals do not have a source yet: create `bibliography/crystals.yml` with the first source (id `crystal-1`) and add a `citation` list to the entry, as described in [Citations](#citations).
 
 ### Elements (`elements.yml`)
 
 ```yaml
 element:
-  - purpose
+  properties:
+    - purpose
+  citation:
+    - element-1
 ```
+
+`citation` is a list of ids from `bibliography/elements.yml`.
 
 ### Weekdays (`weekdays.yml`)
 
@@ -85,7 +101,11 @@ sunday:
   properties:
     - healing
     - protection
+  citation:
+    - weekday-1
 ```
+
+`citation` is a list of ids from `bibliography/weekdays.yml`.
 
 Note that the existing key is spelled `norse diety`. Keep it as is until it is renamed across the whole file in a dedicated change.
 
@@ -99,25 +119,36 @@ root:
     - grounding
   signs of blockage:
     - arthritis
+  citation:
+    - chakra-1
 ```
 
 ## Validating your changes
 
-With Python and PyYAML installed:
-
-```sh
-python -c "import yaml, sys; yaml.safe_load(open(sys.argv[1]))" data/plants.yml
-```
-
-No output means the file parsed successfully. Duplicate keys are silently overwritten by YAML parsers, so search the file for your entry name before adding it.
-
-## Loading into MongoDB
-
-The YAML files can be loaded into a local MongoDB database. You need a running MongoDB instance (for example `brew services start mongodb-community` on macOS) and Python 3.
+Install the dependencies in a virtual environment, then lint with [yamllint](https://yamllint.readthedocs.io/) (rules in [.yamllint](.yamllint)):
 
 ```sh
 python -m venv .venv && source .venv/bin/activate
 pip install -r requirements.txt
+yamllint --strict -c .yamllint data bibliography
+```
+
+yamllint checks syntax, 2-space indentation, trailing spaces, a final newline, spacing after colons, and duplicate keys (which YAML parsers otherwise silently overwrite).
+
+### Pre-commit
+
+[pre-commit](https://pre-commit.com/) runs yamllint on `data/` and `bibliography/` automatically. A commit that fails is rejected until the file is fixed.
+
+```sh
+pre-commit install          # once, to run the checks on each commit
+pre-commit run --all-files  # run them manually
+```
+
+## Loading into MongoDB
+
+The YAML files can be loaded into a local MongoDB database. You need a running MongoDB instance (for example `brew services start mongodb-community` on macOS) and the virtual environment from [Validating your changes](#validating-your-changes).
+
+```sh
 cp .env.example .env    # then edit .env if your setup differs
 python load_db.py
 ```
@@ -131,7 +162,7 @@ Configuration lives in `.env` (git-ignored; never commit it):
 
 Command-line flags override `.env`, and real environment variables take precedence over `.env` values.
 
-Each file in `data/` becomes a collection (`plants.yml` -> `plants`), and each top-level entry becomes a document whose `_id` and `name` are the entry name. The script is safe to re-run: documents are upserted. Options:
+Each file in `data/` becomes a collection (`plants.yml` -> `plants`), and each file in `bibliography/` becomes a collection prefixed with `bibliography_` (`bibliography/plants.yml` -> `bibliography_plants`). Each top-level entry becomes a document whose `_id` and `name` are the entry name, so a `citation` id such as `plant-1` matches the `_id` of a document in `bibliography_plants`. The script is safe to re-run: documents are upserted. Options:
 
 - `--uri` MongoDB connection string (overrides `MONGO_URI`)
 - `--db` database name (overrides `MONGO_DB`)
@@ -145,11 +176,51 @@ mongosh book_of_shadows --eval 'db.plants.find({planet: "venus"}, {name: 1})'
 
 ## Citations
 
-**No new information may be added without a citation.** Every new entry, field, or edit must be backed by a source listed in [bibliography.md](bibliography.md). Pull requests without citations will not be merged.
+**No new information may be added without a citation.** Every new entry, field, or edit must be backed by a source in [bibliography/](bibliography/). Pull requests without citations will not be merged.
 
-- If your source is already in the bibliography, name it in your pull request.
-- If it is new, add it to the matching section of [bibliography.md](bibliography.md). Format it with [MyBib](https://www.mybib.com/), as described at the top of that file.
+### How citations work
+
+Each data file in `data/` has a matching file in `bibliography/` (`data/plants.yml` -> `bibliography/plants.yml`). A bibliography entry has an id (`plant-1`, `weekday-2`, `chakra-1`, ...) and describes one source:
+
+```yaml
+plant-1:
+  author:
+    last: Cunningham
+    first: Scott
+  title: Cunningham’s Encyclopedia of Magical Herbs
+  publisher: Llewellyn Publications
+  year: 1985
+  citation: Cunningham, Scott. Cunningham’s Encyclopedia of Magical Herbs. Llewellyn Publications, 1985.
+```
+
+A data entry lists the ids of its sources in `citation`, always as the last field and always as a list:
+
+```yaml
+sunday:
+  ruling planet: sun
+  properties:
+    - healing
+  citation:
+    - weekday-1
+    - weekday-2
+```
+
+### Adding a source
+
+1. Open the matching file in `bibliography/` and add a new entry with the next unused id (if the last is `plant-2`, use `plant-3`).
+2. Include the fields that apply: `author` (`last`, `first`), `title`, `publisher` or `website`, `year` or `date`, `url`, `accessed`, and `page` for a specific page.
+3. Put the full MLA string in `citation`. [MyBib](https://www.mybib.com/) can format it.
+4. Quote any value containing `: ` or `#`, which is common in titles and MLA strings.
+5. Add the id to the `citation` list of every data entry the source supports.
+
+If your source is already in the bibliography, just reference its id; do not add it again. A new source for an existing file, for example a second book on weekdays, gets a new id and is added to the entries it supports alongside the existing ids.
+
+For plants, entries with a `zodiac sign` are credited to `plant-2` and entries without one to `plant-1`. When your source supports a plant, add its id as well.
+
+### Rules
+
 - Personal practice (UPG) is valid but is not a citation. It does not belong in this repository unless a published source supports it.
+- Only cite what the source says; do not cite a source for information it does not contain.
 
 ## Sources and respect
 

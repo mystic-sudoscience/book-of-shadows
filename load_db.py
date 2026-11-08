@@ -1,6 +1,8 @@
-"""Load the YAML files in data/ into a local MongoDB database.
+"""Load the YAML files in data/ and bibliography/ into a local MongoDB database.
 
-Each file becomes a collection named after the file (plants.yml -> plants).
+Each data file becomes a collection named after the file (plants.yml -> plants).
+Each bibliography file becomes a collection prefixed with `bibliography_`
+(bibliography/plants.yml -> bibliography_plants).
 Each top-level key becomes one document with `_id` and `name` set to that key.
 Re-running is safe: documents are upserted by `_id`.
 
@@ -21,24 +23,22 @@ from pymongo import MongoClient, ReplaceOne
 load_dotenv()
 
 DATA_DIR = Path(__file__).parent / "data"
+BIBLIOGRAPHY_DIR = Path(__file__).parent / "bibliography"
 
 
 def to_document(name, value):
     if value is None:
         value = {}
-    elif isinstance(value, list):
-        # elements.yml maps each element directly to a list of properties
-        value = {"properties": value}
     elif not isinstance(value, dict):
         raise ValueError(f"unsupported value for '{name}': {type(value).__name__}")
     return {"_id": name, "name": name, **value}
 
 
-def load_file(db, path, drop):
+def load_file(db, path, collection_name, drop):
     with path.open() as f:
         data = yaml.safe_load(f) or {}
 
-    collection = db[path.stem]
+    collection = db[collection_name]
     if drop:
         collection.drop()
     docs = [to_document(str(name), value) for name, value in data.items()]
@@ -57,7 +57,9 @@ def main():
     client = MongoClient(args.uri, serverSelectionTimeoutMS=5000)
     db = client[args.db]
     for path in sorted(DATA_DIR.glob("*.yml")):
-        load_file(db, path, args.drop)
+        load_file(db, path, path.stem, args.drop)
+    for path in sorted(BIBLIOGRAPHY_DIR.glob("*.yml")):
+        load_file(db, path, f"bibliography_{path.stem}", args.drop)
 
 
 if __name__ == "__main__":

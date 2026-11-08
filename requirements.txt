@@ -1,3 +1,5 @@
 PyYAML
 pymongo
 python-dotenv
+pre-commit
+yamllint
