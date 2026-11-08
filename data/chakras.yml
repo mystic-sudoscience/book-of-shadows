@@ -1,12 +1,14 @@
 root:
   color: red
   location: base of the spine
-  meaning: 
+  meaning:
     - grounding
     - stability
   signs of blockage:
     - stomach issues
     - arthritis
+  citation:
+    - chakra-1
 sacral:
   color: orange
   location: lower abdomen
@@ -18,6 +20,8 @@ sacral:
     - lower back pain
     - uti
     - sexual dysfunction
+  citation:
+    - chakra-1
 solar plexus:
   color: yellow
   location: upper abdomen
@@ -27,6 +31,8 @@ solar plexus:
   signs of blockage:
     - ulcers
     - indigestion
+  citation:
+    - chakra-1
 heart:
   color: green
   location: center of the chest
@@ -36,6 +42,8 @@ heart:
   signs of blockage:
     - heart problems
     - respiratory issues
+  citation:
+    - chakra-1
 throat:
   color: blue
   location: throat
@@ -44,6 +52,8 @@ throat:
   signs of blockage:
     - sore throat
     - dental issues
+  citation:
+    - chakra-1
 third eye:
   color: indigo
   location: forehead, between the eyes
@@ -54,6 +64,8 @@ third eye:
     - headaches
     - vision problems
     - concentration issues
+  citation:
+    - chakra-1
 crown:
   color: violet
   location: top of the head
@@ -63,3 +75,5 @@ crown:
   signs of blockage:
     - stubbornness
     - narrow-mindedness
+  citation:
+    - chakra-1

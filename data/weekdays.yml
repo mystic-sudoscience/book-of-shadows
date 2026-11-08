@@ -8,19 +8,25 @@ sunday:
     - confidence
     - vitality
     - success
+  citation:
+    - weekday-1
+    - weekday-2
 
 monday:
   ruling planet: moon
   norse diety: mani
   properties:
-      - sleep
-      - prophetic dreams
-      - fertility
-      - inner peace
-      - healing
-      - emotional balance
+    - sleep
+    - prophetic dreams
+    - fertility
+    - inner peace
+    - healing
+    - emotional balance
+  citation:
+    - weekday-1
+    - weekday-2
 
-tuesday: 
+tuesday:
   ruling planet: mars
   norse diety: tyr
   properties:
@@ -30,6 +36,9 @@ tuesday:
     - protection
     - fitness
     - hex-breaking
+  citation:
+    - weekday-1
+    - weekday-2
 
 wednesday:
   ruling planet: mercury
@@ -39,6 +48,9 @@ wednesday:
     - knowledge
     - problem-solving
     - communication
+  citation:
+    - weekday-1
+    - weekday-2
 
 thursday:
   ruling planet: jupiter
@@ -48,6 +60,9 @@ thursday:
     - prosperity
     - luck
     - legal matters
+  citation:
+    - weekday-1
+    - weekday-2
 
 friday:
   ruling planet: venus
@@ -58,11 +73,16 @@ friday:
     - beauty
     - harmony
     - pleasure
+  citation:
+    - weekday-1
+    - weekday-2
 
 saturday:
   ruling planet: saturn
-  norse diety: loki
   properties:
     - long-term goals
     - patience
     - perseverance
+  citation:
+    - weekday-1
+    - weekday-2

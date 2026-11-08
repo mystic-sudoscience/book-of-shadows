@@ -1,26 +1,38 @@
 earth:
-  - money
-  - prosperity
-  - fertility
-  - healing
-  - employment
+  properties:
+    - money
+    - prosperity
+    - fertility
+    - healing
+    - employment
+  citation:
+    - element-1
 air:
-  - mental clarity
-  - divination & visions
-  - wisdom
-  - communication
+  properties:
+    - mental clarity
+    - divination & visions
+    - wisdom
+    - communication
+  citation:
+    - element-1
 fire:
-  - lust
-  - courage
-  - protection
-  - health
-  - hex-breaking
-water: 
-  - sleep
-  - meditation
-  - purification
-  - divination & visions
-  - healing
-  - love
-  - friendship
-  - fidelity
+  properties:
+    - lust
+    - courage
+    - protection
+    - health
+    - hex-breaking
+  citation:
+    - element-1
+water:
+  properties:
+    - sleep
+    - meditation
+    - purification
+    - divination & visions
+    - healing
+    - love
+    - friendship
+    - fidelity
+  citation:
+    - element-1
