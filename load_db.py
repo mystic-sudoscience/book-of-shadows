@@ -14,6 +14,7 @@ MONGO_URI and MONGO_DB can be set in the environment or a .env file (see .env.ex
 
 import argparse
 import os
+from datetime import date, datetime, time
 from pathlib import Path
 
 import yaml
@@ -26,12 +27,23 @@ DATA_DIR = Path(__file__).parent / "data"
 BIBLIOGRAPHY_DIR = Path(__file__).parent / "bibliography"
 
 
+def to_bson(value):
+    """YAML parses 2016-10-04 as a date, which BSON cannot encode; use a datetime."""
+    if isinstance(value, date) and not isinstance(value, datetime):
+        return datetime.combine(value, time.min)
+    if isinstance(value, dict):
+        return {k: to_bson(v) for k, v in value.items()}
+    if isinstance(value, list):
+        return [to_bson(v) for v in value]
+    return value
+
+
 def to_document(name, value):
     if value is None:
         value = {}
     elif not isinstance(value, dict):
         raise ValueError(f"unsupported value for '{name}': {type(value).__name__}")
-    return {"_id": name, "name": name, **value}
+    return {"_id": name, "name": name, **to_bson(value)}
 
 
 def load_file(db, path, collection_name, drop):
