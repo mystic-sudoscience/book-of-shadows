@@ -6,7 +6,7 @@ earth:
     - healing
     - employment
   citation:
-    - element-1
+    - cunningham-herbs
 air:
   properties:
     - mental clarity
@@ -14,7 +14,7 @@ air:
     - wisdom
     - communication
   citation:
-    - element-1
+    - cunningham-herbs
 fire:
   properties:
     - lust
@@ -23,7 +23,7 @@ fire:
     - health
     - hex-breaking
   citation:
-    - element-1
+    - cunningham-herbs
 water:
   properties:
     - sleep
@@ -35,4 +35,4 @@ water:
     - friendship
     - fidelity
   citation:
-    - element-1
+    - cunningham-herbs

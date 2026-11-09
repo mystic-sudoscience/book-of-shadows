@@ -8,7 +8,7 @@ root:
     - stomach issues
     - arthritis
   citation:
-    - chakra-1
+    - healthline-chakras
 sacral:
   color: orange
   location: lower abdomen
@@ -21,7 +21,7 @@ sacral:
     - uti
     - sexual dysfunction
   citation:
-    - chakra-1
+    - healthline-chakras
 solar plexus:
   color: yellow
   location: upper abdomen
@@ -32,7 +32,7 @@ solar plexus:
     - ulcers
     - indigestion
   citation:
-    - chakra-1
+    - healthline-chakras
 heart:
   color: green
   location: center of the chest
@@ -43,7 +43,7 @@ heart:
     - heart problems
     - respiratory issues
   citation:
-    - chakra-1
+    - healthline-chakras
 throat:
   color: blue
   location: throat
@@ -53,7 +53,7 @@ throat:
     - sore throat
     - dental issues
   citation:
-    - chakra-1
+    - healthline-chakras
 third eye:
   color: indigo
   location: forehead, between the eyes
@@ -65,7 +65,7 @@ third eye:
     - vision problems
     - concentration issues
   citation:
-    - chakra-1
+    - healthline-chakras
 crown:
   color: violet
   location: top of the head
@@ -76,4 +76,4 @@ crown:
     - stubbornness
     - narrow-mindedness
   citation:
-    - chakra-1
+    - healthline-chakras

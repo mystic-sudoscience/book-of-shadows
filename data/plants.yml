@@ -1,4 +1,5 @@
 acacia:
+  type: tree
   parts used: gum, bark, flowers
   planet: sun
   element: air
@@ -7,6 +8,34 @@ acacia:
     - purification
     - money
     - love (platonic)
+    - afterlife
+    - awareness
+    - balance
+    - blessings
+    - calm
+    - clairvoyance
+    - consecrate/bless
+    - death
+    - divination
+    - dream work
+    - friendship
+    - inspiration
+    - jealousy
+    - negativity
+    - power (personal)
+    - problems
+    - prophecy
+    - prosperity
+    - protection
+    - psychic ability
+    - security
+    - self-work
+    - sexuality
+    - skills
+    - spirituality
+    - visions
+    - wealth
+    - wisdom
   notes:
     - combine with sandalwood to enhance psychic abilities
     - also called gum arabic
@@ -14,7 +43,8 @@ acacia:
     notes:
       - may cause gastritis
   citation:
-    - plant-1
+    - cunningham-herbs
+    - kynes-correspondences
 adam and eve roots:
   parts used: roots
   planet: venus
@@ -26,7 +56,7 @@ adam and eve roots:
     notes:
       - poison
   citation:
-    - plant-1
+    - cunningham-herbs
 adder's tongue:
   parts used: leaves, roots
   planet: moon
@@ -36,7 +66,7 @@ adder's tongue:
   notes:
     - soak in cold water and apply to wound
   citation:
-    - plant-1
+    - cunningham-herbs
 aconite:
   parts used: leaves, flowers
   planet: saturn
@@ -56,7 +86,7 @@ aconite:
   holidays:
     - samhain
   citation:
-    - plant-2
+    - morgana-green-witch
 african violet:
   parts used: flowers
   planet: venus
@@ -71,7 +101,7 @@ african violet:
     humans: false
     pets: false
   citation:
-    - plant-2
+    - morgana-green-witch
 agaric:
   parts used: caps
   planet: mercury
@@ -84,8 +114,9 @@ agaric:
     notes:
       - highly poisonous
   citation:
-    - plant-1
+    - cunningham-herbs
 agrimony:
+  type: herb & garden
   parts used: whole herb
   planet: jupiter, mercury
   element: air
@@ -101,7 +132,8 @@ agrimony:
     humans: false
     pets: true
   citation:
-    - plant-2
+    - morgana-green-witch
+    - kynes-correspondences
 alfalfa:
   parts used: leaves, seeds, sprouts
   planet: venus
@@ -111,7 +143,7 @@ alfalfa:
     - anti-hunger
     - money
   citation:
-    - plant-1
+    - cunningham-herbs
 alkanet:
   parts used: roots
   element: water
@@ -124,8 +156,9 @@ alkanet:
     notes:
       - not recommended for internal use
   citation:
-    - plant-1
+    - cunningham-herbs
 allspice:
+  type: misc
   parts used: berries
   planet: Mars
   element: Fire
@@ -133,8 +166,29 @@ allspice:
     - money
     - luck
     - healing
+    - attraction
+    - business
+    - communication
+    - compassion
+    - consecrate/bless
+    - courage
+    - determination
+    - energy
+    - fear
+    - friendship
+    - kindness
+    - luck (attract)
+    - money (collect debts)
+    - power (general)
+    - power (magical)
+    - prosperity
+    - spirituality
+    - strength
+    - success
+    - willpower
   citation:
-    - plant-1
+    - cunningham-herbs
+    - kynes-correspondences
 almond:
   parts used: nuts, oil
   planet: mercury
@@ -144,8 +198,9 @@ almond:
     - prosperity
     - wisdom
   citation:
-    - plant-1
+    - cunningham-herbs
 aloe:
+  type: misc
   parts used: leaves, root
   planet: moon, venus
   element: water
@@ -157,13 +212,16 @@ aloe:
     - luck
     - friendship
     - purification
+    - beauty
+    - grief
   toxicity:
     humans: false
     pets: true
     notes:
       - mild to moderately toxic to pets
   citation:
-    - plant-2
+    - morgana-green-witch
+    - kynes-correspondences
 aloeswood:
   parts used: wood, resin
   planet: venus
@@ -174,7 +232,7 @@ aloeswood:
   notes:
     - add to other herbs to enhance their properties
   citation:
-    - plant-1
+    - cunningham-herbs
 althea:
   parts used: roots, leaves, flowers
   element: water
@@ -184,15 +242,16 @@ althea:
   notes:
     - known as marshmallow
   citation:
-    - plant-1
+    - cunningham-herbs
 alyssum:
   parts used: flowers
   properties:
     - protection
     - moderating anger
   citation:
-    - plant-1
+    - cunningham-herbs
 amaranth:
+  type: herb & garden
   parts used: flowers, seeds, leaves
   planet: saturn
   element: fire
@@ -200,8 +259,10 @@ amaranth:
     - healing
     - protection
   citation:
-    - plant-1
+    - cunningham-herbs
+    - kynes-correspondences
 anemone:
+  type: herb & garden
   parts used: flowers
   planet: mars
   element: fire
@@ -213,8 +274,10 @@ anemone:
     notes:
       - not recommended for internal use
   citation:
-    - plant-1
+    - cunningham-herbs
+    - kynes-correspondences
 angelica:
+  type: herb & garden
   parts used: root, stems, leaves, seeds
   planet: sun
   element: fire
@@ -226,6 +289,52 @@ angelica:
     - hex-breaking
     - visions
     - luck
+    - acceptance
+    - attraction
+    - balance
+    - banish
+    - beauty
+    - beginnings
+    - bind
+    - calm
+    - community
+    - consecrate/bless
+    - defense
+    - divination
+    - dream work
+    - energy (spiritual)
+    - friendship
+    - growth
+    - harmony
+    - healing
+    - hexes (break)
+    - hexes (protect from)
+    - insight
+    - inspiration
+    - introspection
+    - longevity
+    - magic (angel)
+    - messages/om ens (from angels)
+    - messages/om ens (dreams)
+    - negativity
+    - peace
+    - power (female)
+    - problems
+    - protection (divine)
+    - purification
+    - security
+    - self-work
+    - senses (listening)
+    - sorrow
+    - spirits (holy)
+    - spirituality
+    - stability
+    - stimulation
+    - strength
+    - stress
+    - success
+    - support
+    - witches/witchcraft (protect from)
   holidays:
     - beltane
     - imbolc
@@ -237,9 +346,11 @@ angelica:
       - avoid if pregnant
       - may increase sensitivity to sunlight
   citation:
-    - plant-2
-    - plant-1
+    - morgana-green-witch
+    - cunningham-herbs
+    - kynes-correspondences
 anise:
+  type: misc
   parts used: seeds
   planet: jupiter
   element: air
@@ -248,24 +359,113 @@ anise:
     - banish negative energy
     - protection
     - luck
+    - authority
+    - awareness
+    - balance (emotional)
+    - changes
+    - clairvoyance
+    - consecrate/bless
+    - divination
+    - dream work
+    - energy
+    - fertility
+    - growth
+    - harmony
+    - home
+    - loss
+    - love
+    - marriage
+    - money
+    - nightmares
+    - protection (in dreams)
+    - psychic ability
+    - sexuality
+    - skills
+    - sleep
+    - spirits
+    - stimulation
+    - well-being
+    - youth
   notes:
     - enhance protection with bay leaf
   toxicity:
     notes:
       - avoid if pregnant
   citation:
-    - plant-1
+    - cunningham-herbs
+    - kynes-correspondences
 apple:
+  type: tree
   parts used: fruit, blossoms, wood
   planet: venus
   element: water
   properties:
     - love
     - healing
+    - action
+    - afterlife
+    - assertiveness
+    - attraction
+    - beauty
+    - beginnings
+    - bind
+    - challenges
+    - consecrate/bless
+    - creativity
+    - death
+    - decisions
+    - discipline (self)
+    - divination
+    - dream work
+    - enchantment
+    - faith
+    - fame
+    - fertility
+    - friendship
+    - generosity
+    - goodness
+    - happiness
+    - harmony
+    - honor
+    - innocence
+    - insight
+    - knowledge
+    - learning
+    - life
+    - longevity
+    - luck
+    - magic (general)
+    - magic (fairy)
+    - marriage
+    - mind (peace)
+    - otherworld/underworld (celtic)
+    - peace
+    - power (magical)
+    - power (personal)
+    - purpose
+    - rebirth/renewal
+    - relationships
+    - romance
+    - security
+    - self-work
+    - sexuality
+    - shamanic work
+    - sleep
+    - spirits
+    - strength (inner)
+    - stress
+    - success
+    - unity
+    - wealth
+    - well-being
+    - willpower
+    - wisdom
+    - youth
   notes:
     - symbol of immortality
   citation:
-    - plant-1
+    - cunningham-herbs
+    - kynes-correspondences
 apricot:
   parts used: fruit, blossoms
   planet: venus
@@ -273,21 +473,32 @@ apricot:
   properties:
     - love
   citation:
-    - plant-1
+    - cunningham-herbs
 asafoetida:
+  type: misc
   planet: mars
   element: fire
   properties:
     - exorcism
     - purification
     - protection
+    - assertiveness
+    - banish
+    - calm
+    - healing
+    - hexes
+    - magic (black)
+    - senses (smell)
+    - spirits
   toxicity:
     notes:
       - avoid if pregnant
       - do not feed to a child with colic
   citation:
-    - plant-1
+    - cunningham-herbs
+    - kynes-correspondences
 ash:
+  type: tree
   parts used: leaves, bark
   planet: sun
   element: fire
@@ -298,22 +509,86 @@ ash:
     - prosperity
     - protection
     - health
+    - ambition
+    - astral realm
+    - awareness
+    - balance
+    - battle/war
+    - changes
+    - communication
+    - concentration/focus
+    - connections
+    - creativity
+    - divination
+    - dream work
+    - fertility
+    - healing
+    - hexes (break)
+    - hexes (protect from)
+    - intuition
+    - karma
+    - knowledge (black)
+    - life
+    - luck
+    - peace
+    - power (magical)
+    - power (water)
+    - purification
+    - rebirth/renewal
+    - self-work
+    - sensitivity
+    - spirits
+    - stability
+    - stimulation (psychic dreams)
+    - strength (magical)
+    - weather (lightning)
+    - well-being
+    - wisdom
+    - witches/witchcraft (overcome)
   notes:
     - burn ash at yule for a prosperous new year
   citation:
-    - plant-2
+    - morgana-green-witch
+    - kynes-correspondences
 aspen:
+  type: tree
   parts used: leaves, bark
   planet: mercury
   element: air
   properties:
     - anti-theft
     - communication
+    - anxiety
+    - astral realm
+    - communication (eloquence)
+    - courage
+    - deceit
+    - determination
+    - divination
+    - enchantment
+    - endurance
+    - fear
+    - harmony
+    - healing
+    - hexes (break)
+    - knowledge
+    - money
+    - otherworld/underworld
+    - peace
+    - protection (theft)
+    - rebirth/renewal
+    - senses (control)
+    - sensitivity
+    - skills
+    - success
+    - well-being
   notes:
     - see poplar
   citation:
-    - plant-1
+    - cunningham-herbs
+    - kynes-correspondences
 aster:
+  type: herb & garden
   parts used: flowers, leaves, root
   planet: venus
   element: water
@@ -325,8 +600,15 @@ aster:
     - peace
     - happiness
     - truth
+    - calm
+    - innocence
+    - love (unconditional)
+    - memory/memories
+    - release
+    - stress
   citation:
-    - plant-2
+    - morgana-green-witch
+    - kynes-correspondences
 avocado:
   parts used: fruit, pit, leaves
   planet: venus
@@ -336,7 +618,7 @@ avocado:
     - lust
     - beauty
   citation:
-    - plant-1
+    - cunningham-herbs
 bachelor's buttons:
   parts used: flowers
   planet: venus
@@ -344,8 +626,9 @@ bachelor's buttons:
   properties:
     - love
   citation:
-    - plant-1
+    - cunningham-herbs
 lemon balm:
+  type: herb & garden
   parts used: flowers, leaves
   planet: moon, venus
   element: water
@@ -362,7 +645,8 @@ lemon balm:
     humans: false
     pets: false
   citation:
-    - plant-2
+    - morgana-green-witch
+    - kynes-correspondences
 balm of gilead:
   planet: venus
   element: water
@@ -372,16 +656,33 @@ balm of gilead:
     - protection
     - healing
   citation:
-    - plant-1
+    - cunningham-herbs
 bamboo:
+  type: misc
   parts used: stalks, leaves
   properties:
     - luck
     - hex-breaking
     - wishes
+    - adaptability
+    - business
+    - divination
+    - dream work
+    - energy
+    - harmony
+    - hexes (break)
+    - longevity
+    - luck (attract)
+    - motivation
+    - nightmares
+    - protection
+    - strength
+    - wisdom
   citation:
-    - plant-1
+    - cunningham-herbs
+    - kynes-correspondences
 basil:
+  type: herb & garden
   parts used: leaves
   planet: mars
   element: fire
@@ -392,6 +693,63 @@ basil:
     - money
     - luck
     - quarrels
+    - afterlife
+    - assertiveness
+    - attraction
+    - balance
+    - banish
+    - business
+    - calm (inner)
+    - cheerfulness
+    - clairvoyance
+    - clarity
+    - concentration/focus
+    - confidence
+    - courage
+    - defense
+    - discipline
+    - divination
+    - energy
+    - family
+    - fertility
+    - fidelity
+    - friendship
+    - goodness
+    - grief
+    - happiness
+    - healing (relationships)
+    - hexes (break)
+    - home (peaceful)
+    - honesty
+    - influence
+    - love (reconcile)
+    - luck (attract)
+    - magic (angel)
+    - magic (defensive)
+    - memory/memories
+    - messages/om ens
+    - mind (clear)
+    - negativity
+    - peace
+    - power
+    - problems
+    - prosperity
+    - protection
+    - psychic ability
+    - purification
+    - relationships
+    - release
+    - senses (smell)
+    - sexuality
+    - sorrow
+    - stimulation (mental)
+    - strength
+    - stress
+    - success
+    - sympathy
+    - trust
+    - wealth
+    - wishes
   holidays:
     - imbolc
   toxicity:
@@ -400,8 +758,9 @@ basil:
       - avoid if nursing
       - not recommended for internal use for infant and toddlers
   citation:
-    - plant-2
-    - plant-1
+    - morgana-green-witch
+    - cunningham-herbs
+    - kynes-correspondences
 bay leaf:
   parts used: leaves, stems, branches
   planet: sun
@@ -415,7 +774,7 @@ bay leaf:
     - purification
     - prophecy
   citation:
-    - plant-2
+    - morgana-green-witch
 beans:
   parts used: pods, beans
   planet: mercury
@@ -433,8 +792,8 @@ beans:
     notes:
       - beans not used for food may be poisonous
   citation:
-    - plant-2
-    - plant-1
+    - morgana-green-witch
+    - cunningham-herbs
 bee balm:
   parts used: flowers, leaves
   planet: mercury
@@ -451,8 +810,9 @@ bee balm:
     - used as a replacement for tea after boston tea party
     - wild bergamot
   citation:
-    - plant-2
+    - morgana-green-witch
 belladonna:
+  type: misc
   parts used: flowers, leaves, fruit, root
   planet: saturn
   element: water
@@ -464,14 +824,22 @@ belladonna:
     - consecration
     - visions
     - astral projection
+    - astral realm
+    - calm
+    - darkness
+    - healing
+    - imagination
+    - magic (night)
+    - witches/witchcraft
   toxicity:
     humans: true
     pets: true
     notes:
       - highly poisonous
   citation:
-    - plant-2
-    - plant-1
+    - morgana-green-witch
+    - cunningham-herbs
+    - kynes-correspondences
 benzoin:
   planet: sun
   element: air
@@ -479,14 +847,14 @@ benzoin:
     - purification
     - prosperity
   citation:
-    - plant-1
+    - cunningham-herbs
 bergamot, orange:
   planet: mercury
   element: air
   properties:
     - money
   citation:
-    - plant-1
+    - cunningham-herbs
 bindweed:
   parts used: flowers, seeds
   planet: saturn
@@ -504,8 +872,9 @@ bindweed:
   notes:
     - morning glory
   citation:
-    - plant-2
+    - morgana-green-witch
 birch:
+  type: tree
   planet: venus
   element: water
   properties:
@@ -513,7 +882,8 @@ birch:
     - exorcism
     - purification
   citation:
-    - plant-1
+    - cunningham-herbs
+    - kynes-correspondences
 bistort:
   planet: saturn
   element: earth
@@ -521,16 +891,19 @@ bistort:
     - psychic powers
     - fertility
   citation:
-    - plant-1
+    - cunningham-herbs
 bittersweet:
+  type: misc
   planet: mercury
   element: air
   properties:
     - protection
     - healing
   citation:
-    - plant-1
+    - cunningham-herbs
+    - kynes-correspondences
 black cohosh:
+  type: misc
   parts used: root
   planet: pluto
   element: fire
@@ -543,6 +916,21 @@ black cohosh:
     - potency
     - banishing negative energy
     - protection
+    - balance
+    - calm
+    - energy (sexual)
+    - fertility
+    - life
+    - longevity
+    - lust
+    - money
+    - pregnancy/childbirth
+    - problems
+    - sexuality
+    - shyness
+    - strength
+    - stress
+    - well-being
   toxicity:
     humans: true
     pets: true
@@ -551,9 +939,11 @@ black cohosh:
       - avoid if pregnant
       - avoid if nursing
   citation:
-    - plant-2
-    - plant-1
+    - morgana-green-witch
+    - cunningham-herbs
+    - kynes-correspondences
 blackberry:
+  type: herb & garden
   parts used: leaves, fruit
   planet: venus
   element: water
@@ -564,11 +954,28 @@ blackberry:
     - communication
     - healing
     - prosperity
+    - attachments
+    - death
+    - envy
+    - fertility
+    - grounding
+    - growth
+    - happiness
+    - harmony
+    - intuition
+    - luck
+    - mind
+    - money
+    - protection
+    - purification (inner)
+    - spirits
+    - wealth
   holidays:
     - lughnasadh
     - mabon
   citation:
-    - plant-2
+    - morgana-green-witch
+    - kynes-correspondences
 bladderwrack:
   parts used: whole plant
   planet: moon
@@ -587,8 +994,8 @@ bladderwrack:
       - avoid if nursing
       - may cause hyperthyroidism
   citation:
-    - plant-2
-    - plant-1
+    - morgana-green-witch
+    - cunningham-herbs
 bleeding heart:
   parts used: flowers
   planet: venus
@@ -606,9 +1013,10 @@ bleeding heart:
       - highly toxic
       - not recommended for internal use
   citation:
-    - plant-2
-    - plant-1
+    - morgana-green-witch
+    - cunningham-herbs
 elm, american:
+  type: tree
   parts used: leaves, bark
   planet: saturn
   element: air, earth, water
@@ -618,25 +1026,50 @@ elm, american:
   properties:
     - love
     - wisdom
+    - attraction
+    - beginnings
+    - compassion
+    - dignity
+    - empathy
+    - endurance
+    - grace
+    - grounding
+    - healing
+    - intuition
+    - life
+    - pregnancy/childbirth
+    - rebirth/renewal
+    - sleep
+    - stability
+    - willpower
   toxicity:
     humans: false
     pets: false
   citation:
-    - plant-2
+    - morgana-green-witch
+    - kynes-correspondences
 bloodroot:
+  type: misc
   planet: mars
   element: fire
   properties:
     - love
     - protection
     - purification
+    - attachments (release)
+    - courage
+    - divination
+    - family
+    - release
+    - strength
   toxicity:
     notes:
       - poison
       - avoid if pregnant
       - may cause nausea, vomiting
   citation:
-    - plant-1
+    - cunningham-herbs
+    - kynes-correspondences
 blueberry:
   parts used: berries
   planet: moon, venus
@@ -647,7 +1080,7 @@ blueberry:
   properties:
     - protection
   citation:
-    - plant-2
+    - morgana-green-witch
 blue flag:
   planet: venus
   element: water
@@ -659,14 +1092,38 @@ blue flag:
       - avoid if pregnant
       - may cause nausea, vomiting
   citation:
-    - plant-1
+    - cunningham-herbs
 bluebell:
+  type: herb & garden
   properties:
     - luck
     - truth
+    - abundance
+    - action
+    - attachments
+    - balance
+    - enchantment
+    - fear
+    - freedom
+    - friendship
+    - grief
+    - kindness
+    - love (unconditional)
+    - magic (fairy)
+    - manifestation
+    - negativity
+    - obstacles
+    - prosperity
+    - self-work
+    - sleep
+    - spirits
+    - stability
+    - witches/witchcraft
   citation:
-    - plant-1
+    - cunningham-herbs
+    - kynes-correspondences
 bodhi:
+  type: tree
   planet: jupiter
   element: air
   properties:
@@ -675,8 +1132,10 @@ bodhi:
     - wisdom
     - meditation
   citation:
-    - plant-1
+    - cunningham-herbs
+    - kynes-correspondences
 borage:
+  type: herb & garden
   parts used: young leaves, flowers
   planet: jupiter
   element: air
@@ -694,7 +1153,8 @@ borage:
   holidays:
     - summer solstice
   citation:
-    - plant-2
+    - morgana-green-witch
+    - kynes-correspondences
 bracken:
   parts used: leaves
   planet: mercury
@@ -712,8 +1172,8 @@ bracken:
     notes:
       - not recommended for internal use
   citation:
-    - plant-2
-    - plant-1
+    - morgana-green-witch
+    - cunningham-herbs
 bromeliad:
   parts used: leaves, flowers
   planet: sun
@@ -728,8 +1188,9 @@ bromeliad:
     humans: false
     pets: false
   citation:
-    - plant-2
+    - morgana-green-witch
 broom:
+  type: herb & garden
   parts used: flowers, branches
   planet: moon
   element: water
@@ -751,9 +1212,11 @@ broom:
   holidays:
     - samhain
   citation:
-    - plant-2
-    - plant-1
+    - morgana-green-witch
+    - cunningham-herbs
+    - kynes-correspondences
 burdock:
+  type: misc
   parts used: stems, leaves, seeds, root
   planet: venus
   element: water
@@ -764,8 +1227,16 @@ burdock:
     - protection
     - healing
     - banishing negative energy
+    - balance
+    - calm
+    - defense
+    - energy
+    - love
+    - negativity
+    - purification
   citation:
-    - plant-2
+    - morgana-green-witch
+    - kynes-correspondences
 buttercup:
   parts used: flowers
   planet: sun
@@ -780,7 +1251,7 @@ buttercup:
     humans: true
     pets: true
   citation:
-    - plant-2
+    - morgana-green-witch
 caraway:
   parts used: seeds
   planet: mercury
@@ -795,8 +1266,9 @@ caraway:
     - protection
     - anti-theft
   citation:
-    - plant-2
+    - morgana-green-witch
 carnation:
+  type: herb & garden
   parts used: flowers
   planet: sun
   element: fire
@@ -815,9 +1287,11 @@ carnation:
       - may cause severe skin allergies or dermatitis
       - may disturb some part of the digestive system if used internally
   citation:
-    - plant-2
-    - plant-1
+    - morgana-green-witch
+    - cunningham-herbs
+    - kynes-correspondences
 catnip:
+  type: herb & garden
   parts used: flowers, leaves
   planet: venus
   element: water
@@ -836,9 +1310,11 @@ catnip:
     notes:
       - avoid if pregnant
   citation:
-    - plant-2
-    - plant-1
+    - morgana-green-witch
+    - cunningham-herbs
+    - kynes-correspondences
 cedar:
+  type: tree
   parts used: leaves, bark
   planet: sun
   element: fire
@@ -849,13 +1325,70 @@ cedar:
     - healing
     - purification
     - protection
+    - affection
+    - afterlife
+    - aggression
+    - authority
+    - balance (mental)
+    - calm
+    - clairvoyance
+    - clarity
+    - comfort
+    - communication
+    - community
+    - concentration/focus
+    - confidence
+    - consecrate/bless
+    - control (self)
+    - courage
+    - determination
+    - discipline
+    - divination
+    - dream work
+    - encouragement
+    - fertility
+    - fidelity
+    - friendship
+    - growth
+    - hexes (break)
+    - insight
+    - introspection
+    - justice
+    - life (vitality)
+    - light
+    - longevity
+    - love (attract)
+    - luck
+    - mind
+    - money
+    - negativity
+    - nightmares
+    - peace
+    - pride
+    - problems
+    - prosperity
+    - protection (dreams)
+    - protection (lightning)
+    - psychic ability
+    - purity
+    - rebirth/renew al
+    - release
+    - reversal
+    - skills
+    - spirits (summon)
+    - spirituality
+    - strength
+    - success
+    - wealth
   toxicity:
     notes:
       - avoid if pregnant
   citation:
-    - plant-2
-    - plant-1
+    - morgana-green-witch
+    - cunningham-herbs
+    - kynes-correspondences
 chamomile:
+  type: herb & garden
   parts used: leaves, flowers
   planet: sun
   element: water
@@ -869,7 +1402,8 @@ chamomile:
     - prosperity
     - purification
   citation:
-    - plant-2
+    - morgana-green-witch
+    - kynes-correspondences
 chicory:
   parts used: flowers, stems, leaves, root, seeds
   planet: sun
@@ -882,7 +1416,7 @@ chicory:
     - pride
     - penance
   citation:
-    - plant-2
+    - morgana-green-witch
 chickweed:
   parts used: flowers, leaves
   planet: moon
@@ -897,8 +1431,8 @@ chickweed:
     notes:
       - harvest from fertilizer-free environments
   citation:
-    - plant-2
-    - plant-1
+    - morgana-green-witch
+    - cunningham-herbs
 chili pepper:
   parts used: fruit
   planet: mars
@@ -911,8 +1445,9 @@ chili pepper:
     - love
     - hex-breaking
   citation:
-    - plant-2
+    - morgana-green-witch
 chrysanthemum:
+  type: herb & garden
   parts used: flowers, leaves
   planet: sun
   element: fire
@@ -921,6 +1456,12 @@ chrysanthemum:
   chakra: solar plexus
   properties:
     - protection
+    - cheerfulness
+    - innocence (white)
+    - love (red)
+    - problems
+    - strength
+    - truth (white)
   toxicity:
     humans: true
     pets: true
@@ -930,9 +1471,11 @@ chrysanthemum:
     - mabon
     - samhain
   citation:
-    - plant-2
-    - plant-1
+    - morgana-green-witch
+    - cunningham-herbs
+    - kynes-correspondences
 cinnamon:
+  type: misc
   parts used: leaves, bark
   planet: sun
   element: fire
@@ -950,9 +1493,11 @@ cinnamon:
     notes:
       - do not abuse internally
   citation:
-    - plant-2
-    - plant-1
+    - morgana-green-witch
+    - cunningham-herbs
+    - kynes-correspondences
 cinquefoil:
+  type: misc
   parts used: leaves, flowers
   planet: jupiter
   element: fire
@@ -963,12 +1508,58 @@ cinquefoil:
     - money
     - protection
     - dreams
+    - astral realm
+    - authority
+    - communication (eloquence)
+    - consecrate/bless
+    - defense
+    - divination
+    - dream work
+    - emotions
+    - energy
+    - favors
+    - grief
+    - healing
+    - heartbreak
+    - hexes (break)
+    - influence (avert)
+    - inspiration
+    - justice
+    - life
+    - loneliness (end)
+    - love
+    - luck
+    - magic
+    - messages/om ens (dreams)
+    - nightmares
+    - nurture
+    - passion
+    - peace (attract)
+    - power
+    - problems
+    - prosperity
+    - security
+    - self-work
+    - senses (strengthen)
+    - sleep
+    - spirits
+    - strength
+    - success
+    - travel
+    - visions
+    - wealth
+    - well-being
+    - wisdom
+    - wishes
+    - witches/witchcraft (avert)
   toxicity:
     humans: false
     pets: false
   citation:
-    - plant-2
+    - morgana-green-witch
+    - kynes-correspondences
 clover:
+  type: herb & garden
   parts used: flowers, leaves
   planet: mercury
   element: air
@@ -981,16 +1572,67 @@ clover:
     - luck
     - wealth
   citation:
-    - plant-2
+    - morgana-green-witch
+    - kynes-correspondences
 clove:
+  type: misc
   planet: jupiter
   element: fire
   properties:
     - protection
     - love
     - money
+    - attraction
+    - authority
+    - awareness
+    - balance (mental)
+    - banish
+    - beauty
+    - beginnings
+    - bind
+    - clairvoyance
+    - comfort
+    - courage
+    - creativity
+    - dignity
+    - divination
+    - emotions
+    - energy
+    - friendship
+    - happiness
+    - harmony
+    - healing
+    - hexes (break)
+    - inspiration
+    - longevity
+    - love (attract)
+    - lust
+    - magic (sex)
+    - memory/memories
+    - mind
+    - money (collect debts)
+    - negativity
+    - power (magical)
+    - power (mental)
+    - problems
+    - prosperity
+    - psychic ability
+    - purification
+    - relationships
+    - release
+    - senses (sight)
+    - senses (smell)
+    - sensitivity
+    - stimulation (mental)
+    - success
+    - truth
+    - visions
+    - warmth
+    - wealth
+    - weather
   citation:
-    - plant-1
+    - cunningham-herbs
+    - kynes-correspondences
 club moss:
   planet: moon
   element: water
@@ -1003,8 +1645,9 @@ club moss:
     notes:
       - not recommended for internal use
   citation:
-    - plant-1
+    - cunningham-herbs
 columbine:
+  type: herb & garden
   parts used: flowers, leaves
   planet: venus
   element: water
@@ -1014,12 +1657,23 @@ columbine:
   properties:
     - courage
     - peace
+    - anxiety
+    - beauty
+    - love
+    - negativity
+    - pregnancy/childbirth
+    - purification (inner)
+    - release
+    - self-work
+    - spirits (holy)
   toxicity:
     humans: true
     pets: true
   citation:
-    - plant-2
+    - morgana-green-witch
+    - kynes-correspondences
 comfrey:
+  type: herb & garden
   parts used: flowers, leaves, root
   planet: saturn
   element: water
@@ -1029,14 +1683,38 @@ comfrey:
   properties:
     - safe travel
     - money
+    - astral realm
+    - balance
+    - banish
+    - bind
+    - control
+    - dream work (remember dreams)
+    - endings
+    - endurance
+    - enmity
+    - healing
+    - loss
+    - memory/memories
+    - prosperity
+    - protection
+    - psychic ability
+    - release
+    - stability
+    - stimulation
+    - strength
+    - stress
+    - travel (safety)
+    - unity
+    - wealth
   notes:
     - used to heal broken skin
   toxicity:
     notes:
       - not recommended for internal use
   citation:
-    - plant-2
-    - plant-1
+    - morgana-green-witch
+    - cunningham-herbs
+    - kynes-correspondences
 copal:
   planet: sun
   element: fire
@@ -1044,16 +1722,37 @@ copal:
     - love
     - purification
   citation:
-    - plant-1
+    - cunningham-herbs
 coriander:
+  type: misc
   planet: mars
   element: fire
   properties:
     - love
     - health
     - healing
+    - community
+    - consecrate/bless
+    - fertility
+    - fidelity
+    - happiness
+    - heartbreak
+    - home
+    - influence
+    - longevity
+    - love (attract)
+    - magic (sex)
+    - passion
+    - peace
+    - protection
+    - security
+    - sleep
+    - stimulation
+    - warm th
+    - well-being
   citation:
-    - plant-1
+    - cunningham-herbs
+    - kynes-correspondences
 corn:
   planet: venus
   element: earth
@@ -1062,8 +1761,9 @@ corn:
     - luck
     - divination
   citation:
-    - plant-1
+    - cunningham-herbs
 cowslip:
+  type: misc
   parts used: leaves, flowers
   planet: venus
   element: water
@@ -1077,6 +1777,17 @@ cowslip:
     - grace
     - secrets
     - treasure finding
+    - afterlife
+    - animals (protect)
+    - beauty
+    - healing
+    - magic (fairy)
+    - money
+    - prosperity
+    - protection
+    - spirits
+    - strength
+    - trust
   toxicity:
     humans: true
     pets: true
@@ -1085,8 +1796,9 @@ cowslip:
   holidays:
     - ostara
   citation:
-    - plant-2
-    - plant-1
+    - morgana-green-witch
+    - cunningham-herbs
+    - kynes-correspondences
 crocus:
   planet: venus
   element: water
@@ -1097,7 +1809,7 @@ crocus:
     notes:
       - not recommended for internal use
   citation:
-    - plant-1
+    - cunningham-herbs
 cucumber:
   planet: moon
   element: water
@@ -1106,16 +1818,28 @@ cucumber:
     - chastity
     - healing
   citation:
-    - plant-1
+    - cunningham-herbs
 cumin:
+  type: misc
   planet: mars
   element: fire
   properties:
     - protection
     - fidelity
     - exorcism
+    - balance (spiritual)
+    - banish
+    - harmony (domestic)
+    - home
+    - increase
+    - longevity
+    - love
+    - negativity
+    - prosperity
+    - purification
   citation:
-    - plant-1
+    - cunningham-herbs
+    - kynes-correspondences
 cyclamen:
   parts used: flowers, leaves
   planet: venus
@@ -1135,9 +1859,10 @@ cyclamen:
       - can cause skin irritation
       - probably not recommended for internal use in high doses
   citation:
-    - plant-2
-    - plant-1
+    - morgana-green-witch
+    - cunningham-herbs
 cypress:
+  type: tree
   planet: saturn
   element: earth
   properties:
@@ -1149,8 +1874,10 @@ cypress:
     notes:
       - avoid if pregnant
   citation:
-    - plant-1
+    - cunningham-herbs
+    - kynes-correspondences
 daffodil:
+  type: herb & garden
   parts used: bulb, flower
   planet: venus
   element: water
@@ -1161,15 +1888,29 @@ daffodil:
     - love
     - fertility
     - luck
+    - afterlife
+    - beauty
+    - calm
+    - fairies
+    - fear
+    - friendship
+    - love (unrequited)
+    - magic (elf)
+    - magic (fairy)
+    - nightmares
+    - security
+    - spirits
   holidays:
     - ostara
   toxicity:
     notes:
       - poison
   citation:
-    - plant-2
-    - plant-1
+    - morgana-green-witch
+    - cunningham-herbs
+    - kynes-correspondences
 daisy:
+  type: herb & garden
   planet: venus
   element: water
   properties:
@@ -1179,7 +1920,8 @@ daisy:
     notes:
       - poison
   citation:
-    - plant-1
+    - cunningham-herbs
+    - kynes-correspondences
 damiana:
   planet: mars
   element: fire
@@ -1188,8 +1930,9 @@ damiana:
     - lust
     - visions
   citation:
-    - plant-1
+    - cunningham-herbs
 dandelion:
+  type: herb & garden
   parts used: leaves, flowers, root
   planet: jupiter
   element: air
@@ -1200,7 +1943,8 @@ dandelion:
     - divination
     - wishes
   citation:
-    - plant-2
+    - morgana-green-witch
+    - kynes-correspondences
 datura:
   parts used: leaves, flowers, seeds
   planet: saturn
@@ -1220,9 +1964,10 @@ datura:
     notes:
       - extremely poisonous—do not eat! sensitive skin may be irritated simply by touching the plant
   citation:
-    - plant-2
-    - plant-1
+    - morgana-green-witch
+    - cunningham-herbs
 deerstongue:
+  type: misc
   planet: mars
   element: fire
   properties:
@@ -1234,7 +1979,8 @@ deerstongue:
     notes:
       - not recommended for internal use
   citation:
-    - plant-1
+    - cunningham-herbs
+    - kynes-correspondences
 devil's bit:
   properties:
     - exorcism
@@ -1244,7 +1990,7 @@ devil's bit:
   note:
     - attracts women
   citation:
-    - plant-1
+    - cunningham-herbs
 devil's shoestring:
   properties:
     - protection
@@ -1253,8 +1999,9 @@ devil's shoestring:
     - luck
     - employment
   citation:
-    - plant-1
+    - cunningham-herbs
 dill:
+  type: herb & garden
   parts used: seeds, leaves
   planet: mercury
   element: fire
@@ -1267,9 +2014,38 @@ dill:
     - money
     - prophecy
     - willpower
+    - calm
+    - energy
+    - hexes (set)
+    - hexes (break)
+    - home
+    - justice
+    - knowledge
+    - love
+    - luck
+    - lust
+    - magic (black)
+    - magic (sex)
+    - mind
+    - nightmares
+    - problems
+    - prosperity
+    - protection
+    - purification
+    - security
+    - sleep
+    - spirits
+    - strength (inner)
+    - stress
+    - support
+    - wealth
+    - wisdom
+    - witches/witchcraft (ward off)
+    - witches/witchcraft (protect from)
   notes: null
   citation:
-    - plant-2
+    - morgana-green-witch
+    - kynes-correspondences
 dock:
   parts used: leaves, seeds, root
   planet: jupiter
@@ -1287,8 +2063,8 @@ dock:
     notes:
       - may cause kidney stones
   citation:
-    - plant-2
-    - plant-1
+    - morgana-green-witch
+    - cunningham-herbs
 dogbane:
   properties:
     - love
@@ -1296,7 +2072,7 @@ dogbane:
     notes:
       - not recommended for internal use
   citation:
-    - plant-1
+    - cunningham-herbs
 dogwood:
   parts used: flowers, berries, leaves, wood
   planet: saturn
@@ -1309,8 +2085,9 @@ dogwood:
     - protection
   notes: null
   citation:
-    - plant-2
+    - morgana-green-witch
 dragon's blood:
+  type: tree
   planet: mars
   element: fire
   properties:
@@ -1318,7 +2095,8 @@ dragon's blood:
     - protection
     - potency
   citation:
-    - plant-1
+    - cunningham-herbs
+    - kynes-correspondences
 dulce:
   planet: moon
   element: water
@@ -1326,13 +2104,13 @@ dulce:
     - lust
     - harmony
   citation:
-    - plant-1
+    - cunningham-herbs
 ebony:
   properties:
     - protection
     - power
   citation:
-    - plant-1
+    - cunningham-herbs
 echinacea:
   parts used: flowers, root
   planet: mars
@@ -1345,12 +2123,12 @@ echinacea:
     - prosperity
   notes: null
   citation:
-    - plant-2
+    - morgana-green-witch
 edelweiss:
   properties:
     - invisibility
   citation:
-    - plant-1
+    - cunningham-herbs
 elderberry:
   parts used: leaves, berries, bark
   planet: venus, mercury
@@ -1370,7 +2148,7 @@ elderberry:
     notes:
       - only the berries are safe for humans to eat if they are cooked
   citation:
-    - plant-2
+    - morgana-green-witch
 elecampane:
   planet: mercury
   element: air
@@ -1384,7 +2162,7 @@ elecampane:
       - avoid if nursing
       - do not take internally in high doses; find several sources that have appropriate doses of this herb
   citation:
-    - plant-1
+    - cunningham-herbs
 endive:
   planet: jupiter
   element: air
@@ -1392,7 +2170,7 @@ endive:
     - love
     - lust
   citation:
-    - plant-1
+    - cunningham-herbs
 eryngo:
   planet: venus
   element: water
@@ -1402,7 +2180,7 @@ eryngo:
     - love
     - lust
   citation:
-    - plant-1
+    - cunningham-herbs
 eucalyptus:
   planet: moon
   element: water
@@ -1415,7 +2193,7 @@ eucalyptus:
       - may cause inflammatory diseases of bile ducts
       - do not use on the faces of small children
   citation:
-    - plant-1
+    - cunningham-herbs
 euphorbia:
   planet: saturn
   element: water
@@ -1427,8 +2205,9 @@ euphorbia:
       - poison
       - may cause nausea, vomiting
   citation:
-    - plant-1
+    - cunningham-herbs
 fennel:
+  type: herb & garden
   parts used: leaves, seeds, root
   planet: mercury
   element: fire
@@ -1439,17 +2218,41 @@ fennel:
     - homeprotection
     - purification
     - hex-breaking
+    - aggression
+    - blessings
+    - communication
+    - courage
+    - energy
+    - fertility
+    - healing
+    - home (prevent evil entering)
+    - longevity
+    - loss
+    - money
+    - protection
+    - rebirth/renewal
+    - security
+    - senses (sight)
+    - spirits
+    - stimulation
+    - strength
+    - stress
+    - visions
+    - warm th
+    - witches/witchcraft (prevent action)
   notes: null
   citation:
-    - plant-2
+    - morgana-green-witch
+    - kynes-correspondences
 fenugreek:
   planet: mercury
   element: air
   properties:
     - money
   citation:
-    - plant-1
+    - cunningham-herbs
 fern:
+  type: herb & garden
   planet: mercury
   element: air
   properties:
@@ -1458,9 +2261,30 @@ fern:
     - riches
     - health
     - exorcism
+    - banish
+    - concentration/focus
+    - confidence
+    - defense
+    - enchantment
+    - hexes (protect from)
+    - longevity
+    - mind
+    - money
+    - power (magical)
+    - prosperity
+    - protection
+    - purification
+    - release
+    - security
+    - spirits
+    - wealth
+    - well-being
+    - youth
   citation:
-    - plant-1
+    - cunningham-herbs
+    - kynes-correspondences
 feverfew:
+  type: herb & garden
   parts used: flowers, leaves
   planet: venus
   element: fire
@@ -1470,14 +2294,23 @@ feverfew:
   properties:
     - protection
     - banishing
+    - defense
+    - emotions
+    - healing
+    - heartbreak
+    - love
+    - purification
+    - strength
+    - warmth
   notes: null
   toxicity:
     notes:
       - avoid if pregnant
       - may disturb some part of the digestive system if used internally
   citation:
-    - plant-2
-    - plant-1
+    - morgana-green-witch
+    - cunningham-herbs
+    - kynes-correspondences
 fig:
   planet: jupiter
   element: fire
@@ -1486,7 +2319,7 @@ fig:
     - fertility
     - love
   citation:
-    - plant-1
+    - cunningham-herbs
 figwort:
   planet: venus
   element: water
@@ -1497,8 +2330,9 @@ figwort:
     notes:
       - may cause ventricular tachycardia
   citation:
-    - plant-1
+    - cunningham-herbs
 flax:
+  type: misc
   parts used: seeds, flowers
   planet: venus, mercury
   element: earth, fire
@@ -1518,8 +2352,9 @@ flax:
     notes:
       - use an adequate amount of liquid if seed is used internally
   citation:
-    - plant-1
-    - plant-2
+    - cunningham-herbs
+    - morgana-green-witch
+    - kynes-correspondences
 fleabane:
   planet: venus
   element: water
@@ -1528,8 +2363,9 @@ fleabane:
     - protection
     - chastity
   citation:
-    - plant-1
+    - cunningham-herbs
 foxglove:
+  type: herb & garden
   parts used: flowers, leaves
   planet: venus
   element: water
@@ -1539,6 +2375,16 @@ foxglove:
   properties:
     - enchantment
     - protection
+    - challenges
+    - energy (fairy)
+    - harmony
+    - healing
+    - magic (elf)
+    - magic (fairy)
+    - mind (quiet)
+    - release
+    - stimulation
+    - stress
   toxicity:
     humans: true
     pets: true
@@ -1547,9 +2393,11 @@ foxglove:
   holidays:
     - summer solstice
   citation:
-    - plant-2
-    - plant-1
+    - morgana-green-witch
+    - cunningham-herbs
+    - kynes-correspondences
 frankincense:
+  type: misc
   planet: sun
   element: fire
   properties:
@@ -1557,7 +2405,8 @@ frankincense:
     - exorcism
     - banishing negative energy
   citation:
-    - plant-1
+    - cunningham-herbs
+    - kynes-correspondences
 fumitory:
   planet: saturn
   element: earth
@@ -1565,8 +2414,9 @@ fumitory:
     - exorcism
     - money
   citation:
-    - plant-1
+    - cunningham-herbs
 galangal:
+  type: misc
   parts used: root, flowers, leaves, fruit
   planet: mars
   element: fire
@@ -1579,11 +2429,48 @@ galangal:
     - health
     - hex-breaking
     - money
+    - astral realm
+    - authority
+    - awareness
+    - banish
+    - comfort
+    - consecrate/bless
+    - courage
+    - desire
+    - enchantment
+    - energy
+    - enmity
+    - favors (judicial)
+    - hexes (break)
+    - hexes (protect from)
+    - increase
+    - influence
+    - justice
+    - love
+    - luck
+    - magic (sex)
+    - negativity
+    - passion
+    - power
+    - prosperity
+    - protection (psychic)
+    - psychic ability
+    - reversal
+    - skills
+    - stimulation
+    - strength
+    - success
+    - support
+    - sympathy
+    - wealth
+    - well-being
   notes: null
   citation:
-    - plant-2
-    - plant-1
+    - morgana-green-witch
+    - cunningham-herbs
+    - kynes-correspondences
 gardenia:
+  type: herb & garden
   parts used: flowers, leaves
   planet: moon
   element: water
@@ -1598,8 +2485,10 @@ gardenia:
     humans: false
     pets: true
   citation:
-    - plant-2
+    - morgana-green-witch
+    - kynes-correspondences
 garlic:
+  type: herb & garden
   parts used: bulb
   planet: mars
   element: fire
@@ -1618,8 +2507,9 @@ garlic:
     notes:
       - avoid if nursing
   citation:
-    - plant-2
-    - plant-1
+    - morgana-green-witch
+    - cunningham-herbs
+    - kynes-correspondences
 gentian:
   planet: mars
   element: fire
@@ -1632,8 +2522,9 @@ gentian:
       - may cause ulcers
       - may disturb some part of the digestive system if used internally
   citation:
-    - plant-1
+    - cunningham-herbs
 geranium:
+  type: herb & garden
   planet: venus
   element: water
   properties:
@@ -1642,8 +2533,10 @@ geranium:
     - health
     - protection
   citation:
-    - plant-1
+    - cunningham-herbs
+    - kynes-correspondences
 ginger:
+  type: misc
   planet: mars
   element: fire
   properties:
@@ -1651,14 +2544,46 @@ ginger:
     - money
     - success
     - power
+    - astral realm
+    - beauty
+    - calm
+    - courage
+    - energy
+    - healing
+    - hexes (break)
+    - improvement
+    - inspiration
+    - luck
+    - lust
+    - magic (general)
+    - magic (moon)
+    - magic (sex)
+    - money (collect debts)
+    - passion
+    - power (general)
+    - power (magical)
+    - pregnancy/childbirth
+    - problems
+    - prosperity
+    - purification (inner)
+    - relationships (romantic)
+    - release
+    - stimulation
+    - unity
+    - warm th
+    - wealth
+    - weather (storms/calm )
+    - well-being
   toxicity:
     notes:
       - avoid above normal food use levels
       - avoid if pregnant
       - may cause gallstones
   citation:
-    - plant-1
+    - cunningham-herbs
+    - kynes-correspondences
 ginseng:
+  type: misc
   planet: sun
   element: fire
   properties:
@@ -1667,9 +2592,39 @@ ginseng:
     - protection
     - healing
     - lust
+    - activate/awaken
+    - attraction
+    - beauty
+    - calm
+    - creativity
+    - desire
+    - divination
+    - endurance
+    - energy (psychic)
+    - fertility
+    - hexes (break)
+    - improvement (mental)
+    - longevity
+    - love (attract)
+    - luck (attract)
+    - magic (general)
+    - magic (moon)
+    - magic (sex)
+    - memory/memories
+    - mind
+    - negativity
+    - passion
+    - power
+    - sexuality (potency)
+    - spirits
+    - stimulation
+    - well-being
+    - wishes
   citation:
-    - plant-1
+    - cunningham-herbs
+    - kynes-correspondences
 goldenrod:
+  type: misc
   parts used: leaves, flowers
   planet: venus
   element: air
@@ -1679,6 +2634,14 @@ goldenrod:
   properties:
     - money
     - divination
+    - beauty
+    - challenges
+    - loss
+    - luck
+    - mind
+    - prosperity
+    - stimulation
+    - wealth
   toxicity:
     humans: false
     pets: false
@@ -1687,20 +2650,32 @@ goldenrod:
       - may cause gallstones
       - may cause kidney problems
   citation:
-    - plant-2
-    - plant-1
+    - morgana-green-witch
+    - cunningham-herbs
+    - kynes-correspondences
 golden seal:
+  type: herb & garden
   planet: sun
   element: fire
   properties:
     - healing
     - money
+    - beauty
+    - business
+    - increase
+    - magic
+    - prosperity
+    - stimulation
+    - strength
+    - wealth
+    - wisdom
   toxicity:
     notes:
       - avoid if pregnant
       - do not abuse, internally; not for long-term use
   citation:
-    - plant-1
+    - cunningham-herbs
+    - kynes-correspondences
 grains of paradise:
   planet: mars
   element: fire
@@ -1711,8 +2686,9 @@ grains of paradise:
     - wishes
     - love
   citation:
-    - plant-1
+    - cunningham-herbs
 grape:
+  type: herb & garden
   parts used: leaves, fruit
   planet: moon
   element: water
@@ -1731,8 +2707,10 @@ grape:
   holidays:
     - mabon
   citation:
-    - plant-2
+    - morgana-green-witch
+    - kynes-correspondences
 hawthorn:
+  type: tree
   parts used: flowers, leaves, fruit
   planet: mars
   element: fire
@@ -1743,6 +2721,48 @@ hawthorn:
     - fertility
     - chastity
     - happiness
+    - attachments (release)
+    - challenges
+    - changes
+    - creativity
+    - defense
+    - emotions
+    - enchantment
+    - energy
+    - family
+    - freedom (inner)
+    - growth
+    - happiness (lift depression)
+    - home (clear)
+    - home (prevent evil entering)
+    - hope
+    - improvement (mental)
+    - life
+    - love
+    - luck
+    - magic (general)
+    - magic (defensive)
+    - magic (fairy)
+    - marriage
+    - negativity
+    - patience
+    - peace
+    - prosperity
+    - protection
+    - purification
+    - purity
+    - reconciliation
+    - relationships
+    - security
+    - self-work
+    - sexuality
+    - sorrow
+    - success
+    - weather (lightning)
+    - weather (storms/protect from)
+    - wisdom
+    - wishes
+    - witches/witchcraft
   toxicity:
     humans: false
     pets: true
@@ -1753,9 +2773,11 @@ hawthorn:
   holidays:
     - beltane
   citation:
-    - plant-2
-    - plant-1
+    - morgana-green-witch
+    - cunningham-herbs
+    - kynes-correspondences
 hazel:
+  type: tree
   parts used: leaves, catkins, bark, nuts
   planet: sun
   element: air
@@ -1771,8 +2793,10 @@ hazel:
     humans: false
     pets: false
   citation:
-    - plant-2
+    - morgana-green-witch
+    - kynes-correspondences
 heather:
+  type: herb & garden
   parts used: stems, flowers
   planet: mercury
   element: water
@@ -1783,14 +2807,48 @@ heather:
     - protection
     - rainmaking
     - luck
+    - adaptability
+    - authority
+    - awareness
+    - changes
+    - clarity
+    - confidence
+    - defense
+    - dream work
+    - encouragement
+    - faith
+    - generosity
+    - growth
+    - healing (physical)
+    - healing (spiritual)
+    - home
+    - knowledge
+    - learning
+    - longevity
+    - love
+    - messages/om ens (in dreams)
+    - optimism
+    - passion
+    - peace
+    - psychic ability
+    - purification (general)
+    - purification (inner)
+    - romance
+    - self-work
+    - sleep
+    - spirits
+    - spirituality
+    - trust
   toxicity:
     humans: false
     pets: false
   holidays:
     - litha
   citation:
-    - plant-2
+    - morgana-green-witch
+    - kynes-correspondences
 heliotrope:
+  type: herb & garden
   parts used: flowers
   planet: sun
   element: fire
@@ -1811,8 +2869,9 @@ heliotrope:
   holidays:
     - litha
   citation:
-    - plant-2
-    - plant-1
+    - morgana-green-witch
+    - cunningham-herbs
+    - kynes-correspondences
 hellebore:
   parts used: leaves, flowers, seeds, root
   planet: saturn, mars
@@ -1831,7 +2890,7 @@ hellebore:
     notes:
       - all parts are deadly poison if ingested; always wear gloves when handling
   citation:
-    - plant-2
+    - morgana-green-witch
 hemp:
   planet: saturn
   element: water
@@ -1841,8 +2900,9 @@ hemp:
     - visions
     - meditation
   citation:
-    - plant-1
+    - cunningham-herbs
 henbane:
+  type: misc
   parts used: flowers, seeds
   planet: saturn
   element: earth
@@ -1859,23 +2919,45 @@ henbane:
     notes:
       - all parts are deadly poison if ingested; always wear gloves when handling
   citation:
-    - plant-2
-    - plant-1
+    - morgana-green-witch
+    - cunningham-herbs
+    - kynes-correspondences
 hibiscus:
+  type: herb & garden
   planet: venus
   element: water
   properties:
     - love
     - lust
     - divination
+    - clairvoyance
+    - concentration/focus
+    - consecrate/bless
+    - determination
+    - energy (sexual)
+    - freedom (sexual)
+    - harmony
+    - love (attract)
+    - obstacles
+    - passion
+    - peace
+    - power
+    - psychic ability
+    - sensitivity
+    - sensuality
+    - sexuality
+    - unity
+    - warmth
   citation:
-    - plant-1
+    - cunningham-herbs
+    - kynes-correspondences
 hickory:
   properties:
     - legal matters
   citation:
-    - plant-1
+    - cunningham-herbs
 holly:
+  type: tree
   parts used: leaves, fruit, wood
   planet: mars
   element: fire
@@ -1895,8 +2977,9 @@ holly:
     - lammas
     - lughnasadh
   citation:
-    - plant-2
-    - plant-1
+    - morgana-green-witch
+    - cunningham-herbs
+    - kynes-correspondences
 honesty:
   parts used: seedpods
   planet: moon
@@ -1910,8 +2993,9 @@ honesty:
     humans: false
     pets: false
   citation:
-    - plant-2
+    - morgana-green-witch
 honeysuckle:
+  type: herb & garden
   parts used: flowers
   planet: jupiter, mercury
   element: earth
@@ -1924,6 +3008,50 @@ honeysuckle:
     - generosity
     - angel magic
     - prosperity
+    - abundance
+    - affection
+    - authority
+    - awareness
+    - balance
+    - calm
+    - changes
+    - clairvoyance
+    - clarity
+    - concentration/focus
+    - confidence
+    - creativity
+    - dedication
+    - destiny
+    - divination
+    - fidelity
+    - friendship
+    - guidance
+    - happiness
+    - healing
+    - hexes (break)
+    - honesty
+    - inspiration
+    - intuition
+    - justice
+    - learning
+    - love (devoted)
+    - magic (angel)
+    - memory/memories
+    - mind
+    - money
+    - peace
+    - power
+    - protection
+    - psychic ability
+    - rebirth/renewal
+    - secrets
+    - skills
+    - strength
+    - stress
+    - wealth
+    - well-being
+    - wishes
+    - witches/witchcraft
   toxicity:
     humans: false
     pets: true
@@ -1931,7 +3059,8 @@ honeysuckle:
     - beltane
     - ostara
   citation:
-    - plant-2
+    - morgana-green-witch
+    - kynes-correspondences
 hops:
   planet: mars
   element: air
@@ -1942,8 +3071,9 @@ hops:
     notes:
       - may cause depression
   citation:
-    - plant-1
+    - cunningham-herbs
 horehound:
+  type: misc
   parts used: leaves, flowers
   planet: mercury
   element: air, earth
@@ -1955,6 +3085,15 @@ horehound:
     - protection
     - mental powers
     - cleansing
+    - banish
+    - clarity
+    - energy
+    - healing
+    - hexes (break)
+    - mind
+    - power (general)
+    - power (mental)
+    - strength
   toxicity:
     humans: true
     pets: true
@@ -1962,8 +3101,9 @@ horehound:
       - humans: nontoxic in small amounts
       - avoid if pregnant
   citation:
-    - plant-2
-    - plant-1
+    - morgana-green-witch
+    - cunningham-herbs
+    - kynes-correspondences
 horsetail:
   parts used: leaves, stalk
   planet: saturn
@@ -1980,9 +3120,10 @@ horsetail:
       - may cause renal disorders
       - may cause cardiac dysfunction
   citation:
-    - plant-2
-    - plant-1
+    - morgana-green-witch
+    - cunningham-herbs
 horse chestnut:
+  type: tree
   planet: jupiter
   element: fire
   propeties:
@@ -1994,7 +3135,8 @@ horse chestnut:
     notes:
       - poison
   citation:
-    - plant-1
+    - cunningham-herbs
+    - kynes-correspondences
 horseradish:
   planet: mars
   element: fire
@@ -2008,7 +3150,7 @@ horseradish:
       - avoid if a child under 4
       - not recommended for internal use above normal food use levels
   citation:
-    - plant-1
+    - cunningham-herbs
 huckleberry:
   planet: venus
   element: water
@@ -2017,19 +3159,41 @@ huckleberry:
     - protection
     - hex-breaking
   citation:
-    - plant-1
+    - cunningham-herbs
 hyacinth:
+  type: herb & garden
   planet: venus
   element: water
   properties:
     - love
     - protection
     - happiness
+    - affection
+    - attraction
+    - emotions
+    - gentleness
+    - grief
+    - influence
+    - jealousy
+    - kindness
+    - loneliness
+    - love (attract/pink)
+    - luck (attract)
+    - nightmares
+    - optimism
+    - pregnancy/childbirth
+    - protection (spiritual)
+    - purification
+    - sorrow
+    - stability
+    - stress
+    - wisdom
   toxicity:
     notes:
       - not recommended for internal use
   citation:
-    - plant-1
+    - cunningham-herbs
+    - kynes-correspondences
 hydrangea:
   parts used: flowers
   planet: moon, jupiter, neptune
@@ -2048,8 +3212,8 @@ hydrangea:
       - wear gloves when handling
       - not recommended for internal use
   citation:
-    - plant-2
-    - plant-1
+    - morgana-green-witch
+    - cunningham-herbs
 hyssop:
   planet: jupiter
   element: fire
@@ -2060,18 +3224,46 @@ hyssop:
     notes:
       - avoid if pregnant
   citation:
-    - plant-1
+    - cunningham-herbs
 iris:
+  type: herb & garden
   planet: venus
   element: water
   properties:
     - purification
     - wisdom
+    - acceptance
+    - authority
+    - awareness
+    - clarity
+    - concentration/focus
+    - creativity
+    - death
+    - determination
+    - energy (creative)
+    - faith
+    - freedom
+    - inspiration
+    - love
+    - luck
+    - magic (angel)
+    - magic (moon)
+    - messages/om ens
+    - money (blue)
+    - patience
+    - power
+    - prosperity (blue)
+    - psychic ability
+    - purity
+    - release
+    - wealth
+    - willpower
   toxicity:
     notes:
       - some species should not be used internally
   citation:
-    - plant-1
+    - cunningham-herbs
+    - kynes-correspondences
 irish moss:
   planet: moon
   element: water
@@ -2082,8 +3274,9 @@ irish moss:
   notes:
     - carrageen
   citation:
-    plant-1
+    - cunningham-herbs
 ivy:
+  type: herb & garden
   parts used: leaves, stems
   planet: saturn
   element: water
@@ -2095,13 +3288,38 @@ ivy:
     - prophecy
     - luck
     - protection
+    - animals (protect)
+    - attachments
+    - attraction
+    - balance
+    - divination
+    - fertility
+    - friendship
+    - growth
+    - healing
+    - honor
+    - influence
+    - knowledge
+    - love
+    - marriage
+    - messages/om ens
+    - negativity
+    - problems
+    - rebirth/renewal
+    - secrets
+    - security
+    - stability
+    - transformation
+    - witches/witchcraft
   toxicity:
     humans: true
     pets: true
   citation:
-    - plant-2
-    - plant-1
+    - morgana-green-witch
+    - cunningham-herbs
+    - kynes-correspondences
 jasmine:
+  type: herb & garden
   parts used: flowers, leaves
   planet: moon
   element: water
@@ -2112,12 +3330,65 @@ jasmine:
     - love
     - purity
     - inspiration
+    - anxiety
+    - astral realm
+    - attachments
+    - attraction
+    - balance (emotional)
+    - beauty
+    - bind
+    - calm
+    - clarity
+    - communication
+    - consecrate/bless
+    - creativity (yellow)
+    - defense
+    - desire (yellow)
+    - dream work
+    - grace
+    - happiness
+    - harmony
+    - healing
+    - imagination
+    - justice
+    - light
+    - loss
+    - love (attract)
+    - luck
+    - lust
+    - magic (defensive)
+    - magic (moon)
+    - magic (night)
+    - magic (sex)
+    - money (collect debts)
+    - peace
+    - pregnancy/childbirth
+    - problems
+    - prosperity
+    - protection
+    - psychic ability
+    - purification
+    - relationships (romantic)
+    - romance
+    - self-work
+    - sensuality
+    - sexuality
+    - sleep
+    - spirits
+    - spirituality
+    - stimulation
+    - stress
+    - support
+    - visions
+    - wealth
   toxicity:
     humans: false
     pets: false
   citation:
-    - plant-2
+    - morgana-green-witch
+    - kynes-correspondences
 juniper:
+  type: tree
   parts used: leaves, wood, berries
   planet: sun
   element: fire
@@ -2140,8 +3411,9 @@ juniper:
   holidays:
     - samhain
   citation:
-    - plant-2
-    - plant-1
+    - morgana-green-witch
+    - cunningham-herbs
+    - kynes-correspondences
 kava-kava:
   planet: saturn
   element: water
@@ -2158,7 +3430,7 @@ kava-kava:
       - may cause Parkinson's disease
       - do not take internally in high doses; find several sources that have appropriate doses of this herb
   citation:
-    - plant-1
+    - cunningham-herbs
 kelp:
   planet: jupiter
   element: water
@@ -2166,14 +3438,14 @@ kelp:
     - travel
     - protection
   citation:
-    - plant-1
+    - cunningham-herbs
 knotweed:
   planet: saturn
   element: earth
   properties:
     - binding
   citation:
-    - plant-1
+    - cunningham-herbs
 lady's mantle:
   parts used: flowers, leaves
   planet: venus
@@ -2187,15 +3459,16 @@ lady's mantle:
     humans: false
     pets: false
   citation:
-    - plant-2
+    - morgana-green-witch
 lady's slidder:
   planet: saturn
   element: water
   properties:
     - protection
   citation:
-    - plant-1
+    - cunningham-herbs
 lavender:
+  type: herb & garden
   parts used: flowers, leaves, stems
   planet: mercury
   element: air
@@ -2218,7 +3491,8 @@ lavender:
     - summer solstice
     - fairies
   citation:
-    - plant-2
+    - morgana-green-witch
+    - kynes-correspondences
 leek:
   planet: mars
   element: fire
@@ -2227,7 +3501,7 @@ leek:
     - protection
     - hex-breaking
   citation:
-    - plant-1
+    - cunningham-herbs
 lemon:
   planet: moon
   element: water
@@ -2237,7 +3511,7 @@ lemon:
     - love
     - friendship
   citation:
-    - plant-1
+    - cunningham-herbs
 lemongrass:
   planet: mercury
   element: air
@@ -2245,7 +3519,7 @@ lemongrass:
     - lust
     - psychic powers
   citation:
-    - plant-1
+    - cunningham-herbs
 lemon verbena:
   planet: mercury
   element: air
@@ -2253,7 +3527,7 @@ lemon verbena:
     - purification
     - love
   citation:
-    - plant-1
+    - cunningham-herbs
 licorice:
   planet: venus
   element: water
@@ -2273,15 +3547,16 @@ licorice:
       - do not take internally in high doses; find several sources that have appropriate doses of this herb
       - may deplete potassium
   citation:
-    - plant-1
+    - cunningham-herbs
 life everlasting:
   properties:
     - longevity
     - healing
     - health
   citation:
-    - plant-1
+    - cunningham-herbs
 lilac:
+  type: herb & garden
   parts used: flowers
   planet: venus
   element: water
@@ -2292,6 +3567,46 @@ lilac:
     - exorcism
     - protection
     - spirit world
+    - adaptability
+    - attraction
+    - balance
+    - banish
+    - beauty
+    - business
+    - clairvoyance
+    - community
+    - concentration/focus
+    - creativity
+    - divination
+    - dream work
+    - emotions
+    - friendship
+    - happiness
+    - harmony
+    - hexes (break)
+    - home
+    - innocence (white)
+    - inspiration
+    - life
+    - light
+    - longevity
+    - love
+    - luck
+    - magic (defensive)
+    - memory/memories (past life)
+    - mind (clear)
+    - peace
+    - problems
+    - prophecy
+    - purification
+    - rebirth/renewal
+    - release
+    - security
+    - spirits (attract)
+    - spirits (contact)
+    - spirituality
+    - well-being
+    - youth (white)
   toxicity:
     humans: false
     pets: true
@@ -2300,8 +3615,10 @@ lilac:
   holidays:
     - beltane
   citation:
-    - plant-2
+    - morgana-green-witch
+    - kynes-correspondences
 lily:
+  type: herb & garden
   parts used: flowers
   planet: moon
   element: water
@@ -2311,6 +3628,21 @@ lily:
   properties:
     - love
     - purity
+    - afterlife
+    - beauty
+    - calm
+    - communication
+    - creativity
+    - deceit (yellow)
+    - goodness
+    - happiness
+    - manifestation (turk's cap)
+    - negativity (improve attitude)
+    - nurture
+    - otherworld/underworld
+    - protection
+    - relationships
+    - willpower
   toxicity:
     humans: true
     pets: true
@@ -2320,18 +3652,41 @@ lily:
   holidays:
     - ostara
   citation:
-    - plant-2
-    - plant-1
+    - morgana-green-witch
+    - cunningham-herbs
+    - kynes-correspondences
 lily of the valley:
+  type: herb & garden
   planet: mercury
   element: air
   properties:
     - happiness
+    - calm
+    - consecrate/bless
+    - defense
+    - desire
+    - harmony
+    - healing
+    - innocence
+    - inspiration
+    - life
+    - love
+    - magic (defensive)
+    - memory/memories
+    - mind
+    - optimism
+    - peace
+    - power (mental)
+    - problems
+    - protection
+    - reversal
+    - skills
   toxicity:
     notes:
       - poison
   citation:
-    - plant-1
+    - cunningham-herbs
+    - kynes-correspondences
 lime:
   planet: sun
   element: fire
@@ -2340,8 +3695,9 @@ lime:
     - healing
     - protection
   citation:
-    - plant-1
+    - cunningham-herbs
 linden:
+  type: tree
   planet: jupiter
   element: air
   properties:
@@ -2349,6 +3705,28 @@ linden:
     - love
     - sleep
     - protection
+    - attraction
+    - calm
+    - communication
+    - divination
+    - dream work
+    - encouragement
+    - fidelity
+    - longevity
+    - love (open to)
+    - marriage
+    - needs
+    - nurture
+    - peace
+    - relationships
+    - strength
+    - stress
+    - support
+    - transformation
+    - visions
+    - warmth
+  citation:
+    - kynes-correspondences
 lovage:
   parts used: all parts
   planet: sun
@@ -2370,9 +3748,10 @@ lovage:
   notes:
     - suggestion - place in bath
   citation:
-    - plant-2
-    - plant-1
+    - morgana-green-witch
+    - cunningham-herbs
 magnolia:
+  type: tree
   parts used: flowers, bark
   planet: venus
   element: earth
@@ -2382,11 +3761,29 @@ magnolia:
   properties:
     - fidelity
     - longevity
+    - attraction
+    - clarity
+    - dream work
+    - growth (awareness)
+    - harmony
+    - love
+    - marriage
+    - peace
+    - protection
+    - psychic ability
+    - purification
+    - purity
+    - relationships
+    - sexuality (sexual attraction)
+    - truth
+    - visions
+    - wisdom
   toxicity:
     humans: false
     pets: false
   citation:
-    - plant-2
+    - morgana-green-witch
+    - kynes-correspondences
 maidenhair fern:
   parts used: leaves
   planet: mercury
@@ -2407,8 +3804,8 @@ maidenhair fern:
   holidays:
     - mabon
   citation:
-    - plant-2
-    - plant-1
+    - morgana-green-witch
+    - cunningham-herbs
 mallow:
   parts used: leaves, flowers, root, seeds
   planet: moon
@@ -2426,7 +3823,7 @@ mallow:
   holidays:
     - beltane
   citation:
-    - plant-2
+    - morgana-green-witch
 mandrake:
   parts used: root, leaves, flowers, berries
   planet: mercury
@@ -2447,9 +3844,10 @@ mandrake:
       - wear gloves when handling
       - poisonous
   citation:
-    - plant-2
-    - plant-1
+    - morgana-green-witch
+    - cunningham-herbs
 maple:
+  type: tree
   planet: jupiter
   element: air
   properties:
@@ -2457,8 +3855,10 @@ maple:
     - longevity
     - money
   citation:
-    - plant-1
+    - cunningham-herbs
+    - kynes-correspondences
 marigold:
+  type: herb & garden
   parts used: flowers
   planet: sun
   element: air, fire
@@ -2470,6 +3870,47 @@ marigold:
     - dreams
     - omens
     - peace
+    - affection
+    - afterlife
+    - authority
+    - awareness
+    - business
+    - comfort
+    - communication
+    - consecrate/bless
+    - dedication/devotion
+    - dream work
+    - endurance
+    - energy (general)
+    - energy (solar)
+    - envy
+    - fidelity
+    - grief
+    - happiness
+    - healing
+    - jealousy
+    - justice (legal matters)
+    - longevity
+    - love
+    - magic (angel)
+    - messages/omens
+    - mind
+    - pleasure
+    - prophecy
+    - protection (spiritual)
+    - psychic ability
+    - relationships
+    - responsibility
+    - senses (see magical creatures)
+    - sensitivity
+    - skills
+    - sorrow
+    - success
+    - transformation (inner)
+    - visions
+    - warm th
+    - wealth
+    - well-being
   toxicity:
     humans: false
     pets: false
@@ -2477,8 +3918,10 @@ marigold:
     - beltane
     - mabon
   citation:
-    - plant-2
+    - morgana-green-witch
+    - kynes-correspondences
 marjoram:
+  type: herb & garden
   parts used: leaves
   planet: mercury
   element: air
@@ -2490,12 +3933,50 @@ marjoram:
     - happiness
     - health
     - wealth
+    - afterlife
+    - attraction
+    - calm
+    - comfort
+    - community
+    - concentration/focus
+    - connections
+    - consciousness
+    - defense
+    - family
+    - grief
+    - healing
+    - hexes (protect from )
+    - innocence
+    - loneliness
+    - magic (black)
+    - magic (defensive)
+    - marriage
+    - memory/memories
+    - money
+    - peace
+    - prosperity
+    - protection
+    - psychic ability
+    - purification
+    - relationships
+    - release
+    - security (general)
+    - security (business)
+    - sleep
+    - sorrow
+    - stress
+    - unity
+    - warmth
+    - well-being
+    - witches/witchcraft (protect from)
   toxicity:
     humans: false
     pets: true
   citation:
-    - plant-2
+    - morgana-green-witch
+    - kynes-correspondences
 meadowsweet:
+  type: misc
   parts used: flowers, leaves, root
   planet: jupiter
   element: air
@@ -2506,20 +3987,31 @@ meadowsweet:
     - love
     - divination
     - peace
+    - balance
+    - favors
+    - happiness
+    - harmony
+    - healing
+    - home
+    - love (encourage)
+    - luck
+    - power
+    - security
   toxicity:
     humans: false
     pets: false
   holidays:
     - midsummer
   citation:
-    - plant-2
+    - morgana-green-witch
+    - kynes-correspondences
 mesquite:
   planet: moon
   element: water
   properties:
     - healing
   citation:
-    - plant-1
+    - cunningham-herbs
 mint:
   parts used: leaves
   planet: mercury
@@ -2537,8 +4029,9 @@ mint:
     humans: false
     pets: true
   citation:
-    - plant-2
+    - morgana-green-witch
 mistletoe:
+  type: misc
   parts used: whole plant
   planet: sun
   element: air
@@ -2550,6 +4043,52 @@ mistletoe:
     - exorcism
     - fertility
     - love
+    - activate/awaken
+    - banish
+    - beauty
+    - beginnings
+    - blessings
+    - business
+    - calm
+    - consecrate/bless
+    - creativity
+    - death
+    - defense
+    - divination
+    - dream work
+    - energy
+    - friendship
+    - goodness
+    - healing
+    - home
+    - life
+    - longevity
+    - love (attract)
+    - luck
+    - magic (general)
+    - magic (sex)
+    - marriage
+    - messages/om ens
+    - negativity
+    - nightmares
+    - obstacles
+    - otherworld/underworld
+    - peace (peaceful intent)
+    - power (inner)
+    - prosperity
+    - protection (spiritual)
+    - purification
+    - rebirth/renewal
+    - secrets
+    - security
+    - sexuality (potency)
+    - sleep
+    - spirits
+    - strength
+    - success
+    - weather (lightning)
+    - well-being
+    - witches/witchcraft (protect from)
   toxicity:
     humans: true
     pets: true
@@ -2559,7 +4098,8 @@ mistletoe:
     - litha
     - yule
   citation:
-    - plant-2
+    - morgana-green-witch
+    - kynes-correspondences
 moringa:
   parts used: leaves, flowers, pods, root
   planet: sun
@@ -2575,7 +4115,7 @@ moringa:
     humans: false
     pets: false
   citation:
-    - plant-2
+    - morgana-green-witch
 moss:
   parts used: whole plant
   planet: moon
@@ -2591,9 +4131,10 @@ moss:
     humans: false
     pets: false
   citation:
-    - plant-2
-    - plant-1
+    - morgana-green-witch
+    - cunningham-herbs
 mugwort:
+  type: herb & garden
   parts used: leaves, flowers
   planet: venus
   element: earth, air
@@ -2614,9 +4155,11 @@ mugwort:
   holidays:
     - samhain
   citation:
-    - plant-2
-    - plant-1
+    - morgana-green-witch
+    - cunningham-herbs
+    - kynes-correspondences
 mullein:
+  type: misc
   parts used: flowers, leaves
   planet: saturn
   element: fire
@@ -2629,11 +4172,48 @@ mullein:
     - health
     - divination
     - exorcism
+    - animals (protect from )
+    - authority
+    - awareness
+    - balance
+    - banish
+    - beauty
+    - danger
+    - darkness
+    - defense
+    - determination
+    - enmity
+    - goodness
+    - harmony (domestic)
+    - healing
+    - hexes (protect from )
+    - honesty
+    - longevity
+    - love
+    - magic (general)
+    - magic (angel)
+    - magic (black)
+    - morality
+    - negativity
+    - nightmares
+    - nurture
+    - protection (spiritual)
+    - psychic ability
+    - purification
+    - purpose
+    - release
+    - security
+    - self-work
+    - senses (inner)
+    - spirits
+    - support
+    - unity
   toxicity:
     humans: false
     pets: false
   citation:
-    - plant-2
+    - morgana-green-witch
+    - kynes-correspondences
 mustard:
   parts used: seeds, leaves
   planet: mars
@@ -2650,7 +4230,7 @@ mustard:
     humans: false
     pets: true
   citation:
-    - plant-2
+    - morgana-green-witch
 nasturtium:
   parts used: flowers, seeds
   planet: neptune
@@ -2669,7 +4249,7 @@ nasturtium:
     humans: false
     pets: false
   citation:
-    - plant-2
+    - morgana-green-witch
 nettle:
   parts used: leaves, stems
   planet: mars
@@ -2685,7 +4265,7 @@ nettle:
     humans: false
     pets: false
   citation:
-    - plant-2
+    - morgana-green-witch
 oxeye daisy:
   parts used: flowers, leaves
   planet: venus
@@ -2702,7 +4282,7 @@ oxeye daisy:
     notes:
       - humans: nontoxic in small amounts
   citation:
-    - plant-2
+    - morgana-green-witch
 pansy:
   parts used: flowers, leaves, seeds
   planet: saturn
@@ -2718,7 +4298,7 @@ pansy:
     humans: false
     pets: false
   citation:
-    - plant-2
+    - morgana-green-witch
 parsley:
   parts used: leaves
   planet: mercury
@@ -2737,8 +4317,8 @@ parsley:
     notes:
       - do not take internally in high doses
   citation:
-    - plant-2
-    - plant-1
+    - morgana-green-witch
+    - cunningham-herbs
 passionflower:
   parts used: leaves, flowers, stems, fruit
   planet: venus
@@ -2756,8 +4336,9 @@ passionflower:
     notes:
       - passiflora incarnata is nontoxic to humans if ingested in small amounts, but other varieties of passionflower are toxic
   citation:
-    - plant-2
+    - morgana-green-witch
 pennyroyal:
+  type: herb & garden
   parts used: leaves, stems, flowers
   planet: mars
   element: fire
@@ -2768,6 +4349,25 @@ pennyroyal:
     - strength
     - protection
     - peace
+    - anxiety
+    - calm (inner)
+    - challenges
+    - community
+    - energy
+    - family
+    - healing
+    - hexes (break)
+    - home
+    - influence
+    - love
+    - marriage
+    - mind
+    - negativity
+    - otherworld/underworld
+    - problems
+    - purification
+    - stimulation
+    - trust
   toxicity:
     humans: true
     pets: true
@@ -2776,9 +4376,11 @@ pennyroyal:
       - avoid if pregnant
       - the oil is poisonous
   citation:
-    - plant-2
-    - plant-1
+    - morgana-green-witch
+    - cunningham-herbs
+    - kynes-correspondences
 peony:
+  type: herb & garden
   parts used: flowers, seeds, root
   planet: sun
   element: fire
@@ -2788,14 +4390,31 @@ peony:
   properties:
     - protection
     - exorcism
+    - anger
+    - anxiety
+    - banish
+    - business
+    - danger
+    - dream work
+    - innocence
+    - luck
+    - magic (find something hidden)
+    - nightmares
+    - opportunities
+    - prosperity
+    - release
+    - sorrow
+    - success
   toxicity:
     humans: true
     pets: true
     notes:
       - safe to handle without gloves
   citation:
-    - plant-2
+    - morgana-green-witch
+    - kynes-correspondences
 peppermint:
+  type: herb & garden
   parts used: leaves
   planet: mercury
   element: fire, air
@@ -2807,12 +4426,47 @@ peppermint:
     - awareness
     - dream spells
     - visions
+    - action
+    - activate/awaken
+    - authority
+    - banish
+    - calm (inner)
+    - challenges
+    - changes
+    - clarity
+    - concentration/focus
+    - creativity
+    - divination
+    - dream work
+    - energy
+    - healing
+    - intelligence
+    - life
+    - love (encourage)
+    - luck
+    - lust
+    - messages/om ens (in dreams)
+    - mind (quick)
+    - money
+    - negativity
+    - power (mental)
+    - problems
+    - psychic ability
+    - release
+    - sensitivity
+    - skills
+    - strength
+    - stress
+    - trust
+    - stimulation
   toxicity:
     humans: false
     pets: true
   citation:
-    - plant-2
+    - morgana-green-witch
+    - kynes-correspondences
 periwinkle:
+  type: herb & garden
   parts used: flowers, leaves
   planet: mercury, venus
   element: water
@@ -2823,6 +4477,22 @@ periwinkle:
     - binding spells
     - marriage
     - love
+    - bind
+    - clarity
+    - death
+    - desire
+    - friendship
+    - lust
+    - magic (sex)
+    - memory/memories
+    - mind
+    - money
+    - nightmares
+    - power (mental)
+    - prosperity
+    - protection
+    - security
+    - spirits
   toxicity:
     humans: true
     pets: true
@@ -2833,9 +4503,11 @@ periwinkle:
       - may cause hypotension
       - may cause constipation
   citation:
-    - plant-2
-    - plant-1
+    - morgana-green-witch
+    - cunningham-herbs
+    - kynes-correspondences
 pine:
+  type: tree
   parts used: needles, branches, bark, nuts
   planet: mars
   element: air
@@ -2853,7 +4525,8 @@ pine:
     notes:
       - mildly toxic
   citation:
-    - plant-2
+    - morgana-green-witch
+    - kynes-correspondences
 plantain:
   parts used: flowers, leaves, root
   planet: venus
@@ -2869,7 +4542,7 @@ plantain:
     humans: false
     pets: false
   citation:
-    - plant-2
+    - morgana-green-witch
 poison hemlock:
   parts used: leaves and berries
   planet: saturn
@@ -2888,9 +4561,10 @@ poison hemlock:
       - the plant will also burn your skin if touched
       - if you must handle it, wear gloves and long sleeves
   citation:
-    - plant-2
-    - plant-1
+    - morgana-green-witch
+    - cunningham-herbs
 poplar:
+  type: tree
   parts used: leaves, twigs, bark, buds
   planet: saturn
   element: water
@@ -2900,12 +4574,24 @@ poplar:
   properties:
     - money
     - flying
+    - astral realm
+    - courage
+    - divination
+    - endurance
+    - grief
+    - problems
+    - prosperity
+    - spirituality
+    - strength
+    - wealth
   toxicity:
     humans: false
     pets: false
   citation:
-    - plant-2
+    - morgana-green-witch
+    - kynes-correspondences
 poppy:
+  type: herb & garden
   parts used: flowers, leaves, seeds
   planet: moon
   element: water
@@ -2921,7 +4607,8 @@ poppy:
     humans: false
     pets: true
   citation:
-    - plant-2
+    - morgana-green-witch
+    - kynes-correspondences
 purslane:
   parts used: leaves, stems, flowers, seeds
   planet: moon
@@ -2940,8 +4627,8 @@ purslane:
       - avoid if pregnant
       - may cause kidney stones
   citation:
-    - plant-2
-    - plant-1
+    - morgana-green-witch
+    - cunningham-herbs
 queen anne's lace:
   parts used: flowers
   planet: mercury
@@ -2958,8 +4645,9 @@ queen anne's lace:
     notes:
       - edible with certain identification, though can cause issues with fertility
   citation:
-    - plant-2
+    - morgana-green-witch
 raspberry:
+  type: herb & garden
   parts used: leaves, fruit
   planet: moon, venus
   element: water
@@ -2976,7 +4664,8 @@ raspberry:
     notes:
       - pets: berries are not toxic; those who are pregnant or breastfeeding should not ingest raspberry leaves
   citation:
-    - plant-2
+    - morgana-green-witch
+    - kynes-correspondences
 rhododendron:
   parts used: flowers
   planet: venus
@@ -2994,8 +4683,9 @@ rhododendron:
     notes:
       - safe to handle without gloves
   citation:
-    - plant-2
+    - morgana-green-witch
 rose:
+  type: herb & garden
   parts used: flowers, fruit, leaves
   planet: venus
   element: water
@@ -3007,12 +4697,68 @@ rose:
     - love
     - childbirth
     - trust
+    - affection (attract)
+    - afterlife
+    - attachments
+    - attraction
+    - banish
+    - beginnings
+    - blessings
+    - calm
+    - clairvoyance
+    - compassion
+    - confidence
+    - connections
+    - consecrate/bless
+    - courage
+    - creativity
+    - dedication/devotion
+    - dignity
+    - divination
+    - dream work
+    - energy (general)
+    - energy (sexual)
+    - family
+    - fertility
+    - fidelity
+    - grace
+    - happiness
+    - harmony
+    - healing
+    - hexes (break)
+    - home
+    - inspiration
+    - jealousy (yellow)
+    - luck
+    - magic (fairy)
+    - magic (sex)
+    - message/om ens (dreams)
+    - nurture (wild)
+    - patience
+    - peace (attract/iv/vd)
+    - power (inner)
+    - pride
+    - problems
+    - protection (emotional)
+    - psychic ability
+    - release
+    - reversal
+    - secrets (love)
+    - sensuality
+    - sexuality
+    - sleep
+    - sorrow
+    - spirituality
+    - strength
+    - wisdom rose (continued)
   toxicity:
     humans: false
     pets: false
   citation:
-    - plant-2
+    - morgana-green-witch
+    - kynes-correspondences
 rosemary:
+  type: herb & garden
   parts used: leaves, branches
   planet: sun
   element: fire
@@ -3035,9 +4781,11 @@ rosemary:
   holidays:
     - yule
   citation:
-    - plant-2
-    - plant-1
+    - morgana-green-witch
+    - cunningham-herbs
+    - kynes-correspondences
 rowan:
+  type: tree
   parts used: bark, leaves, flowers, berries
   planet: sun
   element: fire
@@ -3048,14 +4796,60 @@ rowan:
     - psychic powers
     - healing
     - success
+    - astral realm
+    - authority
+    - battle/war
+    - bind
+    - blessings
+    - challenges
+    - clairvoyance
+    - consecrate/bless (by fairies)
+    - dedication/devotion
+    - defense
+    - destruction
+    - divination
+    - enchantment
+    - family
+    - fertility
+    - forgiveness
+    - grounding
+    - guidance
+    - harmony
+    - hexes (protect from )
+    - imagination
+    - insight
+    - inspiration
+    - karma
+    - knowledge
+    - learning
+    - life
+    - luck
+    - magic (general)
+    - magic (fairy)
+    - power (general)
+    - power (magical)
+    - prophecy
+    - protection (by fairies)
+    - psychic ability
+    - security
+    - self-work
+    - senses (control)
+    - skills
+    - spirits
+    - visions
+    - weather (lightning)
+    - wisdom
+    - witches/witchcraft
   toxicity:
     humans: false
     pets: false
   holidays:
     - imbolc
   citation:
-    - plant-2
+    - morgana-green-witch
+    - kynes-correspondences
 rue:
+  type: herb & garden
   parts used: leaves, stems, flowers
   planet: mars
   element: fire
@@ -3076,9 +4870,11 @@ rue:
       - avoid if using blood-thinning medications
       - may increase sensitivity to sunlight
   citation:
-    - plant-2
-    - plant-1
+    - morgana-green-witch
+    - cunningham-herbs
+    - kynes-correspondences
 saffron:
+  type: misc
   parts used: flower stigmas
   planet: sun
   element: fire
@@ -3090,6 +4886,28 @@ saffron:
     - marriage
     - strength
     - happiness
+    - anger
+    - calm
+    - clairvoyance
+    - dream work
+    - fertility
+    - healing
+    - love
+    - lust
+    - magic (sex)
+    - mind
+    - mindfulness
+    - money
+    - moods
+    - passion
+    - power
+    - prosperity
+    - psychic ability
+    - sexuality (prow ess)
+    - skills
+    - stimulation
+    - wealth
+    - well-being
   toxicity:
     humans: false
     pets: true
@@ -3099,9 +4917,11 @@ saffron:
   holidays:
     - litha
   citation:
-    - plant-2
-    - plant-1
+    - morgana-green-witch
+    - cunningham-herbs
+    - kynes-correspondences
 sage:
+  type: herb & garden
   parts used: leaves
   planet: jupiter
   element: air, earth
@@ -3114,6 +4934,58 @@ sage:
     - divination
     - purification
     - protection
+    - balance
+    - business
+    - clairvoyance
+    - comfort
+    - concentration/focus
+    - consecrate/bless
+    - consciousness
+    - energy
+    - fear
+    - fertility
+    - gratitude
+    - grounding
+    - guidance
+    - harmony
+    - healing
+    - insight
+    - introspection
+    - knowledge
+    - life
+    - longevity
+    - love
+    - magic
+    - memory/memories
+    - mind (clear)
+    - money
+    - negativity
+    - obstacles
+    - peace
+    - power
+    - prophecy
+    - prosperity
+    - protection (psychic)
+    - psychic ability
+    - purification (general)
+    - purification (ritual)
+    - quests
+    - release
+    - reversal
+    - secrets
+    - senses (strengthen)
+    - spirits
+    - spirituality
+    - stability
+    - stimulation
+    - strength
+    - stress
+    - truth
+    - visions
+    - warmth
+    - wealth
+    - well-being (mental)
+    - wisdom
   toxicity:
     humans: false
     pets: false
@@ -3126,8 +4998,9 @@ sage:
     - samhain
     - yule
   citation:
-    - plant-2
-    - plant-1
+    - morgana-green-witch
+    - cunningham-herbs
+    - kynes-correspondences
 sarsaparilla:
   planet: jupiter
   element: fire
@@ -3135,7 +5008,7 @@ sarsaparilla:
     - love
     - money
   citation:
-    - plant-1
+    - cunningham-herbs
 sassafras:
   planet: jupiter
   element: fire
@@ -3146,8 +5019,9 @@ sassafras:
     notes:
       - do not take internally in high doses
   citation:
-    - plant-1
+    - cunningham-herbs
 skullcap:
+  type: misc
   parts used: leaves, flowers
   planet: saturn
   element: water
@@ -3164,8 +5038,10 @@ skullcap:
   holidays:
     - mabon
   citation:
-    - plant-2
+    - morgana-green-witch
+    - kynes-correspondences
 snapdragon:
+  type: herb & garden
   parts used: flowers, seeds
   planet: mars
   element: fire
@@ -3174,12 +5050,28 @@ snapdragon:
   chakra: solar plexus
   properties:
     - protection
+    - assertiveness
+    - banish
+    - clairaudience
+    - deceit
+    - emotions
+    - freedom (emotional)
+    - hexes (break)
+    - money
+    - prosperity
+    - release
+    - truth
+    - wealth
+    - witches/witchcraft (counteract)
+    - witches/witchcraft (protect from)
   toxicity:
     humans: false
     pets: false
   citation:
-    - plant-2
+    - morgana-green-witch
+    - kynes-correspondences
 spikenard:
+  type: misc
   parts used: leaves, flowers, root, berries
   planet: venus
   element: water
@@ -3189,14 +5081,32 @@ spikenard:
   properties:
     - fidelity
     - health
+    - attraction
+    - balance
+    - concentration/focus
+    - consecrate/bless
+    - creativity
+    - fear
+    - freedom
+    - harmony
+    - healing
+    - love
+    - luck
+    - mind
+    - negativity
+    - obstacles
+    - purification
+    - relationships
+    - stability
   toxicity:
     humans: false
     pets: false
     notes:
       - avoid if pregnant
   citation:
-    - plant-2
-    - plant-1
+    - morgana-green-witch
+    - cunningham-herbs
+    - kynes-correspondences
 spurge:
   parts used: flowers, leaves
   planet: saturn
@@ -3214,7 +5124,7 @@ spurge:
       - wear gloves when handling
       - sap is irritating to the skin
   citation:
-    - plant-2
+    - morgana-green-witch
 squill:
   parts used: flowers, leaves, bulbs
   planet: mars
@@ -3233,9 +5143,10 @@ squill:
       - wear gloves when handling
       - poison
   citation:
-    - plant-2
-    - plant-1
+    - morgana-green-witch
+    - cunningham-herbs
 st. john's wort:
+  type: herb & garden
   parts used: flowers
   planet: sun
   element: fire
@@ -3256,9 +5167,11 @@ st. john's wort:
   holidays:
     - litha
   citation:
-    - plant-2
-    - plant-1
+    - morgana-green-witch
+    - cunningham-herbs
+    - kynes-correspondences
 strawberry:
+  type: herb & garden
   parts used: leaves, fruit
   planet: venus
   element: water
@@ -3269,11 +5182,24 @@ strawberry:
     - love
     - luck
     - visions
+    - adaptability
+    - attraction
+    - beauty
+    - desire
+    - divination
+    - friendship
+    - harmony
+    - love (attract)
+    - luck (attract)
+    - relationships (love)
+    - sensuality
+    - stress
   toxicity:
     humans: false
     pets: false
   citation:
-    - plant-2
+    - morgana-green-witch
+    - kynes-correspondences
 summer savory:
   parts used: leaves
   planet: mercury
@@ -3288,8 +5214,9 @@ summer savory:
     humans: false
     pets: false
   citation:
-    - plant-2
+    - morgana-green-witch
 sunflower:
+  type: herb & garden
   parts used: seeds, petals
   planet: sun
   element: fire
@@ -3301,11 +5228,34 @@ sunflower:
     - wishes
     - health
     - wisdom
+    - balance
+    - clarity
+    - dream work
+    - energy (general)
+    - energy (solar)
+    - fertility
+    - happiness
+    - harmony
+    - improvement
+    - light
+    - loneliness
+    - luck
+    - magic
+    - money
+    - obstacles
+    - peace
+    - release
+    - self-work
+    - sorrow
+    - spirituality
+    - strength
+    - well-being
   toxicity:
     humans: false
     pets: false
   citation:
-    - plant-2
+    - morgana-green-witch
+    - kynes-correspondences
 sweet gum:
   parts used: leaves, bark, fruit
   planet: sun
@@ -3319,7 +5269,7 @@ sweet gum:
     humans: false
     pets: false
   citation:
-    - plant-2
+    - morgana-green-witch
 sweet pea:
   parts used: flowers
   planet: venus
@@ -3338,9 +5288,10 @@ sweet pea:
       - do not take internally in high doses
       - not recommended for internal use
   citation:
-    - plant-2
-    - plant-1
+    - morgana-green-witch
+    - cunningham-herbs
 sweet woodruff:
+  type: herb & garden
   parts used: stems, leaves, flowers
   planet: mars
   element: fire
@@ -3351,6 +5302,12 @@ sweet woodruff:
     - victory
     - protection
     - money
+    - balance
+    - divination
+    - encouragement
+    - friendship
+    - prosperity
+    - purification
   toxicity:
     humans: true
     pets: false
@@ -3359,7 +5316,8 @@ sweet woodruff:
   holidays:
     - beltane
   citation:
-    - plant-2
+    - morgana-green-witch
+    - kynes-correspondences
 sweetgrass:
   parts used: leaves
   planet: venus
@@ -3374,7 +5332,7 @@ sweetgrass:
     humans: false
     pets: false
   citation:
-    - plant-2
+    - morgana-green-witch
 tansy:
   parts used: flowers, leaves
   planet: venus
@@ -3391,9 +5349,10 @@ tansy:
     notes:
       - avoid if pregnant
   citation:
-    - plant-2
-    - plant-1
+    - morgana-green-witch
+    - cunningham-herbs
 thistle:
+  type: misc
   parts used: flowers, leaves, stalks
   planet: mars
   element: fire
@@ -3404,14 +5363,34 @@ thistle:
     - endurance
     - unity
     - victory
+    - action
+    - banish
+    - confidence
+    - connections
+    - courage
+    - defense
+    - empowerment
+    - faith
+    - fear
+    - healing
+    - hexes (break)
+    - independence
+    - magic (defensive)
+    - problems
+    - protection
+    - purification
+    - strength
+    - trust
   toxicity:
     humans: false
     pets: false
   holidays:
     - mabon
   citation:
-    - plant-2
+    - morgana-green-witch
+    - kynes-correspondences
 thyme:
+  type: herb & garden
   parts used: leaves
   planet: venus
   element: water
@@ -3423,13 +5402,49 @@ thyme:
     - healing
     - strength
     - purification
+    - activate/awaken (them ind)
+    - adaptability
+    - authority
+    - awareness
+    - calm
+    - clairvoyance
+    - community
+    - confidence
+    - consecrate/bless
+    - courage
+    - divination
+    - energy (general)
+    - energy (psychic)
+    - grief
+    - growth
+    - happiness
+    - home
+    - increase
+    - love
+    - luck
+    - magic (fairy)
+    - money
+    - negativity
+    - nightmares
+    - power
+    - protection (general)
+    - protection (spiritual)
+    - psychic ability
+    - rebirth/renewal
+    - skills
+    - sleep
+    - sorrow
+    - stimulation
+    - stress
+    - well-being
   toxicity:
     humans: false
     pets: false
   holidays:
     - summer solstice
   citation:
-    - plant-2
+    - morgana-green-witch
+    - kynes-correspondences
 tulip:
   parts used: flower
   planet: venus
@@ -3447,7 +5462,7 @@ tulip:
     notes:
       - bulbs toxic to humans, whereas flowers are nontoxic
   citation:
-    - plant-2
+    - morgana-green-witch
 uva ursi:
   parts used: leaves, flowers, branches
   planet: saturn
@@ -3468,9 +5483,10 @@ uva ursi:
       - this herb is known as a gi irritant
       - may cause acidic urine
   citation:
-    - plant-2
-    - plant-1
+    - morgana-green-witch
+    - cunningham-herbs
 valerian:
+  type: herb & garden
   parts used: flowers, leaves, root
   planet: venus, mercury
   element: water
@@ -3483,15 +5499,18 @@ valerian:
     - longevity
     - romance
     - truth
+    - ar
   toxicity:
     humans: false
     pets: false
     notes:
       - do now drive while after consuming valerian
   citation:
-    - plant-2
-    - plant-1
+    - morgana-green-witch
+    - cunningham-herbs
+    - kynes-correspondences
 vervain:
+  type: herb & garden
   parts used: leaves, stems, flowers
   planet: venus
   element: earth, air, fire
@@ -3505,6 +5524,60 @@ vervain:
     - peace
     - sleep
     - healing
+    - anger
+    - anxiety
+    - balance
+    - banish
+    - beginnings
+    - calm (emotions)
+    - challenges
+    - consecrate/bless
+    - creativity
+    - discipline
+    - divination
+    - dream work
+    - empowerment
+    - enchantment
+    - enmity
+    - fertility
+    - fidelity
+    - freedom
+    - grace
+    - grounding
+    - harmony
+    - hexes (break)
+    - home
+    - improvement
+    - inspiration
+    - justice
+    - learning
+    - longevity
+    - magic (general)
+    - magic (defensive)
+    - magic (sex)
+    - manifestation
+    - marriage
+    - messages/om ens (dreams)
+    - mind (quick)
+    - money
+    - nightmares
+    - optimism
+    - peace (attract)
+    - peace (make)
+    - power (inner)
+    - prophecy
+    - prosperity
+    - release
+    - senses (sight)
+    - spirits (banish)
+    - stress
+    - success
+    - support
+    - wealth
+    - weather (protect from lightning)
+    - weather (storms)
+    - witches/witchcraft (avert)
+    - youth
   toxicity:
     humans: true
     pets: true
@@ -3514,9 +5587,11 @@ vervain:
   holidays:
     - litha
   citation:
-    - plant-2
-    - plant-1
+    - morgana-green-witch
+    - cunningham-herbs
+    - kynes-correspondences
 white oak:
+  type: tree
   parts used: leaves, bark, twigs, acorns
   planet: sun
   element: fire
@@ -3533,8 +5608,10 @@ white oak:
     humans: false
     pets: false
   citation:
-    - plant-2
+    - morgana-green-witch
+    - kynes-correspondences
 wild geranium:
+  type: herb & garden
   parts used: leaves, flowers
   planet: venus
   element: water
@@ -3549,7 +5626,8 @@ wild geranium:
     humans: false
     pets: false
   citation:
-    - plant-2
+    - morgana-green-witch
+    - kynes-correspondences
 wild ginger:
   parts used: leaves, root
   planet: moon
@@ -3567,7 +5645,7 @@ wild ginger:
     notes:
       - mildly toxic to humans
   citation:
-    - plant-2
+    - morgana-green-witch
 wild tobacco:
   parts used: leaves
   planet: mars
@@ -3585,8 +5663,9 @@ wild tobacco:
     notes:
       - wear gloves when handling
   citation:
-    - plant-2
+    - morgana-green-witch
 wild violet:
+  type: herb & garden
   parts used: flowers, leaves
   planet: venus
   element: water
@@ -3605,8 +5684,10 @@ wild violet:
   holidays:
     - ostara
   citation:
-    - plant-2
+    - morgana-green-witch
+    - kynes-correspondences
 willow:
+  type: tree
   parts used: leaves, stems, branches, bark
   planet: moon
   element: water
@@ -3617,14 +5698,57 @@ willow:
     - enchantment
     - witchcraft
     - immortality
+    - adaptability
+    - afterlife
+    - beauty (weeping)
+    - beginnings
+    - bind
+    - blessings
+    - communication
+    - connections
+    - consecrate/bless
+    - courage
+    - death
+    - dream work
+    - energy (psychic)
+    - fertility
+    - freedom
+    - grace
+    - grief (weeping)
+    - healing
+    - inspiration
+    - intuition (trust it)
+    - knowledge
+    - loss (comfort)
+    - love (forsaken)
+    - magic (general)
+    - magic (moon)
+    - mind (open)
+    - nurture
+    - optimism
+    - otherworld/underworld
+    - power (general)
+    - power (moon)
+    - prophecy
+    - protection
+    - relationships
+    - skills
+    - sorrow
+    - spirits
+    - strength
+    - willpower
+    - wishes
+    - witches/witchcraft
   toxicity:
     humans: false
     pets: false
   holidays:
     - beltane
   citation:
-    - plant-2
+    - morgana-green-witch
+    - kynes-correspondences
 witch hazel:
+  type: tree
   parts used: flowers, leaves, bark
   planet: saturn
   element: fire
@@ -3634,13 +5758,29 @@ witch hazel:
   properties:
     - protection
     - chastity
+    - anxiety
+    - banish
+    - courage
+    - divination (love)
+    - fidelity
+    - healing
+    - inspiration
+    - learning
+    - loss
+    - problems
+    - sexuality
+    - stress
+    - willpower
+    - wisdom
+    - witches/witchcraft
   toxicity:
     humans: false
     pets: true
   holidays:
     - samhain
   citation:
-    - plant-2
+    - morgana-green-witch
+    - kynes-correspondences
 wood sorrel:
   parts used: leaves, flowers
   planet: venus
@@ -3659,8 +5799,9 @@ wood sorrel:
   holidays:
     - litha
   citation:
-    - plant-2
+    - morgana-green-witch
 wormwood:
+  type: misc
   parts used: leaves, flowers, stems
   planet: mars, saturn
   element: earth
@@ -3684,9 +5825,11 @@ wormwood:
   holidays:
     - samhain
   citation:
-    - plant-2
-    - plant-1
+    - morgana-green-witch
+    - cunningham-herbs
+    - kynes-correspondences
 yarrow:
+  type: herb & garden
   parts used: leaves, flowers, root
   planet: venus
   element: water
@@ -3705,9 +5848,11 @@ yarrow:
       - avoid if pregnant
       - may cause severe skin allergies or dermatitis
   citation:
-    - plant-2
-    - plant-1
+    - morgana-green-witch
+    - cunningham-herbs
+    - kynes-correspondences
 yew:
+  type: tree
   parts used: leaves, bark, twigs, berries
   planet: saturn, pluto
   element: water
@@ -3726,5 +5871,6 @@ yew:
     - samhain
     - yule
   citation:
-    - plant-2
-    - plant-1
+    - morgana-green-witch
+    - cunningham-herbs
+    - kynes-correspondences

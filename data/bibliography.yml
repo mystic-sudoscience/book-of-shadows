@@ -1,0 +1,41 @@
+cunningham-herbs:
+  author:
+    last: Cunningham
+    first: Scott
+  title: Cunningham’s Encyclopedia of Magical Herbs
+  publisher: Llewellyn Publications
+  year: 1985
+  citation: Cunningham, Scott. Cunningham’s Encyclopedia of Magical Herbs. Llewellyn Publications, 1985.
+healthline-chakras:
+  author:
+    last: Stelter
+    first: Gretchen
+  title: "Your 7 Chakras: What They Mean, How to Find Them, and What Happens If They’re Blocked"
+  website: Healthline
+  publisher: Healthline Media
+  date: 2016-10-04
+  url: www.healthline.com/health/fitness-exercise/7-chakras
+  accessed: 2026-11-07
+  citation: "Stelter, Gretchen. “Your 7 Chakras: What They Mean, How to Find Them, and What Happens If They’re Blocked.” Healthline, Healthline Media, 4 Oct. 2016, www.healthline.com/health/fitness-exercise/7-chakras. Accessed 7 Nov. 2026."
+kynes-correspondences:
+  author:
+    last: Kynes
+    first: Sandra
+  title: Llewellyn’s Complete Book of Correspondences
+  publisher: Llewellyn Publications
+  year: 2013
+  citation: Kynes, Sandra. Llewellyn’s Complete Book of Correspondences. Llewellyn Publications, 2013.
+morgana-green-witch:
+  author:
+    last: Morgana
+    first: Rowan
+  title: The Green Witch’s Herb and Plant Encyclopedia
+  publisher: Sourcebooks, Inc.
+  year: 2024
+  citation: Morgana, Rowan. The Green Witch’s Herb and Plant Encyclopedia. Sourcebooks, Inc., 2024.
+vikingeskibsmuseet-weekdays:
+  title: The Names of the Weekdays
+  website: Vikingeskibsmuseet i Roskilde
+  url: www.vikingeskibsmuseet.dk/en/professions/education/viking-age-people/the-names-of-the-weekdays
+  accessed: 2026-11-07
+  citation: “The Names of the Weekdays.” Vikingeskibsmuseet i Roskilde, www.vikingeskibsmuseet.dk/en/professions/education/viking-age-people/the-names-of-the-weekdays. Accessed 7 Nov. 2026.

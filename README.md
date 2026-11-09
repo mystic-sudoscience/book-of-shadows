@@ -4,22 +4,22 @@ A community-maintained collection of correspondences (plants, crystals, elements
 
 ## Contents
 
-| File | Description |
-| --- | --- |
-| [data/plants.yml](data/plants.yml) | Herbs and plants with their correspondences, safety notes, and uses |
-| [data/crystals.yml](data/crystals.yml) | Crystals and their properties |
-| [data/elements.yml](data/elements.yml) | Earth, air, fire, and water and what they govern |
-| [data/weekdays.yml](data/weekdays.yml) | Days of the week, ruling planets, Norse deities, and properties |
-| [data/chakras.yml](data/chakras.yml) | The seven chakras: color, location, meaning, and signs of blockage |
-| [bibliography/](bibliography/) | Source citations (one YAML file per data file) that entries reference by id |
-| [load_db.py](load_db.py) | Script that loads the YAML data into a local MongoDB database |
+| File                                  | Description                                                                 |
+| ------------------------------------- | --------------------------------------------------------------------------- |
+| [data/plants.yml](data/plants.yml)     | Herbs and plants with their correspondences, safety notes, and uses         |
+| [data/crystals.yml](data/crystals.yml) | Crystals and their properties                                               |
+| [data/elements.yml](data/elements.yml) | Earth, air, fire, and water and what they govern                            |
+| [data/weekdays.yml](data/weekdays.yml) | Days of the week, ruling planets, Norse deities, and properties             |
+| [data/chakras.yml](data/chakras.yml)   | The seven chakras: color, location, meaning, and signs of blockage          |
+| [data/bibliography.yml](data/bibliography.yml) | Every source, keyed by a short id that entries reference in `citation` |
+| [load_db.py](load_db.py)               | Script that loads the YAML data into a local MongoDB database               |
 
 ## How to contribute
 
 1. Fork the repository and create a branch (`username/[update]`, etc.).
 2. Edit the relevant YAML file, following the formatting rules and templates below.
 3. Check your changes pass the linter (see [Validating your changes](#validating-your-changes)).
-4. Add every source you used to the matching file in [bibliography/](bibliography/) and reference its id in the entry's `citation` list (see [Citations](#citations)).
+4. Add every source you used to [data/bibliography.yml](data/bibliography.yml) and reference its id in the entry's `citation` list (see [Citations](#citations)).
 5. Open a pull request describing what you added or changed and which sources support it.
 
 You can add new entries, fill in missing fields on existing entries, fix errors, or add safety notes.
@@ -40,6 +40,7 @@ You can add new entries, fill in missing fields on existing entries, fix errors,
 
 ```yaml
 aconite:
+  type: herb & garden
   parts used: leaves, flowers
   planet: saturn
   element: water
@@ -57,8 +58,11 @@ aconite:
   holidays:
     - samhain
   citation:
-    - plant-2
+    - morgana-green-witch
 ```
+
+`type` is one of `tree`, `herb & garden`, or `misc` (the categories used in
+*Llewellyn's Complete Book of Correspondences*). Leave it out if unsure.
 
 Only `parts used`, `planet`, `element`, `properties`, and `citation` are typically present. `moon phase`, `zodiac sign`, `chakra`, `toxicity`, `notes`, and `holidays` are optional.
 
@@ -78,7 +82,7 @@ crystal_name:
     - property two
 ```
 
-Replace the `crystal_name` placeholder with the crystal's name. Additional fields (element, planet, chakra, cleansing notes) are welcome if you keep them consistent across entries. Crystals do not have a source yet: create `bibliography/crystals.yml` with the first source (id `crystal-1`) and add a `citation` list to the entry, as described in [Citations](#citations).
+Replace the `crystal_name` placeholder with the crystal's name. Additional fields (element, planet, chakra, cleansing notes) are welcome if you keep them consistent across entries. Crystals do not have a source yet: add the source to `data/bibliography.yml` and add a `citation` list to the entry, as described in [Citations](#citations).
 
 ### Elements (`elements.yml`)
 
@@ -87,10 +91,10 @@ element:
   properties:
     - purpose
   citation:
-    - element-1
+    - cunningham-herbs
 ```
 
-`citation` is a list of ids from `bibliography/elements.yml`.
+`citation` is a list of ids from `data/bibliography.yml`.
 
 ### Weekdays (`weekdays.yml`)
 
@@ -102,10 +106,10 @@ sunday:
     - healing
     - protection
   citation:
-    - weekday-1
+    - cunningham-herbs
 ```
 
-`citation` is a list of ids from `bibliography/weekdays.yml`.
+`citation` is a list of ids from `data/bibliography.yml`.
 
 Note that the existing key is spelled `norse diety`. Keep it as is until it is renamed across the whole file in a dedicated change.
 
@@ -120,7 +124,7 @@ root:
   signs of blockage:
     - arthritis
   citation:
-    - chakra-1
+    - healthline-chakras
 ```
 
 ## Validating your changes
@@ -130,14 +134,14 @@ Install the dependencies in a virtual environment, then lint with [yamllint](htt
 ```sh
 python -m venv .venv && source .venv/bin/activate
 pip install -r requirements.txt
-yamllint --strict -c .yamllint data bibliography
+yamllint --strict -c .yamllint data
 ```
 
 yamllint checks syntax, 2-space indentation, trailing spaces, a final newline, spacing after colons, and duplicate keys (which YAML parsers otherwise silently overwrite).
 
 ### Pre-commit
 
-[pre-commit](https://pre-commit.com/) runs yamllint on `data/` and `bibliography/` automatically. A commit that fails is rejected until the file is fixed.
+[pre-commit](https://pre-commit.com/) runs yamllint on `data/` automatically. A commit that fails is rejected until the file is fixed.
 
 ```sh
 pre-commit install          # once, to run the checks on each commit
@@ -155,14 +159,14 @@ python load_db.py
 
 Configuration lives in `.env` (git-ignored; never commit it):
 
-| Variable | Default | Description |
-| --- | --- | --- |
+| Variable      | Default                       | Description                                                                         |
+| ------------- | ----------------------------- | ----------------------------------------------------------------------------------- |
 | `MONGO_URI` | `mongodb://localhost:27017` | MongoDB connection string. Include credentials here if your instance requires auth. |
-| `MONGO_DB` | `book_of_shadows` | Database to load into |
+| `MONGO_DB`  | `book_of_shadows`           | Database to load into                                                               |
 
 Command-line flags override `.env`, and real environment variables take precedence over `.env` values.
 
-Each file in `data/` becomes a collection (`plants.yml` -> `plants`), and each file in `bibliography/` becomes a collection prefixed with `bibliography_` (`bibliography/plants.yml` -> `bibliography_plants`). Each top-level entry becomes a document whose `_id` and `name` are the entry name, so a `citation` id such as `plant-1` matches the `_id` of a document in `bibliography_plants`. The script is safe to re-run: documents are upserted. Options:
+Each file in `data/` becomes a collection (`plants.yml` -> `plants`, `bibliography.yml` -> `bibliography`). Each top-level entry becomes a document whose `_id` and `name` are the entry name, so a `citation` id such as `cunningham-herbs` matches the `_id` of a document in `bibliography`. The script is safe to re-run: documents are upserted. Options:
 
 - `--uri` MongoDB connection string (overrides `MONGO_URI`)
 - `--db` database name (overrides `MONGO_DB`)
@@ -176,14 +180,14 @@ mongosh book_of_shadows --eval 'db.plants.find({planet: "venus"}, {name: 1})'
 
 ## Citations
 
-**No new information may be added without a citation.** Every new entry, field, or edit must be backed by a source in [bibliography/](bibliography/). Pull requests without citations will not be merged.
+**No new information may be added without a citation.** Every new entry, field, or edit must be backed by a source in [data/bibliography.yml](data/bibliography.yml). Pull requests without citations will not be merged.
 
 ### How citations work
 
-Each data file in `data/` has a matching file in `bibliography/` (`data/plants.yml` -> `bibliography/plants.yml`). A bibliography entry has an id (`plant-1`, `weekday-2`, `chakra-1`, ...) and describes one source:
+All sources live in one file, [data/bibliography.yml](data/bibliography.yml). Each source has a short, descriptive id (`cunningham-herbs`, `healthline-chakras`, ...) and is reused by any entry in any file that draws on it:
 
 ```yaml
-plant-1:
+cunningham-herbs:
   author:
     last: Cunningham
     first: Scott
@@ -201,21 +205,21 @@ sunday:
   properties:
     - healing
   citation:
-    - weekday-1
-    - weekday-2
+    - cunningham-herbs
+    - vikingeskibsmuseet-weekdays
 ```
 
 ### Adding a source
 
-1. Open the matching file in `bibliography/` and add a new entry with the next unused id (if the last is `plant-2`, use `plant-3`).
-2. Include the fields that apply: `author` (`last`, `first`), `title`, `publisher` or `website`, `year` or `date`, `url`, `accessed`, and `page` for a specific page.
+1. Add a new entry to `data/bibliography.yml` with a short id of the form `author-topic` (lowercase, hyphenated), in alphabetical order.
+2. Include the fields that apply: `author` (`last`, `first`), `title`, `publisher` or `website`, `year` or `date`, `url`, and `accessed`.
 3. Put the full MLA string in `citation`. [MyBib](https://www.mybib.com/) can format it.
 4. Quote any value containing `: ` or `#`, which is common in titles and MLA strings.
 5. Add the id to the `citation` list of every data entry the source supports.
 
-If your source is already in the bibliography, just reference its id; do not add it again. A new source for an existing file, for example a second book on weekdays, gets a new id and is added to the entries it supports alongside the existing ids.
+If your source is already in the bibliography, just reference its id; do not add it again. A new source gets a new id and is added to the entries it supports alongside the existing ids.
 
-For plants, entries with a `zodiac sign` are credited to `plant-2` and entries without one to `plant-1`. When your source supports a plant, add its id as well.
+For plants, entries with a `zodiac sign` are credited to `morgana-green-witch` and entries without one to `cunningham-herbs`. When your source supports a plant, add its id as well.
 
 ### Rules
 

@@ -9,8 +9,8 @@ sunday:
     - vitality
     - success
   citation:
-    - weekday-1
-    - weekday-2
+    - cunningham-herbs
+    - vikingeskibsmuseet-weekdays
 
 monday:
   ruling planet: moon
@@ -23,8 +23,8 @@ monday:
     - healing
     - emotional balance
   citation:
-    - weekday-1
-    - weekday-2
+    - cunningham-herbs
+    - vikingeskibsmuseet-weekdays
 
 tuesday:
   ruling planet: mars
@@ -37,8 +37,8 @@ tuesday:
     - fitness
     - hex-breaking
   citation:
-    - weekday-1
-    - weekday-2
+    - cunningham-herbs
+    - vikingeskibsmuseet-weekdays
 
 wednesday:
   ruling planet: mercury
@@ -49,8 +49,8 @@ wednesday:
     - problem-solving
     - communication
   citation:
-    - weekday-1
-    - weekday-2
+    - cunningham-herbs
+    - vikingeskibsmuseet-weekdays
 
 thursday:
   ruling planet: jupiter
@@ -61,8 +61,8 @@ thursday:
     - luck
     - legal matters
   citation:
-    - weekday-1
-    - weekday-2
+    - cunningham-herbs
+    - vikingeskibsmuseet-weekdays
 
 friday:
   ruling planet: venus
@@ -74,8 +74,8 @@ friday:
     - harmony
     - pleasure
   citation:
-    - weekday-1
-    - weekday-2
+    - cunningham-herbs
+    - vikingeskibsmuseet-weekdays
 
 saturday:
   ruling planet: saturn
@@ -84,5 +84,5 @@ saturday:
     - patience
     - perseverance
   citation:
-    - weekday-1
-    - weekday-2
+    - cunningham-herbs
+    - vikingeskibsmuseet-weekdays

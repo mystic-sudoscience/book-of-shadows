@@ -3,12 +3,12 @@ repos:
     rev: v5.0.0
     hooks:
       - id: trailing-whitespace
-        files: ^(data|bibliography)/.*\.yml$
+        files: ^data/.*\.yml$
       - id: end-of-file-fixer
-        files: ^(data|bibliography)/.*\.yml$
+        files: ^data/.*\.yml$
   - repo: https://github.com/adrienverge/yamllint
     rev: v1.35.1
     hooks:
       - id: yamllint
         args: [--strict, -c, .yamllint]
-        files: ^(data|bibliography)/.*\.yml$
+        files: ^data/.*\.yml$
