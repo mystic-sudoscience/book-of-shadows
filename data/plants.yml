@@ -10,6 +10,9 @@ acacia:
   notes:
     - combine with sandalwood to enhance psychic abilities
     - also called gum arabic
+  toxicity:
+    notes:
+      - may cause gastritis
   citation:
     - plant-1
 adam and eve roots:
@@ -19,6 +22,9 @@ adam and eve roots:
   properties:
     - love
     - happiness
+  toxicity:
+    notes:
+      - poison
   citation:
     - plant-1
 adder's tongue:
@@ -114,6 +120,9 @@ alkanet:
     - prosperity
   note:
     - burn as incense
+  toxicity:
+    notes:
+      - not recommended for internal use
   citation:
     - plant-1
 allspice:
@@ -172,6 +181,8 @@ althea:
   properties:
     - protection
     - attracting good energy
+  notes:
+    - known as marshmallow
   citation:
     - plant-1
 alyssum:
@@ -198,6 +209,9 @@ anemone:
     - health
     - protection
     - healing
+  toxicity:
+    notes:
+      - not recommended for internal use
   citation:
     - plant-1
 angelica:
@@ -220,8 +234,11 @@ angelica:
     humans: false
     notes:
       - may cause skin sensitivity
+      - avoid if pregnant
+      - may increase sensitivity to sunlight
   citation:
     - plant-2
+    - plant-1
 anise:
   parts used: seeds
   planet: jupiter
@@ -230,8 +247,12 @@ anise:
     - purification
     - banish negative energy
     - protection
+    - luck
   notes:
     - enhance protection with bay leaf
+  toxicity:
+    notes:
+      - avoid if pregnant
   citation:
     - plant-1
 apple:
@@ -251,6 +272,19 @@ apricot:
   element: water
   properties:
     - love
+  citation:
+    - plant-1
+asafoetida:
+  planet: mars
+  element: fire
+  properties:
+    - exorcism
+    - purification
+    - protection
+  toxicity:
+    notes:
+      - avoid if pregnant
+      - do not feed to a child with colic
   citation:
     - plant-1
 ash:
@@ -329,6 +363,16 @@ lemon balm:
     pets: false
   citation:
     - plant-2
+balm of gilead:
+  planet: venus
+  element: water
+  properties:
+    - love
+    - manifestations
+    - protection
+    - healing
+  citation:
+    - plant-1
 bamboo:
   parts used: stalks, leaves
   properties:
@@ -350,8 +394,14 @@ basil:
     - quarrels
   holidays:
     - imbolc
+  toxicity:
+    notes:
+      - avoid if pregnant
+      - avoid if nursing
+      - not recommended for internal use for infant and toddlers
   citation:
     - plant-2
+    - plant-1
 bay leaf:
   parts used: leaves, stems, branches
   planet: sun
@@ -379,8 +429,12 @@ beans:
     - prosperity
   holidays:
     - samhain
+  toxicity:
+    notes:
+      - beans not used for food may be poisonous
   citation:
     - plant-2
+    - plant-1
 bee balm:
   parts used: flowers, leaves
   planet: mercury
@@ -417,6 +471,22 @@ belladonna:
       - highly poisonous
   citation:
     - plant-2
+    - plant-1
+benzoin:
+  planet: sun
+  element: air
+  properties:
+    - purification
+    - prosperity
+  citation:
+    - plant-1
+bergamot, orange:
+  planet: mercury
+  element: air
+  properties:
+    - money
+  citation:
+    - plant-1
 bindweed:
   parts used: flowers, seeds
   planet: saturn
@@ -431,8 +501,35 @@ bindweed:
     pets: true
     notes:
       - leaves are nontoxic to humans but seeds are toxic
+  notes:
+    - morning glory
   citation:
     - plant-2
+birch:
+  planet: venus
+  element: water
+  properties:
+    - protection
+    - exorcism
+    - purification
+  citation:
+    - plant-1
+bistort:
+  planet: saturn
+  element: earth
+  properties:
+    - psychic powers
+    - fertility
+  citation:
+    - plant-1
+bittersweet:
+  planet: mercury
+  element: air
+  properties:
+    - protection
+    - healing
+  citation:
+    - plant-1
 black cohosh:
   parts used: root
   planet: pluto
@@ -451,8 +548,11 @@ black cohosh:
     pets: true
     notes:
       - nontoxic in small amounts
+      - avoid if pregnant
+      - avoid if nursing
   citation:
     - plant-2
+    - plant-1
 blackberry:
   parts used: leaves, fruit
   planet: venus
@@ -481,8 +581,14 @@ bladderwrack:
     - sea magic
   notes:
     - these are sea grapes
+  toxicity:
+    notes:
+      - avoid if pregnant
+      - avoid if nursing
+      - may cause hyperthyroidism
   citation:
     - plant-2
+    - plant-1
 bleeding heart:
   parts used: flowers
   planet: venus
@@ -498,8 +604,10 @@ bleeding heart:
     pets: true
     notes:
       - highly toxic
+      - not recommended for internal use
   citation:
     - plant-2
+    - plant-1
 elm, american:
   parts used: leaves, bark
   planet: saturn
@@ -515,20 +623,20 @@ elm, american:
     pets: false
   citation:
     - plant-2
-blessed thistle:
-  parts used: leaves, thistles
+bloodroot:
   planet: mars
   element: fire
-  moon phase: waxing
-  zodiac sign: leo
-  chakra: throat
   properties:
+    - love
+    - protection
     - purification
-    - hex-breaking
-  holidays:
-    - mabon
+  toxicity:
+    notes:
+      - poison
+      - avoid if pregnant
+      - may cause nausea, vomiting
   citation:
-    - plant-2
+    - plant-1
 blueberry:
   parts used: berries
   planet: moon, venus
@@ -540,6 +648,34 @@ blueberry:
     - protection
   citation:
     - plant-2
+blue flag:
+  planet: venus
+  element: water
+  properties:
+    - money
+  toxicity:
+    notes:
+      - poison
+      - avoid if pregnant
+      - may cause nausea, vomiting
+  citation:
+    - plant-1
+bluebell:
+  properties:
+    - luck
+    - truth
+  citation:
+    - plant-1
+bodhi:
+  planet: jupiter
+  element: air
+  properties:
+    - fertility
+    - protection
+    - wisdom
+    - meditation
+  citation:
+    - plant-1
 borage:
   parts used: young leaves, flowers
   planet: jupiter
@@ -573,8 +709,11 @@ bracken:
   toxicity:
     humans: true
     pets: true
+    notes:
+      - not recommended for internal use
   citation:
     - plant-2
+    - plant-1
 bromeliad:
   parts used: leaves, flowers
   planet: sun
@@ -601,15 +740,19 @@ broom:
     - purification
     - protection
     - astral travel
+    - money
   toxicity:
     humans: true
     pets: true
     notes:
       - safe to handle but should not be ingested or applied to the skin
+  notes:
+    - also known as gorse. planet and element listed as mars, fire in cunninghams encyclopedia.
   holidays:
     - samhain
   citation:
     - plant-2
+    - plant-1
 burdock:
   parts used: stems, leaves, seeds, root
   planet: venus
@@ -668,8 +811,12 @@ carnation:
   toxicity:
     humans: false
     pets: true
+    notes:
+      - may cause severe skin allergies or dermatitis
+      - may disturb some part of the digestive system if used internally
   citation:
     - plant-2
+    - plant-1
 catnip:
   parts used: flowers, leaves
   planet: venus
@@ -685,8 +832,12 @@ catnip:
     - happiness
   holidays:
     - samhain
+  toxicity:
+    notes:
+      - avoid if pregnant
   citation:
     - plant-2
+    - plant-1
 cedar:
   parts used: leaves, bark
   planet: sun
@@ -698,8 +849,12 @@ cedar:
     - healing
     - purification
     - protection
+  toxicity:
+    notes:
+      - avoid if pregnant
   citation:
     - plant-2
+    - plant-1
 chamomile:
   parts used: leaves, flowers
   planet: sun
@@ -738,8 +893,12 @@ chickweed:
   properties:
     - fidelity
     - love
+  toxicity:
+    notes:
+      - harvest from fertilizer-free environments
   citation:
     - plant-2
+    - plant-1
 chili pepper:
   parts used: fruit
   planet: mars
@@ -765,11 +924,14 @@ chrysanthemum:
   toxicity:
     humans: true
     pets: true
+    notes:
+      - poisonous
   holidays:
     - mabon
     - samhain
   citation:
     - plant-2
+    - plant-1
 cinnamon:
   parts used: leaves, bark
   planet: sun
@@ -784,8 +946,12 @@ cinnamon:
     - blessings
     - spirituality
     - money
+  toxicity:
+    notes:
+      - do not abuse internally
   citation:
     - plant-2
+    - plant-1
 cinquefoil:
   parts used: leaves, flowers
   planet: jupiter
@@ -816,6 +982,28 @@ clover:
     - wealth
   citation:
     - plant-2
+clove:
+  planet: jupiter
+  element: fire
+  properties:
+    - protection
+    - love
+    - money
+  citation:
+    - plant-1
+club moss:
+  planet: moon
+  element: water
+  properties:
+    - protection
+    - power
+  note:
+    - use in a purification bath
+  toxicity:
+    notes:
+      - not recommended for internal use
+  citation:
+    - plant-1
 columbine:
   parts used: flowers, leaves
   planet: venus
@@ -843,8 +1031,38 @@ comfrey:
     - money
   notes:
     - used to heal broken skin
+  toxicity:
+    notes:
+      - not recommended for internal use
   citation:
     - plant-2
+    - plant-1
+copal:
+  planet: sun
+  element: fire
+  properties:
+    - love
+    - purification
+  citation:
+    - plant-1
+coriander:
+  planet: mars
+  element: fire
+  properties:
+    - love
+    - health
+    - healing
+  citation:
+    - plant-1
+corn:
+  planet: venus
+  element: earth
+  properties:
+    - protection
+    - luck
+    - divination
+  citation:
+    - plant-1
 cowslip:
   parts used: leaves, flowers
   planet: venus
@@ -858,7 +1076,7 @@ cowslip:
     - harmony
     - grace
     - secrets
-    - spirit world
+    - treasure finding
   toxicity:
     humans: true
     pets: true
@@ -868,6 +1086,36 @@ cowslip:
     - ostara
   citation:
     - plant-2
+    - plant-1
+crocus:
+  planet: venus
+  element: water
+  properties:
+    - love
+    - visions
+  toxicity:
+    notes:
+      - not recommended for internal use
+  citation:
+    - plant-1
+cucumber:
+  planet: moon
+  element: water
+  properties:
+    - fertility
+    - chastity
+    - healing
+  citation:
+    - plant-1
+cumin:
+  planet: mars
+  element: fire
+  properties:
+    - protection
+    - fidelity
+    - exorcism
+  citation:
+    - plant-1
 cyclamen:
   parts used: flowers, leaves
   planet: venus
@@ -885,8 +1133,23 @@ cyclamen:
     pets: true
     notes:
       - can cause skin irritation
+      - probably not recommended for internal use in high doses
   citation:
     - plant-2
+    - plant-1
+cypress:
+  planet: saturn
+  element: earth
+  properties:
+    - longevity
+    - protection
+    - healing
+    - comfort
+  toxicity:
+    notes:
+      - avoid if pregnant
+  citation:
+    - plant-1
 daffodil:
   parts used: bulb, flower
   planet: venus
@@ -900,8 +1163,32 @@ daffodil:
     - luck
   holidays:
     - ostara
+  toxicity:
+    notes:
+      - poison
   citation:
     - plant-2
+    - plant-1
+daisy:
+  planet: venus
+  element: water
+  properties:
+    - love
+    - lust
+  toxicity:
+    notes:
+      - poison
+  citation:
+    - plant-1
+damiana:
+  planet: mars
+  element: fire
+  properties:
+    - love
+    - lust
+    - visions
+  citation:
+    - plant-1
 dandelion:
   parts used: leaves, flowers, root
   planet: jupiter
@@ -924,14 +1211,49 @@ datura:
     - divination
     - invisibility
     - shape-shifting
+    - hex-breaking
+    - sleep
   chakra: crown
   toxicity:
     humans: true
     pets: true
     notes:
-      - highly toxic
+      - extremely poisonous—do not eat! sensitive skin may be irritated simply by touching the plant
   citation:
     - plant-2
+    - plant-1
+deerstongue:
+  planet: mars
+  element: fire
+  properties:
+    - lust
+    - psychic powers
+  notes:
+    - attracts men
+  toxicity:
+    notes:
+      - not recommended for internal use
+  citation:
+    - plant-1
+devil's bit:
+  properties:
+    - exorcism
+    - protection
+    - love
+    - luck
+  note:
+    - attracts women
+  citation:
+    - plant-1
+devil's shoestring:
+  properties:
+    - protection
+    - gambling
+    - power
+    - luck
+    - employment
+  citation:
+    - plant-1
 dill:
   parts used: seeds, leaves
   planet: mercury
@@ -962,8 +1284,19 @@ dock:
   toxicity:
     humans: false
     pets: true
+    notes:
+      - may cause kidney stones
   citation:
     - plant-2
+    - plant-1
+dogbane:
+  properties:
+    - love
+  toxicity:
+    notes:
+      - not recommended for internal use
+  citation:
+    - plant-1
 dogwood:
   parts used: flowers, berries, leaves, wood
   planet: saturn
@@ -977,6 +1310,29 @@ dogwood:
   notes: null
   citation:
     - plant-2
+dragon's blood:
+  planet: mars
+  element: fire
+  properties:
+    - love
+    - protection
+    - potency
+  citation:
+    - plant-1
+dulce:
+  planet: moon
+  element: water
+  properties:
+    - lust
+    - harmony
+  citation:
+    - plant-1
+ebony:
+  properties:
+    - protection
+    - power
+  citation:
+    - plant-1
 echinacea:
   parts used: flowers, root
   planet: mars
@@ -990,6 +1346,11 @@ echinacea:
   notes: null
   citation:
     - plant-2
+edelweiss:
+  properties:
+    - invisibility
+  citation:
+    - plant-1
 elderberry:
   parts used: leaves, berries, bark
   planet: venus, mercury
@@ -1002,11 +1363,71 @@ elderberry:
     - banishing negative energy
     - healing
     - prosperity
+    - love
   toxicity:
+    humans: true
+    pets: true
     notes:
-      - only safe for humans to eat if cooked
+      - only the berries are safe for humans to eat if they are cooked
   citation:
     - plant-2
+elecampane:
+  planet: mercury
+  element: air
+  properties:
+    - love
+    - protection
+    - psychic powers
+  toxicity:
+    notes:
+      - avoid if pregnant
+      - avoid if nursing
+      - do not take internally in high doses; find several sources that have appropriate doses of this herb
+  citation:
+    - plant-1
+endive:
+  planet: jupiter
+  element: air
+  properties:
+    - love
+    - lust
+  citation:
+    - plant-1
+eryngo:
+  planet: venus
+  element: water
+  properties:
+    - traveler's luck
+    - peace
+    - love
+    - lust
+  citation:
+    - plant-1
+eucalyptus:
+  planet: moon
+  element: water
+  properties:
+    - healing
+    - protection
+  toxicity:
+    notes:
+      - may cause liver problems
+      - may cause inflammatory diseases of bile ducts
+      - do not use on the faces of small children
+  citation:
+    - plant-1
+euphorbia:
+  planet: saturn
+  element: water
+  properties:
+    - protection
+    - purification
+  toxicity:
+    notes:
+      - poison
+      - may cause nausea, vomiting
+  citation:
+    - plant-1
 fennel:
   parts used: leaves, seeds, root
   planet: mercury
@@ -1021,6 +1442,24 @@ fennel:
   notes: null
   citation:
     - plant-2
+fenugreek:
+  planet: mercury
+  element: air
+  properties:
+    - money
+  citation:
+    - plant-1
+fern:
+  planet: mercury
+  element: air
+  properties:
+    - rain-making
+    - luck
+    - riches
+    - health
+    - exorcism
+  citation:
+    - plant-1
 feverfew:
   parts used: flowers, leaves
   planet: venus
@@ -1032,12 +1471,37 @@ feverfew:
     - protection
     - banishing
   notes: null
+  toxicity:
+    notes:
+      - avoid if pregnant
+      - may disturb some part of the digestive system if used internally
   citation:
     - plant-2
+    - plant-1
+fig:
+  planet: jupiter
+  element: fire
+  properties:
+    - divination
+    - fertility
+    - love
+  citation:
+    - plant-1
+figwort:
+  planet: venus
+  element: water
+  properties:
+    - health
+    - protection
+  toxicity:
+    notes:
+      - may cause ventricular tachycardia
+  citation:
+    - plant-1
 flax:
   parts used: seeds, flowers
-  planet: venus
-  element: earth
+  planet: venus, mercury
+  element: earth, fire
   moon phase: waxing
   zodiac sign: taurus
   chakra: third-eye, heart
@@ -1050,8 +1514,21 @@ flax:
   holidays:
     - imbolc
     - samhain
+  toxicity:
+    notes:
+      - use an adequate amount of liquid if seed is used internally
   citation:
+    - plant-1
     - plant-2
+fleabane:
+  planet: venus
+  element: water
+  properties:
+    - exorcism
+    - protection
+    - chastity
+  citation:
+    - plant-1
 foxglove:
   parts used: flowers, leaves
   planet: venus
@@ -1061,6 +1538,7 @@ foxglove:
   chakra: third-eye
   properties:
     - enchantment
+    - protection
   toxicity:
     humans: true
     pets: true
@@ -1070,6 +1548,24 @@ foxglove:
     - summer solstice
   citation:
     - plant-2
+    - plant-1
+frankincense:
+  planet: sun
+  element: fire
+  properties:
+    - protection
+    - exorcism
+    - banishing negative energy
+  citation:
+    - plant-1
+fumitory:
+  planet: saturn
+  element: earth
+  properties:
+    - exorcism
+    - money
+  citation:
+    - plant-1
 galangal:
   parts used: root, flowers, leaves, fruit
   planet: mars
@@ -1081,9 +1577,12 @@ galangal:
     - protection
     - lust
     - health
+    - hex-breaking
+    - money
   notes: null
   citation:
     - plant-2
+    - plant-1
 gardenia:
   parts used: flowers, leaves
   planet: moon
@@ -1116,8 +1615,60 @@ garlic:
   toxicity:
     humans: false
     pets: true
+    notes:
+      - avoid if nursing
   citation:
     - plant-2
+    - plant-1
+gentian:
+  planet: mars
+  element: fire
+  properties:
+    - love
+    - power
+    - hex-breaking
+  toxicity:
+    notes:
+      - may cause ulcers
+      - may disturb some part of the digestive system if used internally
+  citation:
+    - plant-1
+geranium:
+  planet: venus
+  element: water
+  properties:
+    - fertility
+    - love
+    - health
+    - protection
+  citation:
+    - plant-1
+ginger:
+  planet: mars
+  element: fire
+  properties:
+    - love
+    - money
+    - success
+    - power
+  toxicity:
+    notes:
+      - avoid above normal food use levels
+      - avoid if pregnant
+      - may cause gallstones
+  citation:
+    - plant-1
+ginseng:
+  planet: sun
+  element: fire
+  properties:
+    - love
+    - wishing
+    - protection
+    - healing
+    - lust
+  citation:
+    - plant-1
 goldenrod:
   parts used: leaves, flowers
   planet: venus
@@ -1131,8 +1682,36 @@ goldenrod:
   toxicity:
     humans: false
     pets: false
+    notes:
+      - avoid if pregnant
+      - may cause gallstones
+      - may cause kidney problems
   citation:
     - plant-2
+    - plant-1
+golden seal:
+  planet: sun
+  element: fire
+  properties:
+    - healing
+    - money
+  toxicity:
+    notes:
+      - avoid if pregnant
+      - do not abuse, internally; not for long-term use
+  citation:
+    - plant-1
+grains of paradise:
+  planet: mars
+  element: fire
+  properties:
+    - lust
+    - luck
+    - money
+    - wishes
+    - love
+  citation:
+    - plant-1
 grape:
   parts used: leaves, fruit
   planet: moon
@@ -1170,10 +1749,12 @@ hawthorn:
     notes:
       - edible if seeds removed
       - pets: nontoxic in small amounts
+      - drug interactions are possible; may interfere with digitalis medications
   holidays:
     - beltane
   citation:
     - plant-2
+    - plant-1
 hazel:
   parts used: leaves, catkins, bark, nuts
   planet: sun
@@ -1224,11 +1805,14 @@ heliotrope:
     humans: true
     pets: true
     notes:
-      - humans: toxic if ingested in large amounts
+      - poisonous
+      - toxic if ingested in large amounts
+
   holidays:
     - litha
   citation:
     - plant-2
+    - plant-1
 hellebore:
   parts used: leaves, flowers, seeds, root
   planet: saturn, mars
@@ -1248,6 +1832,16 @@ hellebore:
       - all parts are deadly poison if ingested; always wear gloves when handling
   citation:
     - plant-2
+hemp:
+  planet: saturn
+  element: water
+  properties:
+    - healing
+    - love
+    - visions
+    - meditation
+  citation:
+    - plant-1
 henbane:
   parts used: flowers, seeds
   planet: saturn
@@ -1266,6 +1860,21 @@ henbane:
       - all parts are deadly poison if ingested; always wear gloves when handling
   citation:
     - plant-2
+    - plant-1
+hibiscus:
+  planet: venus
+  element: water
+  properties:
+    - love
+    - lust
+    - divination
+  citation:
+    - plant-1
+hickory:
+  properties:
+    - legal matters
+  citation:
+    - plant-1
 holly:
   parts used: leaves, fruit, wood
   planet: mars
@@ -1276,14 +1885,18 @@ holly:
   properties:
     - protection
     - dreams
+    - luck
   toxicity:
     humans: true
     pets: true
+    notes:
+      - may cause nausea, vomiting
   holidays:
     - lammas
     - lughnasadh
   citation:
     - plant-2
+    - plant-1
 honesty:
   parts used: seedpods
   planet: moon
@@ -1319,6 +1932,17 @@ honeysuckle:
     - ostara
   citation:
     - plant-2
+hops:
+  planet: mars
+  element: air
+  properties:
+    - healing
+    - sleep
+  toxicity:
+    notes:
+      - may cause depression
+  citation:
+    - plant-1
 horehound:
   parts used: leaves, flowers
   planet: mercury
@@ -1336,8 +1960,10 @@ horehound:
     pets: true
     notes:
       - humans: nontoxic in small amounts
+      - avoid if pregnant
   citation:
     - plant-2
+    - plant-1
 horsetail:
   parts used: leaves, stalk
   planet: saturn
@@ -1350,8 +1976,60 @@ horsetail:
   toxicity:
     humans: false
     pets: false
+    notes:
+      - may cause renal disorders
+      - may cause cardiac dysfunction
   citation:
     - plant-2
+    - plant-1
+horse chestnut:
+  planet: jupiter
+  element: fire
+  propeties:
+    - money
+    - healing
+  notes:
+    - also called buckeye
+  toxicity:
+    notes:
+      - poison
+  citation:
+    - plant-1
+horseradish:
+  planet: mars
+  element: fire
+  properties:
+    - purification
+    - exorcism
+  toxicity:
+    notes:
+      - may cause kidney problems
+      - may cause gastric mucosa inflammation
+      - avoid if a child under 4
+      - not recommended for internal use above normal food use levels
+  citation:
+    - plant-1
+huckleberry:
+  planet: venus
+  element: water
+  properties:
+    - luck
+    - protection
+    - hex-breaking
+  citation:
+    - plant-1
+hyacinth:
+  planet: venus
+  element: water
+  properties:
+    - love
+    - protection
+    - happiness
+  toxicity:
+    notes:
+      - not recommended for internal use
+  citation:
+    - plant-1
 hydrangea:
   parts used: flowers
   planet: moon, jupiter, neptune
@@ -1368,8 +2046,43 @@ hydrangea:
     pets: true
     notes:
       - wear gloves when handling
+      - not recommended for internal use
   citation:
     - plant-2
+    - plant-1
+hyssop:
+  planet: jupiter
+  element: fire
+  properties:
+    - purification
+    - protection
+  toxicity:
+    notes:
+      - avoid if pregnant
+  citation:
+    - plant-1
+iris:
+  planet: venus
+  element: water
+  properties:
+    - purification
+    - wisdom
+  toxicity:
+    notes:
+      - some species should not be used internally
+  citation:
+    - plant-1
+irish moss:
+  planet: moon
+  element: water
+  properties:
+    - money
+    - luck
+    - protection
+  notes:
+    - carrageen
+  citation:
+    plant-1
 ivy:
   parts used: leaves, stems
   planet: saturn
@@ -1380,11 +2093,14 @@ ivy:
   properties:
     - fidelity
     - prophecy
+    - luck
+    - protection
   toxicity:
     humans: true
     pets: true
   citation:
     - plant-2
+    - plant-1
 jasmine:
   parts used: flowers, leaves
   planet: moon
@@ -1419,10 +2135,45 @@ juniper:
     pets: true
     notes:
       - humans: nontoxic in small amounts
+      - avoid if pregnant
+      - do not abuse, internally; not for long-term use (maximum of 4-6 weeks at a time)
   holidays:
     - samhain
   citation:
     - plant-2
+    - plant-1
+kava-kava:
+  planet: saturn
+  element: water
+  properties:
+    - visions
+    - protection from evil
+    - luck
+  notes:
+    - it is drunk as an infusion but too much can cause kidney damage
+  toxicity:
+    notes:
+      - avoid if pregnant
+      - avoid if nursing
+      - may cause Parkinson's disease
+      - do not take internally in high doses; find several sources that have appropriate doses of this herb
+  citation:
+    - plant-1
+kelp:
+  planet: jupiter
+  element: water
+  properties:
+    - travel
+    - protection
+  citation:
+    - plant-1
+knotweed:
+  planet: saturn
+  element: earth
+  properties:
+    - binding
+  citation:
+    - plant-1
 lady's mantle:
   parts used: flowers, leaves
   planet: venus
@@ -1437,6 +2188,13 @@ lady's mantle:
     pets: false
   citation:
     - plant-2
+lady's slidder:
+  planet: saturn
+  element: water
+  properties:
+    - protection
+  citation:
+    - plant-1
 lavender:
   parts used: flowers, leaves, stems
   planet: mercury
@@ -1461,6 +2219,68 @@ lavender:
     - fairies
   citation:
     - plant-2
+leek:
+  planet: mars
+  element: fire
+  properties:
+    - love
+    - protection
+    - hex-breaking
+  citation:
+    - plant-1
+lemon:
+  planet: moon
+  element: water
+  properties:
+    - longevity
+    - purification
+    - love
+    - friendship
+  citation:
+    - plant-1
+lemongrass:
+  planet: mercury
+  element: air
+  properties:
+    - lust
+    - psychic powers
+  citation:
+    - plant-1
+lemon verbena:
+  planet: mercury
+  element: air
+  properties:
+    - purification
+    - love
+  citation:
+    - plant-1
+licorice:
+  planet: venus
+  element: water
+  properties:
+    - lust
+    - love
+    - fidelity
+  toxicity:
+    notes:
+      - avoid if pregnant
+      - may cause kidney problems
+      - may cause liver problems
+      - may cause hypertension
+      - may cause diabetes
+      - may cause hypokalemia
+      - do not abuse, internally; not for long-term use
+      - do not take internally in high doses; find several sources that have appropriate doses of this herb
+      - may deplete potassium
+  citation:
+    - plant-1
+life everlasting:
+  properties:
+    - longevity
+    - healing
+    - health
+  citation:
+    - plant-1
 lilac:
   parts used: flowers
   planet: venus
@@ -1501,6 +2321,34 @@ lily:
     - ostara
   citation:
     - plant-2
+    - plant-1
+lily of the valley:
+  planet: mercury
+  element: air
+  properties:
+    - happiness
+  toxicity:
+    notes:
+      - poison
+  citation:
+    - plant-1
+lime:
+  planet: sun
+  element: fire
+  properties:
+    - love
+    - healing
+    - protection
+  citation:
+    - plant-1
+linden:
+  planet: jupiter
+  element: air
+  properties:
+    - luck
+    - love
+    - sleep
+    - protection
 lovage:
   parts used: all parts
   planet: sun
@@ -1516,8 +2364,14 @@ lovage:
   toxicity:
     humans: false
     pets: true
+    notes:
+      - avoid if pregnant
+      - may cause kidney problems
+  notes:
+    - suggestion - place in bath
   citation:
     - plant-2
+    - plant-1
 magnolia:
   parts used: flowers, bark
   planet: venus
@@ -1547,10 +2401,14 @@ maidenhair fern:
   toxicity:
     humans: false
     pets: false
+    notes:
+      - avoid if pregnant
+      - do not take internally in high doses; find several sources that have appropriate doses of this herb
   holidays:
     - mabon
   citation:
     - plant-2
+    - plant-1
 mallow:
   parts used: leaves, flowers, root, seeds
   planet: moon
@@ -1572,7 +2430,7 @@ mallow:
 mandrake:
   parts used: root, leaves, flowers, berries
   planet: mercury
-  element: earth
+  element: earth, fire
   moon phase: waning
   zodiac sign: taurus
   chakra: root
@@ -1580,13 +2438,26 @@ mandrake:
     - fertility
     - protection
     - spirit world
+    - money
+    - love
   toxicity:
     humans: true
     pets: true
     notes:
       - wear gloves when handling
+      - poisonous
   citation:
     - plant-2
+    - plant-1
+maple:
+  planet: jupiter
+  element: air
+  properties:
+    - love
+    - longevity
+    - money
+  citation:
+    - plant-1
 marigold:
   parts used: flowers
   planet: sun
@@ -1642,6 +2513,13 @@ meadowsweet:
     - midsummer
   citation:
     - plant-2
+mesquite:
+  planet: moon
+  element: water
+  properties:
+    - healing
+  citation:
+    - plant-1
 mint:
   parts used: leaves
   planet: mercury
@@ -1708,11 +2586,13 @@ moss:
   properties:
     - luck
     - prosperity
+    - money
   toxicity:
     humans: false
     pets: false
   citation:
     - plant-2
+    - plant-1
 mugwort:
   parts used: leaves, flowers
   planet: venus
@@ -1730,10 +2610,12 @@ mugwort:
     pets: true
     notes:
       - humans: nontoxic in small amounts
+      - avoid if pregnant
   holidays:
     - samhain
   citation:
     - plant-2
+    - plant-1
 mullein:
   parts used: flowers, leaves
   planet: saturn
@@ -1852,8 +2734,11 @@ parsley:
   toxicity:
     humans: false
     pets: true
+    notes:
+      - do not take internally in high doses
   citation:
     - plant-2
+    - plant-1
 passionflower:
   parts used: leaves, flowers, stems, fruit
   planet: venus
@@ -1888,9 +2773,11 @@ pennyroyal:
     pets: true
     notes:
       - wear gloves when handling
-      - if you're pregnant, be extra careful when handling
+      - avoid if pregnant
+      - the oil is poisonous
   citation:
     - plant-2
+    - plant-1
 peony:
   parts used: flowers, seeds, root
   planet: sun
@@ -1941,8 +2828,13 @@ periwinkle:
     pets: true
     notes:
       - safe to handle without gloves
+      - poison
+      - may cause low blood pressure
+      - may cause hypotension
+      - may cause constipation
   citation:
     - plant-2
+    - plant-1
 pine:
   parts used: needles, branches, bark, nuts
   planet: mars
@@ -1992,9 +2884,12 @@ poison hemlock:
     humans: true
     pets: true
     notes:
-      - all parts are deadly poison if ingested; the plant will also burn your skin if touched; if you must handle it, wear gloves and long sleeves
+      - all parts are deadly poison if ingested
+      - the plant will also burn your skin if touched
+      - if you must handle it, wear gloves and long sleeves
   citation:
     - plant-2
+    - plant-1
 poplar:
   parts used: leaves, twigs, bark, buds
   planet: saturn
@@ -2041,8 +2936,12 @@ purslane:
   toxicity:
     humans: false
     pets: true
+    notes:
+      - avoid if pregnant
+      - may cause kidney stones
   citation:
     - plant-2
+    - plant-1
 queen anne's lace:
   parts used: flowers
   planet: mercury
@@ -2130,10 +3029,14 @@ rosemary:
   toxicity:
     humans: false
     pets: true
+    notes:
+      - do not take internally in high doses
+      - avoid if pregnant
   holidays:
     - yule
   citation:
     - plant-2
+    - plant-1
 rowan:
   parts used: bark, leaves, flowers, berries
   planet: sun
@@ -2168,8 +3071,13 @@ rue:
     pets: true
     notes:
       - toxic if ingested; handling may cause skin irritation, so wearing gloves is recommended
+      - avoid if pregnant
+      - may cause kidney problems
+      - avoid if using blood-thinning medications
+      - may increase sensitivity to sunlight
   citation:
     - plant-2
+    - plant-1
 saffron:
   parts used: flower stigmas
   planet: sun
@@ -2185,10 +3093,14 @@ saffron:
   toxicity:
     humans: false
     pets: true
+    notes:
+      - do not take internally in high doses; find several sources that have appropriate doses of this herb
+      - avoid if pregnant
   holidays:
     - litha
   citation:
     - plant-2
+    - plant-1
 sage:
   parts used: leaves
   planet: jupiter
@@ -2205,12 +3117,36 @@ sage:
   toxicity:
     humans: false
     pets: false
+    notes:
+      - avoid if pregnant
+      - do not abuse, internally; not for long-term use
+      - do not take internally in high doses
   holidays:
     - mabon
     - samhain
     - yule
   citation:
     - plant-2
+    - plant-1
+sarsaparilla:
+  planet: jupiter
+  element: fire
+  properties:
+    - love
+    - money
+  citation:
+    - plant-1
+sassafras:
+  planet: jupiter
+  element: fire
+  properties:
+    - health
+    - money
+  toxicity:
+    notes:
+      - do not take internally in high doses
+  citation:
+    - plant-1
 skullcap:
   parts used: leaves, flowers
   planet: saturn
@@ -2256,8 +3192,11 @@ spikenard:
   toxicity:
     humans: false
     pets: false
+    notes:
+      - avoid if pregnant
   citation:
     - plant-2
+    - plant-1
 spurge:
   parts used: flowers, leaves
   planet: saturn
@@ -2292,8 +3231,10 @@ squill:
     pets: true
     notes:
       - wear gloves when handling
+      - poison
   citation:
     - plant-2
+    - plant-1
 st. john's wort:
   parts used: flowers
   planet: sun
@@ -2309,12 +3250,14 @@ st. john's wort:
     humans: true
     pets: true
     notes:
-      - humans: toxic if ingested in large amounts
+      - toxic if ingested in large amounts
       - wear gloves when handling
+      - drug interactions are possible
   holidays:
     - litha
   citation:
     - plant-2
+    - plant-1
 strawberry:
   parts used: leaves, fruit
   planet: venus
@@ -2392,8 +3335,11 @@ sweet pea:
     pets: true
     notes:
       - safe to handle without gloves
+      - do not take internally in high doses
+      - not recommended for internal use
   citation:
     - plant-2
+    - plant-1
 sweet woodruff:
   parts used: stems, leaves, flowers
   planet: mars
@@ -2442,8 +3388,11 @@ tansy:
   toxicity:
     humans: true
     pets: true
+    notes:
+      - avoid if pregnant
   citation:
     - plant-2
+    - plant-1
 thistle:
   parts used: flowers, leaves, stalks
   planet: mars
@@ -2513,8 +3462,14 @@ uva ursi:
     pets: true
     notes:
       - nontoxic in small amounts
+      - avoid if pregnant
+      - may cause kidney problems
+      - may disturb some part of the digestive system if used internally
+      - this herb is known as a gi irritant
+      - may cause acidic urine
   citation:
     - plant-2
+    - plant-1
 valerian:
   parts used: flowers, leaves, root
   planet: venus, mercury
@@ -2531,8 +3486,11 @@ valerian:
   toxicity:
     humans: false
     pets: false
+    notes:
+      - do now drive while after consuming valerian
   citation:
     - plant-2
+    - plant-1
 vervain:
   parts used: leaves, stems, flowers
   planet: venus
@@ -2552,10 +3510,12 @@ vervain:
     pets: true
     notes:
       - humans: nontoxic in small amounts
+      - avoid if pregnant
   holidays:
     - litha
   citation:
     - plant-2
+    - plant-1
 white oak:
   parts used: leaves, bark, twigs, acorns
   planet: sun
@@ -2716,10 +3676,16 @@ wormwood:
     pets: true
     notes:
       - wear gloves when handling
+      - poison
+      - avoid if pregnant
+      - avoid if nursing
+      - do not abuse, internally; not for long-term use
+      - "for internal use: do not exceed 1⁄2 g of the dried herb in tea 2–3 times a day"
   holidays:
     - samhain
   citation:
     - plant-2
+    - plant-1
 yarrow:
   parts used: leaves, flowers, root
   planet: venus
@@ -2736,8 +3702,11 @@ yarrow:
     pets: true
     notes:
       - mildly toxic to humans
+      - avoid if pregnant
+      - may cause severe skin allergies or dermatitis
   citation:
     - plant-2
+    - plant-1
 yew:
   parts used: leaves, bark, twigs, berries
   planet: saturn, pluto
@@ -2752,8 +3721,10 @@ yew:
     pets: true
     notes:
       - wear gloves when handling
+      - poison
   holidays:
     - samhain
     - yule
   citation:
     - plant-2
+    - plant-1
