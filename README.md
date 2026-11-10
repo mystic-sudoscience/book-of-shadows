@@ -32,6 +32,7 @@ You can add new entries, fill in missing fields on existing entries, fix errors,
 - Multi-value fields are YAML lists (one `- item` per line). The exception is `parts used`, which is a comma-separated string.
 - Omit fields you are unsure about rather than guessing. Partial entries are fine.
 - Keep properties short (a word or short phrase).
+- Do not use parentheses in properties. Write plain phrases instead (`inner calm`, not `calm (inner)`; `release attachments`, not `attachments (release)`).
 - Quote values that contain special YAML characters such as `:` or `#`.
 
 ## Entry templates
@@ -48,7 +49,7 @@ aconite:
   zodiac sign: scorpio
   chakra: root
   properties:
-    - consecration
+    - consecrate/bless
     - protection
   toxicity:
     humans: true
@@ -72,6 +73,8 @@ Safety is important. Record it in `toxicity`:
 - `notes` elaborates on details such as whether small amounts can be consumed, whether gloves should be worn, skin irritation, or pregnancy cautions.
 
 Use the plant's regular `notes` for anything that is not about safety.
+
+Every item in `properties` must be an intention listed in [intentions.py](intentions.py). If the intention you need is missing, add it there (lowercase, no parentheses, alphabetical order) before using it on a plant. `python validate_intentions.py` reports any property that is not in the list.
 
 ### Crystals (`crystals.yml`)
 
@@ -141,7 +144,7 @@ yamllint checks syntax, 2-space indentation, trailing spaces, a final newline, s
 
 ### Pre-commit
 
-[pre-commit](https://pre-commit.com/) runs yamllint on `data/` automatically. A commit that fails is rejected until the file is fixed.
+[pre-commit](https://pre-commit.com/) runs yamllint on `data/` and checks that plant properties are in the intentions list automatically. A commit that fails is rejected until the file is fixed.
 
 ```sh
 pre-commit install          # once, to run the checks on each commit

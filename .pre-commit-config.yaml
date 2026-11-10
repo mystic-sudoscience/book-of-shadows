@@ -12,3 +12,12 @@ repos:
       - id: yamllint
         args: [--strict, -c, .yamllint]
         files: ^data/.*\.yml$
+  - repo: local
+    hooks:
+      - id: validate-intentions
+        name: plant properties are in the intentions list
+        entry: python validate_intentions.py
+        language: python
+        additional_dependencies: [pyyaml]
+        files: ^(data/plants\.yml|intentions\.py|validate_intentions\.py)$
+        pass_filenames: false

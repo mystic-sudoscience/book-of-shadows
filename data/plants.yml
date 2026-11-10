@@ -4,14 +4,12 @@ acacia:
   planet: sun
   element: air
   properties:
-    - clearing negativity
-    - purification
-    - money
     - afterlife
     - awareness
     - balance
     - blessings
     - calm
+    - clairvoyance
     - consecrate/bless
     - death
     - divination
@@ -19,20 +17,21 @@ acacia:
     - friendship
     - inspiration
     - jealousy
-    - love (platonic)
+    - love
+    - money
     - negativity
     - obstacles
-    - power (personal)
+    - personal power
     - prophecy
     - prosperity
     - protection
     - psychic ability
+    - purification
     - security
-    - self-work
+    - self-improvement
     - sexuality
     - skills
     - spirituality
-    - visions
     - wisdom
   notes:
     - combine with sandalwood to enhance psychic abilities
@@ -49,7 +48,7 @@ adam and eve roots:
   element: water
   properties:
     - love
-    - happiness
+    - cheerfulness
   toxicity:
     notes:
       - poison
@@ -93,7 +92,7 @@ african violet:
   zodiac sign: cancer
   chakra: solar plexus
   properties:
-    - spiritual growth
+    - deepen spirituality
     - protection
   toxicity:
     humans: false
@@ -122,17 +121,17 @@ agrimony:
   zodiac sign: cancer
   chakra: throat
   properties:
-    - protection
-    - sleep
     - banish
+    - break hexes
     - dream work
     - enchantment
     - energy
     - gratitude
     - harmony
     - healing
-    - hexes (break)
     - messages/omens
+    - protection
+    - sleep
   toxicity:
     humans: false
     pets: true
@@ -145,7 +144,6 @@ alfalfa:
   element: earth
   properties:
     - prosperity
-    - anti-hunger
     - money
   citation:
     - cunningham-herbs
@@ -155,7 +153,7 @@ alkanet:
   properties:
     - purification
     - prosperity
-  note:
+  notes:
     - burn as incense
   toxicity:
     notes:
@@ -168,10 +166,10 @@ allspice:
   planet: Mars
   element: Fire
   properties:
-    - money
-    - luck
+    - attract luck
     - attraction
     - business
+    - collect debts
     - communication
     - compassion
     - consecrate/bless
@@ -182,7 +180,7 @@ allspice:
     - friendship
     - healing
     - kindness
-    - money (collect debts)
+    - money
     - power
     - prosperity
     - spirituality
@@ -213,21 +211,21 @@ aloe:
   chakra: heart, third-eye
   properties:
     - protection
-    - luck
-    - friendship
-    - purification
     - afterlife
-    - balance (mental)
+    - attract luck
     - beauty
+    - friendship
     - grief
     - harmony
     - healing
     - love
+    - mental balance
     - peace
+    - purification
     - security
-    - sexuality (prowess)
     - stress
     - support
+    - virility
   toxicity:
     humans: false
     pets: true
@@ -242,7 +240,7 @@ aloeswood:
   element: water
   properties:
     - love
-    - spiritual growth
+    - deepen spirituality
   notes:
     - add to other herbs to enhance their properties
   citation:
@@ -252,7 +250,7 @@ althea:
   element: water
   properties:
     - protection
-    - attracting good energy
+    - attraction
   notes:
     - known as marshmallow
   citation:
@@ -261,7 +259,7 @@ alyssum:
   parts used: flowers
   properties:
     - protection
-    - moderating anger
+    - anger
   citation:
     - cunningham-herbs
 amaranth:
@@ -285,7 +283,6 @@ anemone:
   planet: mars
   element: fire
   properties:
-    - protection
     - beauty
     - beginnings
     - calm
@@ -299,6 +296,7 @@ anemone:
     - innocence
     - karma
     - loss
+    - protection
     - well-being
   toxicity:
     notes:
@@ -315,45 +313,44 @@ angelica:
   moon phase: waning
   chakra: third-eye
   properties:
-    - banish
-    - hexes (break)
-    - visions
-    - luck
     - acceptance
+    - attract luck
     - attraction
     - balance
+    - banish
     - beauty
     - beginnings
     - bind
+    - break hexes
     - calm
+    - clairvoyance
     - community
     - consecrate/bless
     - defense
     - divination
     - dream work
-    - energy (spiritual)
+    - female power
     - friendship
     - growth
     - harmony
     - healing
+    - holy spirits
     - insight
     - inspiration
     - introspection
+    - life
     - listening
-    - longevity
-    - magic (angel)
     - messages/omens
     - negativity
     - obstacles
     - peace
-    - power (female)
-    - protection (divine)
+    - protection
     - purification
     - security
-    - self-work
-    - senses (listening)
+    - self-improvement
     - sorrow
-    - spirits (holy)
+    - spiritual energy
+    - spiritual protection
     - spirituality
     - stability
     - stimulation
@@ -361,7 +358,6 @@ angelica:
     - stress
     - success
     - support
-    - witches/witchcraft (protect from)
   holidays:
     - beltane
     - imbolc
@@ -382,16 +378,15 @@ anise:
   planet: jupiter
   element: air
   properties:
-    - purification
-    - banish
-    - protection
+    - attract luck
     - authority
     - awareness
-    - balance (emotional)
+    - banish
     - changes
     - consecrate/bless
     - divination
     - dream work
+    - emotional balance
     - energy
     - fertility
     - growth
@@ -399,12 +394,12 @@ anise:
     - home
     - loss
     - love
-    - luck
     - marriage
     - money
     - nightmares
-    - protection (dreams)
+    - protection
     - psychic ability
+    - purification
     - sexuality
     - skills
     - sleep
@@ -426,60 +421,56 @@ apple:
   planet: venus
   element: water
   properties:
-    - love
-    - healing
     - action
     - afterlife
     - assertiveness
+    - attract luck
     - attraction
     - beauty
     - beginnings
     - bind
     - challenges
+    - cheerfulness
     - consecrate/bless
-    - creativity
     - death
-    - decisions
-    - discipline (self)
     - divination
     - dream work
     - enchantment
     - fairness
-    - faith
     - fame
     - fertility
     - friendship
     - generosity
     - goodness
-    - happiness
     - harmony
+    - healing
     - honor
+    - inner strength
     - innocence
     - insight
+    - inspiration
     - knowledge
-    - learning
     - life
-    - longevity
-    - luck
+    - love
     - magic
-    - magic (fairy)
     - marriage
-    - mind (peace)
+    - motivation
     - otherworld/underworld
     - peace
+    - peace of mind
+    - personal power
     - power
-    - power (personal)
-    - purpose
     - rebirth/renewal
     - relationships
     - romance
     - security
-    - self-work
+    - self-discipline
+    - self-improvement
     - sexuality
     - shamanic work
     - sleep
     - spirits
-    - strength (inner)
+    - spirituality
     - stress
     - success
     - unity
@@ -506,16 +497,15 @@ asafoetida:
   planet: mars
   element: fire
   properties:
-    - exorcism
-    - purification
     - assertiveness
     - banish
+    - black magic
     - calm
     - healing
-    - hexes
-    - magic (black)
     - protection
-    - senses (smell)
+    - purification
+    - set hexes
+    - smell
     - spirits
   toxicity:
     notes:
@@ -533,44 +523,42 @@ ash:
   zodiac sign: sagittarius
   chakra: heart
   properties:
-    - prosperity
-    - protection
     - ambition
     - astral realm
+    - attract luck
     - awareness
     - balance
-    - battle/war
+    - break hexes
     - changes
     - communication
     - concentration/focus
     - connections
-    - creativity
     - divination
     - dream work
+    - elemental power
     - fertility
     - healing
-    - hexes (break)
-    - intuition
+    - inspiration
     - karma
-    - knowledge (black)
+    - knowledge
     - life
-    - luck
     - obstacles
     - peace
     - power
-    - power (water)
+    - prosperity
+    - protect from lightning
+    - protection
+    - psychic ability
     - purification
     - rebirth/renewal
-    - self-work
+    - self-improvement
     - sensitivity
     - spirits
     - stability
-    - stimulation (psychic dreams)
     - strength
-    - weather (lightning)
+    - warrior energy
     - well-being
     - wisdom
-    - witches/witchcraft (protect from)
   notes:
     - burn ash at yule for a prosperous new year
   citation:
@@ -584,10 +572,10 @@ aspen:
   properties:
     - anxiety
     - astral realm
+    - break hexes
     - communication
-    - communication (eloquence)
+    - control senses
     - courage
-    - deceit
     - determination
     - divination
     - eloquence
@@ -596,14 +584,12 @@ aspen:
     - fear
     - harmony
     - healing
-    - hexes (break)
     - knowledge
     - money
     - otherworld/underworld
     - peace
-    - protection (theft)
+    - protection from theft
     - rebirth/renewal
-    - senses (control)
     - sensitivity
     - skills
     - stress
@@ -623,16 +609,16 @@ aster:
   zodiac sign: sagittarius, virgo
   chakra: heart
   properties:
-    - love
-    - peace
     - calm
-    - happiness
+    - cheerfulness
     - innocence
-    - love (unconditional)
+    - love
     - memory/memories
-    - release
+    - peace
+    - release attachments
     - stress
     - truth
+    - unconditional love
   citation:
     - morgana-green-witch
     - kynes-correspondences
@@ -663,26 +649,25 @@ lemon balm:
   zodiac sign: cancer
   chakra: heart
   properties:
-    - love
-    - success
-    - healing
-    - prosperity
     - activate/awaken
     - anxiety
     - business
     - calm
     - clarity
     - concentration/focus
-    - emotional
     - fertility
     - grief
+    - healing
     - heartbreak
-    - love (open to)
+    - love
     - money
+    - open to love
+    - prosperity
     - rebirth/renewal
     - relationships
     - sexuality
     - stress
+    - success
   toxicity:
     humans: false
     pets: false
@@ -694,7 +679,7 @@ balm of gilead:
   element: water
   properties:
     - love
-    - manifestations
+    - manifestation
     - protection
     - healing
   citation:
@@ -703,15 +688,15 @@ bamboo:
   type: misc
   parts used: stalks, leaves
   properties:
-    - luck
     - adaptability
+    - attract luck
+    - break hexes
     - business
     - divination
     - dream work
     - energy
     - harmony
-    - hexes (break)
-    - longevity
+    - life
     - motivation
     - nightmares
     - protection
@@ -730,20 +715,24 @@ basil:
   zodiac sign: aries, scorpio
   chakra: root
   properties:
-    - money
     - afterlife
     - assertiveness
+    - attract luck
     - attraction
     - balance
     - banish
+    - break hexes
     - business
-    - calm (inner)
+    - cheerfulness
     - clarity
+    - clear mind
+    - compassion
     - concentration/focus
     - confidence
     - courage
     - discipline
     - divination
+    - domestic harmony
     - energy
     - family
     - fertility
@@ -751,18 +740,13 @@ basil:
     - friendship
     - goodness
     - grief
-    - happiness
-    - healing (relationships)
-    - hexes (break)
-    - home (peaceful)
+    - healing
     - honesty
-    - influence
-    - love (reconcile)
-    - luck
-    - magic (angel)
+    - inner calm
     - memory/memories
+    - mental stimulation
     - messages/omens
-    - mind (clear)
+    - money
     - negativity
     - obstacles
     - peace
@@ -771,16 +755,14 @@ basil:
     - protection
     - psychic ability
     - purification
-    - quarrels
+    - reconciliation
     - relationships
-    - release
-    - senses (smell)
+    - release attachments
     - sexuality
-    - stimulation (mental)
+    - smell
     - strength
     - stress
     - success
-    - sympathy
     - trust
     - wishes
     - witches/witchcraft
@@ -837,8 +819,8 @@ bee balm:
   chakra: throat
   properties:
     - purification
-    - relaxation
-    - intellect
+    - calm
+    - intellectual
     - success
   notes:
     - used as a replacement for tea after boston tea party
@@ -854,16 +836,15 @@ belladonna:
   zodiac sign: scorpio
   chakra: crown
   properties:
-    - divination
     - astral realm
-    - astral travel
     - calm
+    - clairvoyance
     - consecrate/bless
     - darkness
+    - divination
     - healing
     - imagination
-    - magic (night)
-    - visions
+    - night magic
     - witches/witchcraft
   toxicity:
     humans: true
@@ -912,7 +893,6 @@ birch:
   planet: venus
   element: water
   properties:
-    - protection
     - anxiety
     - awareness
     - banish
@@ -920,30 +900,30 @@ birch:
     - blessings
     - challenges
     - clarity
+    - clear mind
     - concentration/focus
     - consciousness
     - determination
     - divination
     - empathy
-    - exorcism
     - fertility
     - freedom
     - growth
     - healing
     - inspiration
     - light
-    - love (true)
-    - mind (clear)
-    - mind (quick)
     - mindfulness
+    - protection
     - purification
+    - quick mind
     - rebirth/renewal
     - security
-    - senses (sight)
+    - sight
     - sleep
     - stability
     - stress
     - support
+    - true love
     - well-being
     - witches/witchcraft
   citation:
@@ -979,25 +959,24 @@ black cohosh:
   zodiac sign: scorpio
   chakra: root
   properties:
-    - love
-    - courage
-    - potency
     - balance
     - banish
     - calm
-    - energy (sexual)
+    - courage
     - fertility
     - life
-    - longevity
+    - love
     - lust
     - money
     - obstacles
     - pregnancy/childbirth
     - protection
+    - sexual energy
     - sexuality
     - shyness
     - strength
     - stress
+    - virility
     - well-being
   toxicity:
     humans: true
@@ -1020,23 +999,23 @@ blackberry:
   chakra: throat
   properties:
     - attachments
+    - attract luck
+    - cheerfulness
     - communication
     - death
     - enmity
-    - envy
     - fertility
     - grounding
     - growth
-    - happiness
     - harmony
     - healing
-    - intuition
-    - luck
+    - inner purification
+    - jealousy
     - mind
     - money
     - prosperity
     - protection
-    - purification (inner)
+    - psychic ability
     - spirits
   holidays:
     - lughnasadh
@@ -1053,7 +1032,6 @@ bladderwrack:
   chakra: sacral
   properties:
     - protection
-    - sea magic
   notes:
     - these are sea grapes
   toxicity:
@@ -1103,11 +1081,11 @@ elm, american:
     - grace
     - grounding
     - healing
-    - intuition
     - life
     - love
     - pregnancy/childbirth
     - protection
+    - psychic ability
     - rebirth/renewal
     - sleep
     - stability
@@ -1124,14 +1102,13 @@ bloodroot:
   planet: mars
   element: fire
   properties:
-    - attachments (release)
     - courage
     - divination
     - family
     - love
     - protection
     - purification
-    - release
+    - release attachments
     - strength
   toxicity:
     notes:
@@ -1170,6 +1147,7 @@ bluebell:
     - abundance
     - action
     - attachments
+    - attract luck
     - balance
     - enchantment
     - fear
@@ -1177,18 +1155,16 @@ bluebell:
     - friendship
     - grief
     - kindness
-    - love (unconditional)
-    - luck
-    - magic (fairy)
     - manifestation
     - negativity
     - obstacles
     - prosperity
-    - self-work
+    - self-improvement
     - sleep
     - spirits
     - stability
     - truth
+    - unconditional love
     - witches/witchcraft
   citation:
     - cunningham-herbs
@@ -1198,18 +1174,18 @@ bodhi:
   planet: jupiter
   element: air
   properties:
-    - fertility
-    - protection
-    - wisdom
     - activate/awaken
     - balance
     - discipline
     - enlightenment
+    - fertility
     - knowledge
     - magic
-    - meditation
+    - mindfulness
+    - protection
     - spirituality
     - truth
+    - wisdom
   citation:
     - cunningham-herbs
     - kynes-correspondences
@@ -1222,22 +1198,22 @@ borage:
   zodiac sign: leo, aquarius
   chakra: solar plexus
   properties:
-    - courage
-    - psychic ability
     - authority
     - awareness
     - beauty
     - beginnings
     - business
     - calm
-    - happiness
-    - mind (soothe)
+    - cheerfulness
+    - courage
+    - healing
+    - inner purification
     - money
-    - passion (heal from)
     - peace
     - power
-    - purification (inner)
+    - psychic ability
     - skills
+    - soothe mind
     - sorrow
   toxicity:
     humans: false
@@ -1256,7 +1232,7 @@ bracken:
   chakra: third-eye, heart
   properties:
     - healing
-    - rain magic
+    - weather
     - dream work
   toxicity:
     humans: true
@@ -1290,13 +1266,12 @@ broom:
   zodiac sign: pisces
   chakra: root
   properties:
-    - purification
-    - protection
     - action
-    - astral travel
-    - banish (poltergeists)
+    - astral realm
+    - banish
     - calm
     - challenges
+    - clear mind
     - communication
     - concentration/focus
     - determination
@@ -1305,10 +1280,11 @@ broom:
     - harmony
     - healing
     - memory/memories
-    - mind (clear)
     - money
     - obstacles
     - prosperity
+    - protection
+    - purification
     - stimulation
     - unity
     - witches/witchcraft
@@ -1334,14 +1310,14 @@ burdock:
   zodiac sign: cancer
   chakra: heart
   properties:
-    - protection
-    - healing
     - balance
     - banish
     - calm
     - energy
+    - healing
     - love
     - negativity
+    - protection
     - purification
   citation:
     - morgana-green-witch
@@ -1371,9 +1347,9 @@ caraway:
   properties:
     - lust
     - memory/memories
-    - health
+    - healing
     - protection
-    - protection (theft)
+    - protection from theft
   citation:
     - morgana-green-witch
 carnation:
@@ -1400,10 +1376,10 @@ carnation:
     - healing
     - innocence
     - justice
-    - love (deep)
+    - love
     - magic
-    - magic (moon)
     - marriage
+    - moon magic
     - otherworld/underworld
     - power
     - pride
@@ -1415,7 +1391,7 @@ carnation:
     - stimulation
     - truth
     - well-being
-    - witches/witchcraft (protect witches)
+    - witches/witchcraft
   toxicity:
     humans: false
     pets: true
@@ -1435,22 +1411,22 @@ catnip:
   zodiac sign: cancer, libra, pisces
   chakra: heart
   properties:
-    - animal magic
-    - peace
-    - love
     - acceptance
     - anger
+    - animal magic
     - animals
+    - attract luck
     - beauty
+    - cheerfulness
     - courage
     - dream work
     - energy
     - fertility
     - friendship
-    - happiness
     - harmony
-    - luck
+    - love
     - nightmares
+    - peace
     - psychic ability
     - sleep
     - stress
@@ -1472,22 +1448,20 @@ cedar:
   zodiac sign: sagittarius
   chakra: solar plexus
   properties:
-    - healing
-    - purification
     - affection
     - afterlife
     - aggression
+    - attract luck
     - authority
-    - balance (mental)
+    - break hexes
     - calm
     - clarity
-    - comfort
     - communication
     - community
     - concentration/focus
     - confidence
     - consecrate/bless
-    - control (self)
+    - contact spirits
     - courage
     - determination
     - discipline
@@ -1498,15 +1472,14 @@ cedar:
     - fidelity
     - friendship
     - growth
-    - hexes (break)
+    - healing
     - insight
     - introspection
     - justice
-    - life (vitality)
+    - life
     - light
-    - longevity
     - love
-    - luck
+    - mental balance
     - mind
     - money
     - negativity
@@ -1515,21 +1488,22 @@ cedar:
     - peace
     - pride
     - prosperity
+    - protect from lightning
     - protection
-    - protection (dreams)
+    - provide comfort
     - psychic ability
+    - purification
     - purity
     - rebirth/renewal
-    - release
+    - release attachments
     - reversal
+    - self-discipline
     - skills
-    - spirits (summon)
     - spirituality
     - strength
     - stress
     - success
     - vitality
-    - weather (lightning)
   toxicity:
     notes:
       - avoid if pregnant
@@ -1552,6 +1526,7 @@ chamomile:
     - balance
     - beauty
     - blessings
+    - break hexes
     - calm
     - communication
     - determination
@@ -1562,10 +1537,8 @@ chamomile:
     - growth
     - harmony
     - healing
-    - hexes (break)
     - insight
     - introspection
-    - intuition
     - justice
     - love
     - manifestation
@@ -1573,6 +1546,7 @@ chamomile:
     - nightmares
     - patience
     - prosperity
+    - psychic ability
     - purification
     - sensitivity
     - sleep
@@ -1592,7 +1566,6 @@ chicory:
   properties:
     - fidelity
     - pride
-    - penance
   citation:
     - morgana-green-witch
 chickweed:
@@ -1621,7 +1594,7 @@ chili pepper:
   properties:
     - fidelity
     - love
-    - hexes (break)
+    - break hexes
   citation:
     - morgana-green-witch
 chrysanthemum:
@@ -1662,16 +1635,13 @@ cinnamon:
   chakra: crown
   properties:
     - success
-    - healing
-    - protection
-    - blessings
-    - spirituality
     - action
     - astral realm
+    - attract luck
     - attraction
     - authority
     - awareness
-    - balance (inner)
+    - blessings
     - business
     - concentration/focus
     - consecrate/bless
@@ -1680,14 +1650,15 @@ cinnamon:
     - dream work
     - fear
     - harmony
+    - healing
     - heartbreak
     - illumination
     - increase
+    - inner balance
     - inspiration
     - justice
     - knowledge
     - love
-    - luck
     - lust
     - magic
     - money
@@ -1696,13 +1667,15 @@ cinnamon:
     - peace
     - power
     - prosperity
+    - protection
     - psychic ability
     - purification
-    - purification (spiritual)
     - receptive energy
-    - security (increase)
-    - senses (smell)
+    - security
     - skills
+    - smell
+    - spiritual purification
+    - spirituality
     - stimulation
     - stress
     - wishes
@@ -1722,31 +1695,29 @@ cinquefoil:
   zodiac sign: gemini
   chakra: throat
   properties:
-    - money
-    - protection
     - astral realm
+    - attract luck
     - authority
-    - communication (eloquence)
+    - break hexes
+    - clairvoyance
     - consecrate/bless
     - divination
     - dream work
     - eloquence
     - emotions
     - energy
-    - favors
+    - friendship
     - grief
     - healing
     - heartbreak
-    - hexes (break)
-    - influence (avert)
     - inspiration
     - justice
+    - legal matters
     - life
-    - loneliness (end)
     - love
-    - luck
     - magic
     - messages/omens
+    - money
     - nightmares
     - nurture
     - obstacles
@@ -1754,20 +1725,20 @@ cinquefoil:
     - peace
     - power
     - prosperity
+    - protect from negativity
+    - protection
     - security
-    - self-work
-    - senses (strengthen)
+    - self-improvement
     - sleep
     - spirits
     - strength
+    - strengthen senses
     - stress
     - success
     - travel
-    - visions
     - well-being
     - wisdom
     - wishes
-    - witches/witchcraft (protect from)
   toxicity:
     humans: false
     pets: false
@@ -1784,10 +1755,11 @@ clover:
   chakra: heart
   properties:
     - acceptance
-    - balance (spiritual)
+    - attract luck
     - banish
     - beauty
     - calm
+    - calm mind
     - community
     - dream work
     - enchantment
@@ -1797,16 +1769,15 @@ clover:
     - grounding
     - harmony
     - healing
-    - intuition
     - kindness
     - love
-    - luck
     - marriage
-    - mind (calm)
+    - mental power
     - money
-    - power (mental)
     - prosperity
     - protection
+    - psychic ability
+    - spiritual balance
     - stress
     - youth
   citation:
@@ -1817,54 +1788,53 @@ clove:
   planet: jupiter
   element: fire
   properties:
-    - protection
     - attraction
     - authority
     - awareness
-    - balance (mental)
     - banish
     - beauty
     - beginnings
     - bind
-    - comfort
+    - break hexes
+    - cheerfulness
+    - clairvoyance
+    - collect debts
     - courage
-    - creativity
     - dignity
     - divination
     - emotions
     - energy
     - friendship
-    - happiness
     - harmony
     - healing
-    - hexes (break)
     - inspiration
-    - longevity
+    - life
     - love
     - lust
     - magic
-    - magic (sex)
     - memory/memories
+    - mental balance
+    - mental power
+    - mental stimulation
     - mind
     - money
-    - money (collect debts)
     - negativity
     - obstacles
     - power
-    - power (mental)
     - prosperity
+    - protection
+    - provide comfort
     - psychic ability
     - purification
     - relationships
-    - release
-    - senses (sight)
-    - senses (smell)
+    - release attachments
     - sensitivity
-    - stimulation (mental)
+    - sex magic
+    - sight
+    - smell
     - stress
     - success
     - truth
-    - visions
     - warmth
     - weather
   citation:
@@ -1876,7 +1846,7 @@ club moss:
   properties:
     - protection
     - power
-  note:
+  notes:
     - use in a purification bath
   toxicity:
     notes:
@@ -1895,14 +1865,14 @@ columbine:
     - anxiety
     - beauty
     - courage
+    - holy spirits
+    - inner purification
     - love
     - negativity
     - peace
     - pregnancy/childbirth
-    - purification (inner)
-    - release
-    - self-work
-    - spirits (holy)
+    - release attachments
+    - self-improvement
   toxicity:
     humans: true
     pets: true
@@ -1918,13 +1888,12 @@ comfrey:
   zodiac sign: libra
   chakra: root
   properties:
-    - travel
     - astral realm
     - balance
     - banish
     - bind
-    - control
-    - dream work (remember dreams)
+    - discipline
+    - dream work
     - endings
     - endurance
     - enmity
@@ -1934,13 +1903,14 @@ comfrey:
     - money
     - prosperity
     - protection
+    - protection during travel
     - psychic ability
-    - release
+    - release attachments
     - stability
     - stimulation
     - strength
     - stress
-    - travel (safety)
+    - travel
     - unity
   notes:
     - used to heal broken skin
@@ -1964,23 +1934,22 @@ coriander:
   planet: mars
   element: fire
   properties:
-    - love
+    - cheerfulness
     - community
     - consecrate/bless
     - fertility
     - fidelity
-    - happiness
     - healing
     - heartbreak
     - home
-    - influence
-    - longevity
+    - life
+    - love
     - magic
-    - magic (sex)
     - passion
     - peace
     - protection
     - security
+    - sex magic
     - sleep
     - stimulation
     - warmth
@@ -1993,7 +1962,7 @@ corn:
   element: earth
   properties:
     - protection
-    - luck
+    - attract luck
     - divination
   citation:
     - cunningham-herbs
@@ -2006,23 +1975,21 @@ cowslip:
   zodiac sign: aries, scorpio
   chakra: sacral
   properties:
-    - youth
-    - fidelity
-    - harmony
     - afterlife
-    - animals (protect)
     - beauty
+    - fidelity
     - grace
+    - harmony
     - healing
-    - magic (fairy)
     - money
     - prosperity
+    - protect animals
     - protection
     - secrets
     - spirits
     - strength
-    - treasure finding
     - trust
+    - youth
   toxicity:
     humans: true
     pets: true
@@ -2039,7 +2006,7 @@ crocus:
   element: water
   properties:
     - love
-    - visions
+    - clairvoyance
   toxicity:
     notes:
       - not recommended for internal use
@@ -2050,7 +2017,7 @@ cucumber:
   element: water
   properties:
     - fertility
-    - chastity
+    - purity
     - healing
   citation:
     - cunningham-herbs
@@ -2059,19 +2026,18 @@ cumin:
   planet: mars
   element: fire
   properties:
-    - protection
-    - fidelity
-    - balance (spiritual)
     - banish
-    - exorcism
-    - harmony (domestic)
+    - domestic harmony
+    - fidelity
     - home
     - increase
-    - longevity
+    - life
     - love
     - negativity
     - prosperity
+    - protection
     - purification
+    - spiritual balance
   citation:
     - cunningham-herbs
     - kynes-correspondences
@@ -2085,7 +2051,7 @@ cyclamen:
   properties:
     - fertility
     - protection
-    - happiness
+    - cheerfulness
     - lust
   toxicity:
     humans: true
@@ -2101,9 +2067,6 @@ cypress:
   planet: saturn
   element: earth
   properties:
-    - longevity
-    - protection
-    - healing
     - acceptance
     - afterlife
     - anxiety
@@ -2114,7 +2077,6 @@ cypress:
     - blessings
     - calm
     - clarity
-    - comfort
     - concentration/focus
     - confidence
     - consecrate/bless
@@ -2123,13 +2085,16 @@ cypress:
     - grief
     - grounding
     - harmony
+    - healing
     - honor
     - inspiration
     - justice
     - life
+    - mental power
     - otherworld/underworld
-    - peace (find peace in death)
-    - power (mental)
+    - peace
+    - protection
+    - provide comfort
     - rebirth/renewal
     - security
     - truth
@@ -2150,17 +2115,14 @@ daffodil:
   zodiac sign: leo
   chakra: heart
   properties:
-    - love
     - afterlife
+    - attract luck
     - beauty
     - calm
-    - fairies
     - fear
     - fertility
     - friendship
-    - love (unrequited)
-    - luck
-    - magic (fairy)
+    - love
     - nightmares
     - security
     - spirits
@@ -2182,8 +2144,6 @@ daisy:
     - authority
     - awareness
     - beauty
-    - blessed by fairies
-    - blessings (from fairies)
     - calm
     - challenges
     - cheerfulness
@@ -2192,6 +2152,7 @@ daisy:
     - dream work
     - harmony
     - healing
+    - inner strength
     - innocence
     - life
     - light
@@ -2200,7 +2161,6 @@ daisy:
     - protection
     - sensitivity
     - skills
-    - strength (inner)
     - truth
     - youth
   toxicity:
@@ -2215,7 +2175,7 @@ damiana:
   properties:
     - love
     - lust
-    - visions
+    - clairvoyance
   citation:
     - cunningham-herbs
 dandelion:
@@ -2237,6 +2197,7 @@ dandelion:
     - guardian
     - guidance
     - healing
+    - inner purification
     - mind
     - money
     - needs
@@ -2244,7 +2205,6 @@ dandelion:
     - prophecy
     - protection
     - psychic ability
-    - purification (inner)
     - skills
     - sleep
     - spiritual beginnings
@@ -2264,8 +2224,8 @@ datura:
   properties:
     - divination
     - invisibility
-    - shape-shifting
-    - hexes (break)
+    - shape shift
+    - break hexes
     - sleep
   chakra: crown
   toxicity:
@@ -2303,21 +2263,20 @@ deerstongue:
     - kynes-correspondences
 devil's bit:
   properties:
-    - exorcism
+    - banish
     - protection
     - love
-    - luck
-  note:
+    - attract luck
+  notes:
     - attracts women
   citation:
     - cunningham-herbs
 devil's shoestring:
   properties:
     - protection
-    - gambling
+    - attract luck
     - power
-    - luck
-    - employment
+    - business
   citation:
     - cunningham-herbs
 dill:
@@ -2333,18 +2292,17 @@ dill:
     - money
     - prophecy
     - willpower
+    - attract luck
+    - black magic
+    - break hexes
     - calm
     - energy
-    - hexes (set)
-    - hexes (break)
     - home
+    - inner strength
     - justice
     - knowledge
     - love
-    - luck
     - lust
-    - magic (black)
-    - magic (sex)
     - mind
     - nightmares
     - obstacles
@@ -2352,14 +2310,13 @@ dill:
     - protection
     - purification
     - security
+    - set hexes
+    - sex magic
     - sleep
     - spirits
-    - strength (inner)
     - stress
     - support
     - wisdom
-    - witches/witchcraft (protect from)
-    - hexes
   notes: null
   citation:
     - morgana-green-witch
@@ -2409,8 +2366,7 @@ dragon's blood:
   planet: mars
   element: fire
   properties:
-    - love
-    - protection
+    - animal magic
     - attraction
     - banish
     - bind
@@ -2424,23 +2380,24 @@ dragon's blood:
     - healing
     - honesty
     - inspiration
+    - love
     - magic
-    - magic (animal)
-    - magic (sex)
     - money
-    - negativity (end patterns)
+    - negativity
     - obstacles
     - passion
     - peace
-    - potency
+    - personal power
     - power
-    - power (personal)
-    - protection (psychic)
+    - protection
     - psychic ability
+    - psychic protection
     - reversal
     - security
+    - sex magic
     - spirituality
     - stress
+    - virility
     - willpower
   citation:
     - cunningham-herbs
@@ -2523,7 +2480,7 @@ eryngo:
   planet: venus
   element: water
   properties:
-    - traveler's luck
+    - attract luck
     - peace
     - love
     - lust
@@ -2563,33 +2520,29 @@ fennel:
   zodiac sign: aries, gemini, virgo
   chakra: solar plexus
   properties:
-    - homeprotection
-    - purification
     - aggression
     - blessings
+    - break hexes
+    - clairvoyance
     - communication
     - courage
     - energy
     - fertility
     - healing
-    - hexes (break)
-    - home (prevent evil entering)
-    - longevity
+    - life
     - loss
     - money
-    - prevent evil from entering
-    - problems (prevent action)
+    - protect home from negative energy
     - protection
+    - purification
     - rebirth/renewal
     - security
-    - senses (sight)
+    - sight
     - spirits
     - stimulation
     - strength
     - stress
-    - visions
     - warmth
-    - witches/witchcraft (protect from)
   notes: null
   citation:
     - morgana-green-witch
@@ -2606,17 +2559,15 @@ fern:
   planet: mercury
   element: air
   properties:
-    - rain magic
-    - luck
-    - riches
-    - health
+    - weather
+    - attract luck
     - banish
+    - break hexes
     - concentration/focus
     - confidence
     - enchantment
-    - exorcism
-    - hexes (protect from)
-    - longevity
+    - healing
+    - life
     - love
     - mind
     - money
@@ -2624,7 +2575,7 @@ fern:
     - prosperity
     - protection
     - purification
-    - release
+    - release attachments
     - security
     - spirits
     - well-being
@@ -2672,7 +2623,7 @@ figwort:
   planet: venus
   element: water
   properties:
-    - health
+    - healing
     - protection
   toxicity:
     notes:
@@ -2688,23 +2639,22 @@ flax:
   zodiac sign: taurus
   chakra: third-eye, heart
   properties:
-    - money
-    - protection
-    - healing
     - authority
     - awareness
     - beauty
     - bind
     - destiny
+    - healing
     - kindness
-    - magic (angel)
-    - magic (solar)
-    - power (mental)
+    - mental power
+    - money
     - prosperity
+    - protection
     - psychic ability
     - secrets
     - sexuality
     - skills
+    - solar magic
   notes: null
   holidays:
     - imbolc
@@ -2720,9 +2670,9 @@ fleabane:
   planet: venus
   element: water
   properties:
-    - exorcism
+    - banish
     - protection
-    - chastity
+    - purity
   citation:
     - cunningham-herbs
 foxglove:
@@ -2736,13 +2686,11 @@ foxglove:
   properties:
     - challenges
     - enchantment
-    - energy (fairy)
     - harmony
     - healing
-    - magic (fairy)
-    - mind (quiet)
     - protection
-    - release
+    - quiet mind
+    - release attachments
     - stimulation
     - stress
   toxicity:
@@ -2761,10 +2709,9 @@ frankincense:
   planet: sun
   element: fire
   properties:
-    - protection
-    - exorcism
     - anxiety
     - astral realm
+    - attract luck
     - attraction
     - authority
     - awareness
@@ -2780,7 +2727,6 @@ frankincense:
     - dignity
     - divination
     - energy
-    - energy (solar)
     - fear
     - gratitude
     - harmony
@@ -2791,19 +2737,18 @@ frankincense:
     - justice
     - knowledge
     - love
-    - luck
     - magic
-    - magic (angel)
     - negativity
     - power
-    - protection (psychic)
+    - protection
     - psychic ability
+    - psychic protection
     - purification
-    - purification (ritual)
     - purity
     - rebirth/renewal
+    - ritual purification
     - skills
-    - spiritual
+    - solar energy
     - spirituality
     - stress
     - warmth
@@ -2814,7 +2759,7 @@ fumitory:
   planet: saturn
   element: earth
   properties:
-    - exorcism
+    - banish
     - money
   citation:
     - cunningham-herbs
@@ -2827,44 +2772,43 @@ galangal:
   zodiac sign: aries
   chakra: sacral
   properties:
-    - protection
-    - lust
     - astral realm
+    - attract luck
     - authority
     - awareness
     - banish
-    - comfort
+    - break hexes
+    - compassion
     - consecrate/bless
     - courage
     - desire
     - enchantment
     - energy
     - enmity
-    - favors (judicial)
-    - health
-    - hexes (break)
+    - healing
     - increase
-    - influence
     - justice
+    - legal matters
     - love
-    - luck
+    - lust
     - magic
-    - magic (sex)
     - money
     - negativity
     - passion
     - power
     - prosperity
-    - protection (psychic)
+    - protection
+    - provide comfort
     - psychic ability
+    - psychic protection
     - reversal
+    - sex magic
     - skills
     - stimulation
     - strength
     - stress
     - success
     - support
-    - sympathy
     - well-being
   notes: null
   citation:
@@ -2882,24 +2826,24 @@ gardenia:
   properties:
     - action
     - astral realm
+    - break hexes
     - compassion
     - consciousness
     - emotional support
     - enmity
+    - female power
     - friendship
     - harmony
     - healing
     - heartbreak
-    - hexes (break)
     - love
-    - love (true)
     - marriage
     - money
     - peace
-    - power (female)
     - purity
     - relationships
     - spirituality
+    - true love
     - well-being
   toxicity:
     humans: false
@@ -2916,12 +2860,10 @@ garlic:
   zodiac sign: aries
   chakra: solar plexus
   properties:
-    - anxiety
-    - exorcism
-    - envy
-    - travel
     - aggression
+    - anxiety
     - banish
+    - break hexes
     - communication
     - community
     - concentration/focus
@@ -2931,19 +2873,19 @@ garlic:
     - enmity
     - fear
     - healing
-    - hexes (break)
     - improvement
     - jealousy
     - justice
     - lust
     - magic
-    - magic (sex)
     - protection during travel
     - protection from theft
     - purification
     - security
-    - senses (smell)
+    - sex magic
+    - smell
     - stimulation
+    - travel
     - weather
     - well-being
     - wishes
@@ -2962,7 +2904,7 @@ gentian:
   properties:
     - love
     - power
-    - hexes (break)
+    - break hexes
   toxicity:
     notes:
       - may cause ulcers
@@ -2974,31 +2916,31 @@ geranium:
   planet: venus
   element: water
   properties:
-    - fertility
-    - love
     - action
     - anxiety
     - astral realm
     - balance
     - beauty
     - beginnings
+    - break hexes
     - calm
     - communication
     - concentration/focus
     - confidence
     - courage
     - emotional stability
-    - energy (psychic)
     - fear
+    - fertility
     - forgiveness
     - freedom
     - friendship
-    - growth (inner)
+    - growth
     - harmony
     - healing
-    - hexes (break)
-    - love (open to)
+    - love
+    - open to love
     - protection
+    - psychic energy
     - purification
     - relationships
     - security
@@ -3014,37 +2956,37 @@ ginger:
   planet: mars
   element: fire
   properties:
-    - love
-    - money
-    - success
     - astral realm
+    - attract luck
     - beauty
+    - break hexes
     - calm
+    - collect debts
     - courage
     - energy
     - healing
-    - hexes (break)
     - improvement
+    - inner purification
     - inspiration
-    - luck
+    - love
     - lust
     - magic
-    - magic (moon)
-    - magic (sex)
-    - money (collect debts)
+    - money
+    - moon magic
     - obstacles
     - passion
     - power
     - pregnancy/childbirth
     - prosperity
-    - purification (inner)
-    - relationships (romantic)
-    - release
+    - relationships
+    - release attachments
+    - sex magic
     - stimulation
+    - storms
     - stress
+    - success
     - unity
     - warmth
-    - weather (storms)
     - well-being
   toxicity:
     notes:
@@ -3059,37 +3001,37 @@ ginseng:
   planet: sun
   element: fire
   properties:
-    - love
-    - wishes
-    - protection
     - activate/awaken
+    - attract luck
     - attraction
     - beauty
+    - break hexes
     - calm
-    - creativity
     - desire
     - divination
     - endurance
-    - energy (psychic)
     - fertility
     - healing
-    - hexes (break)
-    - improvement (mental)
-    - longevity
-    - luck
+    - improvement
+    - inspiration
+    - life
+    - love
     - lust
     - magic
-    - magic (moon)
-    - magic (sex)
     - memory/memories
     - mind
+    - moon magic
     - negativity
     - passion
     - power
-    - sexuality (potency)
+    - protection
+    - psychic energy
+    - sex magic
     - spirits
     - stimulation
+    - virility
     - well-being
+    - wishes
   citation:
     - cunningham-herbs
     - kynes-correspondences
@@ -3102,13 +3044,13 @@ goldenrod:
   zodiac sign: gemini
   chakra: root
   properties:
-    - money
+    - attract luck
     - beauty
     - challenges
     - divination
     - loss
-    - luck
     - mind
+    - money
     - prosperity
     - stimulation
   toxicity:
@@ -3149,7 +3091,7 @@ grains of paradise:
   element: fire
   properties:
     - lust
-    - luck
+    - attract luck
     - money
     - wishes
     - love
@@ -3165,15 +3107,15 @@ grape:
   chakra: root
   properties:
     - abundance
+    - agriculture
     - charity
     - clarity
     - fertility
-    - garden spells
     - growth
     - inspiration
+    - mental power
     - mind
     - money
-    - power (mental)
     - prophecy
     - prosperity
     - transformation
@@ -3194,49 +3136,44 @@ hawthorn:
   zodiac sign: aries
   chakra: sacral
   properties:
-    - fertility
-    - chastity
-    - happiness
-    - attachments (release)
+    - attract luck
     - challenges
     - changes
-    - clear (of anything unwanted)
-    - creativity
+    - cheerfulness
+    - clear unwanted energy
     - emotions
     - enchantment
     - energy
     - family
-    - freedom (inner)
+    - fertility
+    - freedom
     - growth
-    - happiness (lift depression)
-    - home (clear)
-    - home (prevent evil entering)
     - hope
-    - improvement (mental)
+    - improvement
+    - inspiration
     - life
     - love
-    - luck
     - magic
-    - magic (fairy)
     - marriage
     - negativity
     - patience
     - peace
-    - prevent evil from entering
     - prosperity
+    - protect from lightning
+    - protect home from negative energy
     - protection
     - purification
     - purity
     - reconciliation
     - relationships
+    - release attachments
     - security
-    - self-work
+    - self-improvement
     - sexuality
     - sorrow
+    - storms
     - stress
     - success
-    - weather (lightning)
-    - weather (storms)
     - wisdom
     - wishes
     - witches/witchcraft
@@ -3262,7 +3199,7 @@ hazel:
   zodiac sign: gemini
   chakra: sacral
   properties:
-    - luck
+    - attract luck
     - beauty
     - clairvoyance
     - communication
@@ -3278,11 +3215,10 @@ hazel:
     - mind
     - otherworld/underworld
     - power
+    - protect from lightning
     - protection
     - reconciliation
     - security
-    - support (from fairies)
-    - weather (lightning)
     - wishes
   toxicity:
     humans: false
@@ -3299,41 +3235,37 @@ heather:
   zodiac sign: gemini
   chakra: solar plexus
   properties:
-    - protection
-    - rain magic
     - adaptability
+    - attract luck
     - authority
     - awareness
     - changes
+    - cheerfulness
     - clarity
     - confidence
     - dream work
     - encouragement
     - fairness
-    - faith
     - generosity
     - growth
     - healing
-    - healing (spiritual)
     - home
     - knowledge
-    - learning
-    - longevity
+    - life
     - love
-    - luck
     - messages/omens
-    - optimism
     - passion
     - peace
+    - protection
     - psychic ability
     - purification
     - romance
-    - self-work
+    - self-improvement
     - sleep
     - spirits
-    - spiritual
     - spirituality
     - trust
+    - weather
   toxicity:
     humans: false
     pets: false
@@ -3351,7 +3283,6 @@ heliotrope:
   zodiac sign: leo
   chakra: third-eye
   properties:
-    - exorcism
     - authority
     - awareness
     - banish
@@ -3360,7 +3291,6 @@ heliotrope:
     - danger
     - dedication/devotion
     - dream work
-    - energy (solar)
     - fidelity
     - goodness
     - healing
@@ -3368,11 +3298,12 @@ heliotrope:
     - life
     - light
     - love
-    - magic (solar)
     - messages/omens
     - money
     - prosperity
     - psychic ability
+    - solar energy
+    - solar magic
     - spirituality
     - well-being
     - willpower
@@ -3398,9 +3329,8 @@ hellebore:
   chakra: crown
   properties:
     - banish
-    - exorcism
-    - hexing
-    - spirit work
+    - set hexes
+    - contact spirits
   toxicity:
     humans: true
     pets: true
@@ -3414,8 +3344,8 @@ hemp:
   properties:
     - healing
     - love
-    - visions
-    - meditation
+    - clairvoyance
+    - mindfulness
   citation:
     - cunningham-herbs
 henbane:
@@ -3428,14 +3358,13 @@ henbane:
   chakra: root
   properties:
     - astral realm
-    - astral travel
     - bind
+    - black magic
     - calm
     - consecrate/bless
     - divination
     - love
     - magic
-    - magic (black)
     - otherworld/underworld
     - skills
     - sleep
@@ -3454,15 +3383,13 @@ hibiscus:
   planet: venus
   element: water
   properties:
-    - love
-    - lust
     - concentration/focus
     - consecrate/bless
     - determination
     - divination
-    - energy (sexual)
-    - freedom (sexual)
     - harmony
+    - love
+    - lust
     - obstacles
     - passion
     - peace
@@ -3470,6 +3397,7 @@ hibiscus:
     - psychic ability
     - sensitivity
     - sensuality
+    - sexual energy
     - sexuality
     - unity
     - warmth
@@ -3490,8 +3418,8 @@ holly:
   zodiac sign: aries
   chakra: root, heart
   properties:
-    - protection
     - anger
+    - attract luck
     - balance
     - banish
     - beauty
@@ -3509,18 +3437,18 @@ holly:
     - healing
     - jealousy
     - life
-    - luck
     - mind
     - obstacles
+    - personal power
     - power
-    - power (personal)
+    - protect from lightning
+    - protection
     - rebirth/renewal
     - revenge
     - security
     - sleep
     - support
     - unity
-    - weather (lightning)
     - wishes
   toxicity:
     humans: true
@@ -3557,38 +3485,33 @@ honeysuckle:
   zodiac sign: aries, cancer, capricorn, leo, pisces, sagittarius, scorpio, taurus, virgo
   chakra: all
   properties:
-    - adaptability
-    - attraction
-    - generosity
     - abundance
+    - adaptability
     - affection
-    - angel magic
+    - attraction
     - authority
     - awareness
     - balance
+    - break hexes
     - calm
     - changes
+    - cheerfulness
     - clarity
     - concentration/focus
     - confidence
-    - creativity
-    - dedication
     - dedication/devotion
     - destiny
     - divination
     - fidelity
     - friendship
+    - generosity
     - guidance
-    - happiness
     - healing
-    - hexes (break)
     - honesty
     - inspiration
-    - intuition
     - justice
-    - learning
-    - love (devoted)
-    - magic (angel)
+    - knowledge
+    - love
     - memory/memories
     - mind
     - money
@@ -3635,14 +3558,14 @@ horehound:
   chakra: sacral
   properties:
     - banish
-    - protection
-    - power (mental)
+    - break hexes
     - clarity
     - energy
     - healing
-    - hexes (break)
+    - mental power
     - mind
     - power
+    - protection
     - purification
     - strength
     - wishes
@@ -3697,7 +3620,7 @@ horseradish:
   element: fire
   properties:
     - purification
-    - exorcism
+    - banish
   toxicity:
     notes:
       - may cause kidney problems
@@ -3710,9 +3633,9 @@ huckleberry:
   planet: venus
   element: water
   properties:
-    - luck
+    - attract luck
     - protection
-    - hexes (break)
+    - break hexes
   citation:
     - cunningham-herbs
 hyacinth:
@@ -3720,23 +3643,21 @@ hyacinth:
   planet: venus
   element: water
   properties:
-    - love
-    - protection
     - affection
+    - attract luck
     - attraction
+    - cheerfulness
     - emotions
-    - gentleness
+    - friendship
     - grief
-    - happiness
-    - influence
     - jealousy
     - kindness
-    - loneliness
-    - luck
+    - love
     - nightmares
     - pregnancy/childbirth
-    - protection (spiritual)
+    - protection
     - purification
+    - spiritual protection
     - stability
     - stress
     - wisdom
@@ -3754,7 +3675,7 @@ hydrangea:
   zodiac sign: scorpio
   chakra: heart
   properties:
-    - hexes (break)
+    - break hexes
     - love
     - psychic ability
   toxicity:
@@ -3783,31 +3704,29 @@ iris:
   element: water
   properties:
     - acceptance
+    - attract luck
     - authority
     - awareness
     - clarity
     - concentration/focus
-    - creativity
     - death
     - determination
-    - energy (creative)
+    - energy
     - fairness
-    - faith
     - freedom
     - inspiration
     - love
-    - luck
-    - magic (angel)
-    - magic (moon)
     - messages/omens
     - money
+    - moon magic
     - patience
     - power
     - prosperity
     - psychic ability
     - purification
     - purity
-    - release
+    - release attachments
+    - spirituality
     - willpower
     - wisdom
   toxicity:
@@ -3821,7 +3740,7 @@ irish moss:
   element: water
   properties:
     - money
-    - luck
+    - attract luck
     - protection
   notes:
     - carrageen
@@ -3836,26 +3755,25 @@ ivy:
   zodiac sign: scorpio
   chakra: third-eye
   properties:
-    - fidelity
-    - prophecy
-    - animals (protect)
     - attachments
+    - attract luck
     - attraction
     - balance
     - divination
     - fertility
+    - fidelity
     - friendship
     - growth
     - healing
     - honor
-    - influence
     - knowledge
     - love
-    - luck
     - marriage
     - messages/omens
     - negativity
     - obstacles
+    - prophecy
+    - protect animals
     - protection
     - rebirth/renewal
     - secrets
@@ -3879,26 +3797,26 @@ jasmine:
   zodiac sign: pisces
   chakra: third-eye
   properties:
-    - love
-    - purity
     - affection
     - anxiety
     - astral realm
     - attachments
+    - attract luck
     - attraction
-    - balance (emotional)
     - beauty
     - bind
     - calm
+    - cheerfulness
+    - clairvoyance
     - clarity
+    - collect debts
     - communication
     - consecrate/bless
-    - creativity
     - desire
     - dream work
+    - emotional balance
     - friendship
     - grace
-    - happiness
     - harmony
     - healing
     - imagination
@@ -3906,12 +3824,10 @@ jasmine:
     - justice
     - light
     - loss
-    - luck
+    - love
     - lust
-    - magic (moon)
-    - magic (night)
-    - magic (sex)
-    - money (collect debts)
+    - moon magic
+    - night magic
     - obstacles
     - peace
     - pregnancy/childbirth
@@ -3919,10 +3835,12 @@ jasmine:
     - protection
     - psychic ability
     - purification
-    - relationships (romantic)
+    - purity
+    - relationships
     - romance
-    - self-work
+    - self-improvement
     - sensuality
+    - sex magic
     - sexuality
     - sleep
     - spirits
@@ -3930,7 +3848,6 @@ jasmine:
     - stimulation
     - stress
     - support
-    - visions
     - well-being
   toxicity:
     humans: false
@@ -3947,36 +3864,34 @@ juniper:
   zodiac sign: sagittarius
   chakra: root
   properties:
-    - protection
-    - protection (theft)
-    - love
     - action
     - anger
     - banish
     - beginnings
+    - black magic
     - calm
     - community
     - divination
     - dream work
     - energy
-    - exorcism
     - fertility
     - grounding
     - harmony
     - healing
     - increase
-    - magic (black)
+    - love
     - negativity
     - prosperity
+    - protection
     - protection from theft
     - psychic ability
     - purification
-    - purification (spiritual)
     - secrets
     - security
-    - senses (sight)
     - sensuality
+    - sight
     - sleep
+    - spiritual purification
     - spirituality
     - well-being
     - wishes
@@ -3997,9 +3912,9 @@ kava-kava:
   planet: saturn
   element: water
   properties:
-    - visions
+    - clairvoyance
     - protection
-    - luck
+    - attract luck
   notes:
     - it is drunk as an infusion but too much can cause kidney damage
   toxicity:
@@ -4036,11 +3951,11 @@ lady's mantle:
     - changes
     - courage
     - fertility
+    - healing
     - love
     - marriage
     - sleep
     - spirituality
-    - well-being (women's health)
   toxicity:
     humans: false
     pets: false
@@ -4064,14 +3979,10 @@ lavender:
   chakra: heart
   properties:
     - love
-    - attraction
-    - sleep
-    - longevity
-    - wishes
     - anger
     - anxiety
+    - attraction
     - awareness
-    - balance (emotional)
     - beauty
     - calm
     - challenges
@@ -4083,7 +3994,7 @@ lavender:
     - courage
     - divination
     - dream work
-    - emotional
+    - emotional balance
     - fidelity
     - friendship
     - grief
@@ -4092,6 +4003,7 @@ lavender:
     - healing
     - heartbreak
     - inspiration
+    - life
     - lust
     - manifestation
     - marriage
@@ -4099,16 +4011,18 @@ lavender:
     - protection
     - psychic ability
     - purification
-    - purification (ritual)
     - rebirth/renewal
-    - relationships (peaceful)
+    - relationships
+    - ritual purification
     - romance
     - sensitivity
     - sexuality
+    - sleep
     - stability
     - stress
     - support
     - well-being
+    - wishes
   toxicity:
     humans: false
     pets: true
@@ -4116,7 +4030,6 @@ lavender:
       - pets: nontoxic in small amounts
   holidays:
     - summer solstice
-    - fairies
   citation:
     - morgana-green-witch
     - kynes-correspondences
@@ -4126,14 +4039,14 @@ leek:
   properties:
     - love
     - protection
-    - hexes (break)
+    - break hexes
   citation:
     - cunningham-herbs
 lemon:
   planet: moon
   element: water
   properties:
-    - longevity
+    - life
     - purification
     - love
     - friendship
@@ -4177,7 +4090,7 @@ licorice:
     - cunningham-herbs
 life everlasting:
   properties:
-    - longevity
+    - life
     - healing
   citation:
     - cunningham-herbs
@@ -4191,44 +4104,40 @@ lilac:
   chakra: crown
   properties:
     - adaptability
+    - attract luck
     - attraction
     - balance
     - banish
     - beauty
+    - break hexes
     - business
+    - cheerfulness
     - clairvoyance
+    - clear mind
     - community
     - concentration/focus
-    - creativity
+    - contact spirits
     - divination
     - dream work
     - emotions
-    - exorcism
     - friendship
-    - happiness
     - harmony
-    - hexes (break)
     - home
     - innocence
     - inspiration
     - life
     - light
-    - longevity
     - love
-    - luck
-    - memory/memories (past life)
-    - mind (clear)
     - obstacles
+    - past lives
     - peace
     - prophecy
     - protection
     - purification
     - rebirth/renewal
-    - release
+    - release attachments
     - security
-    - spirit world
     - spirits
-    - spirits (contact)
     - spirituality
     - well-being
     - youth
@@ -4254,15 +4163,14 @@ lily:
     - afterlife
     - beauty
     - calm
+    - cheerfulness
     - communication
-    - creativity
-    - deceit
     - goodness
-    - happiness
     - innocence
+    - inspiration
     - love
     - manifestation
-    - negativity (improve attitude)
+    - negativity
     - nurture
     - otherworld/underworld
     - peace
@@ -4291,9 +4199,9 @@ lily of the valley:
   element: air
   properties:
     - calm
+    - cheerfulness
     - consecrate/bless
     - desire
-    - happiness
     - harmony
     - healing
     - innocence
@@ -4301,10 +4209,10 @@ lily of the valley:
     - life
     - love
     - memory/memories
+    - mental power
     - mind
     - obstacles
     - peace
-    - power (mental)
     - protection
     - reversal
     - skills
@@ -4328,29 +4236,29 @@ linden:
   planet: jupiter
   element: air
   properties:
-    - luck
-    - love
-    - sleep
+    - attract luck
     - attraction
     - calm
+    - clairvoyance
     - communication
     - divination
     - dream work
     - encouragement
     - fidelity
-    - longevity
-    - love (open to)
+    - life
+    - love
     - marriage
     - needs
     - nurture
+    - open to love
     - peace
     - protection
     - relationships
+    - sleep
     - strength
     - stress
     - support
     - transformation
-    - visions
     - warmth
   citation:
     - kynes-correspondences
@@ -4367,12 +4275,12 @@ lovage:
     - energy
     - justice
     - love
-    - magic (sex)
     - messages/omens
     - negativity
     - purification
     - rebirth/renewal
     - romance
+    - sex magic
     - sexual passion
   toxicity:
     humans: false
@@ -4396,12 +4304,13 @@ magnolia:
   chakra: solar plexus
   properties:
     - attraction
+    - clairvoyance
     - clarity
     - dream work
+    - expand awareness
     - fidelity
-    - growth (awareness)
     - harmony
-    - longevity
+    - life
     - love
     - marriage
     - peace
@@ -4412,7 +4321,6 @@ magnolia:
     - relationships
     - sexuality
     - truth
-    - visions
     - wisdom
   toxicity:
     humans: false
@@ -4430,7 +4338,7 @@ maidenhair fern:
   properties:
     - healing
     - purity
-    - rain magic
+    - weather
   toxicity:
     humans: false
     pets: false
@@ -4452,7 +4360,7 @@ mallow:
   properties:
     - love
     - protection
-    - exorcism
+    - banish
   toxicity:
     humans: false
     pets: true
@@ -4468,14 +4376,12 @@ mandrake:
   zodiac sign: taurus
   chakra: root
   properties:
-    - fertility
-    - protection
-    - spirit world
-    - money
     - astral realm
     - authority
     - banish
     - bind
+    - black magic
+    - break hexes
     - challenges
     - courage
     - danger
@@ -4483,21 +4389,23 @@ mandrake:
     - discipline
     - divination
     - dream work
-    - energy (solar)
-    - energy (spiritual)
+    - fertility
     - growth
     - healing
-    - hexes (break)
     - increase
     - love
     - magic
-    - magic (black)
     - messages/omens
+    - money
     - passion
     - power
     - prosperity
+    - protection
     - security
     - sleep
+    - solar energy
+    - spirits
+    - spiritual energy
     - well-being
     - witches/witchcraft
   toxicity:
@@ -4515,19 +4423,19 @@ maple:
   planet: jupiter
   element: air
   properties:
-    - love
     - abundance
     - balance
     - communication
     - connections
     - divination
-    - freedom (inner)
+    - freedom
     - grief
-    - longevity
+    - life
+    - love
     - money
     - prosperity
     - relationships
-    - support (family issues)
+    - support
     - warmth
   citation:
     - cunningham-herbs
@@ -4546,7 +4454,8 @@ marigold:
     - authority
     - awareness
     - business
-    - comfort
+    - cheerfulness
+    - clairvoyance
     - communication
     - consecrate/bless
     - dedication/devotion
@@ -4554,35 +4463,30 @@ marigold:
     - dream work
     - endurance
     - energy
-    - energy (solar)
     - enmity
-    - envy
     - fidelity
     - grief
-    - happiness
     - healing
     - jealousy
-    - justice (legal matters)
     - legal matters
-    - longevity
+    - life
     - love
-    - magic (angel)
     - messages/omens
     - mind
     - peace
-    - pleasure
     - prophecy
-    - protection (spiritual)
+    - provide comfort
     - psychic ability
     - relationships
     - responsibility
-    - senses (see magical creatures)
     - sensitivity
+    - sensuality
     - skills
+    - solar energy
+    - spiritual protection
     - stress
     - success
-    - transformation (inner)
-    - visions
+    - transformation
     - warmth
     - wealth
     - well-being
@@ -4604,41 +4508,39 @@ marjoram:
   zodiac sign: aries
   chakra: root, heart
   properties:
-    - love
-    - happiness
     - afterlife
     - attraction
+    - black magic
+    - break hexes
     - calm
-    - comfort
+    - cheerfulness
     - community
     - concentration/focus
     - connections
     - consciousness
     - family
+    - friendship
     - grief
     - healing
-    - hexes (protect from)
     - innocence
-    - loneliness
-    - magic (black)
+    - love
     - marriage
     - memory/memories
     - money
     - peace
     - prosperity
     - protection
+    - provide comfort
     - psychic ability
     - purification
     - relationships
-    - release
+    - release attachments
     - security
-    - security (business)
     - sleep
     - stress
     - unity
     - warmth
     - well-being
-    - witches/witchcraft (protect from)
   toxicity:
     humans: false
     pets: true
@@ -4654,16 +4556,16 @@ meadowsweet:
   zodiac sign: gemini
   chakra: root
   properties:
-    - love
+    - attract luck
     - balance
+    - cheerfulness
     - divination
-    - favors
-    - happiness
+    - encourage love
     - harmony
     - healing
     - home
-    - love (encourage)
-    - luck
+    - legal matters
+    - love
     - peace
     - power
     - security
@@ -4703,7 +4605,7 @@ mint:
     - money
     - healing
     - travel
-    - spirit world
+    - spirits
     - protection
   toxicity:
     humans: false
@@ -4720,6 +4622,7 @@ mistletoe:
   chakra: crown
   properties:
     - activate/awaken
+    - attract luck
     - banish
     - beauty
     - beginnings
@@ -4727,24 +4630,20 @@ mistletoe:
     - business
     - calm
     - consecrate/bless
-    - creativity
     - death
     - defense
     - divination
     - dream work
     - energy
-    - exorcism
     - fertility
     - friendship
     - goodness
     - healing
     - home
+    - inspiration
     - life
-    - longevity
     - love
-    - luck
     - magic
-    - magic (sex)
     - marriage
     - messages/omens
     - negativity
@@ -4752,24 +4651,25 @@ mistletoe:
     - obstacles
     - otherworld/underworld
     - peace
-    - power (personal)
+    - personal power
     - prosperity
-    - protection (spiritual)
+    - protect from lightning
+    - protection
     - purification
     - purity
     - rebirth/renewal
     - secrets
     - security
-    - sexuality (potency)
+    - sex magic
     - sleep
     - spirits
+    - spiritual protection
     - strength
     - stress
     - success
+    - virility
     - weather
-    - weather (lightning)
     - well-being
-    - witches/witchcraft (protect from)
   toxicity:
     humans: true
     pets: true
@@ -4789,7 +4689,7 @@ moringa:
   zodiac sign: leo
   chakra: throat
   properties:
-    - health
+    - healing
     - courage
     - strength
   toxicity:
@@ -4805,7 +4705,7 @@ moss:
   zodiac sign: pisces, cancer
   chakra: solar plexus
   properties:
-    - luck
+    - attract luck
     - prosperity
     - money
   toxicity:
@@ -4823,7 +4723,6 @@ mugwort:
   zodiac sign: cancer, gemini, libra, sagittarius
   chakra: third-eye
   properties:
-    - animals (protect)
     - astral realm
     - authority
     - awareness
@@ -4837,7 +4736,6 @@ mugwort:
     - divination
     - dream work
     - empathy
-    - energy (psychic)
     - fertility
     - guidance
     - healing
@@ -4845,8 +4743,10 @@ mugwort:
     - magic
     - messages/omens
     - power
-    - protection (psychic)
+    - protect animals
     - psychic ability
+    - psychic energy
+    - psychic protection
     - purification
     - reversal
     - skills
@@ -4876,43 +4776,40 @@ mullein:
   zodiac sign: leo
   chakra: heart
   properties:
-    - courage
-    - protection
-    - divination
-    - exorcism
-    - animals (protect)
     - authority
     - awareness
     - balance
     - banish
     - beauty
+    - black magic
+    - break hexes
+    - courage
     - danger
     - darkness
     - determination
+    - divination
+    - domestic harmony
     - enmity
     - goodness
-    - harmony (domestic)
     - healing
-    - hexes (protect from)
     - honesty
-    - longevity
+    - inner senses
+    - life
     - love
     - magic
-    - magic (angel)
-    - magic (black)
-    - morality
+    - motivation
     - negativity
     - nightmares
     - nurture
-    - protection (spiritual)
+    - protect animals
+    - protection
     - psychic ability
     - purification
-    - purpose
-    - release
+    - release attachments
     - security
-    - self-work
-    - senses (inner)
+    - self-improvement
     - spirits
+    - spiritual protection
     - support
     - unity
     - well-being
@@ -4930,8 +4827,8 @@ mustard:
   zodiac sign: aries
   chakra: sacral
   properties:
-    - acceptance (of something difficult)
-    - control
+    - acceptance
+    - discipline
     - enmity
     - fairness
     - fertility
@@ -4939,11 +4836,11 @@ mustard:
     - justice
     - love
     - lust
+    - mental power
     - mind
     - money
     - passion
     - power
-    - power (mental)
     - protection
     - purification
     - security
@@ -4966,8 +4863,8 @@ nasturtium:
   chakra: solar plexus
   properties:
     - banish
-    - creativity
     - freedom
+    - inspiration
     - protection
     - purity
     - strength
@@ -4984,8 +4881,6 @@ nettle:
   zodiac sign: leo
   chakra: root
   properties:
-    - exorcism
-    - protection
     - banish
     - calm
     - communication
@@ -5002,8 +4897,9 @@ nettle:
     - lust
     - magic
     - negativity
-    - prevent evil from entering
-    - protection (psychic)
+    - protect home from negative energy
+    - protection
+    - psychic protection
     - purification
     - security
     - stress
@@ -5039,7 +4935,7 @@ pansy:
   zodiac sign: scorpio
   chakra: heart
   properties:
-    - rain magic
+    - weather
     - love
     - divination
   toxicity:
@@ -5075,11 +4971,10 @@ passionflower:
   zodiac sign: libra
   chakra: third-eye
   properties:
-    - money
     - anxiety
     - attraction
-    - balance (spiritual)
     - calm
+    - calm mind
     - clarity
     - confidence
     - consciousness
@@ -5088,11 +4983,12 @@ passionflower:
     - emotional stability
     - friendship
     - lust
-    - mind (calm)
+    - money
     - passion
     - peace
     - purification
     - sleep
+    - spiritual balance
     - spirituality
   toxicity:
     humans: false
@@ -5111,18 +5007,15 @@ pennyroyal:
   zodiac sign: libra
   chakra: root, solar plexus
   properties:
-    - strength
-    - protection
     - anxiety
-    - calm (inner)
+    - break hexes
     - challenges
     - community
     - energy
     - family
     - healing
-    - hexes (break)
     - home
-    - influence
+    - inner calm
     - love
     - marriage
     - mind
@@ -5130,8 +5023,10 @@ pennyroyal:
     - obstacles
     - otherworld/underworld
     - peace
+    - protection
     - purification
     - stimulation
+    - strength
     - trust
   toxicity:
     humans: true
@@ -5153,21 +5048,19 @@ peony:
   zodiac sign: leo
   chakra: solar plexus
   properties:
-    - protection
     - anger
     - anxiety
+    - attract luck
     - banish
     - business
     - danger
     - dream work
-    - exorcism
+    - hidden or secret knowledge
     - innocence
-    - luck
-    - magic (find something hidden)
     - nightmares
-    - opportunities
     - prosperity
-    - release
+    - protection
+    - release attachments
     - sorrow
     - stress
     - success
@@ -5190,35 +5083,34 @@ peppermint:
   properties:
     - purification
     - awareness
-    - dream spells
-    - visions
+    - dream work
+    - clairvoyance
     - action
     - activate/awaken
     - authority
     - banish
-    - calm (inner)
+    - inner calm
     - challenges
     - changes
     - clarity
     - concentration/focus
-    - creativity
+    - inspiration
     - divination
-    - dream work
     - energy
     - healing
-    - intelligence
+    - intellectual
     - life
-    - love (encourage)
-    - luck
+    - encourage love
+    - attract luck
     - lust
     - messages/omens
-    - mind (quick)
+    - quick mind
     - money
     - negativity
-    - power (mental)
+    - mental power
     - obstacles
     - psychic ability
-    - release
+    - release attachments
     - sensitivity
     - skills
     - strength
@@ -5244,22 +5136,22 @@ periwinkle:
   chakra: heart
   properties:
     - bind
-    - marriage
     - clarity
     - death
     - desire
     - friendship
     - love
     - lust
-    - magic (sex)
+    - marriage
     - memory/memories
+    - mental power
     - mind
     - money
     - nightmares
-    - power (mental)
     - prosperity
     - protection
     - security
+    - sex magic
     - spirits
   toxicity:
     humans: true
@@ -5283,16 +5175,13 @@ pine:
   zodiac sign: aries
   chakra: root
   properties:
-    - healing
-    - fertility
-    - protection
     - abundance
     - activate/awaken
     - banish
     - beginnings
     - bind
     - blessings
-    - clear (of anything unwanted)
+    - clear unwanted energy
     - confidence
     - courage
     - cycles
@@ -5300,11 +5189,12 @@ pine:
     - domestic harmony
     - endurance
     - energy
-    - exorcism
+    - fertility
     - freedom
     - friendship
     - grounding
     - guardian
+    - healing
     - heartbreak
     - honor
     - hope
@@ -5314,16 +5204,15 @@ pine:
     - memory/memories
     - money
     - motivation
-    - nature spirits
     - negativity
     - peace
     - prosperity
+    - protection
     - purification
     - rebirth/renewal
     - reconciliation
     - reversal
-    - senses (smell)
-    - spiritual
+    - smell
     - spirituality
     - stimulation
     - support
@@ -5362,8 +5251,8 @@ poison hemlock:
   zodiac sign: scorpio
   chakra: crown
   properties:
-    - astral travel
-    - baneful magic
+    - astral realm
+    - black magic
   toxicity:
     humans: true
     pets: true
@@ -5383,7 +5272,6 @@ poplar:
   zodiac sign: pisces
   chakra: root
   properties:
-    - money
     - astral realm
     - courage
     - death
@@ -5391,10 +5279,10 @@ poplar:
     - determination
     - divination
     - endurance
-    - flying
     - grief
     - hope
     - loss
+    - money
     - obstacles
     - prophecy
     - prosperity
@@ -5419,24 +5307,23 @@ poppy:
     - afterlife
     - assertiveness
     - astral realm
-    - astral travel
+    - attract luck
     - challenges
+    - clairvoyance
     - dream work
     - enchantment
     - enmity
     - fertility
     - love
-    - luck
     - lust
-    - magic (moon)
     - messages/omens
     - money
+    - moon magic
     - prosperity
     - rebirth/renewal
     - sleep
-    - spirit world
+    - spirits
     - support
-    - visions
   toxicity:
     humans: false
     pets: true
@@ -5453,7 +5340,7 @@ purslane:
   properties:
     - sleep
     - love
-    - luck
+    - attract luck
   toxicity:
     humans: false
     pets: true
@@ -5489,17 +5376,17 @@ raspberry:
   zodiac sign: cancer, pisces
   chakra: root
   properties:
-    - attachments (release)
     - beauty
     - clarity
+    - emotional security
+    - encourage love
     - fear
     - fertility
     - love
-    - love (encourage)
     - needs
     - pregnancy/childbirth
     - protection
-    - security (inner)
+    - release attachments
     - trust
   toxicity:
     humans: false
@@ -5519,7 +5406,7 @@ rhododendron:
   properties:
     - personal power
     - protection
-    - mystery
+    - secrets
   toxicity:
     humans: true
     pets: true
@@ -5536,74 +5423,71 @@ rose:
   zodiac sign: leo, taurus
   chakra: root
   properties:
-    - clarity
-    - love
     - affection
     - afterlife
     - attachments
+    - attract luck
     - attraction
     - banish
     - beauty
     - beginnings
     - bind
     - blessings
+    - break hexes
     - calm
-    - childbirth
+    - cheerfulness
+    - clarity
     - compassion
     - confidence
     - connections
     - consecrate/bless
     - courage
-    - creativity
     - darkness
     - dedication/devotion
     - desire
     - dignity
     - divination
     - dream work
+    - emotional protection
     - energy
-    - energy (sexual)
     - family
     - fertility
     - fidelity
     - friendship
     - grace
     - grief
-    - happiness
     - harmony
     - healing
     - heartbreak
-    - hexes (break)
     - home
     - innocence
     - inspiration
     - jealousy
     - loss
-    - luck
-    - magic (angel)
-    - magic (fairy)
-    - magic (moon)
-    - magic (sex)
+    - love
     - manifestation
     - messages/omens
-    - nurture (wild)
+    - moon magic
+    - nurture
     - obstacles
     - otherworld/underworld
     - passion
     - patience
     - peace
-    - power (personal)
+    - personal power
+    - pregnancy/childbirth
     - pride
-    - protection (emotional)
     - psychic ability
     - purification
     - purity
     - relationships
-    - release
+    - release attachments
     - reversal
     - romance
-    - secrets (love)
+    - secrets
     - sensuality
+    - sex magic
+    - sexual energy
     - sexuality
     - sleep
     - spirituality
@@ -5647,22 +5531,20 @@ rosemary:
     - inspiration
     - integrity
     - knowledge
-    - love (true)
     - loyalty
     - lust
     - magic
     - marriage
     - memory/memories
+    - mental power
     - mind
     - negativity
     - nightmares
+    - personal power
     - power
-    - power (mental)
-    - power (personal)
     - protection
-    - protection (psychic)
-    - protection (spiritual)
     - psychic ability
+    - psychic protection
     - purification
     - rebirth/renewal
     - reversal
@@ -5670,6 +5552,8 @@ rosemary:
     - sleep
     - sorrow
     - spirits
+    - spiritual protection
+    - true love
     - vitality
     - warmth
     - well-being
@@ -5697,17 +5581,15 @@ rowan:
   zodiac sign: sagittarius
   chakra: solar plexus
   properties:
-    - psychic ability
-    - healing
-    - success
     - astral realm
+    - attract luck
     - authority
-    - battle/war
     - bind
-    - blessed by fairies
     - blessings
+    - break hexes
     - challenges
-    - consecrate/bless (by fairies)
+    - clairvoyance
+    - control senses
     - dedication/devotion
     - defense
     - destruction
@@ -5719,28 +5601,25 @@ rowan:
     - grounding
     - guidance
     - harmony
-    - hexes (protect from)
+    - healing
     - imagination
     - insight
     - inspiration
     - karma
     - knowledge
-    - learning
     - life
-    - luck
     - magic
-    - magic (fairy)
     - power
     - prophecy
-    - protection (by fairies)
+    - protect from lightning
+    - psychic ability
     - security
-    - self-work
-    - senses (control)
+    - self-improvement
     - skills
     - spirits
     - stress
-    - visions
-    - weather (lightning)
+    - success
+    - warrior energy
     - wisdom
     - witches/witchcraft
   toxicity:
@@ -5761,32 +5640,32 @@ rue:
   chakra: throat
   properties:
     - banish
+    - break hexes
     - calm
     - clarity
     - consecrate/bless
     - desire
     - destruction
     - divination
+    - emotional purification
     - freedom
     - grace
     - harmony
     - healing
-    - hexes (break)
     - inspiration
     - love
     - magic
     - memory/memories
+    - mental power
     - mind
     - negativity
     - nightmares
     - obstacles
-    - power (mental)
     - protection
     - psychic ability
-    - purification (emotional)
     - relationships
     - reversal
-    - senses (sight)
+    - sight
     - sorrow
     - stimulation
     - well-being
@@ -5812,30 +5691,30 @@ saffron:
   zodiac sign: leo, scorpio
   chakra: root, sacral
   properties:
-    - desire
-    - marriage
-    - strength
     - anger
     - calm
+    - cheerfulness
+    - desire
     - dream work
+    - emotions
     - fertility
-    - happiness
     - healing
     - love
     - lust
     - magic
-    - magic (sex)
+    - marriage
     - mind
     - mindfulness
     - money
-    - moods
     - passion
     - power
     - prosperity
     - psychic ability
-    - sexuality (prowess)
+    - sex magic
     - skills
     - stimulation
+    - strength
+    - virility
     - well-being
   toxicity:
     humans: false
@@ -5858,16 +5737,15 @@ sage:
   zodiac sign: aquarius, pisces, sagittarius, taurus
   chakra: third-eye
   properties:
-    - blessings
-    - consecrate/bless
-    - divination
-    - purification
-    - protection
     - balance
+    - blessings
     - business
-    - comfort
+    - clairvoyance
+    - clear mind
     - concentration/focus
     - consciousness
+    - consecrate/bless
+    - divination
     - energy
     - fear
     - fertility
@@ -5880,11 +5758,10 @@ sage:
     - introspection
     - knowledge
     - life
-    - longevity
     - love
     - magic
     - memory/memories
-    - mind (clear)
+    - mental well-being
     - money
     - negativity
     - obstacles
@@ -5892,24 +5769,24 @@ sage:
     - power
     - prophecy
     - prosperity
-    - protection (psychic)
+    - protection
+    - provide comfort
     - psychic ability
-    - purification (ritual)
-    - quests
-    - release
+    - psychic protection
+    - purification
+    - release attachments
     - reversal
+    - ritual purification
     - secrets
-    - senses (strengthen)
     - spirits
     - spirituality
     - stability
     - stimulation
     - strength
+    - strengthen senses
     - stress
     - truth
-    - visions
     - warmth
-    - well-being (mental)
     - wisdom
     - wishes
   toxicity:
@@ -5939,7 +5816,7 @@ sassafras:
   planet: jupiter
   element: fire
   properties:
-    - health
+    - healing
     - money
   toxicity:
     notes:
@@ -5955,14 +5832,14 @@ skullcap:
   zodiac sign: aquarius
   chakra: third-eye
   properties:
-    - love
     - calm
     - concentration/focus
     - fear
     - fidelity
     - healing
-    - mind (soothe)
+    - love
     - peace
+    - soothe mind
     - stress
   toxicity:
     humans: false
@@ -5983,18 +5860,15 @@ snapdragon:
   properties:
     - assertiveness
     - banish
+    - break hexes
     - clairaudience
-    - deceit
     - emotions
-    - freedom (emotional)
-    - hexes (break)
+    - freedom
     - money
-    - problems (counteract)
     - prosperity
     - protection
-    - release
+    - release attachments
     - truth
-    - witches/witchcraft (protect from)
   toxicity:
     humans: false
     pets: false
@@ -6010,18 +5884,18 @@ spikenard:
   zodiac sign: cancer
   chakra: crown
   properties:
+    - attract luck
     - attraction
     - balance
     - concentration/focus
     - consecrate/bless
-    - creativity
     - fear
     - fidelity
     - freedom
     - harmony
     - healing
+    - inspiration
     - love
-    - luck
     - mind
     - negativity
     - obstacles
@@ -6066,7 +5940,7 @@ squill:
   properties:
     - money
     - protection
-    - hexes (break)
+    - break hexes
   toxicity:
     humans: true
     pets: true
@@ -6085,7 +5959,6 @@ st. john's wort:
   zodiac sign: leo
   chakra: third-eye
   properties:
-    - animals (protect)
     - banish
     - blessings
     - courage
@@ -6097,28 +5970,28 @@ st. john's wort:
     - energy
     - fear
     - fertility
-    - freedom (from fears)
     - healing
     - justice
     - magic
     - mental well-being
     - money
     - nightmares
+    - overcome fear
     - peace
     - power
-    - problems (prevent action)
     - prosperity
+    - protect animals
     - protection
-    - protection (psychic)
+    - psychic protection
     - purification
     - security
     - sensitivity
     - spiritual beginnings
     - spirituality
     - stimulation
+    - storms
     - strength
     - weather
-    - weather (storms)
     - willpower
   toxicity:
     humans: true
@@ -6143,18 +6016,18 @@ strawberry:
   chakra: sacral
   properties:
     - adaptability
+    - attract luck
     - attraction
     - beauty
+    - clairvoyance
     - desire
     - divination
     - friendship
     - harmony
     - love
-    - luck
-    - relationships (love)
+    - relationships
     - sensuality
     - stress
-    - visions
   toxicity:
     humans: false
     pets: false
@@ -6169,7 +6042,7 @@ summer savory:
   zodiac sign: gemini, virgo
   chakra: throat
   properties:
-    - power (mental)
+    - mental power
     - love
   toxicity:
     humans: false
@@ -6185,31 +6058,31 @@ sunflower:
   zodiac sign: leo
   chakra: solar plexus
   properties:
-    - wishes
+    - attract luck
     - balance
+    - cheerfulness
     - clarity
     - dream work
     - energy
-    - energy (solar)
     - fertility
-    - happiness
+    - friendship
     - harmony
-    - health
+    - healing
     - improvement
     - light
-    - loneliness
-    - luck
     - magic
     - money
     - obstacles
     - peace
-    - release
-    - self-work
+    - release attachments
+    - self-improvement
+    - solar energy
     - sorrow
     - spirituality
     - strength
     - well-being
     - wisdom
+    - wishes
   toxicity:
     humans: false
     pets: false
@@ -6239,7 +6112,7 @@ sweet pea:
   chakra: third-eye
   properties:
     - friendship
-    - chastity
+    - purity
   toxicity:
     humans: true
     pets: true
@@ -6259,8 +6132,6 @@ sweet woodruff:
   zodiac sign: aries
   chakra: solar plexus
   properties:
-    - victory
-    - protection
     - balance
     - calm
     - changes
@@ -6271,8 +6142,10 @@ sweet woodruff:
     - healing
     - money
     - prosperity
+    - protection
     - purification
     - stress
+    - success
   toxicity:
     humans: true
     pets: false
@@ -6291,7 +6164,7 @@ sweetgrass:
   zodiac sign: pisces
   chakra: crown
   properties:
-    - calling spirits
+    - contact spirits
     - purification
   toxicity:
     humans: false
@@ -6306,8 +6179,8 @@ tansy:
   zodiac sign: gemini
   chakra: solar plexus
   properties:
-    - health
-    - longevity
+    - healing
+    - life
   toxicity:
     humans: true
     pets: true
@@ -6327,24 +6200,24 @@ thistle:
   properties:
     - action
     - banish
+    - break hexes
     - confidence
     - connections
     - courage
     - empowerment
     - endurance
     - fairness
-    - faith
     - fear
+    - freedom
     - healing
-    - hexes (break)
-    - independence
     - obstacles
     - protection
     - purification
+    - spirituality
     - strength
+    - success
     - trust
     - unity
-    - victory
   toxicity:
     humans: false
     pets: false
@@ -6362,41 +6235,40 @@ thyme:
   zodiac sign: aries, capricorn, libra, taurus
   chakra: throat
   properties:
-    - honesty
-    - healing
-    - strength
     - activate/awaken
     - adaptability
+    - attract luck
     - authority
     - awareness
     - calm
+    - cheerfulness
     - community
     - confidence
     - consecrate/bless
     - courage
     - divination
     - energy
-    - energy (psychic)
     - grief
     - growth
-    - happiness
+    - healing
     - home
+    - honesty
     - increase
     - love
-    - luck
-    - magic (fairy)
     - money
     - negativity
     - nightmares
     - power
     - protection
-    - protection (spiritual)
     - psychic ability
+    - psychic energy
     - purification
     - rebirth/renewal
     - skills
     - sleep
+    - spiritual protection
     - stimulation
+    - strength
     - stress
     - well-being
   toxicity:
@@ -6433,7 +6305,7 @@ uva ursi:
   zodiac sign: scorpio
   chakra: third-eye
   properties:
-    - enhance psychic ability
+    - psychic ability
   toxicity:
     humans: true
     pets: true
@@ -6456,11 +6328,6 @@ valerian:
   zodiac sign: scorpio, virgo
   chakra: root, throat
   properties:
-    - sleep
-    - healing
-    - longevity
-    - romance
-    - truth
     - anger
     - anxiety
     - blessings
@@ -6469,16 +6336,21 @@ valerian:
     - communication
     - endings
     - harmony
+    - healing
+    - life
     - love
-    - mind (peace)
     - money
-    - needs (emotional)
+    - needs
     - peace
+    - peace of mind
     - protection
     - purification
-    - reconciliation (after quarrels)
+    - reconciliation
+    - romance
     - sensitivity
+    - sleep
     - stress
+    - truth
   toxicity:
     humans: false
     pets: false
@@ -6500,18 +6372,16 @@ vervain:
     - love
     - protection
     - purification
-    - peace
-    - sleep
-    - healing
     - anger
     - anxiety
     - balance
     - banish
     - beginnings
+    - break hexes
     - calm
     - challenges
+    - cheerfulness
     - consecrate/bless
-    - creativity
     - discipline
     - divination
     - dream work
@@ -6524,36 +6394,34 @@ vervain:
     - grace
     - grounding
     - harmony
-    - hexes (break)
+    - healing
     - home
     - improvement
     - inspiration
     - justice
-    - learning
-    - longevity
+    - knowledge
+    - life
     - magic
-    - magic (sex)
     - manifestation
     - marriage
     - messages/omens
-    - mind (quick)
     - money
     - nightmares
     - obstacles
-    - optimism
-    - peace (make)
-    - power (personal)
+    - peace
+    - personal power
     - prophecy
     - prosperity
-    - release
-    - senses (sight)
-    - spirits (banish)
+    - protect from lightning
+    - quick mind
+    - release attachments
+    - sex magic
+    - sight
+    - sleep
+    - storms
     - stress
     - success
     - support
-    - weather (lightning)
-    - weather (storms)
-    - witches/witchcraft (protect from)
     - youth
   toxicity:
     humans: true
@@ -6576,10 +6444,9 @@ white oak:
   zodiac sign: sagittarius
   chakra: root
   properties:
-    - protection
-    - money
     - abundance
     - afterlife
+    - attract luck
     - authority
     - awareness
     - beauty
@@ -6594,7 +6461,6 @@ white oak:
     - enchantment
     - endurance
     - energy
-    - energy (sexual)
     - fertility
     - freedom
     - generosity
@@ -6605,20 +6471,21 @@ white oak:
     - knowledge
     - life
     - loyalty
-    - luck
-    - nature spirits
+    - money
+    - personal power
     - power
-    - power (personal)
     - prophecy
     - prosperity
+    - protect from lightning
+    - protection
     - purification
     - rebirth/renewal
     - secrets
     - security
+    - sexual energy
     - stability
     - stress
     - warmth
-    - weather (lightning)
     - well-being
     - witches/witchcraft
     - youth
@@ -6673,7 +6540,6 @@ wild tobacco:
   chakra: heart
   properties:
     - healing
-    - offerings
     - purification
   toxicity:
     humans: true
@@ -6691,13 +6557,11 @@ wild violet:
   zodiac sign: scorpio
   chakra: third-eye
   properties:
-    - protection
-    - luck
-    - lust
-    - wishes
     - afterlife
+    - attract luck
     - banish
     - beauty
+    - break hexes
     - changes
     - communication
     - dream work
@@ -6708,28 +6572,29 @@ wild violet:
     - guidance
     - healing
     - heartbreak
-    - hexes (break)
     - hope
     - innocence
     - integrity
     - justice
     - love
-    - magic (angel)
-    - magic (sex)
+    - lust
     - marriage
-    - mind (quiet)
-    - mind (soothe)
     - negativity
     - passion
     - peace
+    - protection
     - purification
     - purity
+    - quiet mind
     - sensitivity
+    - sex magic
     - sexuality
     - shyness
     - sleep
+    - soothe mind
     - stress
     - well-being
+    - wishes
   toxicity:
     humans: false
     pets: false
@@ -6747,15 +6612,13 @@ willow:
   zodiac sign: pisces
   chakra: heart
   properties:
-    - enchantment
-    - witchcraft
     - adaptability
     - afterlife
     - beauty
     - beginnings
     - bind
     - blessings
-    - comfort
+    - cheerfulness
     - communication
     - connections
     - consecrate/bless
@@ -6763,30 +6626,28 @@ willow:
     - death
     - divination
     - dream work
-    - energy (psychic)
+    - enchantment
     - fertility
     - freedom
     - grace
     - grief
     - healing
-    - immortality
     - inspiration
-    - intuition (trust it)
     - knowledge
     - life
-    - loss (comfort)
-    - love (forsaken)
+    - love
     - magic
-    - magic (moon)
     - marriage
-    - mind (open)
+    - moon magic
     - nurture
-    - optimism
+    - open mind
     - otherworld/underworld
     - power
-    - power (moon)
     - prophecy
     - protection
+    - provide comfort
+    - psychic ability
+    - psychic energy
     - relationships
     - skills
     - spirits
@@ -6811,18 +6672,18 @@ witch hazel:
   zodiac sign: capricorn
   chakra: solar plexus
   properties:
-    - protection
     - anxiety
     - banish
-    - chastity
     - courage
-    - divination (love)
+    - divination
     - fidelity
     - healing
     - inspiration
-    - learning
+    - knowledge
     - loss
     - obstacles
+    - protection
+    - purity
     - sexuality
     - stress
     - willpower
@@ -6868,9 +6729,10 @@ wormwood:
     - anger
     - animals
     - anxiety
-    - astral travel
+    - astral realm
     - banish
     - bind
+    - contact spirits
     - courage
     - death
     - defense
@@ -6882,18 +6744,17 @@ wormwood:
     - forgiveness
     - guidance
     - healing
-    - hexes
     - improvement
     - love
     - magic
     - obstacles
     - peace
     - power
-    - protection (from enchantment)
+    - protection
     - psychic ability
     - purification
+    - set hexes
     - skills
-    - spirits (contact)
     - stress
   toxicity:
     humans: true
@@ -6920,9 +6781,8 @@ yarrow:
   zodiac sign: gemini
   chakra: root
   properties:
-    - courage
-    - psychic ability
     - aggression
+    - animal magic
     - attraction
     - authority
     - awareness
@@ -6936,12 +6796,12 @@ yarrow:
     - changes
     - confidence
     - consecrate/bless
+    - contact spirits
+    - cosmic energy
+    - courage
     - death
     - divination
     - dream work
-    - energy (cosmic)
-    - energy (spiritual)
-    - exorcism
     - fear
     - fertility
     - fidelity
@@ -6951,17 +6811,17 @@ yarrow:
     - healing
     - heartbreak
     - love
-    - magic (animal)
     - marriage
     - negativity
     - power
     - protection
-    - protection (psychic)
-    - protection (spiritual)
+    - psychic ability
+    - psychic protection
     - purification
     - relationships
     - skills
-    - spirits (contact)
+    - spiritual energy
+    - spiritual protection
     - spirituality
     - stimulation
     - stress
@@ -6990,15 +6850,15 @@ yew:
   properties:
     - adaptability
     - afterlife
+    - black magic
     - changes
-    - communication (with dead)
+    - contact spirits
     - death
     - destruction
     - divination
     - enchantment
     - grief
     - knowledge
-    - magic (black)
     - nightmares
     - otherworld/underworld
     - protection
@@ -7006,7 +6866,6 @@ yew:
     - rebirth/renewal
     - skills
     - sleep
-    - spirit communication
     - witches/witchcraft
   toxicity:
     humans: true
