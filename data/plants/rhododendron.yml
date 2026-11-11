@@ -1,0 +1,18 @@
+rhododendron:
+  parts used: flowers
+  planet: venus
+  element: water
+  moon phase: full
+  zodiac sign: cancer
+  chakra: solar plexus
+  properties:
+    - personal power
+    - protection
+    - secrets
+  toxicity:
+    humans: true
+    pets: true
+    notes:
+      - safe to handle without gloves
+  citation:
+    - morgana-green-witch

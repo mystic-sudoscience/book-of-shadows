@@ -1,0 +1,15 @@
+buttercup:
+  parts used: flowers
+  planet: sun
+  element: fire
+  moon phase: full
+  zodiac sign: leo
+  chakra: heart
+  properties:
+    - love
+    - divination
+  toxicity:
+    humans: true
+    pets: true
+  citation:
+    - morgana-green-witch

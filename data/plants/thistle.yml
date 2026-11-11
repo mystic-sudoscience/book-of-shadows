@@ -1,0 +1,37 @@
+thistle:
+  type: misc
+  parts used: flowers, leaves, stalks
+  planet: mars
+  element: fire
+  moon phase: waxing
+  zodiac sign: scorpio
+  chakra: root
+  properties:
+    - action
+    - banish
+    - break hexes
+    - confidence
+    - connections
+    - courage
+    - empowerment
+    - endurance
+    - fairness
+    - fear
+    - freedom
+    - healing
+    - obstacles
+    - protection
+    - purification
+    - spirituality
+    - strength
+    - success
+    - trust
+    - unity
+  toxicity:
+    humans: false
+    pets: false
+  holidays:
+    - mabon
+  citation:
+    - morgana-green-witch
+    - kynes-correspondences

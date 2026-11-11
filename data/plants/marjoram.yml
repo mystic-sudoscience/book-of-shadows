@@ -1,0 +1,48 @@
+marjoram:
+  type: herb & garden
+  parts used: leaves
+  planet: mercury
+  element: air
+  moon phase: full
+  zodiac sign: aries
+  chakra: root, heart
+  properties:
+    - afterlife
+    - attraction
+    - black magic
+    - break hexes
+    - calm
+    - cheerfulness
+    - community
+    - concentration/focus
+    - connections
+    - consciousness
+    - family
+    - friendship
+    - grief
+    - healing
+    - innocence
+    - love
+    - marriage
+    - memory/memories
+    - money
+    - peace
+    - prosperity
+    - protection
+    - provide comfort
+    - psychic ability
+    - purification
+    - relationships
+    - release attachments
+    - security
+    - sleep
+    - stress
+    - unity
+    - warmth
+    - well-being
+  toxicity:
+    humans: false
+    pets: true
+  citation:
+    - morgana-green-witch
+    - kynes-correspondences

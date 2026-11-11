@@ -1,0 +1,63 @@
+hawthorn:
+  type: tree
+  parts used: flowers, leaves, fruit
+  planet: mars
+  element: fire
+  moon phase: full
+  zodiac sign: aries
+  chakra: sacral
+  properties:
+    - attract luck
+    - challenges
+    - changes
+    - cheerfulness
+    - clear unwanted energy
+    - emotions
+    - enchantment
+    - energy
+    - family
+    - fertility
+    - freedom
+    - growth
+    - hope
+    - improvement
+    - inspiration
+    - life
+    - love
+    - magic
+    - marriage
+    - negativity
+    - patience
+    - peace
+    - prosperity
+    - protect from lightning
+    - protect home from negative energy
+    - protection
+    - purification
+    - purity
+    - reconciliation
+    - relationships
+    - release attachments
+    - security
+    - self-improvement
+    - sexuality
+    - sorrow
+    - storms
+    - stress
+    - success
+    - wisdom
+    - wishes
+    - witches/witchcraft
+  toxicity:
+    humans: false
+    pets: true
+    notes:
+      - edible if seeds removed
+      - pets: nontoxic in small amounts
+      - drug interactions are possible; may interfere with digitalis medications
+  holidays:
+    - beltane
+  citation:
+    - morgana-green-witch
+    - cunningham-herbs
+    - kynes-correspondences

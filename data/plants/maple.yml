@@ -1,0 +1,22 @@
+maple:
+  type: tree
+  planet: jupiter
+  element: air
+  properties:
+    - abundance
+    - balance
+    - communication
+    - connections
+    - divination
+    - freedom
+    - grief
+    - life
+    - love
+    - money
+    - prosperity
+    - relationships
+    - support
+    - warmth
+  citation:
+    - cunningham-herbs
+    - kynes-correspondences

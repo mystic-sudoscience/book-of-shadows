@@ -1,0 +1,9 @@
+huckleberry:
+  planet: venus
+  element: water
+  properties:
+    - attract luck
+    - protection
+    - break hexes
+  citation:
+    - cunningham-herbs

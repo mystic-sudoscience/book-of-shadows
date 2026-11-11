@@ -1,0 +1,46 @@
+saffron:
+  type: misc
+  parts used: flower stigmas
+  planet: sun
+  element: fire
+  moon phase: waxing
+  zodiac sign: leo, scorpio
+  chakra: root, sacral
+  properties:
+    - anger
+    - calm
+    - cheerfulness
+    - desire
+    - dream work
+    - emotions
+    - fertility
+    - healing
+    - love
+    - lust
+    - magic
+    - marriage
+    - mind
+    - mindfulness
+    - money
+    - passion
+    - power
+    - prosperity
+    - psychic ability
+    - sex magic
+    - skills
+    - stimulation
+    - strength
+    - virility
+    - well-being
+  toxicity:
+    humans: false
+    pets: true
+    notes:
+      - do not take internally in high doses; find several sources that have appropriate doses of this herb
+      - avoid if pregnant
+  holidays:
+    - summer solstice
+  citation:
+    - morgana-green-witch
+    - cunningham-herbs
+    - kynes-correspondences

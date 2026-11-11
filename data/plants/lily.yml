@@ -1,0 +1,42 @@
+lily:
+  type: herb & garden
+  parts used: flowers
+  planet: moon
+  element: water
+  moon phase: waning
+  zodiac sign: cancer
+  chakra: heart
+  properties:
+    - afterlife
+    - beauty
+    - calm
+    - cheerfulness
+    - communication
+    - goodness
+    - innocence
+    - inspiration
+    - love
+    - manifestation
+    - negativity
+    - nurture
+    - otherworld/underworld
+    - peace
+    - pride
+    - prosperity
+    - protection
+    - purity
+    - relationships
+    - willpower
+    - youth
+  toxicity:
+    humans: true
+    pets: true
+    notes:
+      - extremely poisonous to cats
+      - wear gloves when handling
+  holidays:
+    - ostara
+  citation:
+    - morgana-green-witch
+    - cunningham-herbs
+    - kynes-correspondences

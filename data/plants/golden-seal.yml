@@ -1,0 +1,22 @@
+golden seal:
+  type: herb & garden
+  planet: sun
+  element: fire
+  properties:
+    - beauty
+    - business
+    - healing
+    - increase
+    - magic
+    - money
+    - prosperity
+    - stimulation
+    - strength
+    - wisdom
+  toxicity:
+    notes:
+      - avoid if pregnant
+      - do not abuse, internally; not for long-term use
+  citation:
+    - cunningham-herbs
+    - kynes-correspondences

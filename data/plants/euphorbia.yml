@@ -1,0 +1,12 @@
+euphorbia:
+  planet: saturn
+  element: water
+  properties:
+    - protection
+    - purification
+  toxicity:
+    notes:
+      - poison
+      - may cause nausea, vomiting
+  citation:
+    - cunningham-herbs

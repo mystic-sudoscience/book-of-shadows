@@ -1,0 +1,34 @@
+magnolia:
+  type: tree
+  parts used: flowers, bark
+  planet: venus
+  element: earth
+  moon phase: waning
+  zodiac sign: virgo
+  chakra: solar plexus
+  properties:
+    - attraction
+    - clairvoyance
+    - clarity
+    - dream work
+    - expand awareness
+    - fidelity
+    - harmony
+    - life
+    - love
+    - marriage
+    - peace
+    - protection
+    - psychic ability
+    - purification
+    - purity
+    - relationships
+    - sexuality
+    - truth
+    - wisdom
+  toxicity:
+    humans: false
+    pets: false
+  citation:
+    - morgana-green-witch
+    - kynes-correspondences

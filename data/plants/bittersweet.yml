@@ -1,0 +1,13 @@
+bittersweet:
+  type: misc
+  planet: mercury
+  element: air
+  properties:
+    - protection
+    - healing
+    - face danger
+    - endings
+    - enmity
+  citation:
+    - cunningham-herbs
+    - kynes-correspondences

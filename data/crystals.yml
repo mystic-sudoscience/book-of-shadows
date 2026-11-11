@@ -1,2 +1,3126 @@
-crystal_name:
+agate:
   properties:
+    - anxiety
+    - avoid enmity
+    - calm
+    - confidence
+    - connect with the natural world
+    - eloquence
+    - friendship
+    - generosity
+    - grief
+    - grounding
+    - integrity
+    - light
+    - luck
+    - prosperity
+    - provide comfort
+    - purity
+    - quiet mind
+    - raise consciousness
+    - reversal
+    - storms
+    - truth
+    - vitality
+  varieties:
+    banded:
+      properties:
+        - energy
+        - face danger
+        - growth
+        - protection
+        - stress
+    black:
+      properties:
+        - communication
+        - courage
+        - darkness
+        - energy
+        - healing
+        - peace
+        - protection
+        - success
+        - support
+    black with white veining:
+      properties:
+        - beauty
+        - face danger
+        - receptive energy
+    brown:
+      properties:
+        - courage
+        - energy
+        - money
+        - security
+        - sexuality
+        - success
+        - wealth
+    fire:
+      properties:
+        - security
+        - sexuality
+    green:
+      properties:
+        - fertility
+        - healing
+        - love
+        - receptive energy
+    red:
+      properties:
+        - action
+        - courage
+        - energy
+        - healing
+        - love
+        - peace
+        - protection
+    red banded:
+      properties:
+        - courage
+        - determination
+        - enmity
+        - fear
+        - healing
+        - success
+    snakeskin:
+      properties:
+        - animal magic
+        - animals
+        - changes
+        - courage
+        - guardian
+        - guidance
+        - healing
+        - sexual energy
+    tree:
+      properties:
+        - abundance
+        - agriculture
+        - balance
+        - growth
+        - introspection
+        - wealth
+        - well-being
+  citation:
+    - kynes-correspondences
+alexandrite:
+  properties:
+    - balance
+    - beauty
+    - beginnings
+    - calm
+    - connections
+    - fairness
+    - growth
+    - imagination
+    - life
+    - light
+    - limitations/boundaries
+    - love
+    - luck
+    - rebirth/renewal
+    - self-respect
+    - soothe emotions
+    - spiritual transformation
+    - spirituality
+    - success
+    - wealth
+  citation:
+    - kynes-correspondences
+amazonite:
+  properties:
+    - afterlife
+    - anxiety
+    - astral realm
+    - balance
+    - calm
+    - clarity
+    - communication
+    - concentration/focus
+    - courage
+    - death
+    - emotional challenges
+    - fear
+    - fertility
+    - grounding
+    - growth
+    - honor
+    - hope
+    - improvement
+    - inspiration
+    - life
+    - luck
+    - luck with money
+    - memory/memories
+    - negativity
+    - receptive energy
+    - relationships
+    - stability
+    - success
+    - trust
+    - truth
+    - unity
+    - universal love
+  citation:
+    - kynes-correspondences
+amber:
+  properties:
+    - ambition
+    - angel magic
+    - balance
+    - beauty
+    - black magic
+    - calm
+    - clarity
+    - clear mind
+    - courage
+    - emotions
+    - energy
+    - fear
+    - fidelity
+    - gently activate/awaken
+    - grief
+    - harmony
+    - healing
+    - honesty
+    - illumination
+    - increase
+    - knowledge
+    - life
+    - love
+    - magic
+    - manifestation
+    - memory/memories
+    - mental power
+    - motivation
+    - patience
+    - peace
+    - power
+    - protect from witchcraft
+    - protection
+    - purification
+    - romance
+    - sleep
+    - solar energy
+    - solar magic
+    - spirituality
+    - stability
+    - stimulate happiness
+    - stress
+    - success
+    - transformation
+    - warmth
+  citation:
+    - kynes-correspondences
+amethyst:
+  properties:
+    - angel magic
+    - anger
+    - awareness
+    - balance
+    - calm
+    - calm mind
+    - changes
+    - clear mind
+    - communication
+    - concentration/focus
+    - consciousness
+    - contact spirits
+    - divination
+    - face danger
+    - fear
+    - gratitude
+    - grounding
+    - guidance
+    - harmony
+    - healing
+    - inner healing
+    - inspiration
+    - justice
+    - manifest love
+    - manifestation
+    - needs
+    - negativity
+    - prophecy
+    - protection
+    - psychic ability
+    - purification
+    - quiet mind
+    - rebirth/renewal
+    - sexuality
+    - skills
+    - sleep
+    - spiritual beginnings
+    - spiritual connections
+    - spirituality
+    - stability
+    - success
+    - transformation
+    - travel
+    - well-being
+  citation:
+    - kynes-correspondences
+ametrine:
+  properties:
+    - astral realm
+    - awareness
+    - balance the aura
+    - beginnings
+    - community
+    - concentration/focus
+    - connect spirit and will
+    - guardian
+    - guidance
+    - healing
+    - higher consciousness
+    - inspiration
+    - loss
+    - mental clarity
+    - negativity
+    - purification
+    - spiritual clarity
+    - spirituality
+    - stability
+    - stress
+  citation:
+    - kynes-correspondences
+andalusite:
+  properties:
+    - balance
+    - changes
+    - determination
+    - enhance memory
+    - grounding
+    - manifestation
+    - negativity
+    - respect
+    - spirituality
+    - success
+  citation:
+    - kynes-correspondences
+angelite:
+  properties:
+    - angel magic
+    - angelic messages
+    - anger
+    - anxiety
+    - calm
+    - communicate with the angelic realm
+    - community
+    - compassion
+    - emotional stability
+    - expand awareness
+    - forgiveness
+    - generosity
+    - listening
+    - protection
+    - psychic ability
+    - psychic protection
+    - release/dispel fear
+    - self-acceptance
+    - spirit guardian
+    - spiritual protection
+    - stress
+  citation:
+    - kynes-correspondences
+apache tears:
+  properties:
+    - afterlife
+    - balance body, mind, and spirit
+    - calm
+    - clarity
+    - death
+    - emotions
+    - energy
+    - face danger
+    - fear
+    - forgiveness
+    - grief
+    - grounding
+    - karma
+    - negativity
+    - peace
+    - protection
+    - psychic ability
+    - sight
+    - sorrow
+  citation:
+    - kynes-correspondences
+apatite:
+  properties:
+    - abundance
+    - acceptance
+    - break negative self-image
+    - clairaudience
+    - clairvoyance
+    - communication
+    - community
+    - concentration/focus
+    - deepen spirituality
+    - grief
+    - harmony
+    - healing
+    - improve self-image
+    - inspiration
+    - manifestation
+    - mental stimulation
+    - open to love
+    - overcome shyness
+    - psychic ability
+    - rebirth/renewal
+    - sight
+    - support
+  varieties:
+    blue:
+      properties:
+        - beauty
+        - beginnings
+  citation:
+    - kynes-correspondences
+apophyllite:
+  properties:
+    - astral realm
+    - cheerfulness
+    - clarity
+    - connect inner and outer worlds
+    - enchantment
+    - light
+    - self-knowledge
+    - self-purification
+    - spiritual balance
+    - spirituality
+    - stimulate intuition
+    - stress
+    - trust
+  varieties:
+    green:
+      properties:
+        - growth
+        - receptive energy
+        - transformation
+  citation:
+    - kynes-correspondences
+aquamarine:
+  properties:
+    - alert mind
+    - angel magic
+    - authority
+    - banish
+    - calm
+    - clear mind
+    - communication
+    - compassion
+    - courage
+    - desire
+    - discipline
+    - fear
+    - grief
+    - healing
+    - inner power
+    - insight
+    - inspiration
+    - introspection
+    - knowledge
+    - loss
+    - marital harmony
+    - mental clarity
+    - prophecy
+    - protection
+    - psychic ability
+    - purification
+    - rebirth/renewal
+    - receptive energy
+    - relationships
+    - self-love
+    - stimulation
+    - stress
+    - travel
+    - well-being
+    - youth
+  citation:
+    - kynes-correspondences
+aragonite:
+  properties:
+    - acceptance
+    - balance
+    - calm
+    - confidence
+    - enchantment
+    - grounding
+    - nurture
+    - purification
+    - stress
+    - support
+    - truth
+  varieties:
+    blue:
+      properties:
+        - compassion
+        - growth
+        - self-healing
+  citation:
+    - kynes-correspondences
+aventurine:
+  properties:
+    - abundance
+    - activate/awaken
+    - balance
+    - banish
+    - changes
+    - clarity
+    - clear mind
+    - community
+    - compassion
+    - confidence
+    - courage
+    - emotions
+    - empathy
+    - energy
+    - friendship
+    - healing
+    - heartbreak
+    - imagination
+    - influence love
+    - insight
+    - introspection
+    - justice
+    - lift emotions
+    - mental power
+    - motivation
+    - negativity
+    - prosperity
+    - protection
+    - sexuality
+    - wealth
+    - well-being
+  varieties:
+    green:
+      properties:
+        - anxiety
+        - calm
+        - inner strength
+        - integrity
+        - money
+        - sight
+        - success
+    reddish brown:
+      properties:
+        - personal power
+  citation:
+    - kynes-correspondences
+azurite:
+  properties:
+    - anxiety
+    - astral realm
+    - awareness
+    - calm
+    - challenges
+    - changes
+    - clairvoyance
+    - communication
+    - connections
+    - divination
+    - emotional empowerment
+    - emotions
+    - enchantment
+    - fear
+    - growth
+    - healing
+    - insight
+    - mind
+    - mindfulness
+    - negativity
+    - obstacles
+    - patience
+    - psychic ability
+    - purification
+    - receptive energy
+    - spiritual guidance
+    - spirituality
+    - stress
+    - transformation
+  citation:
+    - kynes-correspondences
+beryl:
+  properties:
+    - acceptance
+    - awareness
+    - banish
+    - challenges
+    - communication
+    - concentration/focus
+    - courage
+    - energy
+    - enmity
+    - fame
+    - fear
+    - friendship
+    - goodness
+    - healing
+    - increase
+    - inner balance
+    - love
+    - marriage
+    - memory/memories
+    - moon magic
+    - protection
+    - psychic ability
+    - receptive energy
+    - reconcile friendships
+    - reconcile marriage
+    - relationships
+    - spirituality
+    - stability
+    - storms
+    - travel
+    - well-being
+  varieties:
+    golden:
+      properties:
+        - mind
+  citation:
+    - kynes-correspondences
+bloodstone:
+  properties:
+    - abundance
+    - adaptability
+    - aggression
+    - anger
+    - banish
+    - beginnings
+    - business
+    - calm mind
+    - concentration/focus
+    - confidence
+    - consecrate/bless
+    - courage
+    - emotions
+    - energy
+    - enmity
+    - fairness
+    - fame
+    - fear
+    - healing
+    - honesty
+    - integrity
+    - justice
+    - life
+    - love
+    - luck
+    - magical power
+    - mental balance
+    - money
+    - obstacles
+    - order/organize
+    - passion
+    - power
+    - pregnancy/childbirth
+    - prosperity
+    - rebirth/renewal
+    - relationships
+    - skills
+    - spirituality
+    - stimulation
+    - stress
+    - success
+    - wealth
+  citation:
+    - kynes-correspondences
+blue lace agate:
+  properties:
+    - angel magic
+    - anger
+    - beginnings
+    - calm mind
+    - clarity
+    - communication
+    - confidence
+    - consciousness
+    - emotional calm
+    - emotions
+    - friendship
+    - grounding
+    - healing
+    - hope
+    - inspiration
+    - manifestation
+    - obstacles
+    - patience
+    - peace
+    - receptive energy
+    - relationships
+    - release/dispel fear
+    - sensitivity
+    - spirituality
+    - stress
+    - transformation
+    - trust
+  citation:
+    - kynes-correspondences
+calcite:
+  properties:
+    - astral realm
+    - attachments
+    - awareness
+    - increase
+    - knowledge
+    - light
+    - memory/memories
+    - psychic protection
+    - reconciliation
+    - spiritual protection
+    - stability
+    - subconscious
+    - support
+    - wealth
+  varieties:
+    blue:
+      properties:
+        - healing
+        - heartbreak
+        - psychic ability
+        - purification
+        - receptive energy
+    clear:
+      properties:
+        - clarity
+        - communication
+        - concentration/focus
+        - insight
+        - introspection
+        - receptive energy
+        - spirituality
+    green:
+      properties:
+        - changes
+        - emotional balance
+        - fear
+        - imagination
+        - money
+        - prosperity
+        - receptive energy
+    orange:
+      properties:
+        - confidence
+        - courage
+        - energy
+        - expand awareness
+        - protection
+        - shyness
+    pink:
+      properties:
+        - calm
+        - emotional balance
+        - grounding
+        - healing
+        - love
+        - spirituality
+        - well-being
+    red:
+      properties:
+        - rebirth/renewal
+        - spirituality
+  citation:
+    - kynes-correspondences
+carnelian:
+  properties:
+    - aggression
+    - alert mind
+    - anger
+    - astral realm
+    - cheerfulness
+    - concentration/focus
+    - confidence
+    - courage
+    - desire
+    - energy
+    - enmity
+    - fear
+    - fertility
+    - grief
+    - harmony
+    - healing
+    - inspiration
+    - introspection
+    - jealousy
+    - lust
+    - manifestation
+    - memory/memories
+    - negativity
+    - nightmares
+    - obstacles
+    - peace
+    - personal power
+    - power
+    - pride
+    - protection
+    - psychic protection
+    - rebirth/renewal
+    - reversal
+    - self-respect
+    - sexual energy
+    - sexuality
+    - shyness
+    - sorrow
+    - stress
+    - success
+    - travel
+    - well-being
+    - wishes
+  varieties:
+    yellow:
+      properties:
+        - eloquence
+  citation:
+    - kynes-correspondences
+cat's eye:
+  properties:
+    - animal magic
+    - animals
+    - beauty
+    - generosity
+    - insight
+    - protection
+    - rebirth/renewal
+    - wealth
+  citation:
+    - kynes-correspondences
+celestite:
+  properties:
+    - angel magic
+    - astral realm
+    - awareness
+    - clarity
+    - compassion
+    - develop skills
+    - eloquence
+    - emotional calm
+    - emotions
+    - harmony
+    - healing
+    - inspiration
+    - motivation
+    - spiritual calm
+    - spiritual energy
+    - spirituality
+    - stability
+    - stress
+  citation:
+    - kynes-correspondences
+cerussite:
+  properties:
+    - astral realm
+    - clarity
+    - communication
+    - consciousness
+    - enlightenment
+    - grounding
+    - respect
+  citation:
+    - kynes-correspondences
+charoite:
+  properties:
+    - community
+    - dedication/devotion
+    - fear
+    - growth
+    - inner strength
+    - inspiration
+    - life
+    - logic/logical mind
+    - loss
+    - purification
+    - recognize negativity
+    - spiritual energy
+    - spiritual power
+    - transformation
+    - trust
+    - unity
+  citation:
+    - kynes-correspondences
+chrysoberyl:
+  properties:
+    - abundance
+    - clarity
+    - compassion
+    - confidence
+    - forgiveness
+    - generosity
+    - integrity
+    - mind
+    - rebirth/renewal
+    - self-respect
+    - support healing
+  citation:
+    - kynes-correspondences
+chrysocolla:
+  properties:
+    - anger
+    - anxiety
+    - balance
+    - calm
+    - communication
+    - confidence
+    - control senses
+    - emotions
+    - fear
+    - grief
+    - grounding
+    - harmony
+    - heartbreak
+    - inner strength
+    - inspiration
+    - love
+    - mind
+    - power
+    - pregnancy/childbirth
+    - relationships
+    - stability
+    - stress
+  citation:
+    - kynes-correspondences
+chrysoprase:
+  properties:
+    - abundance
+    - activate/awaken
+    - adaptability
+    - anger
+    - anxiety
+    - attraction
+    - banish
+    - clairvoyance
+    - communication
+    - compassion
+    - courage
+    - emotional balance
+    - emotions
+    - enmity
+    - forgiveness
+    - grace
+    - grief
+    - growth
+    - healing
+    - heartbreak
+    - inner strength
+    - kindness
+    - light
+    - money
+    - nightmares
+    - open mind
+    - patience
+    - protection
+    - receptive energy
+    - sight
+    - sorrow
+    - stability
+    - stress
+    - success
+    - trust
+    - truth
+    - willpower
+  citation:
+    - kynes-correspondences
+citrine:
+  properties:
+    - abundance
+    - authority
+    - awareness
+    - balance
+    - beginnings
+    - changes
+    - cheerfulness
+    - clarity
+    - clear mind
+    - community
+    - confidence
+    - consciousness
+    - discipline
+    - emotions
+    - energy
+    - fear
+    - goodness
+    - harmony
+    - healing
+    - magical power
+    - manifest abundance
+    - manifest power
+    - marriage
+    - mental power
+    - negativity
+    - nightmares
+    - open mind
+    - prosperity
+    - protection
+    - psychic ability
+    - rebirth/renewal
+    - relationships
+    - sexual energy
+    - sleep
+    - solar magic
+    - spiritual guidance
+    - spirituality
+    - subconscious
+    - success
+    - vitality
+    - wealth
+    - willpower
+  varieties:
+    madeira:
+      properties:
+        - emotions
+        - passion
+  citation:
+    - kynes-correspondences
+danburite:
+  properties:
+    - angelic connections
+    - angelic support
+    - awareness
+    - clarity
+    - communication
+    - endurance
+    - mental stimulation
+    - patience
+    - psychic ability
+    - quiet mind
+    - self-love
+    - sensitivity
+    - spiritual courage
+    - spirituality
+    - truth
+  citation:
+    - kynes-correspondences
+desert rose:
+  properties:
+    - beauty
+    - enlightenment
+    - life
+    - love
+    - spirituality
+  citation:
+    - kynes-correspondences
+diamond:
+  properties:
+    - beauty
+    - challenges
+    - clairaudience
+    - clairvoyance
+    - confidence
+    - consciousness
+    - courage
+    - dedication/devotion
+    - desire
+    - destiny
+    - enchantment
+    - encouragement
+    - energy
+    - enmity
+    - fairness
+    - family
+    - fear
+    - fidelity
+    - goodness
+    - healing
+    - justice
+    - loving relationships
+    - magic
+    - nightmares
+    - protection
+    - purification
+    - purity
+    - reconciliation
+    - sleep
+    - sorrow
+    - spirituality
+    - trust
+    - truth
+    - wealth
+    - weather
+  varieties:
+    blue:
+      properties:
+        - innocence
+        - peace
+    pink:
+      properties:
+        - harmony
+        - love
+        - romance
+        - stress
+    white:
+      properties:
+        - clarity
+        - support
+  citation:
+    - kynes-correspondences
+diopside:
+  properties:
+    - community
+    - dedication/devotion
+    - dignity
+    - forgiveness
+    - healing
+    - love
+    - spirituality
+  citation:
+    - kynes-correspondences
+dioptase:
+  properties:
+    - abundance
+    - dignity
+    - emotional balance
+    - forgiveness
+    - healing
+    - life
+    - love
+    - prosperity
+    - self-respect
+    - stress
+    - truth
+    - well-being
+  citation:
+    - kynes-correspondences
+emerald:
+  properties:
+    - business
+    - clairvoyance
+    - clear mind
+    - contact spirits
+    - emotional balance
+    - emotions
+    - endurance
+    - friendship
+    - healing
+    - improvement
+    - inner truth
+    - insight
+    - integrity
+    - jealousy
+    - knowledge
+    - manifestation
+    - memory/memories
+    - mental power
+    - money
+    - prophecy
+    - protect from enchantment
+    - protection
+    - psychic ability
+    - receptive energy
+    - secure love
+    - security in love
+    - self-discipline
+    - sexuality
+    - sight
+    - travel
+    - wealth
+    - wishes
+  citation:
+    - kynes-correspondences
+fircon:
+  properties:
+    - love
+    - weather
+  citation:
+    - kynes-correspondences
+fluorite:
+  properties:
+    - activate/awaken
+    - analytical mind
+    - anger
+    - astral realm
+    - balance
+    - beginnings
+    - boost energy
+    - business success
+    - calm
+    - cheerfulness
+    - communication
+    - concentration/focus
+    - consciousness
+    - divination
+    - emotions
+    - grief
+    - grounding
+    - guardian
+    - guidance
+    - illumination
+    - improvement
+    - mental power
+    - motivation
+    - self-discipline
+    - spirituality
+    - trust
+    - vitality
+    - well-being
+    - willpower
+  varieties:
+    green:
+      properties:
+        - growth
+        - purification
+    violet:
+      properties:
+        - introspection
+        - spirituality
+  citation:
+    - kynes-correspondences
+foisite:
+  properties:
+    - connections
+    - fertility
+    - growth
+    - love
+  citation:
+    - kynes-correspondences
+garnet:
+  properties:
+    - adaptability
+    - ambition
+    - anger
+    - attraction
+    - balance
+    - calm
+    - compassion
+    - confidence
+    - darkness
+    - dedication/devotion
+    - defense
+    - desire
+    - determination
+    - emotions
+    - endurance
+    - energy
+    - fairness
+    - fertility
+    - fidelity
+    - friendship
+    - harmony
+    - healing
+    - heartbreak
+    - imagination
+    - life
+    - light
+    - loyalty
+    - lust
+    - manifestation
+    - negativity
+    - nightmares
+    - passion
+    - patience
+    - personal power
+    - protection
+    - purification
+    - sexuality
+    - stimulate happiness
+    - success
+    - truth
+    - weather
+    - well-being
+  varieties:
+    black:
+      properties:
+        - grounding
+        - relationships
+        - spirituality
+        - stability
+        - travel
+    hessonite:
+      properties:
+        - changes
+        - courage
+        - emotional support
+        - receptive energy
+    red:
+      properties:
+        - courage
+        - rebirth/renewal
+        - relationships
+        - stability
+    rhodolite:
+      properties:
+        - inspiration
+        - love
+        - nurture
+    spessartite:
+      properties:
+        - mind
+  citation:
+    - kynes-correspondences
+hawk's eye:
+  properties:
+    - animal magic
+    - animals
+    - attachments
+    - awareness
+    - balance
+    - clarity
+    - heal from negativity
+    - healing
+    - insight
+    - karma
+    - psychic ability
+    - rebirth/renewal
+  citation:
+    - kynes-correspondences
+hematite:
+  properties:
+    - activate/awaken
+    - adaptability
+    - afterlife
+    - anxiety
+    - astral realm
+    - attraction
+    - awareness
+    - balance
+    - calm
+    - clarity
+    - community
+    - concentration/focus
+    - confidence
+    - courage
+    - death
+    - discipline
+    - divination
+    - energy
+    - grounding
+    - healing
+    - increase
+    - integrity
+    - knowledge
+    - light
+    - limitations/boundaries
+    - loss
+    - manifestation
+    - memory/memories
+    - mental purification
+    - mind
+    - negativity
+    - personal growth
+    - power
+    - pregnancy/childbirth
+    - protection
+    - senses
+    - stability
+    - stress
+    - support
+    - universal energy
+    - willpower
+  citation:
+    - kynes-correspondences
+herkimer diamond:
+  properties:
+    - agriculture
+    - awareness
+    - balance
+    - beauty
+    - bind relationships
+    - clairaudience
+    - clairvoyance
+    - clear mind
+    - courage
+    - energy
+    - fidelity
+    - grounding
+    - growth
+    - healing
+    - inner senses
+    - mental power
+    - money
+    - peace
+    - prosperity
+    - protection
+    - psychic ability
+    - purification
+    - rebirth/renewal
+    - reconciliation
+    - relationships
+    - self-knowledge
+    - sexual energy
+    - sleep
+    - spirituality
+    - stability
+    - stress
+    - travel
+    - wealth
+    - well-being
+  citation:
+    - kynes-correspondences
+howlite:
+  properties:
+    - anger
+    - anxiety
+    - express emotions
+    - memory/memories
+    - patience
+    - pregnancy/childbirth
+    - stress
+  citation:
+    - kynes-correspondences
+iet:
+  properties:
+    - witches/witchcraft
+  citation:
+    - kynes-correspondences
+iolite:
+  properties:
+    - activate/awaken
+    - astral realm
+    - balance the aura
+    - beginnings
+    - calm
+    - charity
+    - communication
+    - connections
+    - fairness
+    - manifestation
+    - psychic ability
+    - self-knowledge
+    - spirituality
+    - stability
+    - stimulation
+    - vitality
+  citation:
+    - kynes-correspondences
+jade:
+  properties:
+    - abundance
+    - afterlife
+    - agriculture
+    - business
+    - clarity
+    - confidence
+    - cosmic connections
+    - courage
+    - emotional balance
+    - endurance
+    - fertility
+    - goodness
+    - growth
+    - guidance
+    - heartbreak
+    - inspiration
+    - justice
+    - kindness
+    - knowledge
+    - luck
+    - money
+    - negativity
+    - nurture
+    - peace
+    - prosperity
+    - protection
+    - purification
+    - rational mind
+    - receptive energy
+    - sexual energy
+    - truth
+    - unconditional love
+    - weather
+    - well-being
+  varieties:
+    blue:
+      properties:
+        - calm
+        - patience
+        - stress
+    brown:
+      properties:
+        - adaptability
+        - changes
+        - grounding
+    lavender:
+      properties:
+        - healing
+    red:
+      properties:
+        - motivation
+        - move/stimulate energy
+    white:
+      properties:
+        - concentration/focus
+  citation:
+    - kynes-correspondences
+jasper:
+  properties:
+    - action
+    - agriculture
+    - communication
+    - courage
+    - determination
+    - family
+    - fear
+    - nightmares
+    - peace
+    - sexual energy
+    - sexuality
+    - stress
+    - support
+    - truth
+  varieties:
+    brown:
+      properties:
+        - balance
+        - face danger
+        - grounding
+        - receptive energy
+    green:
+      properties:
+        - balance
+        - clairvoyance
+        - clear mind
+        - compassion
+        - fertility
+        - grounding
+        - growth
+        - healing
+        - integrity
+        - money
+        - promote empathy
+        - receptive energy
+        - sleep
+        - wealth
+        - well-being
+    leopard skin:
+      properties:
+        - animal magic
+        - animals
+        - energy
+        - healing
+        - insight
+        - introspection
+        - order/organize
+        - travel
+    picture:
+      properties:
+        - awareness
+        - growth of awareness
+        - inspiration
+        - life
+        - stability
+    pink:
+      properties:
+        - love
+    red:
+      properties:
+        - astral realm
+        - banish
+        - beauty
+        - clear mind
+        - compassion
+        - concentration/focus
+        - divination
+        - enchantment
+        - encouragement
+        - energy
+        - grace
+        - grounding
+        - healing
+        - integrity
+        - negativity
+        - order/organize
+        - pregnancy/childbirth
+        - prosperity
+        - protection
+        - reversal
+        - stability
+        - well-being
+    yellow:
+      properties:
+        - attract positive energy
+        - clear mind
+        - success
+        - willpower
+  citation:
+    - kynes-correspondences
+jet:
+  properties:
+    - afterlife
+    - bind
+    - black magic
+    - calm
+    - charity
+    - clairvoyance
+    - community
+    - connections
+    - darkness
+    - death
+    - divination
+    - emotional balance
+    - emotions
+    - energy
+    - fear
+    - financial protection
+    - grief
+    - grounding
+    - healing
+    - honor
+    - illumination
+    - justice
+    - magic
+    - negativity
+    - nightmares
+    - psychic ability
+    - receptive energy
+    - sleep
+    - spirituality
+    - storms
+    - transformation
+    - travel
+    - well-being
+  citation:
+    - kynes-correspondences
+kunzite:
+  properties:
+    - activate/awaken
+    - beauty
+    - beginnings
+    - calm
+    - communication
+    - compassion
+    - emotional support
+    - grounding
+    - guidance
+    - harmony
+    - healing
+    - introspection
+    - nurture
+    - obstacles
+    - peace
+    - personal growth
+    - protection
+    - reconciliation
+    - relationships
+    - stress
+    - unconditional love
+  citation:
+    - kynes-correspondences
+kyanite:
+  properties:
+    - anxiety
+    - beginnings
+    - calm
+    - change the mind
+    - changes
+    - clarity
+    - communication
+    - community
+    - concentration/focus
+    - enchantment
+    - energy
+    - guidance
+    - loss
+    - loyalty
+    - rebirth/renewal
+    - stability
+  citation:
+    - kynes-correspondences
+labradorite:
+  properties:
+    - animals
+    - awareness
+    - balance the aura
+    - clarity
+    - confidence
+    - connections
+    - contact spirits
+    - courage
+    - destiny
+    - energy
+    - inner strength
+    - inspiration
+    - listen to inner voice
+    - magic
+    - mindfulness
+    - motivation
+    - open to love
+    - personal growth
+    - stress
+    - success
+    - transformation
+    - vitality
+  citation:
+    - kynes-correspondences
+lapis lazuli:
+  properties:
+    - afterlife
+    - awareness
+    - calm
+    - communication
+    - cosmic connections
+    - courage
+    - divination
+    - emotions
+    - enchantment
+    - family
+    - fidelity
+    - friendship
+    - heartbreak
+    - improvement
+    - inner power
+    - insight
+    - intellectual
+    - introspection
+    - justice
+    - knowledge
+    - love
+    - manifestation
+    - mental purification
+    - mind
+    - move/stimulate energy
+    - pregnancy/childbirth
+    - prophecy
+    - protection during travel
+    - psychic ability
+    - relationships
+    - sight
+    - spiritual purification
+    - spirituality
+    - stimulation
+    - truth
+    - unity
+  citation:
+    - kynes-correspondences
+larimar:
+  properties:
+    - acceptance
+    - anger
+    - balance
+    - calm
+    - confidence
+    - harmony
+    - healing
+    - negativity
+    - relationships
+  citation:
+    - kynes-correspondences
+lepidolite:
+  properties:
+    - balance
+    - calm
+    - change the mind
+    - changes
+    - concentration/focus
+    - emotions
+    - harmony
+    - love
+    - manifestation
+    - negativity
+    - nightmares
+    - order/organize
+    - peace
+    - protection
+    - psychic ability
+    - shyness
+    - spirituality
+    - stress
+  citation:
+    - kynes-correspondences
+lodestone:
+  properties:
+    - attraction
+    - authority
+    - balance
+    - bind
+    - blessings
+    - business
+    - challenges
+    - communication
+    - concentration/focus
+    - confidence
+    - consecrate/bless
+    - energy
+    - enmity
+    - fame
+    - fidelity
+    - find your spiritual path
+    - forgiveness
+    - friendship
+    - goodness
+    - grounding
+    - guardian
+    - guidance
+    - healing
+    - love
+    - luck
+    - magic
+    - money
+    - motivation
+    - negativity
+    - power
+    - pregnancy/childbirth
+    - prosperity
+    - protection
+    - purification
+    - receptive energy
+    - reconcile marriage
+    - relationships
+    - reversal
+    - romance
+    - security
+    - sight
+    - skills
+    - sleep
+    - strengthen loyalty
+    - success
+    - weather
+    - willpower
+  citation:
+    - kynes-correspondences
+malachite:
+  properties:
+    - abundance
+    - afterlife
+    - agriculture
+    - astral realm
+    - black magic
+    - business
+    - calm
+    - changes
+    - communication
+    - connections
+    - death
+    - divination
+    - emotional balance
+    - emotional empowerment
+    - emotional purification
+    - emotional security
+    - emotions
+    - face danger
+    - give love
+    - grounding
+    - guidance
+    - healing
+    - hope
+    - loyalty
+    - luck with money
+    - magical power
+    - mental purification
+    - negativity
+    - nurture
+    - peace
+    - personal power
+    - power
+    - prosperity
+    - protection
+    - psychic ability
+    - sight
+    - skills
+    - sleep
+    - spirituality
+    - success
+    - transformation
+    - travel
+    - wealth
+  citation:
+    - kynes-correspondences
+moldavite:
+  properties:
+    - astral realm
+    - attachments
+    - beginnings
+    - blessings
+    - community
+    - consecrate/bless
+    - cosmic consciousness
+    - cosmic energy
+    - endurance
+    - healing
+    - insight
+    - introspection
+    - life
+    - loss
+    - needs
+    - order/organize
+    - psychic ability
+    - purification
+    - receptive energy
+    - spirituality
+    - transformation
+    - travel
+  citation:
+    - kynes-correspondences
+moonstone:
+  properties:
+    - accomplishment
+    - affection
+    - afterlife
+    - agriculture
+    - angel magic
+    - awareness
+    - calm
+    - clairvoyance
+    - communication
+    - compassion
+    - contact spirits
+    - cycles
+    - death
+    - destiny
+    - divination
+    - emotional connections
+    - emotions
+    - enchantment
+    - friendship
+    - guidance
+    - harmony
+    - healing
+    - hope
+    - knowledge
+    - light
+    - love
+    - loyalty
+    - moon magic
+    - night magic
+    - occult power
+    - open to love
+    - passion
+    - pregnancy/childbirth
+    - protection during travel
+    - psychic ability
+    - reconciliation
+    - sensitivity
+    - sleep
+    - stress
+    - support
+    - travel
+    - unite mind, body, and spirit
+    - youth
+  varieties:
+    gray:
+      properties:
+        - obstacles
+  citation:
+    - kynes-correspondences
+morganite:
+  properties:
+    - angel magic
+    - calm
+    - communication
+    - emotions
+    - fidelity
+    - guidance
+    - heartbreak
+    - karma
+    - love
+    - patience
+    - relationships
+    - stress
+  citation:
+    - kynes-correspondences
+moss agate:
+  properties:
+    - abundance
+    - agriculture
+    - anger
+    - attraction
+    - calm
+    - communication
+    - confidence
+    - connect with earth energies
+    - emotional balance
+    - energy
+    - fertility
+    - growth
+    - guidance
+    - harmony
+    - healing
+    - hope
+    - life
+    - money
+    - power
+    - receptive energy
+    - spirituality
+    - truth
+    - wealth
+    - well-being
+  citation:
+    - kynes-correspondences
+obsidian:
+  properties:
+    - afterlife
+    - aggression
+    - angelic messages
+    - balance
+    - bind
+    - clairvoyance
+    - clarity
+    - community
+    - connections
+    - consecrate/bless
+    - death
+    - divination
+    - emotional obstacles
+    - emotional protection
+    - emotional transformation
+    - emotions
+    - enchantment
+    - energetic obstacles
+    - fear
+    - grounding
+    - magic
+    - manifestation
+    - marriage
+    - peace
+    - personal growth
+    - power
+    - remove obstacles
+    - sexual energy
+    - spirituality
+    - subconscious
+    - support
+  varieties:
+    gold sheen:
+      properties:
+        - develop skills
+    rainbow:
+      properties:
+        - awareness
+        - heighten senses
+        - relationships
+    snowflake:
+      properties:
+        - awareness
+        - concentration/focus
+        - confidence
+        - needs
+        - negativity
+        - protection against draining energy
+        - purification
+        - spiritual energy
+  citation:
+    - kynes-correspondences
+onyx:
+  properties:
+    - authority
+    - balance
+    - bind
+    - black magic
+    - community
+    - confidence
+    - consecrate/bless
+    - cool passion
+    - defense
+    - desire
+    - discipline
+    - energy
+    - fear
+    - fertility
+    - freedom
+    - grief
+    - grounding
+    - guidance
+    - inspiration
+    - marriage
+    - memory/memories
+    - negativity in relationships
+    - nightmares
+    - patience
+    - personal growth
+    - protection
+    - relationships
+    - sexuality
+    - sorrow
+    - spiritual energy
+    - stability
+    - stress
+    - transformation
+    - willpower
+  citation:
+    - kynes-correspondences
+opal:
+  properties:
+    - adaptability
+    - astral realm
+    - beauty
+    - charity
+    - clairvoyance
+    - clear mind
+    - confidence
+    - emotional balance
+    - enchantment
+    - fear
+    - grief
+    - hope
+    - illumination
+    - insight
+    - inspiration
+    - magical power
+    - memory/memories
+    - obstacles
+    - open to love
+    - power
+    - prosperity
+    - psychic ability
+    - rebirth/renewal
+    - receptive energy
+    - self-respect
+    - sight
+    - sleep
+    - sorrow
+  varieties:
+    black:
+      properties:
+        - authority
+        - cosmic awareness
+        - discipline
+        - moon magic
+        - night magic
+    fire:
+      properties:
+        - clairaudience
+        - energy
+        - fairness
+        - money
+        - passion
+        - vitality
+  citation:
+    - kynes-correspondences
+peridot:
+  properties:
+    - abundance
+    - anger
+    - balance
+    - beginnings
+    - calm
+    - changes
+    - clairvoyance
+    - emotions
+    - enchantment
+    - energy
+    - fear
+    - grounding
+    - heal relationships
+    - healing
+    - increase
+    - inspiration
+    - light
+    - mental stimulation
+    - money
+    - negativity
+    - night magic
+    - nightmares
+    - obstacles
+    - peace
+    - prophecy
+    - prosperity
+    - protection
+    - psychic growth
+    - purification
+    - rebirth/renewal
+    - receptive energy
+    - sight
+    - sleep
+    - stress
+    - success
+    - travel
+    - wealth
+    - well-being
+  citation:
+    - kynes-correspondences
+petrified wood:
+  properties:
+    - balance
+    - community
+    - connections
+    - energy
+    - grounding
+    - harmony
+    - healing
+    - obstacles
+    - protection
+    - rebirth/renewal
+    - receptive energy
+    - stress
+    - vitality
+  citation:
+    - kynes-correspondences
+phenacite:
+  properties:
+    - activate/awaken
+    - community
+    - enlightenment
+    - growth
+    - introspection
+    - knowledge
+    - loss
+    - receptive energy
+    - travel
+  citation:
+    - kynes-correspondences
+pyrite:
+  properties:
+    - concentration/focus
+    - divination
+    - emotions
+    - energy
+    - memory/memories
+    - mind
+    - money
+    - prosperity
+    - protection
+    - psychic ability
+    - relationships
+    - skills
+    - spirituality
+    - success
+    - wealth
+    - willpower
+  citation:
+    - kynes-correspondences
+quartz:
+  properties:
+    - abundance
+    - charity
+    - dignity
+    - integrity
+    - psychic energy
+    - transformation
+    - vitality
+  varieties:
+    blue:
+      properties:
+        - stress
+    clear:
+      properties:
+        - activate/awaken
+        - afterlife
+        - angel magic
+        - astral realm
+        - awareness
+        - balance
+        - beginnings
+        - black magic
+        - blessings
+        - calm
+        - calm mind
+        - challenges
+        - clarity
+        - communication
+        - community
+        - concentration/focus
+        - consecrate/bless
+        - divination
+        - enchantment
+        - friendship
+        - gratitude
+        - guidance
+        - harmony
+        - healing
+        - inner senses
+        - inspiration
+        - knowledge
+        - love
+        - magical power
+        - moon magic
+        - negativity
+        - nurture
+        - open to love
+        - power
+        - pregnancy/childbirth
+        - protection
+        - psychic ability
+        - purification
+        - rebirth/renewal
+        - receptive energy
+        - sexuality
+        - skills
+        - spirituality
+        - stimulation
+        - universal energy
+    green:
+      properties:
+        - prosperity
+    rutilated:
+      properties:
+        - energy
+        - fear
+        - power
+        - pregnancy/childbirth
+        - willpower
+    tourmalated:
+      properties:
+        - astral realm
+    white:
+      properties:
+        - family
+    yellow:
+      properties:
+        - awareness
+        - protection
+  citation:
+    - kynes-correspondences
+rhodochrosite:
+  properties:
+    - abundance
+    - activate/awaken
+    - balance
+    - beauty
+    - compassion
+    - connections
+    - energy
+    - fidelity
+    - forgiveness
+    - friendship
+    - increase
+    - kindness
+    - light
+    - new love
+    - passion
+    - relationships
+    - sight
+    - soothe mind
+    - stability
+    - support during transitions
+    - warmth
+    - willpower
+  citation:
+    - kynes-correspondences
+rhodonite:
+  properties:
+    - activate/awaken
+    - balance
+    - banish
+    - calm
+    - challenges
+    - clarity
+    - clear mind
+    - community
+    - confidence
+    - emotional support
+    - energy
+    - fidelity
+    - forgiveness
+    - marriage
+    - patience
+    - relationships
+    - self-love
+    - stress
+  citation:
+    - kynes-correspondences
+rose quartz:
+  properties:
+    - acceptance
+    - activate/awaken
+    - aggression
+    - beginnings
+    - break negative self-image
+    - calm
+    - charity
+    - compassion
+    - confidence
+    - death
+    - dignity
+    - emotional balance
+    - emotions
+    - fairness
+    - fertility
+    - fidelity
+    - freedom
+    - friendship
+    - grief
+    - harmony
+    - healing
+    - heartbreak
+    - imagination
+    - improve self-image
+    - justice
+    - love
+    - nurture
+    - open to love
+    - pregnancy/childbirth
+    - protection
+    - receptive energy
+    - reconciliation
+    - relationships
+    - romance
+    - sorrow
+    - stress
+    - success
+    - unity
+  citation:
+    - kynes-correspondences
+ruby:
+  properties:
+    - acceptance
+    - agriculture
+    - changes
+    - community
+    - compassion
+    - connections
+    - courage
+    - dedication/devotion
+    - desire
+    - emotional protection
+    - emotions
+    - energy
+    - freedom
+    - grief
+    - growth
+    - guardian
+    - healing
+    - light
+    - loyalty
+    - lust
+    - magical power
+    - mental balance
+    - nightmares
+    - open to love
+    - passion
+    - peace
+    - power
+    - prophecy
+    - prosperity
+    - protect from negativity
+    - protection
+    - psychic ability
+    - self-respect
+    - sexual energy
+    - sexuality
+    - strengthen relationships
+    - support
+    - vitality
+    - warn of danger
+    - wealth
+    - weather
+    - well-being
+  citation:
+    - kynes-correspondences
+salt:
+  properties:
+    - abundance
+    - banish
+    - bind
+    - consecrate/bless
+    - empowerment
+    - enmity
+    - grounding
+    - healing
+    - knowledge
+    - life
+    - money
+    - prosperity
+    - psychic protection
+    - purification
+    - receptive energy
+    - set hexes
+    - wealth
+    - well-being
+  varieties:
+    sea:
+      properties:
+        - negativity
+        - rebirth/renewal
+        - reversal
+        - warmth
+  citation:
+    - kynes-correspondences
+sapphire:
+  properties:
+    - anger
+    - astral realm
+    - authority
+    - beginnings
+    - communication
+    - consciousness
+    - courage
+    - dedication/devotion
+    - emotions
+    - enchantment
+    - encouragement
+    - enmity
+    - fairness
+    - fear
+    - fidelity
+    - freedom
+    - friendship
+    - goodness
+    - healing
+    - imagination
+    - improvement
+    - insight
+    - intellectual
+    - magical power
+    - male power
+    - manifest dreams
+    - mind
+    - money
+    - motivation
+    - nightmares
+    - peace
+    - power
+    - prophecy
+    - psychic ability
+    - purification
+    - receptive energy
+    - reconciliation
+    - sexuality
+    - sleep
+    - spirituality
+    - travel
+    - truth
+  varieties:
+    black star:
+      properties:
+        - enlightenment
+        - subconscious
+    pink:
+      properties:
+        - calm
+        - love
+    star:
+      properties:
+        - attract prosperity
+        - magic
+  citation:
+    - kynes-correspondences
+sard:
+  properties:
+    - bind
+    - courage
+    - dignity
+    - face danger
+    - friendship
+    - love
+    - manifestation
+    - pregnancy/childbirth
+    - protection
+    - respect for others
+    - self-respect
+  citation:
+    - kynes-correspondences
+sardonyx:
+  properties:
+    - authority
+    - blessings
+    - cheerfulness
+    - concentration/focus
+    - consecrate/bless
+    - courage
+    - discipline
+    - eloquence
+    - love
+    - marriage
+    - peace
+    - protection
+    - relationships
+  citation:
+    - kynes-correspondences
+selenite:
+  properties:
+    - adaptability
+    - calm
+    - clarity
+    - communication
+    - emotions
+    - energy
+    - harmony
+    - inspiration
+    - lunar power
+    - magical power
+    - mental power
+    - moon magic
+    - motivation
+    - negativity
+    - nurture
+    - peace
+    - rebirth/renewal
+    - reconciliation
+    - respect
+  citation:
+    - kynes-correspondences
+serpentine:
+  properties:
+    - balance
+    - blessings
+    - consecrate/bless
+    - inspiration
+    - kundalini energy
+    - motivation
+    - protection
+    - spirituality
+  citation:
+    - kynes-correspondences
+smithsonite:
+  properties:
+    - alert mind
+    - align emotions with the heart
+    - anxiety
+    - calm
+    - friendship
+    - growth
+    - healing
+    - relationships
+    - stress
+  citation:
+    - kynes-correspondences
+smoky quartz:
+  properties:
+    - abundance
+    - balance
+    - calm
+    - calm mind
+    - community
+    - conscious transformation
+    - consciousness
+    - emotions
+    - energy
+    - fear
+    - grounding
+    - mental stimulation
+    - negativity
+    - obstacles
+    - psychic ability
+    - purification
+    - self-improvement
+    - sexual energy
+    - sexuality
+    - truth
+    - unity
+  citation:
+    - kynes-correspondences
+sodalite:
+  properties:
+    - adaptability
+    - attraction
+    - awareness
+    - balance
+    - calm
+    - clear mind
+    - communication
+    - community
+    - emotional challenges
+    - emotions
+    - endurance
+    - energy
+    - fear
+    - healing
+    - insight
+    - knowledge
+    - peace
+    - quiet mind
+    - relationships
+    - stress
+    - success
+    - transformation
+  citation:
+    - kynes-correspondences
+sphene:
+  properties:
+    - knowledge
+    - mental power
+    - spirituality
+    - stability
+    - support
+    - think things through
+  citation:
+    - kynes-correspondences
+spinel:
+  properties:
+    - challenges
+    - changes
+    - energy
+    - grief
+    - obstacles
+    - protection
+    - relationships
+    - sorrow
+    - success
+    - wealth
+  varieties:
+    red:
+      properties:
+        - courage
+        - emotions
+        - money
+        - subdue passion
+        - trust
+        - truth
+  citation:
+    - kynes-correspondences
+staurolite:
+  properties:
+    - astral realm
+    - awareness
+    - balance
+    - changes
+    - confidence
+    - courage
+    - elemental power
+    - energy
+    - grounding
+    - guidance
+    - magic
+    - manifestation
+    - money
+    - protect from witchcraft
+    - protection
+    - receptive energy
+    - security
+    - sexual energy
+    - spirituality
+    - stress
+    - transformation
+    - travel
+    - wealth
+    - well-being
+  citation:
+    - kynes-correspondences
+sugilite:
+  properties:
+    - anger
+    - attachments
+    - changes
+    - contact spirits
+    - emotional balance
+    - energy
+    - freedom
+    - grounding
+    - healing
+    - inner transformation
+    - jealousy
+    - manifest love
+    - memory/memories
+    - mental well-being
+    - negativity
+    - obstacles
+    - peace
+    - psychic ability
+    - spirituality
+    - stress
+    - universal love
+  citation:
+    - kynes-correspondences
+sunstone:
+  properties:
+    - action
+    - determination
+    - energy
+    - fear
+    - healing
+    - introspection
+    - luck
+    - personal growth
+    - protection
+    - sexual energy
+    - sexuality
+    - solar energy
+    - solar magic
+    - stress
+    - success
+    - warmth
+    - well-being
+  citation:
+    - kynes-correspondences
+tanzanite:
+  properties:
+    - action
+    - changes
+    - communication
+    - determination
+    - guidance
+    - illumination
+    - influence love
+    - insight
+    - introspection
+    - knowledge
+    - magic
+    - manifestation
+    - protection
+    - psychic ability
+    - success
+    - trust
+    - truth
+    - willpower
+  citation:
+    - kynes-correspondences
+tiger's eye:
+  properties:
+    - abundance
+    - acceptance
+    - animal magic
+    - animals
+    - balance
+    - beauty
+    - business success
+    - calm
+    - cheerfulness
+    - clarity
+    - collect debts
+    - communication
+    - community
+    - confidence
+    - courage
+    - desire
+    - discover skills
+    - divination
+    - empowerment
+    - energy
+    - face danger
+    - fear
+    - goodness
+    - grounding
+    - harmony
+    - healing
+    - insight
+    - inspiration
+    - integrity
+    - introspection
+    - karma
+    - loss
+    - manifestation
+    - mental well-being
+    - mind
+    - needs
+    - prophecy
+    - prosperity
+    - protection
+    - psychic ability
+    - psychic protection
+    - purification
+    - rebirth/renewal
+    - respect
+    - security
+    - sight
+    - spiritual protection
+    - stimulation
+    - stress
+    - travel
+    - truth
+    - wealth
+    - willpower
+    - youth
+  citation:
+    - kynes-correspondences
+topaz:
+  properties:
+    - abundance
+    - adaptability
+    - affection
+    - afterlife
+    - beauty
+    - changes
+    - consciousness
+    - courage
+    - death
+    - desire
+    - divination
+    - energy
+    - face danger
+    - fear
+    - fidelity
+    - grief
+    - healing
+    - integrity
+    - introspection
+    - light
+    - loss
+    - love
+    - mental power
+    - mental stimulation
+    - money
+    - passion
+    - prosperity
+    - protection
+    - rebirth/renewal
+    - sexuality
+    - stress
+    - transformation
+    - wealth
+  varieties:
+    blue:
+      properties:
+        - anger
+        - blessings
+        - calm
+        - calm mind
+        - clarity
+        - communication
+        - concentration/focus
+        - consecrate/bless
+        - emotions
+        - forgiveness
+        - goodness
+        - growth
+        - heartbreak
+        - inspiration
+        - mental balance
+        - needs
+        - nightmares
+        - peace
+        - psychic ability
+        - purification
+        - sleep
+        - truth
+  citation:
+    - kynes-correspondences
+tourmaline:
+  properties:
+    - attract loyalty
+    - attraction
+    - awareness
+    - business
+    - cheerfulness
+    - compassion
+    - confidence
+    - consciousness
+    - face danger
+    - guardian
+    - guidance
+    - increase
+    - psychic ability
+    - skills
+    - transformation
+  varieties:
+    black:
+      properties:
+        - absorb negativity
+        - community
+        - emotional stability
+        - energy
+        - fear
+        - grounding
+        - intellectual
+        - protection
+        - purification
+        - support
+    blue:
+      properties:
+        - beginnings
+        - calm
+        - clairvoyance
+        - clarity
+        - concentration/focus
+        - imagination
+        - insight
+        - introspection
+        - manifestation
+        - nightmares
+        - obstacles
+        - open to love
+        - receptive energy
+        - self-knowledge
+        - sleep
+        - stress
+        - truth
+    brown:
+      properties:
+        - courage
+        - peace
+        - self-healing
+        - spirituality
+    green:
+      properties:
+        - abundance
+        - acceptance
+        - astral realm
+        - balance
+        - beginnings
+        - concentration/focus
+        - emotions
+        - grounding
+        - healing
+        - hope
+        - inspiration
+        - money
+        - personal growth
+        - prosperity
+        - realign energy
+        - rebirth/renewal
+        - success
+        - wealth
+        - well-being
+        - willpower
+    orange:
+      properties:
+        - emotions
+        - empathy
+        - grounding
+        - power
+        - receptive energy
+        - sensitivity
+    pink:
+      properties:
+        - attraction
+        - beginnings
+        - calm
+        - dedication/devotion
+        - emotions
+        - harmony
+        - healing
+        - knowledge
+        - loving energy
+        - obstacles
+        - open to love
+        - personal growth
+        - remove mental blocks
+        - romance
+        - sensitivity
+        - stress
+    red:
+      properties:
+        - concentration/focus
+        - dedication/devotion
+        - emotions
+        - empathy
+        - energy
+        - increase passion
+        - insight
+        - life
+        - love
+        - rebirth/renewal
+    watermelon:
+      properties:
+        - abundance
+        - balance
+        - grief
+        - harmony
+        - love
+        - protection
+        - relationships
+  citation:
+    - kynes-correspondences
+tsavorite:
+  properties:
+    - balance
+    - communication
+    - grounding
+    - harmony
+    - introspection
+    - knowledge
+    - love
+  citation:
+    - kynes-correspondences
+turquoise:
+  properties:
+    - astral realm
+    - attraction
+    - awareness
+    - balance
+    - beauty
+    - calm
+    - changes
+    - cheerfulness
+    - clarity
+    - communication
+    - compassion
+    - courage
+    - emotions
+    - empathy
+    - energy
+    - friendship
+    - goodness
+    - grounding
+    - healing
+    - improvement
+    - inner strength
+    - inspiration
+    - love
+    - manifestation
+    - mind
+    - negativity
+    - nurture
+    - peace
+    - prosperity
+    - protection
+    - purification
+    - rebirth/renewal
+    - receptive energy
+    - sight
+    - skills
+    - spirituality
+    - stress
+    - success
+    - support
+    - travel
+    - unity
+    - wealth
+    - well-being
+  citation:
+    - kynes-correspondences
+unakite:
+  properties:
+    - animal magic
+    - grounding
+    - guidance
+    - negativity
+    - peace
+    - personal power
+    - transformation
+  citation:
+    - kynes-correspondences
+wulfenite:
+  properties:
+    - energy
+    - grounding
+    - harmonize emotions
+    - motivation
+    - physical balance
+    - sexuality
+    - warmth
+  citation:
+    - kynes-correspondences
+zircon:
+  properties:
+    - abundance
+    - cheerfulness
+    - harmony
+    - improvement
+    - inspiration
+    - motivation
+    - prosperity
+    - protection
+    - purification
+    - sleep
+    - spirituality
+    - success
+    - unity
+  varieties:
+    blue:
+      properties:
+        - beauty
+        - jealousy
+        - power
+        - travel
+    brown:
+      properties:
+        - grounding
+        - money
+    green:
+      properties:
+        - acceptance
+        - money
+    red:
+      properties:
+        - acceptance
+        - balance emotions
+        - confidence
+        - energy
+        - healing
+        - honor
+        - mind
+        - money
+        - peace
+        - power
+        - wealth
+    yellow:
+      properties:
+        - encouragement
+        - goodness
+        - peace
+        - sexual energy
+  citation:
+    - kynes-correspondences
+zoisite:
+  properties:
+    - action
+    - confidence
+    - emotions
+    - integrity
+    - psychic ability
+    - release/dispel fear
+  varieties:
+    green:
+      properties:
+        - motivation
+        - trust
+  citation:
+    - kynes-correspondences

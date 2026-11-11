@@ -1,0 +1,11 @@
+crocus:
+  planet: venus
+  element: water
+  properties:
+    - love
+    - clairvoyance
+  toxicity:
+    notes:
+      - not recommended for internal use
+  citation:
+    - cunningham-herbs

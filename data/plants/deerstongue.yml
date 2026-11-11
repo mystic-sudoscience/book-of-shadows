@@ -1,0 +1,25 @@
+deerstongue:
+  type: misc
+  planet: mars
+  element: fire
+  properties:
+    - animals
+    - authority
+    - awareness
+    - challenges
+    - justice
+    - love
+    - lust
+    - marriage
+    - passion
+    - power
+    - psychic ability
+    - skills
+  notes:
+    - attracts men
+  toxicity:
+    notes:
+      - not recommended for internal use
+  citation:
+    - cunningham-herbs
+    - kynes-correspondences

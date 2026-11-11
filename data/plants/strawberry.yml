@@ -1,0 +1,28 @@
+strawberry:
+  type: herb & garden
+  parts used: leaves, fruit
+  planet: venus
+  element: water
+  moon phase: full
+  zodiac sign: libra
+  chakra: sacral
+  properties:
+    - adaptability
+    - attract luck
+    - attraction
+    - beauty
+    - clairvoyance
+    - desire
+    - divination
+    - friendship
+    - harmony
+    - love
+    - relationships
+    - sensuality
+    - stress
+  toxicity:
+    humans: false
+    pets: false
+  citation:
+    - morgana-green-witch
+    - kynes-correspondences

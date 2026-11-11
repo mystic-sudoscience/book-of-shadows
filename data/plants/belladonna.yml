@@ -1,0 +1,28 @@
+belladonna:
+  type: misc
+  parts used: flowers, leaves, fruit, root
+  planet: saturn
+  element: water
+  moon phase: waning
+  zodiac sign: scorpio
+  chakra: crown
+  properties:
+    - astral realm
+    - calm
+    - clairvoyance
+    - consecrate/bless
+    - darkness
+    - divination
+    - healing
+    - imagination
+    - night magic
+    - witches/witchcraft
+  toxicity:
+    humans: true
+    pets: true
+    notes:
+      - highly poisonous
+  citation:
+    - morgana-green-witch
+    - cunningham-herbs
+    - kynes-correspondences

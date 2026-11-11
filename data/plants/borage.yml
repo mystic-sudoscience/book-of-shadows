@@ -1,0 +1,34 @@
+borage:
+  type: herb & garden
+  parts used: young leaves, flowers
+  planet: jupiter
+  element: air
+  moon phase: new
+  zodiac sign: leo, aquarius
+  chakra: solar plexus
+  properties:
+    - authority
+    - awareness
+    - beauty
+    - beginnings
+    - business
+    - calm
+    - cheerfulness
+    - courage
+    - healing
+    - inner purification
+    - money
+    - peace
+    - power
+    - psychic ability
+    - skills
+    - soothe mind
+    - sorrow
+  toxicity:
+    humans: false
+    pets: true
+  holidays:
+    - summer solstice
+  citation:
+    - morgana-green-witch
+    - kynes-correspondences

@@ -1,0 +1,33 @@
+aloe:
+  type: misc
+  parts used: leaves, root
+  planet: moon, venus
+  element: water
+  moon phase: full
+  zodiac sign: scorpio, pisces, cancer
+  chakra: heart, third eye
+  properties:
+    - protection
+    - afterlife
+    - attract luck
+    - beauty
+    - friendship
+    - grief
+    - harmony
+    - healing
+    - love
+    - mental balance
+    - peace
+    - purification
+    - security
+    - stress
+    - support
+    - virility
+  toxicity:
+    humans: false
+    pets: true
+    notes:
+      - mild to moderately toxic to pets
+  citation:
+    - morgana-green-witch
+    - kynes-correspondences

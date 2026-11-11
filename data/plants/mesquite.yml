@@ -1,0 +1,17 @@
+mesquite:
+  planet: moon
+  element: water
+  properties:
+    - abundance
+    - beginnings
+    - compassion
+    - determination
+    - healing
+    - power
+    - protection
+    - purification
+    - stress
+    - warmth
+  citation:
+    - cunningham-herbs
+    - kynes-correspondences

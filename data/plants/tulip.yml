@@ -1,0 +1,18 @@
+tulip:
+  parts used: flower
+  planet: venus
+  element: earth
+  moon phase: full
+  zodiac sign: virgo
+  chakra: heart
+  properties:
+    - prosperity
+    - love
+    - protection
+  toxicity:
+    humans: true
+    pets: true
+    notes:
+      - bulbs toxic to humans, whereas flowers are nontoxic
+  citation:
+    - morgana-green-witch

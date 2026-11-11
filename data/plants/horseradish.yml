@@ -1,0 +1,14 @@
+horseradish:
+  planet: mars
+  element: fire
+  properties:
+    - purification
+    - banish
+  toxicity:
+    notes:
+      - may cause kidney problems
+      - may cause gastric mucosa inflammation
+      - avoid if a child under 4
+      - not recommended for internal use above normal food use levels
+  citation:
+    - cunningham-herbs

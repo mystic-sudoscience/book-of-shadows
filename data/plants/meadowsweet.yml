@@ -1,0 +1,30 @@
+meadowsweet:
+  type: misc
+  parts used: flowers, leaves, root
+  planet: jupiter
+  element: air
+  moon phase: waxing
+  zodiac sign: gemini
+  chakra: root
+  properties:
+    - attract luck
+    - balance
+    - cheerfulness
+    - divination
+    - encourage love
+    - harmony
+    - healing
+    - home
+    - legal matters
+    - love
+    - peace
+    - power
+    - security
+  toxicity:
+    humans: false
+    pets: false
+  holidays:
+    - summer solstice
+  citation:
+    - morgana-green-witch
+    - kynes-correspondences

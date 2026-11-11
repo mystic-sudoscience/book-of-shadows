@@ -1,0 +1,36 @@
+dawn:
+  properties:
+    - activate/awaken
+    - beginnings
+    - crossroads
+    - fertility
+    - hope
+    - light
+    - nurture
+    - romance
+    - vitality
+    - youth
+  citation:
+    - kynes-correspondences
+noon:
+  properties:
+    - determination
+    - obstacles
+    - willpower
+  citation:
+    - kynes-correspondences
+dusk:
+  properties:
+    - banish
+    - changes
+    - endings
+    - otherworld/underworld
+    - sorrow
+  citation:
+    - kynes-correspondences
+midnight:
+  properties:
+    - crossroads
+    - endings
+  citation:
+    - kynes-correspondences

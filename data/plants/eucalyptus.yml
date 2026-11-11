@@ -1,0 +1,13 @@
+eucalyptus:
+  planet: moon
+  element: water
+  properties:
+    - healing
+    - protection
+  toxicity:
+    notes:
+      - may cause liver problems
+      - may cause inflammatory diseases of bile ducts
+      - do not use on the faces of small children
+  citation:
+    - cunningham-herbs

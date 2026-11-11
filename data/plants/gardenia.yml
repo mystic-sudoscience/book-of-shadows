@@ -1,0 +1,36 @@
+gardenia:
+  type: herb & garden
+  parts used: flowers, leaves
+  planet: moon
+  element: water
+  moon phase: full
+  zodiac sign: cancer, pisces
+  chakra: heart
+  properties:
+    - action
+    - astral realm
+    - break hexes
+    - compassion
+    - consciousness
+    - emotional support
+    - enmity
+    - female power
+    - friendship
+    - harmony
+    - healing
+    - heartbreak
+    - love
+    - marriage
+    - money
+    - peace
+    - purity
+    - relationships
+    - spirituality
+    - true love
+    - well-being
+  toxicity:
+    humans: false
+    pets: true
+  citation:
+    - morgana-green-witch
+    - kynes-correspondences

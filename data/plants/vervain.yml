@@ -1,0 +1,75 @@
+vervain:
+  type: herb & garden
+  parts used: leaves, stems, flowers
+  planet: venus
+  element: earth, air, fire
+  moon phase: new
+  zodiac sign: capricorn, gemini, sagittarius
+  chakra: root
+  properties:
+    - love
+    - protection
+    - purification
+    - anger
+    - anxiety
+    - balance
+    - banish
+    - beginnings
+    - break hexes
+    - calm
+    - challenges
+    - cheerfulness
+    - consecrate/bless
+    - discipline
+    - divination
+    - dream work
+    - empowerment
+    - enchantment
+    - enmity
+    - fertility
+    - fidelity
+    - freedom
+    - grace
+    - grounding
+    - harmony
+    - healing
+    - home
+    - improvement
+    - inspiration
+    - justice
+    - knowledge
+    - life
+    - magic
+    - manifestation
+    - marriage
+    - messages/omens
+    - money
+    - nightmares
+    - obstacles
+    - peace
+    - personal power
+    - prophecy
+    - prosperity
+    - protect from lightning
+    - quick mind
+    - release attachments
+    - sex magic
+    - sight
+    - sleep
+    - storms
+    - stress
+    - success
+    - support
+    - youth
+  toxicity:
+    humans: true
+    pets: true
+    notes:
+      - humans: nontoxic in small amounts
+      - avoid if pregnant
+  holidays:
+    - summer solstice
+  citation:
+    - morgana-green-witch
+    - cunningham-herbs
+    - kynes-correspondences

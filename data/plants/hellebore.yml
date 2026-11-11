@@ -1,0 +1,18 @@
+hellebore:
+  parts used: leaves, flowers, seeds, root
+  planet: saturn, mars
+  element: water
+  moon phase: full
+  zodiac sign: pisces
+  chakra: crown
+  properties:
+    - banish
+    - set hexes
+    - contact spirits
+  toxicity:
+    humans: true
+    pets: true
+    notes:
+      - all parts are deadly poison if ingested; always wear gloves when handling
+  citation:
+    - morgana-green-witch

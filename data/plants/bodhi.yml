@@ -1,0 +1,20 @@
+bodhi:
+  type: tree
+  planet: jupiter
+  element: air
+  properties:
+    - activate/awaken
+    - balance
+    - discipline
+    - enlightenment
+    - fertility
+    - knowledge
+    - magic
+    - mindfulness
+    - protection
+    - spirituality
+    - truth
+    - wisdom
+  citation:
+    - cunningham-herbs
+    - kynes-correspondences

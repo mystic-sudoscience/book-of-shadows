@@ -1,0 +1,11 @@
+hyssop:
+  planet: jupiter
+  element: fire
+  properties:
+    - purification
+    - protection
+  toxicity:
+    notes:
+      - avoid if pregnant
+  citation:
+    - cunningham-herbs

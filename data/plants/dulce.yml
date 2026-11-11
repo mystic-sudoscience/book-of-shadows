@@ -1,0 +1,8 @@
+dulce:
+  planet: moon
+  element: water
+  properties:
+    - lust
+    - harmony
+  citation:
+    - cunningham-herbs

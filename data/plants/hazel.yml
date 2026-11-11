@@ -1,0 +1,36 @@
+hazel:
+  type: tree
+  parts used: leaves, catkins, bark, nuts
+  planet: sun
+  element: air
+  moon phase: waxing
+  zodiac sign: gemini
+  chakra: sacral
+  properties:
+    - attract luck
+    - beauty
+    - clairvoyance
+    - communication
+    - divination
+    - fertility
+    - healing
+    - inspiration
+    - integrity
+    - introspection
+    - knowledge
+    - magic
+    - marriage
+    - mind
+    - otherworld/underworld
+    - power
+    - protect from lightning
+    - protection
+    - reconciliation
+    - security
+    - wishes
+  toxicity:
+    humans: false
+    pets: false
+  citation:
+    - morgana-green-witch
+    - kynes-correspondences

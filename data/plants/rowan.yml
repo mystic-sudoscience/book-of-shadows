@@ -1,0 +1,58 @@
+rowan:
+  type: tree
+  parts used: bark, leaves, flowers, berries
+  planet: sun
+  element: fire
+  moon phase: waxing
+  zodiac sign: sagittarius
+  chakra: solar plexus
+  properties:
+    - astral realm
+    - attract luck
+    - authority
+    - bind
+    - blessings
+    - break hexes
+    - challenges
+    - clairvoyance
+    - control senses
+    - dedication/devotion
+    - defense
+    - destruction
+    - divination
+    - enchantment
+    - family
+    - fertility
+    - forgiveness
+    - grounding
+    - guidance
+    - harmony
+    - healing
+    - imagination
+    - insight
+    - inspiration
+    - karma
+    - knowledge
+    - life
+    - magic
+    - power
+    - prophecy
+    - protect from lightning
+    - psychic ability
+    - security
+    - self-improvement
+    - skills
+    - spirits
+    - stress
+    - success
+    - warrior energy
+    - wisdom
+    - witches/witchcraft
+  toxicity:
+    humans: false
+    pets: false
+  holidays:
+    - imbolc
+  citation:
+    - morgana-green-witch
+    - kynes-correspondences

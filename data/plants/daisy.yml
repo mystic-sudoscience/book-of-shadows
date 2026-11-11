@@ -1,0 +1,34 @@
+daisy:
+  type: herb & garden
+  planet: venus
+  element: water
+  properties:
+    - attraction
+    - authority
+    - awareness
+    - beauty
+    - calm
+    - challenges
+    - cheerfulness
+    - communication
+    - divination
+    - dream work
+    - harmony
+    - healing
+    - inner strength
+    - innocence
+    - life
+    - light
+    - love
+    - lust
+    - protection
+    - sensitivity
+    - skills
+    - truth
+    - youth
+  toxicity:
+    notes:
+      - poison
+  citation:
+    - cunningham-herbs
+    - kynes-correspondences

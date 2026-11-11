@@ -1,0 +1,19 @@
+dock:
+  parts used: leaves, seeds, root
+  planet: jupiter
+  element: air
+  moon phase: waxing
+  zodiac sign: libra
+  chakra: sacral
+  properties:
+    - healing
+    - fertility
+    - money
+  toxicity:
+    humans: false
+    pets: true
+    notes:
+      - may cause kidney stones
+  citation:
+    - morgana-green-witch
+    - cunningham-herbs

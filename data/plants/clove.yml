@@ -1,0 +1,57 @@
+clove:
+  type: misc
+  planet: jupiter
+  element: fire
+  properties:
+    - attraction
+    - authority
+    - awareness
+    - banish
+    - beauty
+    - beginnings
+    - bind
+    - break hexes
+    - cheerfulness
+    - clairvoyance
+    - collect debts
+    - courage
+    - dignity
+    - divination
+    - emotions
+    - energy
+    - friendship
+    - harmony
+    - healing
+    - inspiration
+    - life
+    - love
+    - lust
+    - magic
+    - memory/memories
+    - mental balance
+    - mental power
+    - mental stimulation
+    - mind
+    - money
+    - negativity
+    - obstacles
+    - power
+    - prosperity
+    - protection
+    - provide comfort
+    - psychic ability
+    - purification
+    - relationships
+    - release attachments
+    - sensitivity
+    - sex magic
+    - sight
+    - smell
+    - stress
+    - success
+    - truth
+    - warmth
+    - weather
+  citation:
+    - cunningham-herbs
+    - kynes-correspondences

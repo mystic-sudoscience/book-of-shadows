@@ -1,0 +1,40 @@
+periwinkle:
+  type: herb & garden
+  parts used: flowers, leaves
+  planet: mercury, venus
+  element: water
+  moon phase: full
+  zodiac sign: scorpio
+  chakra: heart
+  properties:
+    - bind
+    - clarity
+    - death
+    - desire
+    - friendship
+    - love
+    - lust
+    - marriage
+    - memory/memories
+    - mental power
+    - mind
+    - money
+    - nightmares
+    - prosperity
+    - protection
+    - security
+    - sex magic
+    - spirits
+  toxicity:
+    humans: true
+    pets: true
+    notes:
+      - safe to handle without gloves
+      - poison
+      - may cause low blood pressure
+      - may cause hypotension
+      - may cause constipation
+  citation:
+    - morgana-green-witch
+    - cunningham-herbs
+    - kynes-correspondences

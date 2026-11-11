@@ -1,0 +1,11 @@
+hops:
+  planet: mars
+  element: air
+  properties:
+    - healing
+    - sleep
+  toxicity:
+    notes:
+      - may cause depression
+  citation:
+    - cunningham-herbs

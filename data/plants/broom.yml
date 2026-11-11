@@ -1,0 +1,44 @@
+broom:
+  type: herb & garden
+  parts used: flowers, branches
+  planet: moon
+  element: water
+  moon phase: new
+  zodiac sign: pisces
+  chakra: root
+  properties:
+    - action
+    - astral realm
+    - banish
+    - calm
+    - challenges
+    - clear mind
+    - communication
+    - concentration/focus
+    - determination
+    - divination
+    - guardian
+    - harmony
+    - healing
+    - memory/memories
+    - money
+    - obstacles
+    - prosperity
+    - protection
+    - purification
+    - stimulation
+    - unity
+    - witches/witchcraft
+  toxicity:
+    humans: true
+    pets: true
+    notes:
+      - safe to handle but should not be ingested or applied to the skin
+  notes:
+    - also known as gorse. planet and element listed as mars, fire in cunninghams encyclopedia.
+  holidays:
+    - samhain
+  citation:
+    - morgana-green-witch
+    - cunningham-herbs
+    - kynes-correspondences

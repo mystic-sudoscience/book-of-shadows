@@ -1,0 +1,52 @@
+rue:
+  type: herb & garden
+  parts used: leaves, stems, flowers
+  planet: mars
+  element: fire
+  moon phase: waning
+  zodiac sign: taurus
+  chakra: throat
+  properties:
+    - banish
+    - break hexes
+    - calm
+    - clarity
+    - consecrate/bless
+    - desire
+    - destruction
+    - divination
+    - emotional purification
+    - freedom
+    - grace
+    - harmony
+    - healing
+    - inspiration
+    - love
+    - magic
+    - memory/memories
+    - mental power
+    - mind
+    - negativity
+    - nightmares
+    - obstacles
+    - protection
+    - psychic ability
+    - relationships
+    - reversal
+    - sight
+    - sorrow
+    - stimulation
+    - well-being
+  toxicity:
+    humans: true
+    pets: true
+    notes:
+      - toxic if ingested; handling may cause skin irritation, so wearing gloves is recommended
+      - avoid if pregnant
+      - may cause kidney problems
+      - avoid if using blood-thinning medications
+      - may increase sensitivity to sunlight
+  citation:
+    - morgana-green-witch
+    - cunningham-herbs
+    - kynes-correspondences

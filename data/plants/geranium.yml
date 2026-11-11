@@ -1,0 +1,40 @@
+geranium:
+  type: herb & garden
+  planet: venus
+  element: water
+  properties:
+    - action
+    - anxiety
+    - astral realm
+    - balance
+    - beauty
+    - beginnings
+    - break hexes
+    - calm
+    - communication
+    - concentration/focus
+    - confidence
+    - courage
+    - emotional stability
+    - fear
+    - fertility
+    - forgiveness
+    - freedom
+    - friendship
+    - growth
+    - harmony
+    - healing
+    - love
+    - open to love
+    - protection
+    - psychic energy
+    - purification
+    - relationships
+    - security
+    - sorrow
+    - spirituality
+    - stress
+    - well-being
+  citation:
+    - cunningham-herbs
+    - kynes-correspondences

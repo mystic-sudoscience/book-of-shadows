@@ -1,0 +1,20 @@
+licorice:
+  planet: venus
+  element: water
+  properties:
+    - lust
+    - love
+    - fidelity
+  toxicity:
+    notes:
+      - avoid if pregnant
+      - may cause kidney problems
+      - may cause liver problems
+      - may cause hypertension
+      - may cause diabetes
+      - may cause hypokalemia
+      - do not abuse, internally; not for long-term use
+      - do not take internally in high doses; find several sources that have appropriate doses of this herb
+      - may deplete potassium
+  citation:
+    - cunningham-herbs

@@ -1,0 +1,37 @@
+catnip:
+  type: herb & garden
+  parts used: flowers, leaves
+  planet: venus
+  element: water
+  moon phase: full
+  zodiac sign: cancer, libra, pisces
+  chakra: heart
+  properties:
+    - acceptance
+    - anger
+    - animal magic
+    - animals
+    - attract luck
+    - beauty
+    - cheerfulness
+    - courage
+    - dream work
+    - energy
+    - fertility
+    - friendship
+    - harmony
+    - love
+    - nightmares
+    - peace
+    - psychic ability
+    - sleep
+    - stress
+  holidays:
+    - samhain
+  toxicity:
+    notes:
+      - avoid if pregnant
+  citation:
+    - morgana-green-witch
+    - cunningham-herbs
+    - kynes-correspondences

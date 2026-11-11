@@ -1,0 +1,16 @@
+pansy:
+  parts used: flowers, leaves, seeds
+  planet: saturn
+  element: water
+  moon phase: new
+  zodiac sign: scorpio
+  chakra: heart
+  properties:
+    - weather
+    - love
+    - divination
+  toxicity:
+    humans: false
+    pets: false
+  citation:
+    - morgana-green-witch

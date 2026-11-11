@@ -1,0 +1,69 @@
+mistletoe:
+  type: misc
+  parts used: whole plant
+  planet: sun
+  element: air
+  moon phase: waning
+  zodiac sign: leo
+  chakra: crown
+  properties:
+    - activate/awaken
+    - attract luck
+    - banish
+    - beauty
+    - beginnings
+    - blessings
+    - business
+    - calm
+    - consecrate/bless
+    - death
+    - defense
+    - divination
+    - dream work
+    - energy
+    - fertility
+    - friendship
+    - goodness
+    - healing
+    - home
+    - inspiration
+    - life
+    - love
+    - magic
+    - marriage
+    - messages/omens
+    - negativity
+    - nightmares
+    - obstacles
+    - otherworld/underworld
+    - peace
+    - personal power
+    - prosperity
+    - protect from lightning
+    - protection
+    - purification
+    - purity
+    - rebirth/renewal
+    - secrets
+    - security
+    - sex magic
+    - sleep
+    - spirits
+    - spiritual protection
+    - strength
+    - stress
+    - success
+    - virility
+    - weather
+    - well-being
+  toxicity:
+    humans: true
+    pets: true
+    notes:
+      - wear gloves when handling
+  holidays:
+    - summer solstice
+    - yule
+  citation:
+    - morgana-green-witch
+    - kynes-correspondences

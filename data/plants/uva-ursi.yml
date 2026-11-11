@@ -1,0 +1,22 @@
+uva ursi:
+  parts used: leaves, flowers, branches
+  planet: saturn
+  element: earth
+  moon phase: full
+  zodiac sign: scorpio
+  chakra: third eye
+  properties:
+    - psychic ability
+  toxicity:
+    humans: true
+    pets: true
+    notes:
+      - nontoxic in small amounts
+      - avoid if pregnant
+      - may cause kidney problems
+      - may disturb some part of the digestive system if used internally
+      - this herb is known as a gi irritant
+      - may cause acidic urine
+  citation:
+    - morgana-green-witch
+    - cunningham-herbs

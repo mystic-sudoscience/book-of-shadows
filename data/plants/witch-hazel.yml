@@ -1,0 +1,34 @@
+witch hazel:
+  type: tree
+  parts used: flowers, leaves, bark
+  planet: saturn
+  element: fire
+  moon phase: waning
+  zodiac sign: capricorn
+  chakra: solar plexus
+  properties:
+    - anxiety
+    - banish
+    - courage
+    - divination
+    - fidelity
+    - healing
+    - inspiration
+    - knowledge
+    - loss
+    - obstacles
+    - protection
+    - purity
+    - sexuality
+    - stress
+    - willpower
+    - wisdom
+    - witches/witchcraft
+  toxicity:
+    humans: false
+    pets: true
+  holidays:
+    - samhain
+  citation:
+    - morgana-green-witch
+    - kynes-correspondences

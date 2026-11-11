@@ -1,0 +1,19 @@
+nasturtium:
+  parts used: flowers, seeds
+  planet: neptune
+  element: air
+  moon phase: waning
+  zodiac sign: libra
+  chakra: solar plexus
+  properties:
+    - banish
+    - freedom
+    - inspiration
+    - protection
+    - purity
+    - strength
+  toxicity:
+    humans: false
+    pets: false
+  citation:
+    - morgana-green-witch

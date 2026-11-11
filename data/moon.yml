@@ -1,0 +1,245 @@
+new:
+  type: phase
+  properties:
+    - beauty
+    - beginnings
+    - black magic
+    - darkness
+    - destruction
+    - divination
+    - illumination
+    - improvement
+    - night magic
+    - psychic ability
+    - rebirth/renewal
+    - relationships
+    - stability
+    - well-being
+  citation:
+    - kynes-correspondences
+waxing:
+  type: phase
+  properties:
+    - abundance
+    - attraction
+    - beginnings
+    - business
+    - courage
+    - divination
+    - empathy
+    - friendship
+    - growth
+    - inspiration
+    - knowledge
+    - love
+    - money
+    - motivation
+    - passion
+    - power
+    - protection
+    - psychic ability
+    - sensuality
+  citation:
+    - kynes-correspondences
+waxing summer:
+  type: phase
+  properties:
+    - increase
+  citation:
+    - kynes-correspondences
+full:
+  type: phase
+  properties:
+    - abundance
+    - accomplishment
+    - action
+    - activate/awaken
+    - beauty
+    - business
+    - divination
+    - empowerment
+    - energy
+    - fertility
+    - growth
+    - healing
+    - illumination
+    - inspiration
+    - light
+    - love
+    - magic
+    - manifestation
+    - money
+    - moon magic
+    - motivation
+    - needs
+    - nurture
+    - power
+    - pregnancy/childbirth
+    - protection
+    - psychic ability
+    - psychic energy
+    - relationships
+    - romance
+    - sex magic
+    - sexuality
+  months:
+    january:
+      properties:
+        - money
+        - protection
+    february:
+      properties:
+        - astral realm
+        - banish
+        - empowerment
+        - purification
+    march:
+      properties:
+        - innocence
+        - stress
+    april:
+      properties:
+        - growth
+    may:
+      properties:
+        - enchantment
+        - well-being
+    june:
+      properties:
+        - marriage
+        - relationships
+    july:
+      properties:
+        - dream work
+        - magic
+    july summer:
+      properties:
+        - light
+    august:
+      properties:
+        - animal magic
+        - prophecy
+    september:
+      properties:
+        - confidence
+        - manifestation
+    october:
+      properties:
+        - courage
+        - inspiration
+        - memory/memories
+        - stability
+    november:
+      properties:
+        - darkness
+        - hope
+    december:
+      properties:
+        - dedication/devotion
+        - peace
+    13th:
+      properties:
+        - truth
+  citation:
+    - kynes-correspondences
+waning:
+  type: phase
+  properties:
+    - banish
+    - bind
+    - darkness
+    - death
+    - divination
+    - endings
+    - loss
+    - obstacles
+    - otherworld/underworld
+    - prophecy
+    - protection
+    - purification
+    - rebirth/renewal
+    - reversal
+    - secrets
+    - spirituality
+  citation:
+    - kynes-correspondences
+january:
+  type: month
+  properties:
+    - beginnings
+    - healing
+  citation:
+    - kynes-correspondences
+february:
+  type: month
+  properties:
+    - beginnings
+    - fertility
+  citation:
+    - kynes-correspondences
+march:
+  type: month
+  properties:
+    - fertility
+    - prosperity
+    - spirituality
+  citation:
+    - kynes-correspondences
+april:
+  type: month
+  properties:
+    - beginnings
+    - fertility
+    - spirituality
+  citation:
+    - kynes-correspondences
+may:
+  type: month
+  properties:
+    - divination
+    - fertility
+    - love
+  citation:
+    - kynes-correspondences
+june:
+  type: month
+  properties:
+    - abundance
+    - love
+    - prosperity
+  citation:
+    - kynes-correspondences
+august:
+  type: month
+  properties:
+    - abundance
+    - prosperity
+  citation:
+    - kynes-correspondences
+october:
+  type: month
+  properties:
+    - animals
+    - healing
+  citation:
+    - kynes-correspondences
+november:
+  type: month
+  properties:
+    - animals
+    - divination
+  citation:
+    - kynes-correspondences
+december:
+  type: month
+  properties:
+    - love
+    - prosperity
+  citation:
+    - kynes-correspondences
+april through october:
+  type: month
+  properties:
+    - agriculture
+  citation:
+    - kynes-correspondences

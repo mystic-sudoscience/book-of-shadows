@@ -1,0 +1,59 @@
+marigold:
+  type: herb & garden
+  parts used: flowers
+  planet: sun
+  element: air, fire
+  moon phase: waxing
+  zodiac sign: cancer, leo
+  chakra: solar plexus
+  properties:
+    - affection
+    - afterlife
+    - authority
+    - awareness
+    - business
+    - cheerfulness
+    - clairvoyance
+    - communication
+    - consecrate/bless
+    - dedication/devotion
+    - divination
+    - dream work
+    - endurance
+    - energy
+    - enmity
+    - fidelity
+    - grief
+    - healing
+    - jealousy
+    - legal matters
+    - life
+    - love
+    - messages/omens
+    - mind
+    - peace
+    - prophecy
+    - provide comfort
+    - psychic ability
+    - relationships
+    - responsibility
+    - sensitivity
+    - sensuality
+    - skills
+    - solar energy
+    - spiritual protection
+    - stress
+    - success
+    - transformation
+    - warmth
+    - wealth
+    - well-being
+  toxicity:
+    humans: false
+    pets: false
+  holidays:
+    - beltane
+    - mabon
+  citation:
+    - morgana-green-witch
+    - kynes-correspondences

@@ -1,0 +1,20 @@
+purslane:
+  parts used: leaves, stems, flowers, seeds
+  planet: moon
+  element: water
+  moon phase: full
+  zodiac sign: cancer
+  chakra: third eye
+  properties:
+    - sleep
+    - love
+    - attract luck
+  toxicity:
+    humans: false
+    pets: true
+    notes:
+      - avoid if pregnant
+      - may cause kidney stones
+  citation:
+    - morgana-green-witch
+    - cunningham-herbs

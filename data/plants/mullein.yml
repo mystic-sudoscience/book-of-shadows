@@ -1,0 +1,52 @@
+mullein:
+  type: misc
+  parts used: flowers, leaves
+  planet: saturn
+  element: fire
+  moon phase: waning
+  zodiac sign: leo
+  chakra: heart
+  properties:
+    - authority
+    - awareness
+    - balance
+    - banish
+    - beauty
+    - black magic
+    - break hexes
+    - courage
+    - darkness
+    - determination
+    - divination
+    - domestic harmony
+    - enmity
+    - face danger
+    - goodness
+    - healing
+    - honesty
+    - inner senses
+    - life
+    - love
+    - magic
+    - motivation
+    - negativity
+    - nightmares
+    - nurture
+    - protect animals
+    - protection
+    - psychic ability
+    - purification
+    - release attachments
+    - security
+    - self-improvement
+    - spirits
+    - spiritual protection
+    - support
+    - unity
+    - well-being
+  toxicity:
+    humans: false
+    pets: false
+  citation:
+    - morgana-green-witch
+    - kynes-correspondences

@@ -1,0 +1,9 @@
+corn:
+  planet: venus
+  element: earth
+  properties:
+    - protection
+    - attract luck
+    - divination
+  citation:
+    - cunningham-herbs

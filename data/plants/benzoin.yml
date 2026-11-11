@@ -1,0 +1,8 @@
+benzoin:
+  planet: sun
+  element: air
+  properties:
+    - purification
+    - prosperity
+  citation:
+    - cunningham-herbs

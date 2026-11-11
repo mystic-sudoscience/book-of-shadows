@@ -1,0 +1,119 @@
+north:
+  properties:
+    - abundance
+    - accomplishment
+    - balance
+    - clarity
+    - empathy
+    - enmity
+    - fertility
+    - gratitude
+    - healing
+    - jealousy
+    - magic
+    - manifestation
+    - otherworld/underworld
+    - power
+    - pride
+    - purification
+    - purity
+    - rebirth/renewal
+    - secrets
+    - stress
+    - trust
+    - wealth
+    - well-being
+  citation:
+    - kynes-correspondences
+northeast:
+  properties:
+    - knowledge
+  citation:
+    - kynes-correspondences
+east:
+  properties:
+    - activate/awaken
+    - aggression
+    - beginnings
+    - communication
+    - community
+    - divination
+    - family
+    - healing
+    - illumination
+    - inspiration
+    - integrity
+    - legal matters
+    - life
+    - light
+    - mind
+    - passion
+    - prosperity
+    - rebirth/renewal
+  citation:
+    - kynes-correspondences
+southeast:
+  properties:
+    - blessings
+    - prosperity
+  citation:
+    - kynes-correspondences
+south:
+  properties:
+    - ambition
+    - changes
+    - courage
+    - energy
+    - fairness
+    - fame
+    - fertility
+    - illumination
+    - increase
+    - innocence
+    - knowledge
+    - light
+    - love
+    - obstacles
+    - passion
+    - pride
+    - protection
+    - purification
+    - rebirth/renewal
+    - respect
+    - sexuality
+    - spirituality
+    - stress
+    - trust
+    - warmth
+    - willpower
+  citation:
+    - kynes-correspondences
+southwest:
+  properties:
+    - love
+    - relationships
+    - romance
+  citation:
+    - kynes-correspondences
+west:
+  properties:
+    - afterlife
+    - balance
+    - compassion
+    - death
+    - destruction
+    - dream work
+    - endings
+    - imagination
+    - love
+    - passion
+    - psychic ability
+    - travel
+  citation:
+    - kynes-correspondences
+northwest:
+  properties:
+    - accomplishment
+    - guidance of others
+  citation:
+    - kynes-correspondences

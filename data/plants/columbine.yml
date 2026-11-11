@@ -1,0 +1,26 @@
+columbine:
+  type: herb & garden
+  parts used: flowers, leaves
+  planet: venus
+  element: water
+  moon phase: waxing
+  zodiac sign: pisces
+  chakra: solar plexus
+  properties:
+    - anxiety
+    - beauty
+    - courage
+    - holy spirits
+    - inner purification
+    - love
+    - negativity
+    - peace
+    - pregnancy/childbirth
+    - release attachments
+    - self-improvement
+  toxicity:
+    humans: true
+    pets: true
+  citation:
+    - morgana-green-witch
+    - kynes-correspondences

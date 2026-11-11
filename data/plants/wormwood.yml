@@ -1,0 +1,56 @@
+wormwood:
+  type: misc
+  parts used: leaves, flowers, stems
+  planet: mars, saturn
+  element: earth
+  moon phase: full
+  zodiac sign: gemini
+  chakra: root
+  properties:
+    - afterlife
+    - anger
+    - animals
+    - anxiety
+    - astral realm
+    - banish
+    - bind
+    - contact spirits
+    - courage
+    - death
+    - defense
+    - divination
+    - dream work
+    - endings
+    - endurance
+    - enmity
+    - forgiveness
+    - guidance
+    - healing
+    - improvement
+    - love
+    - magic
+    - obstacles
+    - peace
+    - power
+    - protection
+    - psychic ability
+    - purification
+    - set hexes
+    - skills
+    - stress
+  toxicity:
+    humans: true
+    pets: true
+    notes:
+      - wear gloves when handling
+      - poison
+      - avoid if pregnant
+      - avoid if nursing
+      - do not abuse, internally; not for long-term use
+      - "for internal use: do not exceed 1⁄2 g of the dried herb in tea 2–3 times a day"
+  holidays:
+    - samhain
+  citation:
+    - morgana-green-witch
+    - cunningham-herbs
+    - kynes-correspondences

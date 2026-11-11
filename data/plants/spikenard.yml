@@ -1,0 +1,37 @@
+spikenard:
+  type: misc
+  parts used: leaves, flowers, root, berries
+  planet: venus
+  element: water
+  moon phase: waxing
+  zodiac sign: cancer
+  chakra: crown
+  properties:
+    - attract luck
+    - attraction
+    - balance
+    - concentration/focus
+    - consecrate/bless
+    - fear
+    - fidelity
+    - freedom
+    - harmony
+    - healing
+    - inspiration
+    - love
+    - mind
+    - negativity
+    - obstacles
+    - purification
+    - relationships
+    - stability
+    - well-being
+  toxicity:
+    humans: false
+    pets: false
+    notes:
+      - avoid if pregnant
+  citation:
+    - morgana-green-witch
+    - cunningham-herbs
+    - kynes-correspondences

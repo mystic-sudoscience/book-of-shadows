@@ -1,0 +1,18 @@
+wild geranium:
+  type: herb & garden
+  parts used: leaves, flowers
+  planet: venus
+  element: water
+  moon phase: full
+  zodiac sign: cancer
+  chakra: root
+  properties:
+    - fertility
+    - love
+    - protection
+  toxicity:
+    humans: false
+    pets: false
+  citation:
+    - morgana-green-witch
+    - kynes-correspondences

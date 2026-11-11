@@ -1,0 +1,10 @@
+hemp:
+  planet: saturn
+  element: water
+  properties:
+    - healing
+    - love
+    - clairvoyance
+    - mindfulness
+  citation:
+    - cunningham-herbs

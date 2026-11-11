@@ -1,0 +1,9 @@
+lime:
+  planet: sun
+  element: fire
+  properties:
+    - love
+    - healing
+    - protection
+  citation:
+    - cunningham-herbs

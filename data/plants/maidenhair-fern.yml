@@ -1,0 +1,22 @@
+maidenhair fern:
+  parts used: leaves
+  planet: mercury
+  element: earth
+  moon phase: waxing
+  zodiac sign: taurus
+  chakra: crown
+  properties:
+    - healing
+    - purity
+    - weather
+  toxicity:
+    humans: false
+    pets: false
+    notes:
+      - avoid if pregnant
+      - do not take internally in high doses; find several sources that have appropriate doses of this herb
+  holidays:
+    - mabon
+  citation:
+    - morgana-green-witch
+    - cunningham-herbs

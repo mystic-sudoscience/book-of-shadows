@@ -1,0 +1,29 @@
+raspberry:
+  type: herb & garden
+  parts used: leaves, fruit
+  planet: moon, venus
+  element: water
+  moon phase: full
+  zodiac sign: cancer, pisces
+  chakra: root
+  properties:
+    - beauty
+    - clarity
+    - emotional security
+    - encourage love
+    - fear
+    - fertility
+    - love
+    - needs
+    - pregnancy/childbirth
+    - protection
+    - release attachments
+    - trust
+  toxicity:
+    humans: false
+    pets: true
+    notes:
+      - pets: berries are not toxic; those who are pregnant or breastfeeding should not ingest raspberry leaves
+  citation:
+    - morgana-green-witch
+    - kynes-correspondences

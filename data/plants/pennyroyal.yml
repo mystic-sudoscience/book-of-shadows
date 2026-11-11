@@ -1,0 +1,41 @@
+pennyroyal:
+  type: herb & garden
+  parts used: leaves, stems, flowers
+  planet: mars
+  element: fire
+  moon phase: waxing
+  zodiac sign: libra
+  chakra: root, solar plexus
+  properties:
+    - anxiety
+    - break hexes
+    - challenges
+    - community
+    - energy
+    - family
+    - healing
+    - home
+    - inner calm
+    - love
+    - marriage
+    - mind
+    - negativity
+    - obstacles
+    - otherworld/underworld
+    - peace
+    - protection
+    - purification
+    - stimulation
+    - strength
+    - trust
+  toxicity:
+    humans: true
+    pets: true
+    notes:
+      - wear gloves when handling
+      - avoid if pregnant
+      - the oil is poisonous
+  citation:
+    - morgana-green-witch
+    - cunningham-herbs
+    - kynes-correspondences

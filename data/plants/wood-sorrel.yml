@@ -1,0 +1,19 @@
+wood sorrel:
+  parts used: leaves, flowers
+  planet: venus
+  element: earth
+  moon phase: waxing
+  zodiac sign: virgo
+  chakra: solar plexus
+  properties:
+    - healing
+  toxicity:
+    humans: true
+    pets: true
+    notes:
+      - humans: nontoxic in small amounts
+      - those who are pregnant and people with gout should avoid consuming it
+  holidays:
+    - summer solstice
+  citation:
+    - morgana-green-witch

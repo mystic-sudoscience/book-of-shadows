@@ -1,0 +1,28 @@
+chrysanthemum:
+  type: herb & garden
+  parts used: flowers, leaves
+  planet: sun
+  element: fire
+  moon phase: waning
+  zodiac sign: leo
+  chakra: solar plexus
+  properties:
+    - cheerfulness
+    - innocence
+    - love
+    - obstacles
+    - protection
+    - strength
+    - truth
+  toxicity:
+    humans: true
+    pets: true
+    notes:
+      - poisonous
+  holidays:
+    - mabon
+    - samhain
+  citation:
+    - morgana-green-witch
+    - cunningham-herbs
+    - kynes-correspondences

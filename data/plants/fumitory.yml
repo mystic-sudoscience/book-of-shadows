@@ -1,0 +1,8 @@
+fumitory:
+  planet: saturn
+  element: earth
+  properties:
+    - banish
+    - money
+  citation:
+    - cunningham-herbs

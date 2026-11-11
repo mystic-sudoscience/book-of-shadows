@@ -1,0 +1,8 @@
+kelp:
+  planet: jupiter
+  element: water
+  properties:
+    - travel
+    - protection
+  citation:
+    - cunningham-herbs

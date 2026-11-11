@@ -1,0 +1,59 @@
+cinquefoil:
+  type: misc
+  parts used: leaves, flowers
+  planet: jupiter
+  element: fire
+  moon phase: full
+  zodiac sign: gemini
+  chakra: throat
+  properties:
+    - astral realm
+    - attract luck
+    - authority
+    - break hexes
+    - clairvoyance
+    - consecrate/bless
+    - divination
+    - dream work
+    - eloquence
+    - emotions
+    - energy
+    - friendship
+    - grief
+    - healing
+    - heartbreak
+    - inspiration
+    - justice
+    - legal matters
+    - life
+    - love
+    - magic
+    - messages/omens
+    - money
+    - nightmares
+    - nurture
+    - obstacles
+    - passion
+    - peace
+    - power
+    - prosperity
+    - protect from negativity
+    - protection
+    - security
+    - self-improvement
+    - sleep
+    - spirits
+    - strength
+    - strengthen senses
+    - stress
+    - success
+    - travel
+    - well-being
+    - wisdom
+    - wishes
+  toxicity:
+    humans: false
+    pets: false
+  citation:
+    - morgana-green-witch
+    - kynes-correspondences

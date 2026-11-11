@@ -1,0 +1,27 @@
+anemone:
+  type: herb & garden
+  parts used: flowers
+  planet: mars
+  element: fire
+  properties:
+    - beauty
+    - beginnings
+    - calm
+    - community
+    - endurance
+    - energy
+    - friendship
+    - grief
+    - harmony
+    - healing
+    - innocence
+    - karma
+    - loss
+    - protection
+    - well-being
+  toxicity:
+    notes:
+      - not recommended for internal use
+  citation:
+    - cunningham-herbs
+    - kynes-correspondences

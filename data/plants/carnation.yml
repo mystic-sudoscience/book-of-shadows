@@ -1,0 +1,50 @@
+carnation:
+  type: herb & garden
+  parts used: flowers
+  planet: sun
+  element: fire
+  moon phase: waxing
+  zodiac sign: aries, capricorn, sagittarius
+  chakra: solar plexus
+  properties:
+    - affection
+    - authority
+    - awareness
+    - balance
+    - beauty
+    - calm
+    - communication
+    - confidence
+    - consecrate/bless
+    - energy
+    - fertility
+    - harmony
+    - healing
+    - innocence
+    - justice
+    - love
+    - magic
+    - marriage
+    - moon magic
+    - otherworld/underworld
+    - power
+    - pride
+    - protection
+    - purity
+    - rebirth/renewal
+    - relationships
+    - skills
+    - stimulation
+    - truth
+    - well-being
+    - witches/witchcraft
+  toxicity:
+    humans: false
+    pets: true
+    notes:
+      - may cause severe skin allergies or dermatitis
+      - may disturb some part of the digestive system if used internally
+  citation:
+    - morgana-green-witch
+    - cunningham-herbs
+    - kynes-correspondences

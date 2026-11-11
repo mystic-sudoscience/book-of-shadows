@@ -1,0 +1,19 @@
+beans:
+  parts used: pods, beans
+  planet: mercury
+  element: air
+  moon phase: waxing
+  zodiac sign: libra
+  chakra: third eye
+  properties:
+    - wisdom
+    - divination
+    - prosperity
+  holidays:
+    - samhain
+  toxicity:
+    notes:
+      - beans not used for food may be poisonous
+  citation:
+    - morgana-green-witch
+    - cunningham-herbs

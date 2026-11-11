@@ -1,0 +1,33 @@
+sweet woodruff:
+  type: herb & garden
+  parts used: stems, leaves, flowers
+  planet: mars
+  element: fire
+  moon phase: waxing
+  zodiac sign: aries
+  chakra: solar plexus
+  properties:
+    - balance
+    - calm
+    - changes
+    - community
+    - divination
+    - encouragement
+    - friendship
+    - healing
+    - money
+    - prosperity
+    - protection
+    - purification
+    - stress
+    - success
+  toxicity:
+    humans: true
+    pets: false
+    notes:
+      - humans: nontoxic in small amounts
+  holidays:
+    - beltane
+  citation:
+    - morgana-green-witch
+    - kynes-correspondences

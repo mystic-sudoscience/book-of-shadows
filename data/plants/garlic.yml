@@ -1,0 +1,47 @@
+garlic:
+  type: herb & garden
+  parts used: bulb
+  planet: mars
+  element: fire
+  moon phase: waxing
+  zodiac sign: aries
+  chakra: solar plexus
+  properties:
+    - aggression
+    - anxiety
+    - banish
+    - break hexes
+    - communication
+    - community
+    - concentration/focus
+    - courage
+    - defense
+    - energy
+    - enmity
+    - fear
+    - healing
+    - improvement
+    - jealousy
+    - justice
+    - lust
+    - magic
+    - protection during travel
+    - protection from theft
+    - purification
+    - security
+    - sex magic
+    - smell
+    - stimulation
+    - travel
+    - weather
+    - well-being
+    - wishes
+  toxicity:
+    humans: false
+    pets: true
+    notes:
+      - avoid if nursing
+  citation:
+    - morgana-green-witch
+    - cunningham-herbs
+    - kynes-correspondences

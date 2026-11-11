@@ -1,0 +1,12 @@
+blue flag:
+  planet: venus
+  element: water
+  properties:
+    - money
+  toxicity:
+    notes:
+      - poison
+      - avoid if pregnant
+      - may cause nausea, vomiting
+  citation:
+    - cunningham-herbs

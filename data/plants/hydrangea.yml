@@ -1,0 +1,20 @@
+hydrangea:
+  parts used: flowers
+  planet: moon, jupiter, neptune
+  element: water
+  moon phase: full
+  zodiac sign: scorpio
+  chakra: heart
+  properties:
+    - break hexes
+    - love
+    - psychic ability
+  toxicity:
+    humans: true
+    pets: true
+    notes:
+      - wear gloves when handling
+      - not recommended for internal use
+  citation:
+    - morgana-green-witch
+    - cunningham-herbs

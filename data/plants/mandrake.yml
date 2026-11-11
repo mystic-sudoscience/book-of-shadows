@@ -1,0 +1,50 @@
+mandrake:
+  parts used: root, leaves, flowers, berries
+  planet: mercury
+  element: earth, fire
+  moon phase: waning
+  zodiac sign: taurus
+  chakra: root
+  properties:
+    - astral realm
+    - authority
+    - banish
+    - bind
+    - black magic
+    - break hexes
+    - challenges
+    - courage
+    - desire
+    - discipline
+    - divination
+    - dream work
+    - face danger
+    - fertility
+    - growth
+    - healing
+    - increase
+    - love
+    - magic
+    - messages/omens
+    - money
+    - passion
+    - power
+    - prosperity
+    - protection
+    - security
+    - sleep
+    - solar energy
+    - spirits
+    - spiritual energy
+    - well-being
+    - witches/witchcraft
+  toxicity:
+    humans: true
+    pets: true
+    notes:
+      - wear gloves when handling
+      - poisonous
+  citation:
+    - morgana-green-witch
+    - cunningham-herbs
+    - kynes-correspondences

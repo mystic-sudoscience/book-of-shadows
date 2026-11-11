@@ -1,0 +1,22 @@
+asafoetida:
+  type: misc
+  planet: mars
+  element: fire
+  properties:
+    - assertiveness
+    - banish
+    - black magic
+    - calm
+    - healing
+    - protection
+    - purification
+    - set hexes
+    - smell
+    - spirits
+  toxicity:
+    notes:
+      - avoid if pregnant
+      - do not feed to a child with colic
+  citation:
+    - cunningham-herbs
+    - kynes-correspondences

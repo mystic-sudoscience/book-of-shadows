@@ -1,0 +1,10 @@
+lemon:
+  planet: moon
+  element: water
+  properties:
+    - life
+    - purification
+    - love
+    - friendship
+  citation:
+    - cunningham-herbs

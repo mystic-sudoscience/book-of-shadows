@@ -1,0 +1,13 @@
+agaric:
+  parts used: caps
+  planet: mercury
+  element: air
+  properties:
+    - fertility
+  toxicity:
+    humans: true
+    pets: true
+    notes:
+      - highly poisonous
+  citation:
+    - cunningham-herbs

@@ -1,0 +1,40 @@
+sunflower:
+  type: herb & garden
+  parts used: seeds, petals
+  planet: sun
+  element: fire
+  moon phase: new
+  zodiac sign: leo
+  chakra: solar plexus
+  properties:
+    - attract luck
+    - balance
+    - cheerfulness
+    - clarity
+    - dream work
+    - energy
+    - fertility
+    - friendship
+    - harmony
+    - healing
+    - improvement
+    - light
+    - magic
+    - money
+    - obstacles
+    - peace
+    - release attachments
+    - self-improvement
+    - solar energy
+    - sorrow
+    - spirituality
+    - strength
+    - well-being
+    - wisdom
+    - wishes
+  toxicity:
+    humans: false
+    pets: false
+  citation:
+    - morgana-green-witch
+    - kynes-correspondences

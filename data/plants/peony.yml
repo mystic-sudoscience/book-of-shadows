@@ -1,0 +1,33 @@
+peony:
+  type: herb & garden
+  parts used: flowers, seeds, root
+  planet: sun
+  element: fire
+  moon phase: waning
+  zodiac sign: leo
+  chakra: solar plexus
+  properties:
+    - anger
+    - anxiety
+    - attract luck
+    - banish
+    - business
+    - dream work
+    - face danger
+    - hidden or secret knowledge
+    - innocence
+    - nightmares
+    - prosperity
+    - protection
+    - release attachments
+    - sorrow
+    - stress
+    - success
+  toxicity:
+    humans: true
+    pets: true
+    notes:
+      - safe to handle without gloves
+  citation:
+    - morgana-green-witch
+    - kynes-correspondences

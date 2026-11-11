@@ -2,87 +2,188 @@ sunday:
   ruling planet: sun
   norse diety: sol
   properties:
-    - legal matters
-    - healing
-    - protection
+    - accomplishment
+    - action
+    - ambition
+    - attraction
+    - authority
+    - beauty
     - confidence
-    - vitality
+    - fame
+    - freedom
+    - friendship
+    - healing
+    - hope
+    - illumination
+    - justice
+    - legal matters
+    - light
+    - money
+    - personal growth
+    - personal power
+    - pride
+    - prosperity
+    - protection
+    - solar energy
+    - spirituality
+    - stress
     - success
+    - vitality
+    - warmth
+    - well-being
   citation:
     - cunningham-herbs
+    - kynes-correspondences
     - vikingeskibsmuseet-weekdays
 
 monday:
   ruling planet: moon
   norse diety: mani
   properties:
-    - sleep
-    - prophetic dreams
-    - fertility
-    - inner peace
-    - healing
+    - astral realm
+    - clairvoyance
+    - dream work
     - emotional balance
+    - family
+    - fertility
+    - healing
+    - illumination
+    - inner peace
+    - inspiration
+    - love
+    - magic
+    - moon magic
+    - prophecy
+    - prophetic dreams
+    - protection
+    - psychic ability
+    - sleep
+    - travel
+    - truth
   citation:
     - cunningham-herbs
+    - kynes-correspondences
     - vikingeskibsmuseet-weekdays
 
 tuesday:
   ruling planet: mars
   norse diety: tyr
   properties:
-    - courage
-    - strength
+    - action
+    - aggression
+    - assertiveness
+    - break hexes
+    - challenges
     - confidence
-    - protection
+    - courage
+    - discipline
+    - energy
     - fitness
-    - hex-breaking
+    - healing
+    - honor
+    - integrity
+    - justice
+    - passion
+    - protection
+    - purification
+    - strength
+    - truth
   citation:
     - cunningham-herbs
+    - kynes-correspondences
     - vikingeskibsmuseet-weekdays
 
 wednesday:
   ruling planet: mercury
   norse diety: odin
   properties:
-    - mental clarity
-    - knowledge
-    - problem-solving
+    - business
     - communication
+    - crossroads
+    - divination
+    - fear
+    - insight
+    - integrity
+    - introspection
+    - knowledge
+    - loss
+    - mental clarity
+    - money
+    - problem-solving
+    - self-improvement
+    - skills
+    - travel
   citation:
     - cunningham-herbs
+    - kynes-correspondences
     - vikingeskibsmuseet-weekdays
 
 thursday:
   ruling planet: jupiter
   norse diety: thor
   properties:
+    - abundance
+    - business
+    - desire
+    - endurance
+    - fidelity
+    - honor
+    - legal matters
+    - loyalty
+    - luck
     - money
     - prosperity
-    - luck
-    - legal matters
+    - relationships
+    - stress
+    - well-being
   citation:
     - cunningham-herbs
+    - kynes-correspondences
     - vikingeskibsmuseet-weekdays
 
 friday:
   ruling planet: venus
   norse diety: freyja
   properties:
-    - love
-    - friendship
     - beauty
+    - fertility
+    - friendship
     - harmony
+    - love
+    - magic
+    - passion
     - pleasure
+    - romance
+    - sexuality
   citation:
     - cunningham-herbs
+    - kynes-correspondences
     - vikingeskibsmuseet-weekdays
 
 saturday:
   ruling planet: saturn
   properties:
+    - banish
+    - bind
+    - business
+    - death
+    - freedom
+    - justice
+    - karma
+    - life
+    - limitations/boundaries
     - long-term goals
+    - money
+    - motivation
+    - negativity
     - patience
+    - peace
     - perseverance
+    - protection
+    - remove obstacles
+    - self-discipline
+    - willpower
   citation:
     - cunningham-herbs
+    - kynes-correspondences
     - vikingeskibsmuseet-weekdays

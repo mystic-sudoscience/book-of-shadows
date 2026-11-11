@@ -1,0 +1,71 @@
+rosemary:
+  type: herb & garden
+  parts used: leaves, branches
+  planet: sun
+  element: fire
+  moon phase: waning
+  zodiac sign: aquarius, aries, leo, sagittarius, virgo
+  chakra: third eye
+  properties:
+    - afterlife
+    - attraction
+    - banish
+    - bind
+    - burial customs
+    - communication
+    - concentration/focus
+    - confidence
+    - consecrate/bless
+    - courage
+    - determination
+    - empowerment
+    - endings
+    - friendship
+    - healing
+    - heartbreak
+    - honesty
+    - increase
+    - inspiration
+    - integrity
+    - knowledge
+    - loyalty
+    - lust
+    - magic
+    - marriage
+    - memory/memories
+    - mental power
+    - mind
+    - negativity
+    - nightmares
+    - personal power
+    - power
+    - protection
+    - psychic ability
+    - psychic protection
+    - purification
+    - rebirth/renewal
+    - reversal
+    - sensitivity
+    - sleep
+    - sorrow
+    - spirits
+    - spiritual protection
+    - true love
+    - vitality
+    - warmth
+    - well-being
+    - willpower
+    - wisdom
+    - youth
+  toxicity:
+    humans: false
+    pets: true
+    notes:
+      - do not take internally in high doses
+      - avoid if pregnant
+  holidays:
+    - yule
+  citation:
+    - morgana-green-witch
+    - cunningham-herbs
+    - kynes-correspondences

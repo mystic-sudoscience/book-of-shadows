@@ -1,18 +1,30 @@
 # Book of Shadows
 
-A community-maintained collection of correspondences (plants, crystals, elements, planetary days, and chakras) stored as plain YAML so it is easy to read, edit, and reuse. Contributions from practitioners of any path are welcome.
+A community-maintained collection of correspondences (plants, crystals, colors, metals, moon phases, elements, planetary days, times of day, directions, numbers, holidays, planets, seasons, zodiac signs, tarot, and chakras) stored as plain YAML so it is easy to read, edit, and reuse. Contributions from practitioners of any path are welcome.
 
 ## Contents
 
 | File                                  | Description                                                                 |
 | ------------------------------------- | --------------------------------------------------------------------------- |
-| [data/plants.yml](data/plants.yml)     | Herbs and plants with their correspondences, safety notes, and uses         |
-| [data/crystals.yml](data/crystals.yml) | Crystals and their properties                                               |
+| [data/plants/](data/plants/)           | Herbs and plants with their correspondences, safety notes, and uses (one file per plant) |
+| [data/crystals.yml](data/crystals.yml) | Crystals, gemstones, and minerals, with varieties and their properties     |
+| [data/directions.yml](data/directions.yml) | The eight compass directions and their properties                      |
 | [data/elements.yml](data/elements.yml) | Earth, air, fire, and water and what they govern                            |
+| [data/holidays.yml](data/holidays.yml) | Holidays and festivals and their properties                                 |
+| [data/metals.yml](data/metals.yml)     | Metals and their properties                                                 |
+| [data/moon.yml](data/moon.yml)         | Moon phases, each month's full moon, and the moon by month                  |
+| [data/numbers.yml](data/numbers.yml)   | The numbers 1 through 13 and their properties                               |
+| [data/planets.yml](data/planets.yml)   | The sun, moon, and planets and their properties                             |
+| [data/seasons.yml](data/seasons.yml)   | The four seasons and their properties                                       |
 | [data/weekdays.yml](data/weekdays.yml) | Days of the week, ruling planets, Norse deities, and properties             |
+| [data/tarot.yml](data/tarot.yml)       | Major arcana cards and the four minor arcana suits, with their properties   |
+| [data/times.yml](data/times.yml)       | Times of day (dawn, noon, dusk, midnight) and their properties              |
+| [data/zodiac.yml](data/zodiac.yml)     | The twelve zodiac signs and their properties                                |
 | [data/chakras.yml](data/chakras.yml)   | The seven chakras: color, location, meaning, and signs of blockage          |
+| [data/colors.yml](data/colors.yml)     | Colors and their shades (dark blue, royal blue, ...) with their properties  |
 | [data/bibliography.yml](data/bibliography.yml) | Every source, keyed by a short id that entries reference in `citation` |
-| [load_db.py](load_db.py)               | Script that loads the YAML data into a local MongoDB database               |
+| [load_db.py](scripts/load_db.py)               | Script that loads the YAML data into a local MongoDB database               |
+| [data_files.py](scripts/data_files.py)         | Shared helper that reads single-file and one-file-per-entry collections     |
 
 ## How to contribute
 
@@ -28,7 +40,7 @@ You can add new entries, fill in missing fields on existing entries, fix errors,
 
 - Two-space indentation. No tabs, no trailing spaces, and a newline at the end of the file (enforced by yamllint).
 - Entry names and values are lowercase (`solar plexus`, not `Solar Plexus`).
-- Keep entries in alphabetical order within each file.
+- Keep entries in alphabetical order within each file. Plants are one file per plant in `data/plants/`, so order is handled by the filenames.
 - Multi-value fields are YAML lists (one `- item` per line). The exception is `parts used`, which is a comma-separated string.
 - Omit fields you are unsure about rather than guessing. Partial entries are fine.
 - Keep properties short (a word or short phrase).
@@ -37,7 +49,11 @@ You can add new entries, fill in missing fields on existing entries, fix errors,
 
 ## Entry templates
 
-### Plants (`plants.yml`)
+### Plants (`data/plants/`)
+
+Each plant gets its own file in `data/plants/`. The file holds a single entry whose key is the plant's name, and the filename is that name lowercased, with apostrophes and periods removed and every other run of non-letters replaced by a hyphen: `adder's tongue` goes in `adders-tongue.yml`, `st. john's wort` in `st-johns-wort.yml`, and `bergamot, orange` in `bergamot-orange.yml`. `python scripts/validate_intentions.py` reports any file that is misnamed or holds more than one entry.
+
+`data/plants/aconite.yml`:
 
 ```yaml
 aconite:
@@ -74,18 +90,29 @@ Safety is important. Record it in `toxicity`:
 
 Use the plant's regular `notes` for anything that is not about safety.
 
-Every item in `properties` must be an intention listed in [intentions.py](intentions.py). If the intention you need is missing, add it there (lowercase, no parentheses, alphabetical order) before using it on a plant. `python validate_intentions.py` reports any property that is not in the list.
+Every item in `properties` must be an intention listed in [intentions.py](scripts/intentions.py). If the intention you need is missing, add it there (lowercase, no parentheses, alphabetical order) before using it on a plant. `python scripts/validate_intentions.py` reports any property that is not in the list.
 
 ### Crystals (`crystals.yml`)
 
 ```yaml
-crystal_name:
+agate:
   properties:
-    - property one
-    - property two
+    - avoid enmity
+    - grounding
+  varieties:
+    black:
+      properties:
+        - peace
+    snakeskin:
+      properties:
+        - animal magic
+  citation:
+    - kynes-correspondences
 ```
 
-Replace the `crystal_name` placeholder with the crystal's name. Additional fields (element, planet, chakra, cleansing notes) are welcome if you keep them consistent across entries. Crystals do not have a source yet: add the source to `data/bibliography.yml` and add a `citation` list to the entry, as described in [Citations](#citations).
+Colors and types of a stone go under its `varieties` (`agate` > `varieties` > `snakeskin`), each with its own `properties`, rather than in parentheses. Stones commonly known by their own name, such as `moss agate`, `blue lace agate`, or `rose quartz`, are their own entries. A qualifier belongs in the property itself (`avoid enmity`, not `agate (avoid)` with `enmity`).
+
+Every property must be in [intentions.py](scripts/intentions.py).
 
 ### Elements (`elements.yml`)
 
@@ -110,11 +137,125 @@ sunday:
     - protection
   citation:
     - cunningham-herbs
+    - kynes-correspondences
 ```
 
-`citation` is a list of ids from `data/bibliography.yml`.
+`citation` is a list of ids from `data/bibliography.yml`. Every property must be in [intentions.py](scripts/intentions.py). Days stay in week order, Sunday to Saturday.
 
 Note that the existing key is spelled `norse diety`. Keep it as is until it is renamed across the whole file in a dedicated change.
+
+### Colors (`colors.yml`)
+
+```yaml
+blue:
+  properties:
+    - communication
+    - truth
+  shades:
+    dark:
+      properties:
+        - guidance
+    royal:
+      properties:
+        - loyalty
+  citation:
+    - kynes-correspondences
+```
+
+Shades of a color go under that color's `shades`, not as separate entries (`blue` > `shades` > `royal`, not `royal blue`). Each shade has its own `properties`. A property listed on the color applies to the color in general, so do not repeat it on every shade. Distinctly named colors such as `crimson`, `lavender`, or `turquoise` are their own entries.
+
+Like plant properties, every color and shade property must be in [intentions.py](scripts/intentions.py).
+
+### Metals (`metals.yml`)
+
+```yaml
+iron:
+  properties:
+    - defense from psychic attack
+    - grounding
+  citation:
+    - kynes-correspondences
+```
+
+Every property must be in [intentions.py](scripts/intentions.py).
+
+### Moon (`moon.yml`)
+
+```yaml
+full:
+  type: phase
+  properties:
+    - abundance
+    - manifestation
+  months:
+    april:
+      properties:
+        - growth
+  citation:
+    - kynes-correspondences
+april:
+  type: month
+  properties:
+    - beginnings
+    - fertility
+  citation:
+    - kynes-correspondences
+```
+
+`type` is `phase` (`new`, `waxing`, `full`, `waning`, or a seasonal variant such as `waxing summer`; the dark moon is `new`, so use `new` rather than `dark` here and in a plant's `moon phase`) or `month` (the moon in that month generally, or a range such as `april through october`). The full moon of a particular month goes under `full` > `months`, not in the month entry. Phases are in cycle order and months in calendar order. Every property must be in [intentions.py](scripts/intentions.py).
+
+### Directions, numbers, holidays, planets, and seasons (`directions.yml`, `numbers.yml`, `holidays.yml`, `planets.yml`, `seasons.yml`)
+
+```yaml
+north:
+  properties:
+    - abundance
+    - grounding
+  citation:
+    - kynes-correspondences
+```
+
+Directions are in compass order starting from north, numbers in numeric order, planets in order from the sun (sun, moon, mercury, venus, earth, mars, and so on out to pluto), and seasons from spring to winter. Holidays are alphabetical. A plant's `holidays` and `planet` should use the names in `holidays.yml` and `planets.yml`, in lowercase. Every property must be in [intentions.py](scripts/intentions.py).
+
+### Tarot (`tarot.yml`)
+
+```yaml
+hermit:
+  arcana: major
+  properties:
+    - introspection
+    - unutilized knowledge
+  citation:
+    - kynes-correspondences
+```
+
+`arcana` is `major` for a card or `minor` for a suit (`cups`, `pentacles`, `swords`, `wands`). Card names leave out "the" (`tower`, not `the tower`). Every property must be in [intentions.py](scripts/intentions.py).
+
+### Times of day (`times.yml`)
+
+```yaml
+dawn:
+  properties:
+    - beginnings
+    - hope
+  citation:
+    - kynes-correspondences
+```
+
+Times stay in the order of the day: dawn, noon, dusk, midnight. Every property must be in [intentions.py](scripts/intentions.py).
+
+### Zodiac signs (`zodiac.yml`)
+
+```yaml
+aries:
+  properties:
+    - courage
+    - virility
+  citation:
+    - kynes-correspondences
+```
+
+Every property must be in [intentions.py](scripts/intentions.py).
 
 ### Chakras (`chakras.yml`)
 
@@ -126,9 +267,15 @@ root:
     - grounding
   signs of blockage:
     - arthritis
+  properties:
+    - grounding
+    - security
   citation:
     - healthline-chakras
+    - kynes-correspondences
 ```
+
+`meaning` and `signs of blockage` are free text. Every item in `properties` must be in [intentions.py](scripts/intentions.py). Chakras keep their body order (root to crown) rather than alphabetical order, and plants refer to them by these names (`third eye`, not `third-eye` or `brow`).
 
 ## Validating your changes
 
@@ -144,7 +291,7 @@ yamllint checks syntax, 2-space indentation, trailing spaces, a final newline, s
 
 ### Pre-commit
 
-[pre-commit](https://pre-commit.com/) runs yamllint on `data/` and checks that plant properties are in the intentions list automatically. A commit that fails is rejected until the file is fixed.
+[pre-commit](https://pre-commit.com/) runs yamllint on `data/` and checks that the properties in every data file except `elements.yml` are in the intentions list automatically. A commit that fails is rejected until the file is fixed.
 
 ```sh
 pre-commit install          # once, to run the checks on each commit
@@ -157,7 +304,7 @@ The YAML files can be loaded into a local MongoDB database. You need a running M
 
 ```sh
 cp .env.example .env    # then edit .env if your setup differs
-python load_db.py
+python scripts/load_db.py
 ```
 
 Configuration lives in `.env` (git-ignored; never commit it):
@@ -169,7 +316,7 @@ Configuration lives in `.env` (git-ignored; never commit it):
 
 Command-line flags override `.env`, and real environment variables take precedence over `.env` values.
 
-Each file in `data/` becomes a collection (`plants.yml` -> `plants`, `bibliography.yml` -> `bibliography`). Each top-level entry becomes a document whose `_id` and `name` are the entry name, so a `citation` id such as `cunningham-herbs` matches the `_id` of a document in `bibliography`. The script is safe to re-run: documents are upserted. Options:
+Each file or folder in `data/` becomes a collection (`plants/` -> `plants`, `bibliography.yml` -> `bibliography`). Each top-level entry becomes a document whose `_id` and `name` are the entry name, so a `citation` id such as `cunningham-herbs` matches the `_id` of a document in `bibliography`. The script is safe to re-run: documents are upserted. Options:
 
 - `--uri` MongoDB connection string (overrides `MONGO_URI`)
 - `--db` database name (overrides `MONGO_DB`)

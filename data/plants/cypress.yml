@@ -1,0 +1,44 @@
+cypress:
+  type: tree
+  planet: saturn
+  element: earth
+  properties:
+    - acceptance
+    - afterlife
+    - anxiety
+    - assertiveness
+    - awareness
+    - banish
+    - bind
+    - blessings
+    - calm
+    - clarity
+    - concentration/focus
+    - confidence
+    - consecrate/bless
+    - death
+    - divination
+    - grief
+    - grounding
+    - harmony
+    - healing
+    - honor
+    - inspiration
+    - justice
+    - life
+    - mental power
+    - otherworld/underworld
+    - peace
+    - protection
+    - provide comfort
+    - rebirth/renewal
+    - security
+    - truth
+    - willpower
+    - witches/witchcraft
+  toxicity:
+    notes:
+      - avoid if pregnant
+  citation:
+    - cunningham-herbs
+    - kynes-correspondences

@@ -1,0 +1,41 @@
+yew:
+  type: tree
+  parts used: leaves, bark, twigs, berries
+  planet: saturn, pluto
+  element: water
+  moon phase: new
+  zodiac sign: scorpio
+  chakra: root
+  properties:
+    - adaptability
+    - afterlife
+    - black magic
+    - changes
+    - contact spirits
+    - death
+    - destruction
+    - divination
+    - enchantment
+    - grief
+    - knowledge
+    - nightmares
+    - otherworld/underworld
+    - protection
+    - psychic ability
+    - rebirth/renewal
+    - skills
+    - sleep
+    - witches/witchcraft
+  toxicity:
+    humans: true
+    pets: true
+    notes:
+      - wear gloves when handling
+      - poison
+  holidays:
+    - samhain
+    - yule
+  citation:
+    - morgana-green-witch
+    - cunningham-herbs
+    - kynes-correspondences

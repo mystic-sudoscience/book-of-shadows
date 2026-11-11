@@ -1,0 +1,13 @@
+club moss:
+  planet: moon
+  element: water
+  properties:
+    - protection
+    - power
+  notes:
+    - use in a purification bath
+  toxicity:
+    notes:
+      - not recommended for internal use
+  citation:
+    - cunningham-herbs

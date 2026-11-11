@@ -1,0 +1,31 @@
+allspice:
+  type: misc
+  parts used: berries
+  planet: mars
+  element: Fire
+  properties:
+    - attract luck
+    - attraction
+    - business
+    - collect debts
+    - communication
+    - compassion
+    - consecrate/bless
+    - courage
+    - determination
+    - energy
+    - fear
+    - friendship
+    - healing
+    - kindness
+    - money
+    - power
+    - prosperity
+    - spirituality
+    - strength
+    - stress
+    - success
+    - willpower
+  citation:
+    - cunningham-herbs
+    - kynes-correspondences

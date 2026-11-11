@@ -1,0 +1,18 @@
+horse chestnut:
+  type: tree
+  planet: jupiter
+  element: fire
+  properties:
+    - money
+    - healing
+    - banish
+    - divination
+    - prosperity
+  notes:
+    - also called buckeye
+  toxicity:
+    notes:
+      - poison
+  citation:
+    - cunningham-herbs
+    - kynes-correspondences

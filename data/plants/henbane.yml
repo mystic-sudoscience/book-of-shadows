@@ -1,0 +1,30 @@
+henbane:
+  type: misc
+  parts used: flowers, seeds
+  planet: saturn
+  element: earth
+  moon phase: waning
+  zodiac sign: aquarius
+  chakra: root
+  properties:
+    - astral realm
+    - bind
+    - black magic
+    - calm
+    - consecrate/bless
+    - divination
+    - love
+    - magic
+    - otherworld/underworld
+    - skills
+    - sleep
+    - witches/witchcraft
+  toxicity:
+    humans: true
+    pets: true
+    notes:
+      - all parts are deadly poison if ingested; always wear gloves when handling
+  citation:
+    - morgana-green-witch
+    - cunningham-herbs
+    - kynes-correspondences

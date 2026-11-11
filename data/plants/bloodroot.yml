@@ -1,0 +1,21 @@
+bloodroot:
+  type: misc
+  planet: mars
+  element: fire
+  properties:
+    - courage
+    - divination
+    - family
+    - love
+    - protection
+    - purification
+    - release attachments
+    - strength
+  toxicity:
+    notes:
+      - poison
+      - avoid if pregnant
+      - may cause nausea, vomiting
+  citation:
+    - cunningham-herbs
+    - kynes-correspondences

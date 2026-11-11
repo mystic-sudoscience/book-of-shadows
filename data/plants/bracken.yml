@@ -1,0 +1,19 @@
+bracken:
+  parts used: leaves
+  planet: mercury
+  element: air
+  moon phase: waxing
+  zodiac sign: gemini
+  chakra: third eye, heart
+  properties:
+    - healing
+    - weather
+    - dream work
+  toxicity:
+    humans: true
+    pets: true
+    notes:
+      - not recommended for internal use
+  citation:
+    - morgana-green-witch
+    - cunningham-herbs

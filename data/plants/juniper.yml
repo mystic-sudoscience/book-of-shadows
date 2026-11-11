@@ -1,0 +1,53 @@
+juniper:
+  type: tree
+  parts used: leaves, wood, berries
+  planet: sun
+  element: fire
+  moon phase: waning
+  zodiac sign: sagittarius
+  chakra: root
+  properties:
+    - action
+    - anger
+    - banish
+    - beginnings
+    - black magic
+    - calm
+    - community
+    - divination
+    - dream work
+    - energy
+    - fertility
+    - grounding
+    - harmony
+    - healing
+    - increase
+    - love
+    - negativity
+    - prosperity
+    - protection
+    - protection from theft
+    - psychic ability
+    - purification
+    - secrets
+    - security
+    - sensuality
+    - sight
+    - sleep
+    - spiritual purification
+    - spirituality
+    - well-being
+    - wishes
+  toxicity:
+    humans: true
+    pets: true
+    notes:
+      - humans: nontoxic in small amounts
+      - avoid if pregnant
+      - do not abuse, internally; not for long-term use (maximum of 4-6 weeks at a time)
+  holidays:
+    - samhain
+  citation:
+    - morgana-green-witch
+    - cunningham-herbs
+    - kynes-correspondences

@@ -1,0 +1,29 @@
+lily of the valley:
+  type: herb & garden
+  planet: mercury
+  element: air
+  properties:
+    - calm
+    - cheerfulness
+    - consecrate/bless
+    - desire
+    - harmony
+    - healing
+    - innocence
+    - inspiration
+    - life
+    - love
+    - memory/memories
+    - mental power
+    - mind
+    - obstacles
+    - peace
+    - protection
+    - reversal
+    - skills
+  toxicity:
+    notes:
+      - poison
+  citation:
+    - cunningham-herbs
+    - kynes-correspondences

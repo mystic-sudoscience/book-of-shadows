@@ -1,0 +1,307 @@
+sun:
+  properties:
+    - action
+    - activate/awaken
+    - agriculture
+    - astral realm
+    - attraction
+    - authority
+    - beauty
+    - blessings
+    - cheerfulness
+    - confidence
+    - consciousness
+    - energy
+    - enlightenment
+    - fertility
+    - friendship
+    - growth
+    - healing
+    - hope
+    - illumination
+    - improvement
+    - increase
+    - integrity
+    - justice
+    - life
+    - light
+    - manifestation
+    - mind
+    - money
+    - motivation
+    - nurture
+    - power
+    - pride
+    - prosperity
+    - protection
+    - purity
+    - rebirth/renewal
+    - reversal
+    - sexual energy
+    - solar energy
+    - solar magic
+    - stability
+    - stimulation
+    - stress
+    - travel
+    - warmth
+    - well-being
+    - willpower
+  citation:
+    - kynes-correspondences
+moon:
+  properties:
+    - action
+    - agriculture
+    - beginnings
+    - changes
+    - consciousness
+    - cycles
+    - darkness
+    - death
+    - divination
+    - dream work
+    - enchantment
+    - endings
+    - energy
+    - family
+    - fertility
+    - growth
+    - guidance
+    - healing
+    - illumination
+    - imagination
+    - inner balance
+    - inspiration
+    - jealousy
+    - light
+    - love
+    - magic
+    - manifestation
+    - moon magic
+    - negativity
+    - night magic
+    - nightmares
+    - obstacles
+    - peace
+    - power
+    - pregnancy/childbirth
+    - protection
+    - psychic ability
+    - rebirth/renewal
+    - receptive energy
+    - rhythms of life
+    - secrets
+    - sensitivity
+    - set hexes
+    - sorrow
+    - subconscious
+    - witches/witchcraft
+  citation:
+    - kynes-correspondences
+mercury:
+  properties:
+    - adaptability
+    - balance
+    - business
+    - changes
+    - communication
+    - divination
+    - fear
+    - improvement
+    - inspiration
+    - integrity
+    - justice
+    - love
+    - magic
+    - memory/memories
+    - money
+    - power
+    - rebirth/renewal
+    - skills
+    - times of crossroads
+    - travel
+    - wealth
+  citation:
+    - kynes-correspondences
+venus:
+  properties:
+    - affection
+    - agriculture
+    - astral realm
+    - attraction
+    - beauty
+    - beginnings
+    - compassion
+    - connections
+    - desire
+    - fertility
+    - friendship
+    - harmony
+    - kindness
+    - love
+    - lust
+    - needs
+    - passion
+    - rebirth/renewal
+    - receptive energy
+    - relationships
+    - reversal
+    - romance
+    - sensuality
+    - sex magic
+    - sexual energy
+    - sexuality
+    - stress
+    - unity
+  citation:
+    - kynes-correspondences
+earth:
+  properties:
+    - agriculture
+    - animal magic
+    - grounding
+    - healing
+    - nurture
+    - peace
+    - protection
+    - revenge
+  citation:
+    - kynes-correspondences
+mars:
+  properties:
+    - action
+    - aggression
+    - anger
+    - assertiveness
+    - beginnings
+    - courage
+    - death
+    - defense
+    - desire
+    - determination
+    - endurance
+    - enmity
+    - growth
+    - justice
+    - life
+    - lust
+    - magic
+    - passion
+    - power
+    - sex magic
+    - sexual energy
+    - sexuality
+    - skills
+    - willpower
+  citation:
+    - kynes-correspondences
+jupiter:
+  properties:
+    - abundance
+    - astral realm
+    - authority
+    - business
+    - dignity
+    - discipline
+    - generosity
+    - honor
+    - justice
+    - kindness
+    - mind
+    - money
+    - power
+    - pride
+    - prosperity
+    - responsibility
+    - spirituality
+    - stress
+    - wealth
+    - well-being
+  citation:
+    - kynes-correspondences
+saturn:
+  properties:
+    - agriculture
+    - ambition
+    - astral realm
+    - authority
+    - banish
+    - bind
+    - business
+    - concentration/focus
+    - darkness
+    - death
+    - discipline
+    - endings
+    - endurance
+    - freedom
+    - grounding
+    - justice
+    - karma
+    - knowledge
+    - limitations/boundaries
+    - loyalty
+    - lust
+    - mind
+    - obstacles
+    - peace
+    - purification
+    - relationships
+    - stability
+  citation:
+    - kynes-correspondences
+uranus:
+  properties:
+    - ambition
+    - anger
+    - changes
+    - community
+    - freedom
+    - hope
+    - illumination
+    - improvement
+    - motivation
+    - power
+    - relationships
+  citation:
+    - kynes-correspondences
+neptune:
+  properties:
+    - clairvoyance
+    - community
+    - dream work
+    - enchantment
+    - expand awareness
+    - guardian
+    - guidance
+    - inspiration
+    - life
+    - otherworld/underworld
+    - power
+    - protection
+    - psychic ability
+    - psychic energy
+    - sensitivity
+    - subconscious
+  citation:
+    - kynes-correspondences
+pluto:
+  properties:
+    - afterlife
+    - changes
+    - death
+    - dream work
+    - face danger
+    - inner darkness
+    - justice
+    - karma
+    - memory/memories
+    - otherworld/underworld
+    - rebirth/renewal
+    - secrets
+    - sexuality
+    - spirituality
+    - wealth
+  citation:
+    - kynes-correspondences

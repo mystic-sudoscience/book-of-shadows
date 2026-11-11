@@ -1,0 +1,21 @@
+cyclamen:
+  parts used: flowers, leaves
+  planet: venus
+  element: water
+  moon phase: full
+  zodiac sign: scorpio
+  chakra: heart
+  properties:
+    - fertility
+    - protection
+    - cheerfulness
+    - lust
+  toxicity:
+    humans: true
+    pets: true
+    notes:
+      - can cause skin irritation
+      - probably not recommended for internal use in high doses
+  citation:
+    - morgana-green-witch
+    - cunningham-herbs

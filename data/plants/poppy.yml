@@ -1,0 +1,35 @@
+poppy:
+  type: herb & garden
+  parts used: flowers, leaves, seeds
+  planet: moon
+  element: water
+  moon phase: waning
+  zodiac sign: capricorn
+  chakra: solar plexus
+  properties:
+    - afterlife
+    - assertiveness
+    - astral realm
+    - attract luck
+    - challenges
+    - clairvoyance
+    - dream work
+    - enchantment
+    - enmity
+    - fertility
+    - love
+    - lust
+    - messages/omens
+    - money
+    - moon magic
+    - prosperity
+    - rebirth/renewal
+    - sleep
+    - spirits
+    - support
+  toxicity:
+    humans: false
+    pets: true
+  citation:
+    - morgana-green-witch
+    - kynes-correspondences

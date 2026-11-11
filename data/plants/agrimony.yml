@@ -1,0 +1,26 @@
+agrimony:
+  type: herb & garden
+  parts used: whole herb
+  planet: jupiter, mercury
+  element: air
+  moon phase: waning
+  zodiac sign: cancer
+  chakra: throat
+  properties:
+    - banish
+    - break hexes
+    - dream work
+    - enchantment
+    - energy
+    - gratitude
+    - harmony
+    - healing
+    - messages/omens
+    - protection
+    - sleep
+  toxicity:
+    humans: false
+    pets: true
+  citation:
+    - morgana-green-witch
+    - kynes-correspondences

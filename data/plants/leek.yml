@@ -1,0 +1,9 @@
+leek:
+  planet: mars
+  element: fire
+  properties:
+    - love
+    - protection
+    - break hexes
+  citation:
+    - cunningham-herbs

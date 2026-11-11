@@ -1,0 +1,45 @@
+ginger:
+  type: misc
+  planet: mars
+  element: fire
+  properties:
+    - astral realm
+    - attract luck
+    - beauty
+    - break hexes
+    - calm
+    - collect debts
+    - courage
+    - energy
+    - healing
+    - improvement
+    - inner purification
+    - inspiration
+    - love
+    - lust
+    - magic
+    - money
+    - moon magic
+    - obstacles
+    - passion
+    - power
+    - pregnancy/childbirth
+    - prosperity
+    - relationships
+    - release attachments
+    - sex magic
+    - stimulation
+    - storms
+    - stress
+    - success
+    - unity
+    - warmth
+    - well-being
+  toxicity:
+    notes:
+      - avoid above normal food use levels
+      - avoid if pregnant
+      - may cause gallstones
+  citation:
+    - cunningham-herbs
+    - kynes-correspondences

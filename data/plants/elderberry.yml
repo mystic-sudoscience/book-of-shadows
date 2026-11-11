@@ -1,0 +1,20 @@
+elderberry:
+  parts used: leaves, berries, bark
+  planet: venus, mercury
+  element: water
+  moon phase: waxing
+  zodiac sign: capricorn, sagittarius
+  chakra: root
+  properties:
+    - protection
+    - banish
+    - healing
+    - prosperity
+    - love
+  toxicity:
+    humans: true
+    pets: true
+    notes:
+      - only the berries are safe for humans to eat if they are cooked
+  citation:
+    - morgana-green-witch

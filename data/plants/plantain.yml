@@ -1,0 +1,16 @@
+plantain:
+  parts used: flowers, leaves, root
+  planet: venus
+  element: earth
+  moon phase: waxing
+  zodiac sign: taurus
+  chakra: solar plexus
+  properties:
+    - healing
+    - strength
+    - protection
+  toxicity:
+    humans: false
+    pets: false
+  citation:
+    - morgana-green-witch

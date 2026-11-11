@@ -1,0 +1,18 @@
+mallow:
+  parts used: leaves, flowers, root, seeds
+  planet: moon
+  element: water
+  moon phase: full
+  zodiac sign: scorpio, pisces
+  chakra: root
+  properties:
+    - love
+    - protection
+    - banish
+  toxicity:
+    humans: false
+    pets: true
+  holidays:
+    - beltane
+  citation:
+    - morgana-green-witch

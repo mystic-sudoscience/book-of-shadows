@@ -1,0 +1,17 @@
+kava-kava:
+  planet: saturn
+  element: water
+  properties:
+    - clairvoyance
+    - protection
+    - attract luck
+  notes:
+    - it is drunk as an infusion but too much can cause kidney damage
+  toxicity:
+    notes:
+      - avoid if pregnant
+      - avoid if nursing
+      - may cause Parkinson's disease
+      - do not take internally in high doses; find several sources that have appropriate doses of this herb
+  citation:
+    - cunningham-herbs

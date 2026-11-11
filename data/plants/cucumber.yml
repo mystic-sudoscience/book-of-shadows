@@ -1,0 +1,9 @@
+cucumber:
+  planet: moon
+  element: water
+  properties:
+    - fertility
+    - purity
+    - healing
+  citation:
+    - cunningham-herbs

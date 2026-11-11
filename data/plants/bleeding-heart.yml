@@ -1,0 +1,19 @@
+bleeding heart:
+  parts used: flowers
+  planet: venus
+  element: water
+  moon phase: waxing
+  zodiac sign: cancer
+  chakra: heart
+  properties:
+    - love
+    - divination
+  toxicity:
+    humans: true
+    pets: true
+    notes:
+      - highly toxic
+      - not recommended for internal use
+  citation:
+    - morgana-green-witch
+    - cunningham-herbs

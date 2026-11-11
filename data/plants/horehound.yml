@@ -1,0 +1,31 @@
+horehound:
+  type: misc
+  parts used: leaves, flowers
+  planet: mercury
+  element: air, earth
+  moon phase: waning, new
+  zodiac sign: gemini, scorpio, virgo
+  chakra: sacral
+  properties:
+    - banish
+    - break hexes
+    - clarity
+    - energy
+    - healing
+    - mental power
+    - mind
+    - power
+    - protection
+    - purification
+    - strength
+    - wishes
+  toxicity:
+    humans: true
+    pets: true
+    notes:
+      - humans: nontoxic in small amounts
+      - avoid if pregnant
+  citation:
+    - morgana-green-witch
+    - cunningham-herbs
+    - kynes-correspondences

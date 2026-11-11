@@ -1,0 +1,20 @@
+poison hemlock:
+  parts used: leaves and berries
+  planet: saturn
+  element: water
+  moon phase: new
+  zodiac sign: scorpio
+  chakra: crown
+  properties:
+    - astral realm
+    - black magic
+  toxicity:
+    humans: true
+    pets: true
+    notes:
+      - all parts are deadly poison if ingested
+      - the plant will also burn your skin if touched
+      - if you must handle it, wear gloves and long sleeves
+  citation:
+    - morgana-green-witch
+    - cunningham-herbs

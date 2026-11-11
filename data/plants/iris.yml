@@ -1,0 +1,37 @@
+iris:
+  type: herb & garden
+  planet: venus
+  element: water
+  properties:
+    - acceptance
+    - attract luck
+    - authority
+    - awareness
+    - clarity
+    - concentration/focus
+    - death
+    - determination
+    - energy
+    - fairness
+    - freedom
+    - inspiration
+    - love
+    - messages/omens
+    - money
+    - moon magic
+    - patience
+    - power
+    - prosperity
+    - psychic ability
+    - purification
+    - purity
+    - release attachments
+    - spirituality
+    - willpower
+    - wisdom
+  toxicity:
+    notes:
+      - some species should not be used internally
+  citation:
+    - cunningham-herbs
+    - kynes-correspondences

@@ -15,9 +15,9 @@ repos:
   - repo: local
     hooks:
       - id: validate-intentions
-        name: plant properties are in the intentions list
-        entry: python validate_intentions.py
+        name: data properties are in the intentions list
+        entry: python scripts/validate_intentions.py
         language: python
         additional_dependencies: [pyyaml]
-        files: ^(data/plants\.yml|intentions\.py|validate_intentions\.py)$
+        files: ^(data/.*\.yml|scripts/.*\.py)$
         pass_filenames: false

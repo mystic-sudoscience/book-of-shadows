@@ -1,0 +1,26 @@
+skullcap:
+  type: misc
+  parts used: leaves, flowers
+  planet: saturn
+  element: water
+  moon phase: waning
+  zodiac sign: aquarius
+  chakra: third eye
+  properties:
+    - calm
+    - concentration/focus
+    - fear
+    - fidelity
+    - healing
+    - love
+    - peace
+    - soothe mind
+    - stress
+  toxicity:
+    humans: false
+    pets: false
+  holidays:
+    - mabon
+  citation:
+    - morgana-green-witch
+    - kynes-correspondences

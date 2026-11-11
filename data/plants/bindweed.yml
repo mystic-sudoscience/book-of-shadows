@@ -1,0 +1,18 @@
+bindweed:
+  parts used: flowers, seeds
+  planet: saturn
+  element: water
+  moon phase: full
+  zodiac sign: scorpio
+  chakra: crown
+  properties:
+    - bind
+  toxicity:
+    humans: true
+    pets: true
+    notes:
+      - leaves are nontoxic to humans but seeds are toxic
+  notes:
+    - morning glory
+  citation:
+    - morgana-green-witch

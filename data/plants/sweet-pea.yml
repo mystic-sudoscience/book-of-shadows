@@ -1,0 +1,20 @@
+sweet pea:
+  parts used: flowers
+  planet: venus
+  element: water
+  moon phase: waxing
+  zodiac sign: virgo
+  chakra: third eye
+  properties:
+    - friendship
+    - purity
+  toxicity:
+    humans: true
+    pets: true
+    notes:
+      - safe to handle without gloves
+      - do not take internally in high doses
+      - not recommended for internal use
+  citation:
+    - morgana-green-witch
+    - cunningham-herbs

@@ -1,0 +1,21 @@
+datura:
+  parts used: leaves, flowers, seeds
+  planet: saturn
+  element: water
+  moon phase: full
+  zodiac sign: scorpio
+  properties:
+    - divination
+    - invisibility
+    - shape shift
+    - break hexes
+    - sleep
+  chakra: crown
+  toxicity:
+    humans: true
+    pets: true
+    notes:
+      - extremely poisonous—do not eat! sensitive skin may be irritated simply by touching the plant
+  citation:
+    - morgana-green-witch
+    - cunningham-herbs

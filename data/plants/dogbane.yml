@@ -1,0 +1,8 @@
+dogbane:
+  properties:
+    - love
+  toxicity:
+    notes:
+      - not recommended for internal use
+  citation:
+    - cunningham-herbs

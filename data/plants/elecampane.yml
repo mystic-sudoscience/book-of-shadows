@@ -1,0 +1,14 @@
+elecampane:
+  planet: mercury
+  element: air
+  properties:
+    - love
+    - protection
+    - psychic ability
+  toxicity:
+    notes:
+      - avoid if pregnant
+      - avoid if nursing
+      - do not take internally in high doses; find several sources that have appropriate doses of this herb
+  citation:
+    - cunningham-herbs

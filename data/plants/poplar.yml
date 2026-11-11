@@ -1,0 +1,32 @@
+poplar:
+  type: tree
+  parts used: leaves, twigs, bark, buds
+  planet: saturn
+  element: water
+  moon phase: full
+  zodiac sign: pisces
+  chakra: root
+  properties:
+    - astral realm
+    - courage
+    - death
+    - defense
+    - determination
+    - divination
+    - endurance
+    - grief
+    - hope
+    - loss
+    - money
+    - obstacles
+    - prophecy
+    - prosperity
+    - rebirth/renewal
+    - spirituality
+    - strength
+  toxicity:
+    humans: false
+    pets: false
+  citation:
+    - morgana-green-witch
+    - kynes-correspondences

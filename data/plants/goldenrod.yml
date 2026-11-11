@@ -1,0 +1,29 @@
+goldenrod:
+  type: misc
+  parts used: leaves, flowers
+  planet: venus
+  element: air
+  moon phase: waxing
+  zodiac sign: gemini
+  chakra: root
+  properties:
+    - attract luck
+    - beauty
+    - challenges
+    - divination
+    - loss
+    - mind
+    - money
+    - prosperity
+    - stimulation
+  toxicity:
+    humans: false
+    pets: false
+    notes:
+      - avoid if pregnant
+      - may cause gallstones
+      - may cause kidney problems
+  citation:
+    - morgana-green-witch
+    - cunningham-herbs
+    - kynes-correspondences

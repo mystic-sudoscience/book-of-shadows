@@ -1,0 +1,17 @@
+wild tobacco:
+  parts used: leaves
+  planet: mars
+  element: fire
+  moon phase: full
+  zodiac sign: sagittarius
+  chakra: heart
+  properties:
+    - healing
+    - purification
+  toxicity:
+    humans: true
+    pets: true
+    notes:
+      - wear gloves when handling
+  citation:
+    - morgana-green-witch

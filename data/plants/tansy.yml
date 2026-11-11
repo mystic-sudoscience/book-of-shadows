@@ -1,0 +1,18 @@
+tansy:
+  parts used: flowers, leaves
+  planet: venus
+  element: water
+  moon phase: waxing
+  zodiac sign: gemini
+  chakra: solar plexus
+  properties:
+    - healing
+    - life
+  toxicity:
+    humans: true
+    pets: true
+    notes:
+      - avoid if pregnant
+  citation:
+    - morgana-green-witch
+    - cunningham-herbs

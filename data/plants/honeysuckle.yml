@@ -1,0 +1,61 @@
+honeysuckle:
+  type: herb & garden
+  parts used: flowers
+  planet: jupiter, mercury
+  element: earth
+  moon phase: full
+  zodiac sign: aries, cancer, capricorn, leo, pisces, sagittarius, scorpio, taurus, virgo
+  chakra: all
+  properties:
+    - abundance
+    - adaptability
+    - affection
+    - attraction
+    - authority
+    - awareness
+    - balance
+    - break hexes
+    - calm
+    - changes
+    - cheerfulness
+    - clarity
+    - concentration/focus
+    - confidence
+    - dedication/devotion
+    - destiny
+    - divination
+    - fidelity
+    - friendship
+    - generosity
+    - guidance
+    - healing
+    - honesty
+    - inspiration
+    - justice
+    - knowledge
+    - love
+    - memory/memories
+    - mind
+    - money
+    - peace
+    - power
+    - prosperity
+    - protection
+    - psychic ability
+    - rebirth/renewal
+    - secrets
+    - skills
+    - strength
+    - stress
+    - well-being
+    - wishes
+    - witches/witchcraft
+  toxicity:
+    humans: false
+    pets: true
+  holidays:
+    - beltane
+    - ostara
+  citation:
+    - morgana-green-witch
+    - kynes-correspondences

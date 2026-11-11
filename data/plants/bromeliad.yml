@@ -1,0 +1,15 @@
+bromeliad:
+  parts used: leaves, flowers
+  planet: sun
+  element: air
+  moon phase: waxing
+  zodiac sign: leo
+  chakra: heart
+  properties:
+    - protection
+    - money
+  toxicity:
+    humans: false
+    pets: false
+  citation:
+    - morgana-green-witch

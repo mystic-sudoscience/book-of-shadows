@@ -1,0 +1,36 @@
+elm, american:
+  type: tree
+  parts used: leaves, bark
+  planet: saturn
+  element: air, earth, water
+  moon phase: full
+  zodiac sign: capricorn, sagittarius
+  chakra: heart
+  properties:
+    - attraction
+    - beginnings
+    - compassion
+    - dignity
+    - empathy
+    - endings
+    - endurance
+    - fidelity
+    - grace
+    - grounding
+    - healing
+    - life
+    - love
+    - pregnancy/childbirth
+    - protection
+    - psychic ability
+    - rebirth/renewal
+    - sleep
+    - stability
+    - willpower
+    - wisdom
+  toxicity:
+    humans: false
+    pets: false
+  citation:
+    - morgana-green-witch
+    - kynes-correspondences

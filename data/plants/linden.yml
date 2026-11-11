@@ -1,0 +1,31 @@
+linden:
+  type: tree
+  planet: jupiter
+  element: air
+  properties:
+    - attract luck
+    - attraction
+    - calm
+    - clairvoyance
+    - communication
+    - divination
+    - dream work
+    - encouragement
+    - fidelity
+    - life
+    - love
+    - marriage
+    - needs
+    - nurture
+    - open to love
+    - peace
+    - protection
+    - relationships
+    - sleep
+    - strength
+    - stress
+    - support
+    - transformation
+    - warmth
+  citation:
+    - kynes-correspondences

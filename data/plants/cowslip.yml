@@ -1,0 +1,35 @@
+cowslip:
+  type: misc
+  parts used: leaves, flowers
+  planet: venus
+  element: water
+  moon phase: new
+  zodiac sign: aries, scorpio
+  chakra: sacral
+  properties:
+    - afterlife
+    - beauty
+    - fidelity
+    - grace
+    - harmony
+    - healing
+    - money
+    - prosperity
+    - protect animals
+    - protection
+    - secrets
+    - spirits
+    - strength
+    - trust
+    - youth
+  toxicity:
+    humans: true
+    pets: true
+    notes:
+      - nontoxic in small amounts
+  holidays:
+    - ostara
+  citation:
+    - morgana-green-witch
+    - cunningham-herbs
+    - kynes-correspondences

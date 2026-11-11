@@ -1,0 +1,41 @@
+valerian:
+  type: herb & garden
+  parts used: flowers, leaves, root
+  planet: venus, mercury
+  element: water
+  moon phase: full
+  zodiac sign: scorpio, virgo
+  chakra: root, throat
+  properties:
+    - anger
+    - anxiety
+    - blessings
+    - calm
+    - challenges
+    - communication
+    - endings
+    - harmony
+    - healing
+    - life
+    - love
+    - money
+    - needs
+    - peace
+    - peace of mind
+    - protection
+    - purification
+    - reconciliation
+    - romance
+    - sensitivity
+    - sleep
+    - stress
+    - truth
+  toxicity:
+    humans: false
+    pets: false
+    notes:
+      - do now drive while after consuming valerian
+  citation:
+    - morgana-green-witch
+    - cunningham-herbs
+    - kynes-correspondences

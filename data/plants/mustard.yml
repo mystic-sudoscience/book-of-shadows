@@ -1,0 +1,35 @@
+mustard:
+  parts used: seeds, leaves
+  planet: mars
+  element: fire
+  moon phase: full
+  zodiac sign: aries
+  chakra: sacral
+  properties:
+    - acceptance
+    - discipline
+    - enmity
+    - fairness
+    - fertility
+    - healing
+    - justice
+    - love
+    - lust
+    - mental power
+    - mind
+    - money
+    - passion
+    - power
+    - protection
+    - purification
+    - security
+    - sensuality
+    - stress
+    - success
+    - travel
+  toxicity:
+    humans: false
+    pets: true
+  citation:
+    - morgana-green-witch
+    - kynes-correspondences

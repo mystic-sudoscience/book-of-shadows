@@ -1,0 +1,202 @@
+aluminum:
+  properties:
+    - air elemental power
+    - connections
+    - energy
+    - magic
+    - mind
+    - skills
+    - stimulation
+    - travel
+  citation:
+    - kynes-correspondences
+antimony:
+  properties:
+    - build strength
+    - energy
+    - power of belief
+    - protect from negativity
+  citation:
+    - kynes-correspondences
+bornite:
+  properties:
+    - clairvoyance
+    - communication
+    - community
+    - desire
+    - guidance
+    - healing
+    - knowledge
+    - life
+    - psychic ability
+    - sight
+  citation:
+    - kynes-correspondences
+brass:
+  properties:
+    - attract wealth
+    - balance
+    - energy
+    - healing
+    - money
+    - prosperity
+    - return negativity to its origin
+    - reversal
+    - security
+    - solar magic
+  citation:
+    - kynes-correspondences
+copper:
+  properties:
+    - attract love
+    - balance
+    - concentration/focus
+    - connections
+    - consciousness
+    - energy
+    - fertility
+    - healing
+    - lust
+    - money
+    - prosperity
+    - protect from negativity
+    - receptive energy
+    - spirituality
+    - strength
+    - unity
+    - warmth
+    - well-being
+    - willpower
+  citation:
+    - kynes-correspondences
+gold:
+  properties:
+    - attract love
+    - authority
+    - balance
+    - confidence
+    - divination
+    - energy
+    - healing
+    - honesty
+    - honor
+    - hope
+    - illumination
+    - light
+    - magic
+    - mind
+    - money
+    - personal power
+    - power of belief
+    - prosperity
+    - purification
+    - solar magic
+    - strength
+    - stress
+    - success
+    - wealth
+    - willpower
+  citation:
+    - kynes-correspondences
+iron:
+  properties:
+    - defense from psychic attack
+    - enmity
+    - grounding
+    - healing
+    - manifestation
+    - negativity
+    - psychic ability
+    - reversal
+    - security
+    - strength
+  citation:
+    - kynes-correspondences
+lead:
+  properties:
+    - aggressive magic
+    - bind
+    - death
+    - defense
+    - divination
+    - energy
+    - lust
+    - protect from negativity
+    - receptive energy
+    - set hexes
+  citation:
+    - kynes-correspondences
+mercury:
+  properties:
+    - changes
+    - communication
+    - energy
+    - lust
+    - magic
+    - motivation
+    - power
+    - receptive energy
+    - transformation
+  citation:
+    - kynes-correspondences
+silver:
+  properties:
+    - ambition
+    - attract love
+    - attraction
+    - awareness
+    - beginnings
+    - break hexes
+    - calm
+    - clear mind
+    - communication
+    - divination
+    - divine/higher power
+    - energy
+    - healing
+    - improvement
+    - life
+    - light
+    - lust
+    - marriage
+    - money
+    - moon magic
+    - motivation
+    - negativity
+    - peace
+    - power
+    - prosperity
+    - psychic ability
+    - purification
+    - purity
+    - receptive energy
+    - security
+    - stress
+    - subconscious
+    - travel
+    - water magic
+  citation:
+    - kynes-correspondences
+steel:
+  properties:
+    - defense
+    - energy
+    - enmity
+    - healing
+    - negativity
+    - nightmares
+    - strength
+    - support
+  citation:
+    - kynes-correspondences
+tin:
+  properties:
+    - divination
+    - energy
+    - hope
+    - lust
+    - money
+    - prosperity
+    - secrets
+  citation:
+    - kynes-correspondences

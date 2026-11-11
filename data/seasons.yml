@@ -1,0 +1,59 @@
+spring:
+  properties:
+    - activate/awaken
+    - beauty
+    - beginnings
+    - calm
+    - fertility
+    - healing
+    - hope
+    - increase
+    - innocence
+    - life
+    - light
+    - purification
+    - rebirth/renewal
+    - youth
+  citation:
+    - kynes-correspondences
+summer:
+  properties:
+    - encouragement
+    - friendship
+    - growth
+    - life
+    - love
+    - marriage
+    - nurture
+    - patience
+    - protection
+    - warmth
+  citation:
+    - kynes-correspondences
+autumn:
+  properties:
+    - abundance
+    - accomplishment
+    - death
+    - manifestation
+    - money
+    - sorrow
+  citation:
+    - kynes-correspondences
+winter:
+  properties:
+    - banish
+    - darkness
+    - death
+    - destruction
+    - dream work
+    - endings
+    - grounding
+    - illumination
+    - insight
+    - introspection
+    - power
+    - sleep
+    - sorrow
+  citation:
+    - kynes-correspondences

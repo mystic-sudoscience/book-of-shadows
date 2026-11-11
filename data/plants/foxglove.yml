@@ -1,0 +1,29 @@
+foxglove:
+  type: herb & garden
+  parts used: flowers, leaves
+  planet: venus
+  element: water
+  moon phase: full
+  zodiac sign: taurus
+  chakra: third eye
+  properties:
+    - challenges
+    - enchantment
+    - harmony
+    - healing
+    - protection
+    - quiet mind
+    - release attachments
+    - stimulation
+    - stress
+  toxicity:
+    humans: true
+    pets: true
+    notes:
+      - highly toxic
+  holidays:
+    - summer solstice
+  citation:
+    - morgana-green-witch
+    - cunningham-herbs
+    - kynes-correspondences

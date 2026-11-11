@@ -1,0 +1,30 @@
+grape:
+  type: herb & garden
+  parts used: leaves, fruit
+  planet: moon
+  element: water
+  moon phase: full
+  zodiac sign: taurus
+  chakra: root
+  properties:
+    - abundance
+    - agriculture
+    - charity
+    - clarity
+    - fertility
+    - growth
+    - inspiration
+    - mental power
+    - mind
+    - money
+    - prophecy
+    - prosperity
+    - transformation
+  toxicity:
+    humans: false
+    pets: true
+  holidays:
+    - mabon
+  citation:
+    - morgana-green-witch
+    - kynes-correspondences

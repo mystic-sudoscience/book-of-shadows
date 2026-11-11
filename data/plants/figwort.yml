@@ -1,0 +1,11 @@
+figwort:
+  planet: venus
+  element: water
+  properties:
+    - healing
+    - protection
+  toxicity:
+    notes:
+      - may cause ventricular tachycardia
+  citation:
+    - cunningham-herbs

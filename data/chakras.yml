@@ -7,8 +7,20 @@ root:
   signs of blockage:
     - stomach issues
     - arthritis
+  properties:
+    - attachments
+    - endurance
+    - grounding
+    - manifestation
+    - motivation
+    - needs
+    - security
+    - stability
+    - support
+    - vitality
   citation:
     - healthline-chakras
+    - kynes-correspondences
 sacral:
   color: orange
   location: lower abdomen
@@ -20,8 +32,18 @@ sacral:
     - lower back pain
     - uti
     - sexual dysfunction
+  properties:
+    - abundance
+    - connections
+    - desire
+    - fertility
+    - freedom
+    - motivation
+    - passion
+    - sexuality
   citation:
     - healthline-chakras
+    - kynes-correspondences
 solar plexus:
   color: yellow
   location: upper abdomen
@@ -31,8 +53,19 @@ solar plexus:
   signs of blockage:
     - ulcers
     - indigestion
+  properties:
+    - authority
+    - confidence
+    - courage
+    - energy
+    - personal power
+    - pride
+    - respect
+    - sensitivity
+    - willpower
   citation:
     - healthline-chakras
+    - kynes-correspondences
 heart:
   color: green
   location: center of the chest
@@ -42,8 +75,20 @@ heart:
   signs of blockage:
     - heart problems
     - respiratory issues
+  properties:
+    - affection
+    - balance
+    - beauty
+    - compassion
+    - empathy
+    - healing
+    - love
+    - mindfulness
+    - nurture
+    - relationships
   citation:
     - healthline-chakras
+    - kynes-correspondences
 throat:
   color: blue
   location: throat
@@ -52,8 +97,13 @@ throat:
   signs of blockage:
     - sore throat
     - dental issues
+  properties:
+    - communication
+    - inspiration
+    - truth
   citation:
     - healthline-chakras
+    - kynes-correspondences
 third eye:
   color: indigo
   location: forehead, between the eyes
@@ -64,8 +114,18 @@ third eye:
     - headaches
     - vision problems
     - concentration issues
+  properties:
+    - clairaudience
+    - clairvoyance
+    - clarity
+    - healing
+    - illumination
+    - imagination
+    - insight
+    - psychic ability
   citation:
     - healthline-chakras
+    - kynes-correspondences
 crown:
   color: violet
   location: top of the head
@@ -75,5 +135,14 @@ crown:
   signs of blockage:
     - stubbornness
     - narrow-mindedness
+  properties:
+    - consciousness
+    - cosmic energy
+    - divine connections
+    - enlightenment
+    - illumination
+    - knowledge
+    - spirituality
   citation:
     - healthline-chakras
+    - kynes-correspondences

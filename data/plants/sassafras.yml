@@ -1,0 +1,11 @@
+sassafras:
+  planet: jupiter
+  element: fire
+  properties:
+    - healing
+    - money
+  toxicity:
+    notes:
+      - do not take internally in high doses
+  citation:
+    - cunningham-herbs

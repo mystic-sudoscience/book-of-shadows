@@ -1,0 +1,20 @@
+squill:
+  parts used: flowers, leaves, bulbs
+  planet: mars
+  element: fire
+  moon phase: waning
+  zodiac sign: leo
+  chakra: solar plexus
+  properties:
+    - money
+    - protection
+    - break hexes
+  toxicity:
+    humans: true
+    pets: true
+    notes:
+      - wear gloves when handling
+      - poison
+  citation:
+    - morgana-green-witch
+    - cunningham-herbs

@@ -1,0 +1,737 @@
+aqua:
+  properties:
+    - compassion
+    - harmony
+  citation:
+    - kynes-correspondences
+black:
+  properties:
+    - acceptance
+    - afterlife
+    - anger
+    - authority
+    - banish
+    - beginnings
+    - bind
+    - black magic
+    - break hexes
+    - challenges
+    - changes
+    - crossroads
+    - darkness
+    - death
+    - deepen spirituality
+    - defense
+    - determination
+    - discipline
+    - divination
+    - dream work
+    - endings
+    - enmity
+    - fear
+    - fertility
+    - grief
+    - grounding
+    - justice
+    - karma
+    - knowledge
+    - life
+    - limitations/boundaries
+    - loss
+    - magic
+    - mind
+    - negativity
+    - night magic
+    - nightmares
+    - otherworld/underworld
+    - protection
+    - psychic ability
+    - quiet power
+    - rebirth/renewal
+    - receptive energy
+    - revenge
+    - reversal
+    - secrets
+    - security
+    - set hexes
+    - sleep
+    - truth
+    - witches/witchcraft
+  citation:
+    - kynes-correspondences
+blue:
+  properties:
+    - angel magic
+    - astral realm
+    - awareness
+    - business
+    - changes
+    - clarity
+    - communication
+    - consecrate/bless
+    - dream work
+    - energy
+    - fidelity
+    - forgiveness
+    - freedom
+    - friendship
+    - goodness
+    - hearing
+    - higher wisdom
+    - honor
+    - hope
+    - integrity
+    - justice
+    - knowledge
+    - life
+    - light
+    - mind
+    - nightmares
+    - obstacles
+    - order/organize
+    - pregnancy/childbirth
+    - prosperity
+    - protection
+    - receptive energy
+    - relationships
+    - sensitivity
+    - skills
+    - sleep
+    - spirituality
+    - stress
+    - truth
+  shades:
+    dark:
+      properties:
+        - fertility
+        - guardian
+        - guidance
+        - harmony
+        - negativity
+        - night magic
+        - occult power
+    light:
+      properties:
+        - calm
+        - dedication/devotion
+        - emotions
+        - harmony
+        - inspiration
+        - kindness
+        - patience
+        - well-being
+    midnight:
+      properties:
+        - darkness
+    royal:
+      properties:
+        - confidence
+        - increase
+        - loyalty
+        - psychic ability
+        - purification
+  citation:
+    - kynes-correspondences
+brown:
+  properties:
+    - agriculture
+    - animal magic
+    - balance
+    - beginnings
+    - concentration/focus
+    - courage
+    - energy
+    - family
+    - fear
+    - friendship
+    - grounding
+    - guardian
+    - guidance
+    - healing
+    - honesty
+    - increase
+    - justice
+    - loss
+    - money
+    - nurture
+    - order/organize
+    - protect familiars and pets
+    - rebirth/renewal
+    - stability
+    - stress
+    - travel
+    - truth
+  citation:
+    - kynes-correspondences
+copper:
+  properties:
+    - business
+    - energy
+    - money
+    - professional growth
+  citation:
+    - kynes-correspondences
+crimson:
+  properties:
+    - empathy
+    - grief
+  citation:
+    - kynes-correspondences
+gold:
+  properties:
+    - abundance
+    - astral realm
+    - attraction
+    - beauty
+    - confidence
+    - consciousness
+    - consecrate/bless
+    - dispel darkness
+    - divination
+    - divine connections
+    - expand awareness
+    - friendship
+    - healing
+    - illumination
+    - increase
+    - knowledge
+    - light
+    - money
+    - power
+    - prosperity
+    - protection
+    - security
+    - skills
+    - solar energy
+    - stress
+    - wealth
+    - well-being
+  citation:
+    - kynes-correspondences
+gray:
+  properties:
+    - authority
+    - balance
+    - challenges
+    - dream work
+    - endings
+    - energy
+    - imagination
+    - loss
+    - negativity
+    - otherworld/underworld
+    - patience
+    - peace
+    - psychic protection
+    - secrets
+    - sorrow
+    - spiritual protection
+    - stability
+  shades:
+    dark:
+      properties:
+        - enmity
+  citation:
+    - kynes-correspondences
+green:
+  properties:
+    - abundance
+    - acceptance
+    - accomplishment
+    - action
+    - adaptability
+    - agriculture
+    - attraction
+    - balance
+    - banish
+    - beauty
+    - business
+    - challenges
+    - changes
+    - charity
+    - community
+    - compassion
+    - courage
+    - emotional balance
+    - energy
+    - enmity
+    - fairness
+    - fertility
+    - generosity
+    - goodness
+    - grounding
+    - growth
+    - healing
+    - justice
+    - kindness
+    - life
+    - love
+    - marriage
+    - money
+    - nature spirits
+    - nurture
+    - peace
+    - prosperity
+    - protection
+    - rebirth/renewal
+    - receptive energy
+    - relationships
+    - sight
+    - sleep
+    - stress
+    - trust
+    - wealth
+    - well-being
+    - youth
+  shades:
+    blue-green:
+      properties:
+        - calm
+    dark:
+      properties:
+        - ambition
+        - jealousy
+    sea:
+      properties:
+        - harmony
+  citation:
+    - kynes-correspondences
+indigo:
+  properties:
+    - ambition
+    - ancestral connections
+    - awareness
+    - balance
+    - clairvoyance
+    - clarity
+    - clear sight
+    - communicate with spirits
+    - consciousness
+    - contact spirits
+    - dignity
+    - discipline
+    - divination
+    - endurance
+    - fear
+    - honesty
+    - karma
+    - karmic balance
+    - marriage
+    - rebirth/renewal
+    - relationships
+    - spiritual balance
+    - stress
+    - truth
+  citation:
+    - kynes-correspondences
+lavender:
+  properties:
+    - consecrate/bless
+    - dignity
+    - divination
+    - dream work
+    - insight
+    - integrity
+    - introspection
+    - marriage
+    - otherworld/underworld
+    - peace
+    - psychic ability
+    - purification
+    - sensitivity
+    - sex magic
+    - spiritual protection
+    - spirituality
+  citation:
+    - kynes-correspondences
+mauve:
+  properties:
+    - love
+    - sexuality
+  citation:
+    - kynes-correspondences
+orange:
+  properties:
+    - abundance
+    - action
+    - adaptability
+    - affection
+    - ambition
+    - attraction
+    - authority
+    - balance
+    - beginnings
+    - business
+    - changes
+    - communication
+    - confidence
+    - courage
+    - discipline
+    - encouragement
+    - energy
+    - fear
+    - freedom
+    - goodness
+    - healing
+    - illumination
+    - integrity
+    - justice
+    - kindness
+    - life
+    - memory/memories
+    - mind
+    - money
+    - needs
+    - order/organize
+    - power
+    - pride
+    - reconciliation
+    - relationships
+    - reversal
+    - stimulation
+    - stress
+    - support
+    - travel
+    - warmth
+    - well-being
+  citation:
+    - kynes-correspondences
+peach:
+  properties:
+    - adaptability
+    - beauty
+    - communication
+    - confidence
+    - encouragement
+  citation:
+    - kynes-correspondences
+pink:
+  properties:
+    - acceptance
+    - activate/awaken
+    - affection
+    - angel magic
+    - anxiety
+    - attraction
+    - balance
+    - beauty
+    - compassion
+    - cycles
+    - fidelity
+    - generosity
+    - harmony
+    - healing
+    - honor
+    - increase
+    - inspiration
+    - life
+    - love
+    - marriage
+    - nurture
+    - passion
+    - peace
+    - relationships
+    - romance
+    - security
+    - sensuality
+    - sorrow
+    - stress
+    - unity
+    - warmth
+    - well-being
+    - youth
+  shades:
+    pale:
+      properties:
+        - calm
+  citation:
+    - kynes-correspondences
+purple:
+  properties:
+    - accomplishment
+    - astral realm
+    - authority
+    - awareness
+    - banish
+    - clairvoyance
+    - consciousness
+    - consecrate/bless
+    - contact spirits
+    - dedication/devotion
+    - deepen spirituality
+    - dignity
+    - discipline
+    - divination
+    - enlightenment
+    - freedom
+    - growth
+    - healing
+    - inspiration
+    - integrity
+    - justice
+    - listening
+    - manifestation
+    - negativity
+    - passion
+    - power
+    - prophecy
+    - protection
+    - psychic ability
+    - purification
+    - security
+    - sex magic
+    - skills
+    - sorrow
+    - stress
+    - truth
+    - wealth
+  shades:
+    dark:
+      properties:
+        - black magic
+        - death
+        - grief
+  citation:
+    - kynes-correspondences
+red:
+  properties:
+    - action
+    - ambition
+    - assertiveness
+    - attachments
+    - break hexes
+    - changes
+    - concentration/focus
+    - courage
+    - crossroads
+    - death
+    - desire
+    - destruction
+    - determination
+    - encouragement
+    - energy
+    - enmity
+    - face danger
+    - fertility
+    - freedom
+    - guidance
+    - healing
+    - justice
+    - life
+    - love
+    - loyalty
+    - lust
+    - marriage
+    - motivation
+    - otherworld/underworld
+    - passion
+    - power
+    - pregnancy/childbirth
+    - protection
+    - provoke anger
+    - rebirth/renewal
+    - receptive energy
+    - relationships
+    - reversal
+    - romance
+    - sex magic
+    - sexual energy
+    - sexuality
+    - stimulation
+    - taste
+    - truth
+    - willpower
+    - wishes
+  citation:
+    - kynes-correspondences
+rose:
+  properties:
+    - activate/awaken
+    - enlightenment
+    - friendship
+    - honor
+    - love
+    - passion
+    - patience
+    - peace
+    - romance
+    - well-being
+    - youth
+  citation:
+    - kynes-correspondences
+silver:
+  properties:
+    - ambition
+    - astral realm
+    - awareness
+    - beginnings
+    - challenges
+    - clairvoyance
+    - clarity
+    - communicate with ancestors
+    - consciousness
+    - defense
+    - divination
+    - dream work
+    - enchantment
+    - energy
+    - fame
+    - healing
+    - insight
+    - inspiration
+    - money
+    - moon magic
+    - negativity
+    - power
+    - protection
+    - psychic ability
+    - psychic energy
+    - psychic protection
+    - purification
+    - purity
+    - spiritual protection
+    - spirituality
+    - stability
+    - stress
+  citation:
+    - kynes-correspondences
+turquoise:
+  properties:
+    - balance
+    - growth
+    - healing
+    - peace
+    - prosperity
+  citation:
+    - kynes-correspondences
+violet:
+  properties:
+    - anger
+    - astral realm
+    - awareness
+    - clarity
+    - concentration/focus
+    - connect with higher self
+    - divination
+    - healing
+    - insight
+    - inspiration
+    - introspection
+    - manifestation
+    - motivation
+    - peace
+    - power
+    - protection
+    - psychic ability
+    - purification
+    - security
+    - sensitivity
+    - skills
+    - sorrow
+    - spirituality
+    - stress
+    - truth
+    - well-being
+  citation:
+    - kynes-correspondences
+white:
+  properties:
+    - activate/awaken
+    - angel magic
+    - astral realm
+    - balance
+    - beginnings
+    - calm
+    - changes
+    - clarity
+    - compassion
+    - concentration/focus
+    - consciousness
+    - consecrate/bless
+    - death
+    - divination
+    - divine/higher power
+    - enchantment
+    - endings
+    - enlightenment
+    - fidelity
+    - gratitude
+    - grounding
+    - guardian
+    - guidance
+    - harmony
+    - healing
+    - hope
+    - innocence
+    - inspiration
+    - life
+    - light
+    - love
+    - moon magic
+    - nightmares
+    - otherworld/underworld
+    - passion
+    - peace
+    - protection
+    - psychic ability
+    - purification
+    - purity
+    - receptive energy
+    - sexuality
+    - sight
+    - spiritual protection
+    - spirituality
+    - truth
+    - unity
+    - willpower
+  citation:
+    - kynes-correspondences
+yellow:
+  properties:
+    - action
+    - astral realm
+    - awareness
+    - changes
+    - cheerfulness
+    - clairvoyance
+    - clarity
+    - communication
+    - community
+    - concentration/focus
+    - consecrate/bless
+    - contact spirits
+    - dedication/devotion
+    - divine/higher power
+    - dream work
+    - energy
+    - fairness
+    - friendship
+    - grounding
+    - imagination
+    - inspiration
+    - integrity
+    - knowledge
+    - light
+    - memory/memories
+    - mind
+    - nurture
+    - protection
+    - psychic ability
+    - purification
+    - shyness
+    - skills
+    - smell
+    - solar energy
+    - stimulation
+    - support
+    - warmth
+    - willpower
+    - wishes
+  shades:
+    yellow-green:
+      properties:
+        - anger
+        - jealousy
+        - prosperity
+  citation:
+    - kynes-correspondences

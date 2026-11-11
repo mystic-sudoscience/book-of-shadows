@@ -1,0 +1,39 @@
+black cohosh:
+  type: misc
+  parts used: root
+  planet: pluto
+  element: fire
+  moon phase: waxing, waning
+  zodiac sign: scorpio
+  chakra: root
+  properties:
+    - balance
+    - banish
+    - calm
+    - courage
+    - fertility
+    - life
+    - love
+    - lust
+    - money
+    - obstacles
+    - pregnancy/childbirth
+    - protection
+    - sexual energy
+    - sexuality
+    - shyness
+    - strength
+    - stress
+    - virility
+    - well-being
+  toxicity:
+    humans: true
+    pets: true
+    notes:
+      - nontoxic in small amounts
+      - avoid if pregnant
+      - avoid if nursing
+  citation:
+    - morgana-green-witch
+    - cunningham-herbs
+    - kynes-correspondences

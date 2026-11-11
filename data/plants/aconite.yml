@@ -1,0 +1,20 @@
+aconite:
+  parts used: leaves, flowers
+  planet: saturn
+  element: water
+  moon phase: waning
+  zodiac sign: scorpio
+  chakra: root
+  properties:
+    - consecrate/bless
+    - invisibility
+    - protection
+  toxicity:
+    humans: true
+    pets: true
+    notes:
+      - avoid touching with bare skin; always wear gloves when handling
+  holidays:
+    - samhain
+  citation:
+    - morgana-green-witch

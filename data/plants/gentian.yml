@@ -1,0 +1,13 @@
+gentian:
+  planet: mars
+  element: fire
+  properties:
+    - love
+    - power
+    - break hexes
+  toxicity:
+    notes:
+      - may cause ulcers
+      - may disturb some part of the digestive system if used internally
+  citation:
+    - cunningham-herbs

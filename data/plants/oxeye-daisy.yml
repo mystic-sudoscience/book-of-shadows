@@ -1,0 +1,17 @@
+oxeye daisy:
+  parts used: flowers, leaves
+  planet: venus
+  element: water
+  moon phase: full
+  zodiac sign: scorpio
+  chakra: heart
+  properties:
+    - lust
+    - love
+  toxicity:
+    humans: true
+    pets: true
+    notes:
+      - humans: nontoxic in small amounts
+  citation:
+    - morgana-green-witch

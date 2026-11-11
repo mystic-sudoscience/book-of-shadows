@@ -1,0 +1,29 @@
+hyacinth:
+  type: herb & garden
+  planet: venus
+  element: water
+  properties:
+    - affection
+    - attract luck
+    - attraction
+    - cheerfulness
+    - emotions
+    - friendship
+    - grief
+    - jealousy
+    - kindness
+    - love
+    - nightmares
+    - pregnancy/childbirth
+    - protection
+    - purification
+    - spiritual protection
+    - stability
+    - stress
+    - wisdom
+  toxicity:
+    notes:
+      - not recommended for internal use
+  citation:
+    - cunningham-herbs
+    - kynes-correspondences

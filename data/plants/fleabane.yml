@@ -1,0 +1,9 @@
+fleabane:
+  planet: venus
+  element: water
+  properties:
+    - banish
+    - protection
+    - purity
+  citation:
+    - cunningham-herbs

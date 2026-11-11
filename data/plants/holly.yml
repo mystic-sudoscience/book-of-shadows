@@ -1,0 +1,52 @@
+holly:
+  type: tree
+  parts used: leaves, fruit, wood
+  planet: mars
+  element: fire
+  moon phase: waning
+  zodiac sign: aries
+  chakra: root, heart
+  properties:
+    - anger
+    - attract luck
+    - balance
+    - banish
+    - beauty
+    - consecrate/bless
+    - courage
+    - crossroads
+    - death
+    - dream work
+    - enchantment
+    - energy
+    - enmity
+    - goodness
+    - guardian
+    - guidance
+    - healing
+    - jealousy
+    - life
+    - mind
+    - obstacles
+    - personal power
+    - power
+    - protect from lightning
+    - protection
+    - rebirth/renewal
+    - revenge
+    - security
+    - sleep
+    - support
+    - unity
+    - wishes
+  toxicity:
+    humans: true
+    pets: true
+    notes:
+      - may cause nausea, vomiting
+  holidays:
+    - lughnasadh
+  citation:
+    - morgana-green-witch
+    - cunningham-herbs
+    - kynes-correspondences

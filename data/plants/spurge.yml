@@ -1,0 +1,18 @@
+spurge:
+  parts used: flowers, leaves
+  planet: saturn
+  element: water
+  moon phase: waning
+  zodiac sign: taurus
+  chakra: solar plexus
+  properties:
+    - purification
+    - protection
+  toxicity:
+    humans: true
+    pets: true
+    notes:
+      - wear gloves when handling
+      - sap is irritating to the skin
+  citation:
+    - morgana-green-witch

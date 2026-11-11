@@ -1,0 +1,53 @@
+mugwort:
+  type: herb & garden
+  parts used: leaves, flowers
+  planet: venus
+  element: earth, air
+  moon phase: full
+  zodiac sign: cancer, gemini, libra, sagittarius
+  chakra: third eye
+  properties:
+    - astral realm
+    - authority
+    - awareness
+    - banish
+    - beginnings
+    - blessings
+    - community
+    - consecrate/bless
+    - defense
+    - divination
+    - dream work
+    - empathy
+    - face danger
+    - fertility
+    - guidance
+    - healing
+    - love
+    - magic
+    - messages/omens
+    - power
+    - protect animals
+    - psychic ability
+    - psychic energy
+    - psychic protection
+    - purification
+    - reversal
+    - skills
+    - sleep
+    - spirits
+    - travel
+    - weather
+    - witches/witchcraft
+  toxicity:
+    humans: true
+    pets: true
+    notes:
+      - humans: nontoxic in small amounts
+      - avoid if pregnant
+  holidays:
+    - samhain
+  citation:
+    - morgana-green-witch
+    - cunningham-herbs
+    - kynes-correspondences

@@ -1,0 +1,36 @@
+flax:
+  type: misc
+  parts used: seeds, flowers
+  planet: venus, mercury
+  element: earth, fire
+  moon phase: waxing
+  zodiac sign: taurus
+  chakra: third eye, heart
+  properties:
+    - authority
+    - awareness
+    - beauty
+    - bind
+    - destiny
+    - healing
+    - kindness
+    - mental power
+    - money
+    - prosperity
+    - protection
+    - psychic ability
+    - secrets
+    - sexuality
+    - skills
+    - solar magic
+  notes: null
+  holidays:
+    - imbolc
+    - samhain
+  toxicity:
+    notes:
+      - use an adequate amount of liquid if seed is used internally
+  citation:
+    - cunningham-herbs
+    - morgana-green-witch
+    - kynes-correspondences

@@ -1,0 +1,18 @@
+mint:
+  parts used: leaves
+  planet: mercury
+  element: air
+  moon phase: waning
+  zodiac sign: gemini
+  chakra: root
+  properties:
+    - money
+    - healing
+    - travel
+    - spirits
+    - protection
+  toxicity:
+    humans: false
+    pets: true
+  citation:
+    - morgana-green-witch

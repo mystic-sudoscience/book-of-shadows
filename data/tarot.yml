@@ -1,0 +1,275 @@
+chariot:
+  arcana: major
+  properties:
+    - changes
+    - concentration/focus
+    - revenge
+    - stress
+  citation:
+    - kynes-correspondences
+cups:
+  arcana: minor
+  properties:
+    - compassion
+    - empathy
+    - imagination
+    - nurture
+    - patience
+    - psychic ability
+    - relationships
+    - sensitivity
+    - stimulation
+  citation:
+    - kynes-correspondences
+death:
+  arcana: major
+  properties:
+    - endings
+  citation:
+    - kynes-correspondences
+devil:
+  arcana: major
+  properties:
+    - black magic
+    - endurance
+    - express anger
+    - limitations/boundaries
+    - subconscious
+  citation:
+    - kynes-correspondences
+emperor:
+  arcana: major
+  properties:
+    - ambition
+    - authority
+    - confidence
+    - energy
+    - power
+  citation:
+    - kynes-correspondences
+empress:
+  arcana: major
+  properties:
+    - beauty
+    - fertility
+    - nurture
+    - pregnancy/childbirth
+    - stress
+  citation:
+    - kynes-correspondences
+fool:
+  arcana: major
+  properties:
+    - beginnings
+    - cycles
+    - needed discipline
+    - needed guidance
+    - spirituality
+  citation:
+    - kynes-correspondences
+hanged man:
+  arcana: major
+  properties:
+    - changes
+    - death
+    - loss
+    - reversal
+    - self-improvement
+  citation:
+    - kynes-correspondences
+hermit:
+  arcana: major
+  properties:
+    - illumination
+    - inner power
+    - introspection
+    - unutilized knowledge
+  citation:
+    - kynes-correspondences
+hierophant:
+  arcana: major
+  properties:
+    - authority
+    - forgiveness
+    - inspiration
+    - manifestation
+    - spirituality
+  citation:
+    - kynes-correspondences
+high priestess:
+  arcana: major
+  properties:
+    - changes
+    - clairvoyance
+    - cycles
+    - illumination
+    - increase
+    - secrets
+  citation:
+    - kynes-correspondences
+judgement:
+  arcana: major
+  properties:
+    - determination
+    - introspection about the past
+    - justice
+    - rebirth/renewal
+  citation:
+    - kynes-correspondences
+justice:
+  arcana: major
+  properties:
+    - balance
+    - fairness
+    - legal matters
+  citation:
+    - kynes-correspondences
+lovers:
+  arcana: major
+  properties:
+    - attraction
+    - balance
+    - beauty
+    - harmony
+    - love
+    - relationships
+    - romance
+    - sexuality
+  citation:
+    - kynes-correspondences
+magician:
+  arcana: major
+  properties:
+    - communication
+    - integrity
+    - manifestation
+    - power
+    - skills
+    - willpower
+  citation:
+    - kynes-correspondences
+moon:
+  arcana: major
+  properties:
+    - darkness
+    - face danger
+    - obstacles
+    - secrets
+    - truth
+  citation:
+    - kynes-correspondences
+pentacles:
+  arcana: minor
+  properties:
+    - attachments
+    - business
+    - endurance
+    - knowledge
+    - memory/memories
+    - money
+    - prosperity
+    - security
+    - senses
+    - stability
+    - stress
+  citation:
+    - kynes-correspondences
+star:
+  arcana: major
+  properties:
+    - balance
+    - clarity
+    - fairness
+    - hope
+    - insight
+    - inspiration
+    - spiritual guidance
+  citation:
+    - kynes-correspondences
+strength:
+  arcana: major
+  properties:
+    - action
+    - courage
+    - energy
+    - overcome weakness
+    - power
+  citation:
+    - kynes-correspondences
+sun:
+  arcana: major
+  properties:
+    - accomplishment
+    - enlightenment
+    - healing
+    - stress
+    - truth
+  citation:
+    - kynes-correspondences
+swords:
+  arcana: minor
+  properties:
+    - balance the subconscious
+    - defense
+    - desire
+    - freedom
+    - growth
+    - honesty
+    - inner guidance
+    - integrity
+    - justice
+    - knowledge
+    - mind
+    - motivation
+  citation:
+    - kynes-correspondences
+temperance:
+  arcana: major
+  properties:
+    - action
+    - adaptability
+    - harmony
+    - love
+    - patience
+    - unity
+  citation:
+    - kynes-correspondences
+tower:
+  arcana: major
+  properties:
+    - ambition
+    - courage
+    - destruction
+    - enmity
+    - face danger
+    - unexpected changes
+  citation:
+    - kynes-correspondences
+wands:
+  arcana: minor
+  properties:
+    - action
+    - confidence
+    - fairness
+    - inspiration
+    - power
+  citation:
+    - kynes-correspondences
+wheel of fortune:
+  arcana: major
+  properties:
+    - changes
+    - destiny
+    - stress
+  citation:
+    - kynes-correspondences
+world:
+  arcana: major
+  properties:
+    - accomplishment
+    - cycles
+    - manifestation
+    - patience
+    - stress
+  citation:
+    - kynes-correspondences

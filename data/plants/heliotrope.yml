@@ -1,0 +1,45 @@
+heliotrope:
+  type: herb & garden
+  parts used: flowers
+  planet: sun
+  element: fire
+  moon phase: waning
+  zodiac sign: leo
+  chakra: third eye
+  properties:
+    - authority
+    - awareness
+    - banish
+    - calm
+    - courage
+    - dedication/devotion
+    - dream work
+    - face danger
+    - fidelity
+    - goodness
+    - healing
+    - invisibility
+    - life
+    - light
+    - love
+    - messages/omens
+    - money
+    - prosperity
+    - psychic ability
+    - solar energy
+    - solar magic
+    - spirituality
+    - well-being
+    - willpower
+  toxicity:
+    humans: true
+    pets: true
+    notes:
+      - poisonous
+      - toxic if ingested in large amounts
+  holidays:
+    - summer solstice
+  citation:
+    - morgana-green-witch
+    - cunningham-herbs
+    - kynes-correspondences

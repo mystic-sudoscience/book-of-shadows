@@ -1,0 +1,60 @@
+willow:
+  type: tree
+  parts used: leaves, stems, branches, bark
+  planet: moon
+  element: water
+  moon phase: full
+  zodiac sign: pisces
+  chakra: heart
+  properties:
+    - adaptability
+    - afterlife
+    - beauty
+    - beginnings
+    - bind
+    - blessings
+    - cheerfulness
+    - communication
+    - connections
+    - consecrate/bless
+    - courage
+    - death
+    - divination
+    - dream work
+    - enchantment
+    - fertility
+    - freedom
+    - grace
+    - grief
+    - healing
+    - inspiration
+    - knowledge
+    - life
+    - love
+    - magic
+    - marriage
+    - moon magic
+    - nurture
+    - open mind
+    - otherworld/underworld
+    - power
+    - prophecy
+    - protection
+    - provide comfort
+    - psychic ability
+    - psychic energy
+    - relationships
+    - skills
+    - spirits
+    - strength
+    - willpower
+    - wishes
+    - witches/witchcraft
+  toxicity:
+    humans: false
+    pets: false
+  holidays:
+    - beltane
+  citation:
+    - morgana-green-witch
+    - kynes-correspondences

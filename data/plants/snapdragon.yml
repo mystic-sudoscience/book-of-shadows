@@ -1,0 +1,26 @@
+snapdragon:
+  type: herb & garden
+  parts used: flowers, seeds
+  planet: mars
+  element: fire
+  moon phase: full
+  zodiac sign: taurus
+  chakra: solar plexus
+  properties:
+    - assertiveness
+    - banish
+    - break hexes
+    - clairaudience
+    - emotions
+    - freedom
+    - money
+    - prosperity
+    - protection
+    - release attachments
+    - truth
+  toxicity:
+    humans: false
+    pets: false
+  citation:
+    - morgana-green-witch
+    - kynes-correspondences
