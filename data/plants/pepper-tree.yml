@@ -1,0 +1,9 @@
+pepper tree:
+  planet: mars
+  element: fire
+  properties:
+    - purification
+    - healing
+    - protection
+  citation:
+    - cunningham-herbs

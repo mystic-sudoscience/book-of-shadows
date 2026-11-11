@@ -1,0 +1,8 @@
+radish:
+  planet: mars
+  element: fire
+  properties:
+    - protection
+    - lust
+  citation:
+    - cunningham-herbs

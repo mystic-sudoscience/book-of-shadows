@@ -1,0 +1,40 @@
+nutmeg:
+  planet: jupiter
+  element: fire
+  properties:
+    - authority
+    - avoid danger
+    - awareness
+    - beauty
+    - beginnings
+    - calm
+    - clairvoyance
+    - concentration/focus
+    - divination
+    - dream work
+    - enchantment
+    - energy
+    - fidelity
+    - healing
+    - increase
+    - justice
+    - life
+    - love
+    - luck
+    - memory/memories
+    - mind
+    - money
+    - power
+    - prosperity
+    - psychic ability
+    - sleep
+    - stimulation
+    - wealth
+    - well-being
+  toxicity:
+    notes:
+      - do not take internally in high doses; find several sources that have appropriate doses of this herb
+      - not recommended for internal use
+  citation:
+    - cunningham-herbs
+    - kynes-correspondences

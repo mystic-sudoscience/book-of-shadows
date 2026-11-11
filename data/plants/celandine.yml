@@ -1,0 +1,13 @@
+celandine:
+  planet: sun
+  element: fire
+  properties:
+    - protection
+    - freedom
+    - cheerfulness
+    - legal matters
+  toxicity:
+    notes:
+      - poison
+  citation:
+    - cunningham-herbs

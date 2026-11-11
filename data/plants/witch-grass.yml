@@ -1,0 +1,9 @@
+witch grass:
+  planet: jupiter
+  properties:
+    - cheerfulness
+    - lust
+    - love
+    - banish
+  citation:
+    - cunningham-herbs

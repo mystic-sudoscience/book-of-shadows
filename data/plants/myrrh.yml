@@ -1,0 +1,50 @@
+myrrh:
+  planet: moon
+  element: water
+  properties:
+    - abundance
+    - afterlife
+    - angel magic
+    - animal magic
+    - awareness
+    - balance
+    - banish
+    - break hexes
+    - changes
+    - clear unwanted energy
+    - concentration/focus
+    - consecrate/bless
+    - funeral rites
+    - gratitude
+    - grounding
+    - healing
+    - heartbreak
+    - honor
+    - inner healing
+    - love
+    - magic
+    - manifestation
+    - negativity
+    - obstacles
+    - prosperity
+    - protection
+    - provide comfort
+    - psychic ability
+    - psychic protection
+    - purification
+    - rebirth/renewal
+    - ritual purification
+    - sorrow
+    - spiritual energy
+    - spirituality
+    - stress
+    - warmth
+    - wealth
+    - well-being
+  toxicity:
+    notes:
+      - avoid if pregnant
+      - ub
+  citation:
+    - cunningham-herbs
+    - kynes-correspondences

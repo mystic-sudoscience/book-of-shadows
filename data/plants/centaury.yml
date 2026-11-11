@@ -1,0 +1,9 @@
+centaury:
+  planet: sun
+  element: fire
+  properties:
+    - protection
+  notes:
+    - per cunningham, removes snakes
+  citation:
+    - cunningham-herbs

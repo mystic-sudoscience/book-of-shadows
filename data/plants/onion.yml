@@ -1,0 +1,12 @@
+onion:
+  planet: mars
+  element: fire
+  properties:
+    - protection
+    - banish
+    - healing
+    - money
+    - prophetic dreams
+    - lust
+  citation:
+    - cunningham-herbs

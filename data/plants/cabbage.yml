@@ -1,0 +1,7 @@
+cabbage:
+  planet: moon
+  element: water
+  properties:
+    - luck
+  citation:
+    - cunningham-herbs

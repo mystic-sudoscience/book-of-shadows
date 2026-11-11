@@ -1,0 +1,13 @@
+camphor:
+  planet: moon
+  element: water
+  properties:
+    - subdue passion
+    - healing
+    - divination
+  toxicity:
+    notes:
+      - not recommended for internal use
+      - do not use in the faces of small children
+  citation:
+    - cunningham-herbs

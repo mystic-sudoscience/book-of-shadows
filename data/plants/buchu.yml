@@ -1,0 +1,12 @@
+buchu:
+  planet: moon
+  element: water
+  properties:
+    - psychic ability
+    - prophetic dreams
+  toxicity:
+    notes:
+      - avoid if pregnant
+      - avoid with kidney problems
+  citation:
+    - cunningham-herbs

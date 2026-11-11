@@ -1,0 +1,20 @@
+buckthorn:
+  planet: saturn
+  element: water
+  properties:
+    - protection
+    - banish
+    - wishes
+    - legal matters
+  toxicity:
+    notes:
+      - avoid if pregnant
+      - avoid if nursing
+      - do not abuse, internally; not for long-term use
+      - avoid with intestinal obstruction
+      - avoid with abdominal pain
+      - avoid with any inflammation of the intestines
+      - avoid if a child under 12
+      - r. frangula bark must be aged two years prior to internal use
+  citation:
+    - cunningham-herbs

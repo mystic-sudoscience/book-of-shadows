@@ -1,0 +1,22 @@
+coltsfoot:
+  planet: venus
+  element: water
+  properties:
+    - animal magic
+    - clairvoyance
+    - healing
+    - justice
+    - love
+    - negativity
+    - peace
+    - power
+    - protection
+    - psychic ability
+  toxicity:
+    notes:
+      - avoid if pregnant
+      - avoid if nursing
+      - not recommended for internal use
+  citation:
+    - cunningham-herbs
+    - kynes-correspondences

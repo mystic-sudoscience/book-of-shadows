@@ -1,0 +1,10 @@
+may apple:
+  planet: mercury
+  element: fire
+  properties:
+    - money
+  toxicity:
+    notes:
+      - poison
+  citation:
+    - cunningham-herbs

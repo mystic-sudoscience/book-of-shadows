@@ -1,0 +1,7 @@
+beet:
+  planet: saturn
+  element: earth
+  properties:
+    - love
+  citation:
+    - cunningham-herbs

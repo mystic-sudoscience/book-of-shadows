@@ -1,0 +1,11 @@
+senna:
+  planet: mercury
+  element: air
+  properties:
+    - love
+  toxicity:
+    notes:
+      - avoid if pregnant
+      - avoid if nursing
+  citation:
+    - cunningham-herbs

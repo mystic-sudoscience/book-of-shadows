@@ -1,0 +1,12 @@
+mace:
+  planet: mercury
+  element: air
+  properties:
+    - psychic ability
+    - mental power
+  toxicity:
+    notes:
+      - do not take internally in high doses; find several sources that have appropriate doses of this herb
+      - not recommended for internal use
+  citation:
+    - cunningham-herbs

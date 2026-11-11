@@ -1,0 +1,14 @@
+calamus:
+  planet: moon
+  element: water
+  properties:
+    - luck
+    - healing
+    - money
+    - protection
+  toxicity:
+    notes:
+      - poison
+      - several plants are sold under the name of calamus and two of those are very dangerous to take internally, so we must recommend not using calamus internally
+  citation:
+    - cunningham-herbs

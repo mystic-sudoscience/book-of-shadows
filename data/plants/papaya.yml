@@ -1,0 +1,8 @@
+papaya:
+  planet: moon
+  element: water
+  properties:
+    - love
+    - protection
+  citation:
+    - cunningham-herbs

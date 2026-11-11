@@ -1,0 +1,13 @@
+lobelia:
+  planet: saturn
+  element: water
+  properties:
+    - storms
+    - love
+  toxicity:
+    notes:
+      - poison
+      - avoid if pregnant
+      - do not take internally in high doses; find several sources that have appropriate doses of this herb
+  citation:
+    - cunningham-herbs

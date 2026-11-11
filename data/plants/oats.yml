@@ -1,0 +1,7 @@
+oats:
+  planet: venus
+  element: earth
+  properties:
+    - money
+  citation:
+    - cunningham-herbs

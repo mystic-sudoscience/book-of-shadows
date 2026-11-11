@@ -1,0 +1,10 @@
+lettuce:
+  planet: moon
+  element: water
+  properties:
+    - subdue passion
+    - protection
+    - divination
+    - sleep
+  citation:
+    - cunningham-herbs

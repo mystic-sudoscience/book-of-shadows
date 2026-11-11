@@ -1,0 +1,9 @@
+yucca:
+  planet: mars
+  element: fire
+  properties:
+    - transformation
+    - protection
+    - purification
+  citation:
+    - cunningham-herbs

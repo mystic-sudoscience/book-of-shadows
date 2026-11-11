@@ -1,0 +1,8 @@
+rhubarb:
+  planet: venus
+  element: earth
+  properties:
+    - protection
+    - fidelity
+  citation:
+    - cunningham-herbs

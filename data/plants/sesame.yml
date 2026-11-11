@@ -1,0 +1,8 @@
+sesame:
+  planet: sun
+  element: fire
+  properties:
+    - money
+    - lust
+  citation:
+    - cunningham-herbs

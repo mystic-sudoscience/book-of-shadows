@@ -1,0 +1,11 @@
+boneset:
+  planet: saturn
+  element: water
+  properties:
+    - protection
+    - banish
+  toxicity:
+    notes:
+      - not recommended for internal use
+  citation:
+    - cunningham-herbs
