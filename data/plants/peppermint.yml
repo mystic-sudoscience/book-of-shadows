@@ -49,6 +49,41 @@ peppermint:
   toxicity:
     humans: false
     pets: true
+    notes:
+      - do not give to children under 5
+      - take essential oil internally only on professional advice
+      - essential oil not suitable for children under 12
+  medicinal:
+    parts used: aerial parts, leaves, essential oil
+    key constituents:
+      - volatile oil including menthol and menthone
+      - flavonoids including luteolin and menthoside
+      - phenolic acids
+      - triterpenes
+    key actions:
+      - antispasmodic
+      - stimulates sweating
+      - antimicrobial
+      - analgesic
+      - carminative
+    uses:
+      - gas and bloating
+      - nausea
+      - colic and cramps
+      - irritable bowel syndrome
+      - diarrhea
+      - digestive headaches and migraines
+      - respiratory infections
+      - digestive infections
+      - irritated skin and eczema
+      - neuralgia
+    preparations:
+      - lotion
+      - infusion
+      - essential oil
+      - tincture
+      - capsules
   citation:
     - morgana-green-witch
     - kynes-correspondences
+    - chevallier-herbal-medicine

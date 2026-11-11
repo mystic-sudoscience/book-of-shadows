@@ -23,6 +23,33 @@ coriander:
     - stimulation
     - warmth
     - well-being
+  toxicity:
+    notes:
+      - do not take essential oil internally
+  medicinal:
+    parts used: seeds, leaves, essential oil
+    key constituents:
+      - volatile oil, mainly delta-linalool with alpha-pinene and terpinene
+      - flavonoids
+      - coumarins
+      - phthalides
+      - phenolic acids
+    key actions:
+      - carminative
+      - antispasmodic
+      - expectorant
+    uses:
+      - flatulence and bloating
+      - gut cramps
+      - nervous tension
+      - bad breath
+      - coughs and bronchitis
+      - anxiety and sleep
+      - rheumatic pain
+    preparations:
+      - infusion
+      - ground seed
   citation:
     - cunningham-herbs
     - kynes-correspondences
+    - chevallier-herbal-medicine

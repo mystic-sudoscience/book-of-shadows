@@ -7,5 +7,23 @@ yerba mate:
     notes:
       - do not abuse, internally; not for long-term use
       - do not take internally in high doses; find several sources that have appropriate doses of this herb
+  medicinal:
+    parts used: leaves
+    key constituents:
+      - xanthines including caffeine, theobromine, and theophylline
+      - tannins
+    key actions:
+      - stimulant
+      - mild analgesic
+      - diuretic
+    uses:
+      - fatigue
+      - headaches and migraine
+      - neuralgic and rheumatic pain
+      - mild depression
+      - diabetes
+    preparations:
+      - tea
   citation:
     - cunningham-herbs
+    - chevallier-herbal-medicine

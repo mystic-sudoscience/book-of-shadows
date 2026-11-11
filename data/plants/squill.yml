@@ -15,6 +15,26 @@ squill:
     notes:
       - wear gloves when handling
       - poison
+      - use only under professional supervision
+      - toxic in excess
+  medicinal:
+    parts used: bulb
+    key constituents:
+      - cardiac glycosides including scillaren a
+      - flavonoids
+      - stigmasterol
+      - anthocyanidins
+      - mucilage
+    key actions:
+      - diuretic
+      - emetic
+      - cardiotonic
+      - expectorant
+    uses:
+      - water retention
+      - heart failure
+      - coughs
   citation:
     - morgana-green-witch
     - cunningham-herbs
+    - chevallier-herbal-medicine

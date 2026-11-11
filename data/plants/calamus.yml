@@ -7,8 +7,38 @@ calamus:
     - money
     - protection
   toxicity:
+    humans: true
     notes:
       - poison
       - several plants are sold under the name of calamus and two of those are very dangerous to take internally, so we must recommend not using calamus internally
+      - take only under professional supervision
+      - do not take for more than 1 month
+      - restricted in some countries
+  medicinal:
+    parts used: rhizome
+    key constituents:
+      - volatile oil with sesquiterpenes or asarone depending on variety
+      - saponins
+      - bitter principle acorin
+      - mucilage
+    key actions:
+      - carminative
+      - relieves muscle spasm
+      - antioxidant
+      - anti-inflammatory
+      - tonic
+    uses:
+      - poor digestion
+      - bloating and gas
+      - colic
+      - stomach cramps
+      - headaches from weak digestion
+      - low appetite
+      - nervous system tonic
+    preparations:
+      - decoction
+      - tincture
+      - powder
   citation:
     - cunningham-herbs
+    - chevallier-herbal-medicine

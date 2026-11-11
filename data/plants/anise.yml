@@ -38,6 +38,38 @@ anise:
   toxicity:
     notes:
       - avoid if pregnant
+      - do not take essential oil internally except under professional supervision
+      - avoid medicinal amounts if pregnant
+  medicinal:
+    parts used: seeds, essential oil
+    key constituents:
+      - volatile oil, mostly anethole with methylchavicol
+      - furanocoumarins
+      - flavonoids
+      - fatty acids
+      - phenylpropanoids
+      - sterols
+    key actions:
+      - carminative
+      - antispasmodic
+      - expectorant
+      - mildly estrogenic
+      - antifungal
+    uses:
+      - gas and bloating
+      - infant colic
+      - nausea and indigestion
+      - acidity
+      - stomach spasm
+      - period pain
+      - asthma and whooping cough
+      - bronchitis
+      - low breast milk
+      - impotence
+      - lice and scabies
+    preparations:
+      - essential oil
   citation:
     - cunningham-herbs
     - kynes-correspondences
+    - chevallier-herbal-medicine

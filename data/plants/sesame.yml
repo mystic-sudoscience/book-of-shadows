@@ -4,5 +4,28 @@ sesame:
   properties:
     - money
     - lust
+  medicinal:
+    parts used: seeds, seed oil, root
+    key constituents:
+      - fixed oil, mainly polyunsaturated fats
+      - protein
+      - lignans including sesamin and sesamolin
+      - vitamins b3 and e
+      - minerals
+    key actions:
+      - nutritive
+      - lubricating laxative
+      - increases breast milk
+      - lowers cholesterol
+    uses:
+      - dizziness and tinnitus
+      - blurred vision from anemia
+      - dry constipation
+      - low breast milk
+      - high cholesterol
+      - athlete's foot
+    preparations:
+      - seed oil
   citation:
     - cunningham-herbs
+    - chevallier-herbal-medicine

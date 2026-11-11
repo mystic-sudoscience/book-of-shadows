@@ -9,5 +9,30 @@ gentian:
     notes:
       - may cause ulcers
       - may disturb some part of the digestive system if used internally
+      - do not take with acid indigestion or a peptic ulcer
+  medicinal:
+    parts used: root
+    key constituents:
+      - bitter principles including gentiopicroside and amarogentin
+      - gentianose
+      - inulin
+      - phenolic acids
+    key actions:
+      - bitter
+      - digestive stimulant
+      - eases stomach pain
+    uses:
+      - weak digestion
+      - poor appetite
+      - gas and bloating
+      - indigestion
+      - nutrient absorption
+      - iron-deficiency anemia
+      - heavy menstrual bleeding
+      - fever
+    preparations:
+      - tincture
+      - decoction
   citation:
     - cunningham-herbs
+    - chevallier-herbal-medicine

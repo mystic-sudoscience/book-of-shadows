@@ -13,6 +13,42 @@ horse chestnut:
   toxicity:
     notes:
       - poison
+      - best taken with professional advice
+      - can cause gastrointestinal upset
+      - toxic in excess
+      - not suitable for children
+      - do not apply to broken or ulcerated skin
+      - may interact with blood-thinning drugs
+  medicinal:
+    parts used: seeds, leaves, bark
+    key constituents:
+      - triterpenoid saponins including aescin
+      - polysaccharides
+      - coumarins including aesculin
+      - flavonoids
+      - tannins including proanthocyanidins
+      - fixed oil
+    key actions:
+      - venous tonic
+      - astringent
+      - anti-inflammatory
+      - antioxidant
+      - reduces fluid retention
+    uses:
+      - varicose veins
+      - chronic venous insufficiency
+      - leg ulcers
+      - hemorrhoids
+      - frostbite
+      - fluid retention
+      - rheumatism
+      - chest complaints
+    preparations:
+      - tablets
+      - capsules
+      - lotion
+      - decoction
   citation:
     - cunningham-herbs
     - kynes-correspondences
+    - chevallier-herbal-medicine

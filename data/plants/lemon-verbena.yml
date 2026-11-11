@@ -4,5 +4,21 @@ lemon verbena:
   properties:
     - purification
     - love
+  medicinal:
+    parts used: leaves
+    key constituents:
+      - volatile oil with citral, cineole, limonene, and geraniol
+      - mucilage
+      - tannins
+      - flavonoids
+    key actions:
+      - gentle sedative
+      - carminative
+      - nerve tonic
+    uses:
+      - abdominal discomfort
+      - gas and bloating
+      - low spirits and depression
   citation:
     - cunningham-herbs
+    - chevallier-herbal-medicine

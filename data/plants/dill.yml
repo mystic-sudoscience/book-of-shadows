@@ -37,6 +37,33 @@ dill:
     - support
     - wisdom
   notes: null
+  toxicity:
+    notes:
+      - take essential oil internally only under professional supervision
+  medicinal:
+    parts used: seeds, leaves, essential oil
+    key constituents:
+      - volatile oil, about half alpha-phellandrene
+      - flavonoids
+      - coumarins
+      - xanthones
+      - triterpenes
+    key actions:
+      - carminative
+      - antispasmodic
+      - mild diuretic
+      - increases breast milk
+    uses:
+      - gas and indigestion
+      - intestinal cramps and colic
+      - infant colic
+      - bad breath
+      - coughs, colds, and flu
+      - period pain
+      - low breast milk
+    preparations:
+      - gripe water
   citation:
     - morgana-green-witch
     - kynes-correspondences
+    - chevallier-herbal-medicine

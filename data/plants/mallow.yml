@@ -14,5 +14,25 @@ mallow:
     pets: true
   holidays:
     - beltane
+  medicinal:
+    parts used: leaves, flowers, root
+    key constituents:
+      - flavonol glycosides
+      - mucilage
+      - tannins
+      - malvin
+    key actions:
+      - demulcent
+      - emollient
+      - laxative
+    uses:
+      - sensitive skin
+      - swelling
+      - gut irritation
+      - coughs and chest ailments
+      - teething
+    preparations:
+      - poultice
   citation:
     - morgana-green-witch
+    - chevallier-herbal-medicine

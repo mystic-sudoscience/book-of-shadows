@@ -50,6 +50,28 @@ wild violet:
     pets: false
   holidays:
     - ostara
+  medicinal:
+    parts used: flowers, leaves, root
+    key constituents:
+      - phenolic glycosides including gaultherin
+      - saponins
+      - flavonoids
+      - alkaloid odoratine
+      - mucilage
+    key actions:
+      - gentle expectorant
+      - demulcent
+      - promotes light sweating
+    uses:
+      - coughs
+      - chest colds and congestion
+      - dry irritable cough
+      - insomnia
+    preparations:
+      - infusion
+      - syrup
+      - essential oil
   citation:
     - morgana-green-witch
     - kynes-correspondences
+    - chevallier-herbal-medicine

@@ -7,5 +7,19 @@ joe-pye weed:
       - not recommended for internal use
       - avoid if nursing
       - do not use on broken skin
+  medicinal:
+    parts used: root
+    key constituents:
+      - volatile oil
+      - flavonoids
+      - resin
+    key actions:
+      - diuretic
+    uses:
+      - kidney and bladder stones
+      - cystitis and urethritis
+      - prostate enlargement
+      - rheumatism and gout
   citation:
     - cunningham-herbs
+    - chevallier-herbal-medicine

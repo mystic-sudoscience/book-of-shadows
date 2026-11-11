@@ -46,8 +46,44 @@ thyme:
   toxicity:
     humans: false
     pets: false
+    notes:
+      - do not take essential oil internally
+      - do not use essential oil externally if pregnant
   holidays:
     - summer solstice
+  medicinal:
+    parts used: aerial parts, leaves
+    key constituents:
+      - volatile oil, mostly thymol and carvacrol
+      - flavonoids
+      - phenolic acids
+    key actions:
+      - antiseptic
+      - tonic
+      - relieves muscle spasms
+      - expectorant
+      - expels worms
+      - antioxidant
+    uses:
+      - throat and chest infections
+      - coughs and bronchitis
+      - colds and flu
+      - mild asthma
+      - hay fever
+      - fungal infections such as thrush, ringworm, and athlete's foot
+      - worms
+      - period pain
+      - bites and stings
+      - sciatica and rheumatic pain
+      - hair loss
+      - earache
+      - tired and aching muscles
+    preparations:
+      - essential oil
+      - tincture
+      - infusion
+      - syrup
   citation:
     - morgana-green-witch
     - kynes-correspondences
+    - chevallier-herbal-medicine

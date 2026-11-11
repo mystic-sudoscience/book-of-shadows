@@ -4,5 +4,36 @@ bistort:
   properties:
     - psychic ability
     - fertility
+  toxicity:
+    notes:
+      - do not take internally for more than 3 to 4 weeks at a time
+  medicinal:
+    parts used: leaves, rhizome
+    key constituents:
+      - polyphenols including ellagic acid
+      - tannins
+      - phlobaphenes
+      - flavonoids
+      - emodin
+    key actions:
+      - strongly astringent
+      - stops bleeding
+    uses:
+      - spongy gums and mouth ulcers
+      - sore throats
+      - small burns and wounds
+      - excessive vaginal discharge
+      - hemorrhoids and anal fissures
+      - peptic ulcers
+      - ulcerative colitis
+      - diarrhea and dysentery
+      - irritable bowel
+    preparations:
+      - mouthwash
+      - gargle
+      - wash
+      - douche
+      - ointment
   citation:
     - cunningham-herbs
+    - chevallier-herbal-medicine

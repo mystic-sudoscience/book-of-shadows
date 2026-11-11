@@ -90,6 +90,30 @@ Safety is important. Record it in `toxicity`:
 
 Use the plant's regular `notes` for anything that is not about safety.
 
+Medicinal (herbalism) information goes under `medicinal`, just before `citation`, so it stays separate from the magical `parts used` and `properties`:
+
+```yaml
+  medicinal:
+    parts used: aerial parts, flowers, leaves
+    key constituents:
+      - volatile oil with linalool, camphor, sabinene, and azulene
+      - flavonoids
+    key actions:
+      - antispasmodic
+      - astringent
+    uses:
+      - wounds
+      - colds and flu
+    preparations:
+      - infusion
+      - poultice
+```
+
+- `parts used` is a comma-separated string, like the top-level one, but lists the parts used medicinally.
+- `key constituents`, `key actions`, and `uses` are lists of short, lowercase phrases. They are free text and are not checked against `intentions.py`.
+- `preparations` lists the forms the plant is prepared in (`infusion`, `tincture`, `poultice`, ...).
+- Leave out any field the source does not cover, and leave out doses. Safety cautions still belong in `toxicity`.
+
 Every item in `properties` must be an intention listed in [intentions.py](scripts/intentions.py). If the intention you need is missing, add it there (lowercase, no parentheses, alphabetical order) before using it on a plant. `python scripts/validate_intentions.py` reports any property that is not in the list.
 
 ### Crystals (`crystals.yml`)

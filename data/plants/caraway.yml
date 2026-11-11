@@ -11,5 +11,36 @@ caraway:
     - healing
     - protection
     - protection from theft
+  toxicity:
+    notes:
+      - do not take essential oil internally except under professional supervision
+  medicinal:
+    parts used: seeds, essential oil
+    key constituents:
+      - volatile oil high in carvone and limonene
+      - fixed oil
+      - flavonoids
+      - polysaccharides
+      - proteins
+      - furanocoumarins
+    key actions:
+      - antispasmodic
+      - carminative
+      - expectorant
+      - tonic
+      - diuretic
+    uses:
+      - colic and cramps
+      - bloating and flatulence
+      - dyspepsia
+      - bad breath
+      - poor appetite
+      - period pain
+      - bronchitis and coughs
+      - low breast milk
+      - scabies
+    preparations:
+      - essential oil
   citation:
     - morgana-green-witch
+    - chevallier-herbal-medicine

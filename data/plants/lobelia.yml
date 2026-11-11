@@ -5,9 +5,36 @@ lobelia:
     - storms
     - love
   toxicity:
+    humans: true
     notes:
       - poison
       - avoid if pregnant
       - do not take internally in high doses; find several sources that have appropriate doses of this herb
+      - take only when prescribed by a medical herbalist or doctor
+      - do not eat the fresh plant
+      - excessive ingestion can be fatal
+      - restricted in some countries
+  medicinal:
+    parts used: aerial parts
+    key constituents:
+      - piperidine alkaloids, principally lobeline
+      - carboxylic acids
+    key actions:
+      - respiratory stimulant
+      - antispasmodic
+      - expectorant
+      - induces vomiting
+      - increases sweating
+    uses:
+      - bronchial asthma
+      - chronic bronchitis
+      - sprains
+      - back problems from muscle tension
+      - quitting smoking
+    preparations:
+      - infusion
+      - tincture
+      - tablets
   citation:
     - cunningham-herbs
+    - chevallier-herbal-medicine

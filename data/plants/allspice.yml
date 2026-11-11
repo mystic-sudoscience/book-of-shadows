@@ -26,6 +26,28 @@ allspice:
     - stress
     - success
     - willpower
+  toxicity:
+    notes:
+      - do not take essential oil internally without professional guidance
+      - avoid as a medicine if pregnant
+  medicinal:
+    parts used: berries, leaves, essential oil
+    key constituents:
+      - volatile oil, mostly eugenol
+      - lignins
+      - terpenoids
+    key actions:
+      - digestive stimulant
+      - carminative
+      - antiseptic
+      - analgesic
+      - estrogenic
+    uses:
+      - flatulence and indigestion
+      - diarrhea
+      - menopausal symptoms
+      - high blood pressure
   citation:
     - cunningham-herbs
     - kynes-correspondences
+    - chevallier-herbal-medicine

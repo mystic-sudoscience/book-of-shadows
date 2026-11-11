@@ -55,9 +55,38 @@ hawthorn:
       - edible if seeds removed
       - pets: nontoxic in small amounts
       - drug interactions are possible; may interfere with digitalis medications
+      - may interact with prescribed medicines
+      - especially for blood pressure and heart conditions
   holidays:
     - beltane
+  medicinal:
+    parts used: flowering tops, berries
+    key constituents:
+      - polyphenols
+      - proanthocyanins
+      - bioflavonoids
+      - triterpenoids
+      - coumarins
+      - amines including trimethylamine
+    key actions:
+      - cardiotonic
+      - circulatory tonic
+      - lowers blood pressure
+      - antioxidant
+    uses:
+      - angina
+      - coronary artery disease
+      - mild congestive heart failure
+      - irregular heartbeat
+      - high or low blood pressure
+      - poor memory
+    preparations:
+      - tincture
+      - decoction
+      - tablets
+      - infusion
   citation:
     - morgana-green-witch
     - cunningham-herbs
     - kynes-correspondences
+    - chevallier-herbal-medicine

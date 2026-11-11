@@ -21,6 +21,28 @@ agrimony:
   toxicity:
     humans: false
     pets: true
+  medicinal:
+    parts used: aerial parts
+    key constituents:
+      - tannins
+      - coumarins
+      - flavonoids including luteolin
+      - polysaccharides
+    key actions:
+      - astringent
+      - mild bitter
+      - stops bleeding
+      - anti-inflammatory
+    uses:
+      - wounds
+      - diarrhea
+      - weak digestion
+      - cystitis
+      - urinary incontinence
+      - kidney stones
+      - sore throats and hoarseness
+      - rheumatism and osteoarthritis
   citation:
     - morgana-green-witch
     - kynes-correspondences
+    - chevallier-herbal-medicine

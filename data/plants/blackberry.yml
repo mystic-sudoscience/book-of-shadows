@@ -29,6 +29,30 @@ blackberry:
   holidays:
     - lughnasadh
     - mabon
+  medicinal:
+    parts used: leaves, berries
+    key constituents:
+      - tannins
+      - flavonoids
+      - gallic acid
+      - anthocyanins
+      - pectin
+      - vitamin c
+    key actions:
+      - strongly astringent
+      - antioxidant
+      - anti-inflammatory
+    uses:
+      - spongy gums and mouth ulcers
+      - sore throats
+      - diarrhea
+      - hemorrhoids
+      - circulatory health
+    preparations:
+      - mouthwash
+      - gargle
+      - decoction
   citation:
     - morgana-green-witch
     - kynes-correspondences
+    - chevallier-herbal-medicine

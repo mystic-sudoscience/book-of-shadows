@@ -36,7 +36,43 @@ comfrey:
   toxicity:
     notes:
       - not recommended for internal use
+      - do not use on dirty wounds
+      - take internally only under professional supervision
+      - avoid if pregnant
+      - avoid if nursing
+      - restricted in some countries
+  medicinal:
+    parts used: leaves, aerial parts, root
+    key constituents:
+      - allantoin
+      - mucilage
+      - triterpenoids
+      - phenolic acids including rosmarinic acid
+      - asparagine
+      - pyrrolizidine alkaloids
+      - tannins
+    key actions:
+      - demulcent
+      - astringent
+      - anti-inflammatory
+      - heals wounds and bones
+    uses:
+      - sprains
+      - bruises
+      - fractures
+      - wounds and abrasions
+      - stiff and aching joints
+      - acne and boils
+      - inflamed skin
+      - insect bites
+      - fungal skin infections
+    preparations:
+      - infused oil
+      - tincture
+      - poultice
+      - ointment
   citation:
     - morgana-green-witch
     - cunningham-herbs
     - kynes-correspondences
+    - chevallier-herbal-medicine

@@ -8,5 +8,32 @@ buchu:
     notes:
       - avoid if pregnant
       - avoid with kidney problems
+      - avoid if pregnant unless advised by a practitioner
+      - potentially toxic in excess
+  medicinal:
+    parts used: leaves
+    key constituents:
+      - volatile oil including pulegone, menthone, and diosphenol
+      - sulphur compounds
+      - flavonoids including diosmin and rutin
+      - mucilage
+    key actions:
+      - urinary antiseptic
+      - diuretic
+      - stimulant
+      - uterine stimulant
+    uses:
+      - cystitis
+      - urethritis
+      - urinary tract infections
+      - prostatitis
+      - irritable bladder
+      - gas and bloating
+      - yeast infections
+    preparations:
+      - infusion
+      - tincture
+      - capsules
   citation:
     - cunningham-herbs
+    - chevallier-herbal-medicine

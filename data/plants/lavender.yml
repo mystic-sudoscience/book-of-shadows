@@ -57,8 +57,41 @@ lavender:
     pets: true
     notes:
       - pets: nontoxic in small amounts
+      - do not take essential oil internally except under professional supervision
   holidays:
     - summer solstice
+  medicinal:
+    parts used: flowers, essential oil
+    key constituents:
+      - volatile oil including linalyl acetate, cineole, linalool, nerol, and borneol
+      - flavonoids
+    key actions:
+      - antispasmodic
+      - relieves anxiety
+      - antidepressant
+      - neuroprotective
+      - antimicrobial
+    uses:
+      - anxiety
+      - insomnia
+      - irritability
+      - headaches and migraine
+      - depression
+      - indigestion, gas, and colic
+      - nervous asthma
+      - burns and sunburn
+      - wounds and sores
+      - insect bites and stings
+      - head lice and scabies
+      - muscle tension and aching joints
+      - neuralgia
+      - earache
+    preparations:
+      - tincture
+      - essential oil
+      - infusion
+      - massage oil
   citation:
     - morgana-green-witch
     - kynes-correspondences
+    - chevallier-herbal-medicine

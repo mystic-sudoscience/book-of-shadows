@@ -16,6 +16,39 @@ burdock:
     - negativity
     - protection
     - purification
+  toxicity:
+    notes:
+      - very rarely causes contact dermatitis
+  medicinal:
+    parts used: root, seeds, leaves
+    key constituents:
+      - bitter glycosides including arctiopicrin
+      - flavonoids including arctiin
+      - tannins
+      - polyacetylenes
+      - volatile oil
+      - inulin
+      - lignans
+    key actions:
+      - detoxifying
+      - mild diuretic
+      - antibiotic
+      - antiseptic
+      - anti-inflammatory
+    uses:
+      - acne and boils
+      - abscesses
+      - eczema
+      - psoriasis
+      - skin rashes
+      - arthritis
+      - fevers and infections
+    preparations:
+      - decoction
+      - tincture
+      - infusion of seeds
+      - poultice
   citation:
     - morgana-green-witch
     - kynes-correspondences
+    - chevallier-herbal-medicine

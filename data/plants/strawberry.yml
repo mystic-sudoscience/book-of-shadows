@@ -23,6 +23,26 @@ strawberry:
   toxicity:
     humans: false
     pets: false
+  medicinal:
+    parts used: leaves, fruit
+    key constituents:
+      - flavonoids
+      - tannins
+      - volatile oil with methyl salicylate and borneol
+      - fruit acids
+    key actions:
+      - mild astringent
+      - diuretic
+      - cooling
+    uses:
+      - diarrhea and dysentery
+      - sore throats
+      - minor burns and grazes
+      - gout, arthritis, and rheumatism
+    preparations:
+      - gargle
+      - lotion
   citation:
     - morgana-green-witch
     - kynes-correspondences
+    - chevallier-herbal-medicine

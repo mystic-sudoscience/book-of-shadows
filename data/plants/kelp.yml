@@ -4,5 +4,26 @@ kelp:
   properties:
     - travel
     - protection
+  toxicity:
+    notes:
+      - avoid if pregnant
+      - avoid if nursing
+      - take on professional advice with thyroid illness or if taking insulin
+  medicinal:
+    parts used: whole plant
+    key constituents:
+      - polyphenols
+      - polysaccharides
+      - minerals, especially iodine
+    key actions:
+      - thyroid stimulant
+      - immunostimulant
+      - raises metabolic rate
+    uses:
+      - goiter
+      - underactive thyroid
+      - weight loss
+      - rheumatic conditions
   citation:
     - cunningham-herbs
+    - chevallier-herbal-medicine

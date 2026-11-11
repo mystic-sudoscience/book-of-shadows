@@ -16,5 +16,38 @@ elderberry:
     pets: true
     notes:
       - only the berries are safe for humans to eat if they are cooked
+      - do not eat unripe berries
+  medicinal:
+    parts used: flowering tops, berries
+    key constituents:
+      - flavonoids
+      - anthocyanins
+      - lectins
+      - vitamins a and c
+      - triterpenes
+      - volatile oil
+      - mucilage
+      - tannins
+    key actions:
+      - antiviral
+      - clears mucus
+      - anti-inflammatory
+      - diuretic
+      - increases sweating
+    uses:
+      - colds and flu
+      - fevers
+      - chronic congestion
+      - ear infections
+      - hay fever and allergies
+      - arthritis and rheumatic aches
+      - chapped skin
+      - mild constipation
+    preparations:
+      - cream
+      - infusion
+      - tincture
+      - decoction of berries
   citation:
     - morgana-green-witch
+    - chevallier-herbal-medicine

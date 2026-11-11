@@ -4,5 +4,27 @@ benzoin:
   properties:
     - purification
     - prosperity
+  medicinal:
+    parts used: gum
+    key constituents:
+      - cinnamic, benzoic, and sumaresinolic acid esters
+      - benzoic acid
+      - benzaldehyde
+      - vanillin
+    key actions:
+      - antiseptic
+      - astringent
+      - expectorant
+      - antispasmodic
+    uses:
+      - wounds and ulcers
+      - cramping
+      - urinary tract infection
+      - sore throats
+      - head and chest colds
+      - asthma and bronchitis
+    preparations:
+      - steam inhalation
   citation:
     - cunningham-herbs
+    - chevallier-herbal-medicine

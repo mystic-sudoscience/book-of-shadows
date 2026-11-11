@@ -5,5 +5,33 @@ corn:
     - protection
     - attract luck
     - divination
+  medicinal:
+    parts used: cornsilk, meal
+    key constituents:
+      - flavonoids
+      - carotenoids
+      - anthocyanins
+      - volatile oil
+      - sterols
+    key actions:
+      - urinary demulcent
+      - diuretic
+      - mildly stimulates bile secretion
+      - gently lowers blood pressure
+    uses:
+      - cystitis
+      - prostate disorders
+      - frequent urination
+      - bladder irritability
+      - kidney stones
+      - fluid retention
+      - jaundice
+      - bruises, sores, and boils
+    preparations:
+      - decoction of meal
+      - infusion of cornsilk
+      - capsules
+      - tincture
   citation:
     - cunningham-herbs
+    - chevallier-herbal-medicine

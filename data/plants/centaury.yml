@@ -5,5 +5,19 @@ centaury:
     - protection
   notes:
     - per cunningham, removes snakes
+  medicinal:
+    parts used: aerial parts
+    key constituents:
+      - bitter secoiridoids
+    key actions:
+      - bitter
+      - digestive stimulant
+      - stimulates appetite
+    uses:
+      - weak digestion
+      - poor appetite
+      - gas and bloating
+      - nutrient absorption
   citation:
     - cunningham-herbs
+    - chevallier-herbal-medicine

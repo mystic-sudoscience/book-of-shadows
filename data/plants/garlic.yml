@@ -41,7 +41,46 @@ garlic:
     pets: true
     notes:
       - avoid if nursing
+      - consult a practitioner before giving as medicine to children under 12
+      - take on professional advice if using blood-thinning medication
+  medicinal:
+    parts used: bulb, cloves
+    key constituents:
+      - volatile oil with alliin, alliinase, and allicin
+      - scordinins
+      - selenium
+      - vitamins a, b, c, and e
+    key actions:
+      - antibiotic
+      - expectorant
+      - increases sweating
+      - lowers blood pressure
+      - reduces blood clotting
+      - anti-diabetic
+      - expels worms
+    uses:
+      - chest infections
+      - colds and flu
+      - coughs and bronchitis
+      - ear infections
+      - tonsillitis
+      - digestive infections
+      - intestinal parasites
+      - high cholesterol
+      - high blood pressure
+      - high blood sugar
+      - fungal infections
+      - acne and boils
+      - cold sores
+      - urinary infections
+    preparations:
+      - pearls
+      - chopped cloves
+      - capsules
+      - tablets
+      - syrup
   citation:
     - morgana-green-witch
     - cunningham-herbs
     - kynes-correspondences
+    - chevallier-herbal-medicine

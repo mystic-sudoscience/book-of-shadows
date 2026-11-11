@@ -62,6 +62,24 @@ jasmine:
   toxicity:
     humans: false
     pets: false
+    notes:
+      - do not take essential oil internally
+  medicinal:
+    parts used: flowers, essential oil
+    key constituents:
+      - volatile oil with benzyl alcohol, benzyl acetate, linalool, and linalyl acetate
+    key actions:
+      - sedative
+      - antidepressant
+      - relaxant
+    uses:
+      - tension
+      - stress and depression
+      - dry or sensitive skin
+    preparations:
+      - infusion
+      - essential oil
   citation:
     - morgana-green-witch
     - kynes-correspondences
+    - chevallier-herbal-medicine

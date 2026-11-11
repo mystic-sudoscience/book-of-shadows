@@ -7,5 +7,26 @@ figwort:
   toxicity:
     notes:
       - may cause ventricular tachycardia
+      - do not take with a heart condition
+  medicinal:
+    parts used: aerial parts
+    key constituents:
+      - iridoids including aucubin, harpagoside, and acetyl harpagide
+      - flavonoids
+      - cardioactive glycosides
+      - phenolic acids
+    key actions:
+      - detoxifying
+      - mild diuretic
+      - antiarthritic
+    uses:
+      - eczema and psoriasis
+      - burns and wounds
+      - hemorrhoids and ulcers
+      - swellings
+      - worms
+    preparations:
+      - infusion
   citation:
     - cunningham-herbs
+    - chevallier-herbal-medicine

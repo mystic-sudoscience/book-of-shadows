@@ -67,9 +67,38 @@ vervain:
     notes:
       - humans: nontoxic in small amounts
       - avoid if pregnant
+      - can cause vomiting in excess
   holidays:
     - summer solstice
+  medicinal:
+    parts used: aerial parts
+    key constituents:
+      - bitter iridoids including verbenin and verbenalin
+      - volatile oil
+      - alkaloids
+      - triterpenes including beta-sitosterol
+      - flavonoids
+    key actions:
+      - nervine
+      - tonic
+      - mild bitter
+      - mild antidepressant
+    uses:
+      - nervous tension and anxiety
+      - nervous exhaustion
+      - poor digestion
+      - convalescence
+      - headaches and menstrual migraines
+      - premenstrual syndrome
+      - insomnia
+      - jaundice and gallstones
+      - flu and fevers
+    preparations:
+      - infusion
+      - tincture
+      - powder
   citation:
     - morgana-green-witch
     - cunningham-herbs
     - kynes-correspondences
+    - chevallier-herbal-medicine

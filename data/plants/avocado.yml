@@ -6,5 +6,40 @@ avocado:
     - love
     - lust
     - beauty
+  toxicity:
+    notes:
+      - do not use leaves or bark if pregnant
+  medicinal:
+    parts used: leaves, bark, fruit, rind, seed oil
+    key constituents:
+      - volatile oil with methylchavicol and alpha-pinene
+      - flavonoids
+      - tannins
+      - unsaturated fats
+      - protein
+      - sesquiterpenes
+      - vitamins a, b1, and b2
+    key actions:
+      - astringent
+      - carminative
+      - relieves coughs
+      - promotes menstrual flow
+      - emollient
+      - eliminates worms
+    uses:
+      - diarrhea and dysentery
+      - bloating and gas
+      - coughs
+      - gout
+      - worms
+      - wounds
+      - dry or flaking skin
+      - hair growth
+      - high cholesterol
+    preparations:
+      - decoction
+      - mashed pulp
+      - oil
   citation:
     - cunningham-herbs
+    - chevallier-herbal-medicine

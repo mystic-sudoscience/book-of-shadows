@@ -5,5 +5,25 @@ witch grass:
     - lust
     - love
     - banish
+  medicinal:
+    parts used: rhizome, root, seeds
+    key constituents:
+      - polysaccharides including triticin
+      - volatile oil, mainly agropyrene
+      - mucilage
+    key actions:
+      - diuretic
+      - demulcent
+      - antibiotic
+    uses:
+      - cystitis and urethritis
+      - kidney stones
+      - enlarged prostate and prostatitis
+      - peptic ulcers
+      - jaundice and liver complaints
+    preparations:
+      - decoction
+      - hot pack of seeds
   citation:
     - cunningham-herbs
+    - chevallier-herbal-medicine

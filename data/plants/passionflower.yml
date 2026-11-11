@@ -30,6 +30,36 @@ passionflower:
     pets: true
     notes:
       - passiflora incarnata is nontoxic to humans if ingested in small amounts, but other varieties of passionflower are toxic
+      - can cause drowsiness
+      - avoid high doses if pregnant
+  medicinal:
+    parts used: aerial parts
+    key constituents:
+      - flavonoids including apigenin
+      - amino acids
+      - cyanogenic glycosides including gynocardin
+      - indole alkaloids
+    key actions:
+      - sedative
+      - antispasmodic
+      - tranquilizing
+    uses:
+      - insomnia
+      - anxiety and tension
+      - irritability
+      - toothache
+      - period pain
+      - headaches
+      - nervous asthma
+      - palpitations
+      - high blood pressure
+      - muscle cramps
+      - sleeplessness from backache
+    preparations:
+      - tincture
+      - infusion
+      - tablets
   citation:
     - morgana-green-witch
     - kynes-correspondences
+    - chevallier-herbal-medicine

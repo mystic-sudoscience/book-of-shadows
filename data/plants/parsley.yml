@@ -15,6 +15,31 @@ parsley:
     pets: true
     notes:
       - do not take internally in high doses
+      - excessive quantities of seeds are toxic
+      - do not take seeds if pregnant or with kidney disease
+  medicinal:
+    parts used: leaves, root, seeds
+    key constituents:
+      - volatile oil including myristicin and apiole
+      - flavonoids
+      - phthalides
+      - coumarins including bergapten
+      - vitamins a, c, and e
+      - iron
+    key actions:
+      - diuretic
+      - anti-inflammatory
+      - antioxidant
+      - carminative
+      - promotes menstruation
+    uses:
+      - nutritional supplement
+      - gout, rheumatism, and arthritis
+      - flatulence
+      - cystitis
+      - delayed periods
+      - menstrual pain
   citation:
     - morgana-green-witch
     - cunningham-herbs
+    - chevallier-herbal-medicine

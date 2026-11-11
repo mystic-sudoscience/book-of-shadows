@@ -7,5 +7,28 @@ irish moss:
     - protection
   notes:
     - carrageen
+  toxicity:
+    notes:
+      - do not use with anticoagulant medicines
+  medicinal:
+    parts used: whole plant
+    key constituents:
+      - polysaccharides
+      - proteins
+      - amino acids
+      - iodine
+      - bromine
+    key actions:
+      - demulcent
+      - emollient
+      - expectorant
+      - thins the blood
+    uses:
+      - coughs and bronchitis
+      - acid indigestion and gastritis
+      - cystitis
+      - convalescence
+      - inflamed skin
   citation:
     - cunningham-herbs
+    - chevallier-herbal-medicine

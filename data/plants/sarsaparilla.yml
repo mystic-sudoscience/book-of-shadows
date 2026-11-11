@@ -4,5 +4,29 @@ sarsaparilla:
   properties:
     - love
     - money
+  medicinal:
+    parts used: root
+    key constituents:
+      - steroidal saponins
+      - phytosterols including sitosterols
+      - starch
+      - resin
+      - sarsapic acid
+      - minerals
+    key actions:
+      - anti-inflammatory
+      - cleansing
+      - estrogenic
+      - antibiotic
+      - tonic
+    uses:
+      - eczema and psoriasis
+      - itchiness
+      - rheumatism and rheumatoid arthritis
+      - gout
+      - premenstrual problems
+      - menopausal debility and depression
+      - virility
   citation:
     - cunningham-herbs
+    - chevallier-herbal-medicine

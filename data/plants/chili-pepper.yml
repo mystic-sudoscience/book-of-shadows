@@ -9,5 +9,44 @@ chili pepper:
     - fidelity
     - love
     - break hexes
+  toxicity:
+    notes:
+      - nontoxic at normal doses
+      - can cause intense pain and burning
+      - can cause contact dermatitis
+  medicinal:
+    parts used: fruit
+    key constituents:
+      - capsaicin
+      - carotenoids
+      - flavonoids
+      - volatile oil
+      - steroidal saponins
+    key actions:
+      - stimulant
+      - tonic
+      - carminative
+      - relieves muscle spasms
+      - antiseptic
+      - increases sweating
+      - increases blood flow to the skin
+      - analgesic
+    uses:
+      - poor circulation
+      - arthritis and rheumatism
+      - nerve pain
+      - chilblains
+      - gas and colic
+      - gastroenteritis
+      - acute diarrhea
+      - sore throat
+      - high fever
+    preparations:
+      - powder
+      - tincture
+      - tablets
+      - ointment
+      - infused oil
   citation:
     - morgana-green-witch
+    - chevallier-herbal-medicine

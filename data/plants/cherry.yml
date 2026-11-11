@@ -20,6 +20,32 @@ cherry:
     - romance
     - spirituality
     - stimulation
+  toxicity:
+    notes:
+      - seeds are toxic and should not be eaten
+  medicinal:
+    parts used: stems, fruit
+    key constituents:
+      - phenols including salicylic acid
+      - tannins
+      - anthocyanins
+      - flavonoids including quercetin
+      - carotenoids
+      - vitamin c
+      - melatonin
+    key actions:
+      - diuretic
+      - astringent
+      - anti-inflammatory
+      - mild laxative
+    uses:
+      - cystitis and nephritis
+      - urinary retention
+      - gout
+      - arthritic problems
+    preparations:
+      - juice
   citation:
     - cunningham-herbs
     - kynes-correspondences
+    - chevallier-herbal-medicine

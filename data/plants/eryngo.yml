@@ -6,5 +6,20 @@ eryngo:
     - peace
     - love
     - lust
+  medicinal:
+    parts used: root
+    key constituents:
+      - saponins
+      - coumarins
+      - flavonoids
+      - plant acids
+    key actions:
+      - diuretic
+    uses:
+      - cystitis and urethritis
+      - kidney stones
+      - enlarged or inflamed prostate
+      - chest problems
   citation:
     - cunningham-herbs
+    - chevallier-herbal-medicine

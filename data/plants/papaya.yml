@@ -4,5 +4,26 @@ papaya:
   properties:
     - love
     - protection
+  medicinal:
+    parts used: fruit, latex, leaves, flowers, seeds
+    key constituents:
+      - proteolytic enzymes papain and chymopapain
+      - alkaloid carpaine
+    key actions:
+      - digestive
+      - mild laxative
+      - expels worms
+    uses:
+      - poor digestion
+      - wounds and ulcers
+      - boils and warts
+      - worms
+      - inducing menstruation
+      - persistent diarrhea in children
+    preparations:
+      - latex
+      - infusion of flowers
+      - decoction of ripe fruit
   citation:
     - cunningham-herbs
+    - chevallier-herbal-medicine

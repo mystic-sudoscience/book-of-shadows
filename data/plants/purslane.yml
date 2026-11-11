@@ -15,6 +15,32 @@ purslane:
     notes:
       - avoid if pregnant
       - may cause kidney stones
+      - avoid as a medicine if pregnant
+  medicinal:
+    parts used: aerial parts
+    key constituents:
+      - flavonoids
+      - alkaloids
+      - omega-3 fatty acids
+      - terpenoids
+      - polysaccharides
+      - vitamins a, b1, and c
+      - minerals, especially calcium
+    key actions:
+      - diuretic
+      - demulcent
+      - antioxidant
+      - anti-inflammatory
+    uses:
+      - difficult urination
+      - dysentery and diarrhea
+      - wasp stings
+      - boils and carbuncles
+      - fever
+    preparations:
+      - juice
+      - decoction
   citation:
     - morgana-green-witch
     - cunningham-herbs
+    - chevallier-herbal-medicine

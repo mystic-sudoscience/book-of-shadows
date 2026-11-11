@@ -61,9 +61,38 @@ mistletoe:
     pets: true
     notes:
       - wear gloves when handling
+      - highly toxic
+      - especially the berries
+      - take only under professional supervision
   holidays:
     - summer solstice
     - yule
+  medicinal:
+    parts used: leaves, branches, berries
+    key constituents:
+      - glycoproteins
+      - viscotoxins
+      - lectins
+      - flavonoids
+      - caffeic acid
+      - lignans
+      - acetylcholine
+      - polysaccharides in berries
+    key actions:
+      - lowers blood pressure
+      - sedative
+      - immune stimulant
+    uses:
+      - high blood pressure
+      - anxiety
+      - insomnia
+      - panic attacks
+      - headaches
+      - poor concentration
+      - tinnitus
+      - epilepsy
+      - hyperactivity in children
   citation:
     - morgana-green-witch
     - kynes-correspondences
+    - chevallier-herbal-medicine

@@ -19,6 +19,30 @@ betony, wood:
     - relationships
     - security
     - sexuality
+  toxicity:
+    notes:
+      - avoid if pregnant
+  medicinal:
+    parts used: aerial parts
+    key constituents:
+      - alkaloids including stachydrine and betonicine
+      - phenolic compounds
+      - betaine
+      - choline
+      - tannins
+    key actions:
+      - mild sedative
+      - astringent
+      - mild bitter
+      - tonic
+    uses:
+      - headaches and facial pain
+      - nervous stress and tension
+      - premenstrual complaints
+      - poor memory
+      - sinus headaches and congestion
+      - nosebleeds
   citation:
     - cunningham-herbs
     - kynes-correspondences
+    - chevallier-herbal-medicine

@@ -14,7 +14,23 @@ aconite:
     pets: true
     notes:
       - avoid touching with bare skin; always wear gloves when handling
+      - highly toxic
+      - use only under professional supervision
+      - restricted in some countries
   holidays:
     - samhain
+  medicinal:
+    parts used: root
+    key constituents:
+      - terpenoid alkaloids, principally aconitine
+    key actions:
+      - analgesic
+      - sedative
+    uses:
+      - pain from bruises applied to unbroken skin
+      - neuralgia
+      - asthma
+      - heart weakness
   citation:
     - morgana-green-witch
+    - chevallier-herbal-medicine

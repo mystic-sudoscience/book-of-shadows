@@ -12,5 +12,35 @@ plantain:
   toxicity:
     humans: false
     pets: false
+  medicinal:
+    parts used: leaves
+    key constituents:
+      - iridoids including aucubin
+      - flavonoids including apigenin
+      - tannins
+      - plant acids
+      - mucilage
+    key actions:
+      - stops bleeding
+      - heals tissue
+      - diuretic
+      - expectorant
+      - reduces mucus
+      - anti-inflammatory
+    uses:
+      - wounds and bruises
+      - broken bones
+      - hemorrhoids and ulcers
+      - gastritis and peptic ulcers
+      - diarrhea and dysentery
+      - irritable bowel syndrome
+      - respiratory inflammation
+      - loss of voice
+      - urinary tract bleeding
+      - allergic rhinitis with mucus
+    preparations:
+      - ointment
+      - lotion
   citation:
     - morgana-green-witch
+    - chevallier-herbal-medicine

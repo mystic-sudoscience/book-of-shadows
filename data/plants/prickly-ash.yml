@@ -3,5 +3,37 @@ prickly ash:
   element: fire
   properties:
     - love
+  toxicity:
+    notes:
+      - avoid if pregnant
+      - avoid if nursing
+  medicinal:
+    parts used: bark, berries
+    key constituents:
+      - isoquinoline alkaloids
+      - furanocoumarins
+      - lignans
+      - volatile oil
+      - tannins
+    key actions:
+      - circulatory stimulant
+      - increases sweating
+      - antirheumatic
+      - antifungal
+    uses:
+      - arthritis and rheumatism
+      - poor circulation
+      - intermittent claudication
+      - raynaud's disease
+      - toothache
+      - gas and diarrhea
+      - leg ulcers
+      - back pain
+    preparations:
+      - decoction
+      - tincture
+      - tablets
+      - lotion
   citation:
     - cunningham-herbs
+    - chevallier-herbal-medicine

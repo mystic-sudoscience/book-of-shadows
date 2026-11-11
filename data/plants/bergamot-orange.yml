@@ -3,5 +3,22 @@ bergamot, orange:
   element: air
   properties:
     - money
+  toxicity:
+    notes:
+      - do not take essential oil internally
+  medicinal:
+    parts used: essential oil
+    key constituents:
+      - volatile oil including linalyl acetate, limonene, and linalool
+      - bergapten
+      - a diterpene
+    key actions:
+      - relaxant
+      - antispasmodic
+    uses:
+      - tension
+      - muscle spasms
+      - poor digestion
   citation:
     - cunningham-herbs
+    - chevallier-herbal-medicine

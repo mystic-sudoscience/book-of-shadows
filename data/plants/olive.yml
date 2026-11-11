@@ -30,6 +30,25 @@ olive:
     - virility
     - wealth
     - well-being
+  medicinal:
+    parts used: leaves, oil
+    key constituents:
+      - oleuropein and related compounds in leaves
+      - oleic acid in oil
+    key actions:
+      - lowers blood pressure
+      - mild diuretic
+      - lowers blood sugar
+    uses:
+      - high blood pressure
+      - circulatory support
+      - cystitis
+      - diabetes
+      - gallstones
+      - dry skin
+      - cradle cap
+      - stretch marks
   citation:
     - cunningham-herbs
     - kynes-correspondences
+    - chevallier-herbal-medicine

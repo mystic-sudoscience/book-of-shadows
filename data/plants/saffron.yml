@@ -38,9 +38,37 @@ saffron:
     notes:
       - do not take internally in high doses; find several sources that have appropriate doses of this herb
       - avoid if pregnant
+      - avoid as a medicine if pregnant
+      - toxic in excess
   holidays:
     - summer solstice
+  medicinal:
+    parts used: stigma
+    key constituents:
+      - crocins
+      - volatile oil including safranal
+      - bitter substances
+    key actions:
+      - neuroprotective
+      - antidepressant
+      - antispasmodic
+      - aphrodisiac
+      - stomach tonic
+    uses:
+      - low mood and depression
+      - shock
+      - period cramps
+      - premenstrual syndrome
+      - sexual dysfunction
+      - macular degeneration
+      - memory and cognitive function
+      - stomach weakness
+      - skin disorders
+    preparations:
+      - dried stigma
+      - capsules
   citation:
     - morgana-green-witch
     - cunningham-herbs
     - kynes-correspondences
+    - chevallier-herbal-medicine

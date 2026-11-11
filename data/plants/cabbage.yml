@@ -3,5 +3,24 @@ cabbage:
   element: water
   properties:
     - luck
+  toxicity:
+    notes:
+      - poultice may cause blisters if left on for several hours
+  medicinal:
+    parts used: leaves
+    key constituents:
+      - vitamins a, b1, b2, and c
+    key actions:
+      - detoxifying
+      - aids digestion
+    uses:
+      - swellings and painful joints
+      - hangover
+      - poor digestion
+      - arthritis
+      - scurvy prevention
+    preparations:
+      - poultice
   citation:
     - cunningham-herbs
+    - chevallier-herbal-medicine

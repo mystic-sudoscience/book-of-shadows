@@ -5,5 +5,33 @@ fig:
     - divination
     - fertility
     - love
+  toxicity:
+    notes:
+      - latex is toxic
+      - do not take latex internally
+      - latex may cause skin sensitivity to sunlight
+  medicinal:
+    parts used: fruit, latex
+    key constituents:
+      - fruit sugars, mainly glucose
+      - flavonoids
+      - vitamins
+      - enzymes
+    key actions:
+      - gentle laxative
+      - emollient
+      - mild expectorant
+    uses:
+      - mild constipation
+      - swellings and gum abscesses
+      - dry irritable coughs
+      - bronchitis
+      - warts
+      - insect bites and stings
+    preparations:
+      - syrup
+      - roasted fruit
+      - latex
   citation:
     - cunningham-herbs
+    - chevallier-herbal-medicine

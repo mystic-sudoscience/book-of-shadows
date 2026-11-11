@@ -53,8 +53,40 @@ willow:
   toxicity:
     humans: false
     pets: false
+    notes:
+      - do not take if allergic to aspirin
+      - avoid if pregnant
+      - avoid if nursing
+      - not suitable for young children
+      - rarely causes gastrointestinal upset
   holidays:
     - beltane
+  medicinal:
+    parts used: bark
+    key constituents:
+      - phenolic glycosides
+      - salicin
+      - flavonoids
+      - polyphenols
+    key actions:
+      - anti-inflammatory
+      - analgesic
+      - reduces fever
+      - antirheumatic
+      - astringent
+    uses:
+      - arthritis and inflamed joints
+      - rheumatic pain
+      - lower back pain
+      - osteoarthritis
+      - high fevers
+      - headaches
+      - hot flashes and night sweats
+    preparations:
+      - tincture
+      - tablets
+      - decoction
   citation:
     - morgana-green-witch
     - kynes-correspondences
+    - chevallier-herbal-medicine

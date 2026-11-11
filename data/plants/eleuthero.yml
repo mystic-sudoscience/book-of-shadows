@@ -1,0 +1,44 @@
+eleuthero:
+  type: misc
+  planet: sun
+  element: fire
+  chakra: root, solar plexus
+  properties:
+    - concentration/focus
+    - grounding
+    - money
+    - prosperity
+    - resilience
+    - vitality
+  toxicity:
+    notes:
+      - healthy young adults should not take for more than 6 weeks without professional advice
+      - avoid caffeine while taking
+      - side effects more likely above the standard dose
+  medicinal:
+    parts used: root
+    key constituents:
+      - eleutherosides
+      - polysaccharides
+      - triterpenoid saponins
+      - glycans
+    key actions:
+      - adaptogenic
+      - tonic
+      - protects the immune system
+    uses:
+      - physical and mental stress
+      - overwork and exhaustion
+      - chronic fatigue
+      - stamina
+      - preparing for tests and stressful events
+      - convalescence
+      - support during chemotherapy
+    preparations:
+      - decoction
+      - tablets
+      - tincture
+      - capsules
+  citation:
+    - riteofritual-apothecary
+    - chevallier-herbal-medicine

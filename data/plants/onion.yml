@@ -8,5 +8,31 @@ onion:
     - money
     - prophetic dreams
     - lust
+  medicinal:
+    parts used: bulb
+    key constituents:
+      - volatile oil with sulphur compounds including allicin and alliin
+      - flavonoids
+      - phenolic acids
+      - sterols
+    key actions:
+      - diuretic
+      - antibiotic
+      - anti-inflammatory
+      - analgesic
+      - expectorant
+      - antirheumatic
+    uses:
+      - colds, flu, and coughs
+      - mild fever
+      - angina and arteriosclerosis
+      - oral infection and tooth decay
+      - earache
+      - draining pus from sores
+      - hair growth
+    preparations:
+      - juice
+      - baked onion poultice
   citation:
     - cunningham-herbs
+    - chevallier-herbal-medicine

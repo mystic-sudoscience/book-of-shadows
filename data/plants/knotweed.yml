@@ -3,5 +3,27 @@ knotweed:
   element: earth
   properties:
     - bind
+  medicinal:
+    parts used: aerial parts
+    key constituents:
+      - tannins
+      - flavonoids
+      - polyphenols
+      - silicic acid
+      - mucilage
+    key actions:
+      - astringent
+      - diuretic
+      - expels worms
+      - stops bleeding
+    uses:
+      - diarrhea and dysentery
+      - hemorrhoids
+      - worms
+      - bleeding wounds and nosebleeds
+      - heavy menstrual flow
+      - lung complaints
+      - painful urination
   citation:
     - cunningham-herbs
+    - chevallier-herbal-medicine

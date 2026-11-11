@@ -15,6 +15,23 @@ hydrangea:
     notes:
       - wear gloves when handling
       - not recommended for internal use
+      - avoid if pregnant
+      - avoid if nursing
+      - best taken on professional advice
+  medicinal:
+    parts used: root
+    key constituents:
+      - flavonoids
+      - cyanogenic glycoside hydrangein
+      - saponins
+      - volatile oil
+    key actions:
+      - diuretic
+    uses:
+      - kidney and bladder stones
+      - cystitis and urethritis
+      - enlarged prostate and prostatitis
   citation:
     - morgana-green-witch
     - cunningham-herbs
+    - chevallier-herbal-medicine

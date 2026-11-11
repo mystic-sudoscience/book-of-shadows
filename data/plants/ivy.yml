@@ -36,7 +36,26 @@ ivy:
   toxicity:
     humans: true
     pets: true
+    notes:
+      - fresh leaves can irritate the skin
+  medicinal:
+    parts used: leaves, berries
+    key constituents:
+      - saponins
+      - sterols
+      - polyacetylenes
+      - volatile oil
+      - flavonoids
+    key actions:
+      - expectorant
+      - antifungal
+      - amebicidal
+    uses:
+      - ear, nose, and throat congestion
+      - bronchitis
+      - cellulite
   citation:
     - morgana-green-witch
     - cunningham-herbs
     - kynes-correspondences
+    - chevallier-herbal-medicine

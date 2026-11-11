@@ -82,6 +82,25 @@ rose:
   toxicity:
     humans: false
     pets: false
+    notes:
+      - do not take essential oil internally without professional supervision
+  medicinal:
+    parts used: flowers, essential oil
+    key constituents:
+      - volatile oil with geraniol, nerol, citronellol, and geranic acid
+    key actions:
+      - mildly sedative
+      - antidepressant
+      - anti-inflammatory
+      - astringent
+    uses:
+      - depression
+      - high cholesterol
+      - inflamed and sore eyes
+    preparations:
+      - rosewater
+      - essential oil
   citation:
     - morgana-green-witch
     - kynes-correspondences
+    - chevallier-herbal-medicine

@@ -1,5 +1,38 @@
 turmeric:
   properties:
     - purification
+  toxicity:
+    notes:
+      - take on professional advice if using blood-thinning medication or if gallstones are present
+      - occasionally causes skin rashes
+  medicinal:
+    parts used: rhizome
+    key constituents:
+      - curcumin
+      - volatile oil including zingiberene and turmerone
+      - bitter principles
+      - resin
+    key actions:
+      - anti-inflammatory
+      - lowers cholesterol
+      - antimicrobial
+      - anti-platelet
+    uses:
+      - gastritis and acidity
+      - nausea and motion sickness
+      - jaundice and liver support
+      - arthritis
+      - asthma
+      - eczema
+      - psoriasis
+      - athlete's foot and fungal infections
+      - high cholesterol
+      - reducing risk of stroke and heart attack
+    preparations:
+      - decoction
+      - powder
+      - tincture
+      - poultice
   citation:
     - cunningham-herbs
+    - chevallier-herbal-medicine

@@ -13,6 +13,22 @@ wild geranium:
   toxicity:
     humans: false
     pets: false
+    notes:
+      - take for only a few weeks at a time
+  medicinal:
+    parts used: root, aerial parts
+    key constituents:
+      - tannins
+    key actions:
+      - astringent
+      - stops bleeding
+    uses:
+      - irritable bowel syndrome
+      - hemorrhoids
+      - wounds
+      - heavy menstrual bleeding
+      - excessive vaginal discharge
   citation:
     - morgana-green-witch
     - kynes-correspondences
+    - chevallier-herbal-medicine

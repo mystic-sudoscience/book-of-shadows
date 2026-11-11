@@ -10,5 +10,34 @@ elecampane:
       - avoid if pregnant
       - avoid if nursing
       - do not take internally in high doses; find several sources that have appropriate doses of this herb
+      - can cause skin reactions
+      - avoid internally if pregnant or nursing
+  medicinal:
+    parts used: root
+    key constituents:
+      - inulin
+      - volatile oil with alantol and sesquiterpene lactones including alantolactone
+      - triterpene saponins
+      - phytosterols
+    key actions:
+      - expectorant
+      - soothes coughing
+      - increases sweating
+      - mildly bitter
+      - eliminates worms
+      - antibacterial
+    uses:
+      - chest infections
+      - chronic bronchitis
+      - bronchial asthma
+      - irritable coughs
+      - tonsillitis
+      - poor appetite and dyspepsia
+      - worms
+    preparations:
+      - decoction
+      - syrup
+      - tincture
   citation:
     - cunningham-herbs
+    - chevallier-herbal-medicine

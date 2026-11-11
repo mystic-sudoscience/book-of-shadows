@@ -9,5 +9,25 @@ club moss:
   toxicity:
     notes:
       - not recommended for internal use
+      - potentially toxic in overdose
+      - use only under professional supervision
+  medicinal:
+    parts used: moss, spores
+    key constituents:
+      - alkaloids including lycopodine
+      - polyphenols
+      - flavonoids
+      - triterpenes
+    key actions:
+      - diuretic
+      - sedative
+      - antispasmodic
+    uses:
+      - chronic urinary issues
+      - indigestion and gastritis
+      - itchy skin
+    preparations:
+      - spores
   citation:
     - cunningham-herbs
+    - chevallier-herbal-medicine

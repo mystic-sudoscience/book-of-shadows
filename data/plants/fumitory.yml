@@ -4,5 +4,23 @@ fumitory:
   properties:
     - banish
     - money
+  toxicity:
+    notes:
+      - toxic in excess
+      - use only with professional advice
+  medicinal:
+    parts used: flowering aerial parts
+    key constituents:
+      - isoquinoline alkaloids
+      - flavonoids
+    key actions:
+      - bitter
+      - liver and gallbladder stimulant
+      - diuretic
+      - mild laxative
+    uses:
+      - chronic itchy skin problems
+      - eczema
   citation:
     - cunningham-herbs
+    - chevallier-herbal-medicine

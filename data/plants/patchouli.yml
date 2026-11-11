@@ -46,6 +46,27 @@ patchouli:
     - skills
     - stress
     - wealth
+  toxicity:
+    notes:
+      - do not take essential oil internally
+  medicinal:
+    parts used: young leaves, shoots, essential oil
+    key constituents:
+      - volatile oil, mainly patchoulol and bulnesene
+    key actions:
+      - aphrodisiac
+      - antidepressant
+      - antiseptic
+    uses:
+      - headaches
+      - fever
+      - eczema and acne
+      - skin tone
+      - varicose veins
+      - hemorrhoids
+    preparations:
+      - essential oil
   citation:
     - cunningham-herbs
     - kynes-correspondences
+    - chevallier-herbal-medicine

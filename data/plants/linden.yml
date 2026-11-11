@@ -27,5 +27,31 @@ linden:
     - support
     - transformation
     - warmth
+  medicinal:
+    parts used: flowers, bracts
+    key constituents:
+      - flavonoids including quercetin and kaempferol
+      - caffeic acid
+      - mucilage
+      - tannins
+      - volatile oil
+    key actions:
+      - antispasmodic
+      - promotes sweating
+      - sedative
+      - emollient
+    uses:
+      - tension and sinus headaches
+      - insomnia
+      - stress and panic
+      - nervous palpitations
+      - colds and flu
+      - nasal congestion
+      - fever
+      - high blood pressure
+      - itchy skin
+    preparations:
+      - lotion
   citation:
     - kynes-correspondences
+    - chevallier-herbal-medicine

@@ -1,3 +1,13 @@
+chevallier-herbal-medicine:
+  author:
+    last: Chevallier
+    first: Andrew
+  title: Encyclopedia of Herbal Medicine
+  edition: 3rd American ed.
+  publisher: DK Publishing
+  year: 2016
+  isbn: 978-1-4654-4981-8
+  citation: Chevallier, Andrew. Encyclopedia of Herbal Medicine. 3rd American ed., DK Publishing, 2016.
 cunningham-herbs:
   author:
     last: Cunningham
@@ -33,6 +43,14 @@ morgana-green-witch:
   publisher: Sourcebooks, Inc.
   year: 2024
   citation: Morgana, Rowan. The Green Witch’s Herb and Plant Encyclopedia. Sourcebooks, Inc., 2024.
+riteofritual-apothecary:
+  author:
+    last: Rite of Ritual
+  title: Apothecary
+  website: Rite of Ritual
+  url: riteofritual.com/collections/apothecary
+  accessed: 2026-11-11
+  citation: Rite of Ritual. “Apothecary.” Rite of Ritual, riteofritual.com/collections/apothecary. Accessed 11 Nov. 2026.
 vikingeskibsmuseet-weekdays:
   title: The Names of the Weekdays
   website: Vikingeskibsmuseet i Roskilde

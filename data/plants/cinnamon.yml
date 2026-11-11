@@ -55,7 +55,40 @@ cinnamon:
   toxicity:
     notes:
       - do not abuse internally
+      - may cause allergic reaction in rare cases
+      - excessive doses may cause low blood sugar
+      - do not take essential oil internally
+  medicinal:
+    parts used: inner bark, essential oil
+    key constituents:
+      - volatile oil with cinnamaldehyde and eugenol
+      - phenolics including procyanidins
+      - coumarins
+      - mucilage
+    key actions:
+      - warming stimulant
+      - carminative
+      - antidiabetic
+      - antimicrobial
+      - antifungal
+    uses:
+      - colds and flu
+      - poor circulation
+      - oral thrush
+      - convalescence
+      - period cramps
+      - polycystic ovary syndrome
+      - insulin resistance
+      - nausea and indigestion
+      - flatulence
+      - colic and diarrhea
+    preparations:
+      - infusion
+      - tincture
+      - powder
+      - essential oil
   citation:
     - morgana-green-witch
     - cunningham-herbs
     - kynes-correspondences
+    - chevallier-herbal-medicine

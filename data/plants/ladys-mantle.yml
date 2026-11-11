@@ -17,6 +17,26 @@ lady's mantle:
   toxicity:
     humans: false
     pets: false
+    notes:
+      - avoid if pregnant
+  medicinal:
+    parts used: aerial parts, root
+    key constituents:
+      - tannins
+      - a glycoside
+      - salicylic acid
+    key actions:
+      - astringent
+      - wound healer
+      - progesterogenic
+    uses:
+      - wounds
+      - heavy menstrual bleeding
+      - menstrual cramps
+      - irregular periods
+      - fibroids and endometriosis
+      - diarrhea and gastroenteritis
   citation:
     - morgana-green-witch
     - kynes-correspondences
+    - chevallier-herbal-medicine

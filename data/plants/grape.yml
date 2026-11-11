@@ -25,6 +25,34 @@ grape:
     pets: true
   holidays:
     - mabon
+  medicinal:
+    parts used: leaves, fruit, seeds, sap
+    key constituents:
+      - flavonoids
+      - tannins
+      - tartrates
+      - anthocyanins
+      - fruit acids and sugars
+      - pectin
+      - vitamins a, b1, b2, and c
+    key actions:
+      - astringent
+      - anti-inflammatory
+      - antioxidant
+      - mild laxative
+    uses:
+      - diarrhea
+      - heavy menstrual bleeding
+      - mouth ulcers
+      - vaginal discharge
+      - varicose veins and hemorrhoids
+      - capillary fragility
+      - detoxification
+      - coughs
+    preparations:
+      - infusion of leaves
+      - sap
   citation:
     - morgana-green-witch
     - kynes-correspondences
+    - chevallier-herbal-medicine

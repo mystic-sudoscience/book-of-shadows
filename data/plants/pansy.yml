@@ -12,5 +12,31 @@ pansy:
   toxicity:
     humans: false
     pets: false
+  medicinal:
+    parts used: aerial parts
+    key constituents:
+      - saponins
+      - flavonoids
+      - salicylates
+      - mucilage
+      - gums
+      - resin
+    key actions:
+      - anti-inflammatory
+      - purifying
+      - expectorant
+      - diuretic
+    uses:
+      - eczema
+      - itchiness and hives
+      - bronchitis
+      - whooping cough
+      - dry irritable cough
+      - rheumatism
+      - cystitis and difficult urination
+    preparations:
+      - infusion
+      - syrup
   citation:
     - morgana-green-witch
+    - chevallier-herbal-medicine

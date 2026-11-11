@@ -27,8 +27,36 @@ borage:
   toxicity:
     humans: false
     pets: true
+    notes:
+      - contains pyrrolizidine alkaloids
+      - do not take internally
+      - restricted in some countries
+      - seed oil is exempt from these cautions
   holidays:
     - summer solstice
+  medicinal:
+    parts used: aerial parts, flowers, seed oil
+    key constituents:
+      - mucilage
+      - tannins
+      - pyrrolizidine alkaloids
+      - gamma-linolenic acid in seeds
+    key actions:
+      - demulcent
+      - emollient
+      - diuretic
+      - promotes sweating
+    uses:
+      - respiratory problems
+      - sore and inflamed skin
+      - premenstrual complaints
+      - rheumatic problems
+      - eczema and chronic skin conditions
+    preparations:
+      - juice
+      - poultice
+      - seed oil
   citation:
     - morgana-green-witch
     - kynes-correspondences
+    - chevallier-herbal-medicine

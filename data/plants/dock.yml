@@ -14,6 +14,26 @@ dock:
     pets: true
     notes:
       - may cause kidney stones
+      - avoid if pregnant
+      - avoid if nursing
+  medicinal:
+    parts used: root
+    key constituents:
+      - anthraquinones
+      - tannins
+      - flavonoids
+      - oxalates
+    key actions:
+      - gentle laxative
+      - detoxifying
+      - improves bile flow
+    uses:
+      - constipation
+      - long-term toxic conditions
+      - acne and eczema
+      - fungal infections
+      - arthritic problems
   citation:
     - morgana-green-witch
     - cunningham-herbs
+    - chevallier-herbal-medicine

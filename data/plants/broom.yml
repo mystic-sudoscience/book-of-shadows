@@ -34,11 +34,34 @@ broom:
     pets: true
     notes:
       - safe to handle but should not be ingested or applied to the skin
+      - take internally only under professional supervision
+      - avoid if pregnant
+      - do not take with high blood pressure
+      - restricted in some countries
   notes:
     - also known as gorse. planet and element listed as mars, fire in cunninghams encyclopedia.
   holidays:
     - samhain
+  medicinal:
+    parts used: flowering tops
+    key constituents:
+      - quinolizidine alkaloids including sparteine and lupanine
+      - phenethylamines including tyramine
+      - isoflavones including genistein
+      - flavonoids
+      - volatile oil
+      - caffeic and p-coumaric acids
+      - tannins
+    key actions:
+      - regulates heart rhythm
+      - diuretic
+      - uterine stimulant
+    uses:
+      - fast or irregular heartbeat
+      - fluid retention
+      - blood loss after childbirth
   citation:
     - morgana-green-witch
     - cunningham-herbs
     - kynes-correspondences
+    - chevallier-herbal-medicine

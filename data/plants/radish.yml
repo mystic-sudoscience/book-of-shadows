@@ -4,5 +4,29 @@ radish:
   properties:
     - protection
     - lust
+  toxicity:
+    notes:
+      - avoid if gallstones are present
+  medicinal:
+    parts used: root
+    key constituents:
+      - glucosinolates
+      - raphanin
+      - phenolic compounds
+      - vitamin c
+    key actions:
+      - digestive stimulant
+      - laxative
+      - antibiotic
+      - antioxidant
+    uses:
+      - poor appetite and digestion
+      - gassy indigestion
+      - constipation
+      - abdominal distension
+      - chest problems
+    preparations:
+      - juice of black radish
   citation:
     - cunningham-herbs
+    - chevallier-herbal-medicine

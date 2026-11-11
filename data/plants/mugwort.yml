@@ -47,7 +47,30 @@ mugwort:
       - avoid if pregnant
   holidays:
     - samhain
+  medicinal:
+    parts used: leaves, root
+    key constituents:
+      - volatile oil, mainly caryophyllene
+      - sesquiterpene lactone
+      - flavonoids
+      - coumarin derivatives
+      - triterpenes
+    key actions:
+      - digestive tonic
+      - increases bile flow
+      - mildly promotes menstruation
+      - antiseptic
+      - expels worms
+    uses:
+      - poor appetite and digestion
+      - nutrient absorption
+      - worms
+      - delayed menstruation
+      - malaria
+    preparations:
+      - moxa
   citation:
     - morgana-green-witch
     - cunningham-herbs
     - kynes-correspondences
+    - chevallier-herbal-medicine

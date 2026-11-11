@@ -16,6 +16,31 @@ bloodroot:
       - poison
       - avoid if pregnant
       - may cause nausea, vomiting
+      - take only under professional supervision
+      - induces vomiting except in very small doses
+      - toxic in excess
+      - avoid if pregnant or nursing
+      - avoid with glaucoma
+  medicinal:
+    parts used: rhizome
+    key constituents:
+      - isoquinoline alkaloids including sanguinarine and berberine
+    key actions:
+      - expectorant
+      - antispasmodic
+      - antiseptic
+      - local anesthetic
+    uses:
+      - chronic bronchitis
+      - asthma
+      - whooping cough
+      - sore throats
+      - athlete's foot
+      - warts
+    preparations:
+      - gargle
+      - ointment
   citation:
     - cunningham-herbs
     - kynes-correspondences
+    - chevallier-herbal-medicine

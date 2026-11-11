@@ -4,5 +4,26 @@ apricot:
   element: water
   properties:
     - love
+  toxicity:
+    notes:
+      - seeds are highly toxic and should not be eaten
+  medicinal:
+    parts used: fruit, seeds, bark
+    key constituents:
+      - fruit sugars, vitamins, and iron in fruit
+      - amygdalin in seeds
+      - tannins in bark
+    key actions:
+      - nutritive
+      - mild laxative
+      - astringent
+    uses:
+      - mild constipation
+      - inflamed and irritated skin
+      - coughs and asthma
+      - excessive mucus
+    preparations:
+      - decoction of bark
   citation:
     - cunningham-herbs
+    - chevallier-herbal-medicine

@@ -53,9 +53,33 @@ honeysuckle:
   toxicity:
     humans: false
     pets: true
+    notes:
+      - do not eat the berries
+      - which are thought to be toxic
   holidays:
     - beltane
     - ostara
+  medicinal:
+    parts used: flowers, leaves, bark
+    key constituents:
+      - volatile oil
+      - antiseptic compounds
+    key actions:
+      - antimicrobial
+      - anti-inflammatory
+      - reduces fever
+    uses:
+      - fever and colds
+      - upper respiratory infections
+      - sore throats
+      - conjunctivitis
+      - mastitis
+      - rheumatism
+      - high blood pressure
+    preparations:
+      - gargle of leaves
+      - mouthwash
   citation:
     - morgana-green-witch
     - kynes-correspondences
+    - chevallier-herbal-medicine

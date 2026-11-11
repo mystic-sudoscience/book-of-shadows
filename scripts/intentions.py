@@ -368,6 +368,7 @@ INTENTIONS = [
     "release/dispel fear",
     "remove mental blocks",
     "remove obstacles",
+    "resilience",
     "respect",
     "respect for others",
     "responsibility",

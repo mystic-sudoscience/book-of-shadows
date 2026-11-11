@@ -4,5 +4,28 @@ lemongrass:
   properties:
     - lust
     - psychic ability
+  toxicity:
+    notes:
+      - do not take essential oil internally without professional supervision
+  medicinal:
+    parts used: leaves, essential oil
+    key constituents:
+      - volatile oil with citral and citronellal
+    key actions:
+      - antispasmodic
+      - carminative
+      - reduces fever
+      - sedative
+    uses:
+      - digestive problems
+      - cramping pains and flatulence
+      - fevers with congestion
+      - pain and arthritis
+      - ringworm
+    preparations:
+      - tea
+      - poultice
+      - paste of leaves
   citation:
     - cunningham-herbs
+    - chevallier-herbal-medicine

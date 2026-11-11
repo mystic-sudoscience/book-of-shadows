@@ -7,5 +7,35 @@ hops:
   toxicity:
     notes:
       - may cause depression
+      - do not take if suffering from depression
+  medicinal:
+    parts used: strobiles
+    key constituents:
+      - bitter principles including lupulin, humulon, lupulon, and valerianic acid
+      - volatile oil including humulene
+      - flavonoids
+      - polyphenolic tannins
+      - estrogenic substances
+    key actions:
+      - sedative
+      - soporific
+      - antispasmodic
+      - aromatic bitter
+    uses:
+      - insomnia
+      - irritability and restlessness
+      - stress and anxiety
+      - tension headaches
+      - asthma
+      - period pain
+      - poor digestion
+      - colic
+    preparations:
+      - sachet
+      - tincture
+      - capsules
+      - infusion
+      - tablets
   citation:
     - cunningham-herbs
+    - chevallier-herbal-medicine

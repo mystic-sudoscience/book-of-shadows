@@ -2,5 +2,41 @@ cinchona:
   properties:
     - luck
     - protection
+  toxicity:
+    humans: true
+    notes:
+      - take only under professional supervision
+      - avoid if pregnant
+      - excessive use can cause cinchonism
+      - restricted in some countries
+  medicinal:
+    parts used: bark
+    key constituents:
+      - alkaloids including quinine, quinidine, and cinchonamine
+      - bitter triterpenic glycosides including quinovin
+      - tannins
+      - quinic acid
+    key actions:
+      - bitter
+      - reduces fever
+      - antimalarial
+      - tonic
+      - stimulates the appetite
+      - antispasmodic
+      - astringent
+      - antibacterial
+    uses:
+      - malaria
+      - fevers
+      - weak digestion
+      - low appetite
+      - sore throats
+      - cramps
+      - arthritis
+    preparations:
+      - powder
+      - decoction
+      - tincture
   citation:
     - cunningham-herbs
+    - chevallier-herbal-medicine

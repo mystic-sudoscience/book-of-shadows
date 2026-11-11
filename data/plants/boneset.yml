@@ -7,5 +7,31 @@ boneset:
   toxicity:
     notes:
       - not recommended for internal use
+  medicinal:
+    parts used: aerial parts
+    key constituents:
+      - sesquiterpene lactones including eupafolin
+      - polysaccharides
+      - flavonoids
+      - diterpenes
+      - sterols
+      - volatile oil
+    key actions:
+      - immunostimulant
+      - promotes sweating
+      - reduces fever
+      - expectorant
+      - tonic
+      - laxative
+    uses:
+      - common cold
+      - flu and fevers
+      - allergic rhinitis with mucus
+      - rheumatic illness
+      - skin conditions
+      - worms
+    preparations:
+      - hot infusion
   citation:
     - cunningham-herbs
+    - chevallier-herbal-medicine

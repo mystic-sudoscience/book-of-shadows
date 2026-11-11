@@ -15,5 +15,25 @@ nasturtium:
   toxicity:
     humans: false
     pets: false
+  medicinal:
+    parts used: flowers, leaves, seeds
+    key constituents:
+      - glucosinolates including glucotropaeolin
+      - sulphur glycosides
+      - flavonoids
+      - spilantolic acid
+      - iodide
+    key actions:
+      - antibiotic
+      - expectorant
+      - purgative
+    uses:
+      - bacterial infections
+      - nasal and bronchial congestion
+      - bacterial cystitis
+    preparations:
+      - infusion
+      - wash
   citation:
     - morgana-green-witch
+    - chevallier-herbal-medicine

@@ -21,9 +21,26 @@ foxglove:
     pets: true
     notes:
       - highly toxic
+      - potentially fatal in overdose
+      - use only under professional supervision
+      - restricted
   holidays:
     - summer solstice
+  medicinal:
+    parts used: leaves
+    key constituents:
+      - cardiac glycosides including digoxin, digitoxin, and lanatosides
+      - anthraquinones
+      - flavonoids
+      - saponins
+    key actions:
+      - cardiotonic
+      - diuretic
+    uses:
+      - heart disease
+      - heart failure
   citation:
     - morgana-green-witch
     - cunningham-herbs
     - kynes-correspondences
+    - chevallier-herbal-medicine

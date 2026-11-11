@@ -6,5 +6,36 @@ hemp:
     - love
     - clairvoyance
     - mindfulness
+  toxicity:
+    notes:
+      - controlled substance in many places
+      - check local laws
+  medicinal:
+    parts used: flowering tops of female plants, seeds
+    key constituents:
+      - cannabinoids including thc
+      - flavonoids
+      - volatile oil
+      - alkaloids
+      - seed oil with linoleic, alpha-linolenic, and gamma-linolenic acids
+    key actions:
+      - analgesic
+      - sedative
+      - anti-inflammatory
+      - antiemetic
+      - antispasmodic
+      - lowers blood pressure
+    uses:
+      - chronic pain
+      - nausea during chemotherapy
+      - muscle spasm in multiple sclerosis
+      - glaucoma
+      - asthma
+      - menstrual pain
+      - arthritis and rheumatism
+      - insomnia
+      - loss of appetite
+      - constipation in the elderly
   citation:
     - cunningham-herbs
+    - chevallier-herbal-medicine

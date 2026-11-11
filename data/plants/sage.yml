@@ -66,11 +66,43 @@ sage:
       - avoid if pregnant
       - do not abuse, internally; not for long-term use
       - do not take internally in high doses
+      - avoid medicinal doses if pregnant or nursing
+      - avoid medicinal doses if epileptic
   holidays:
     - mabon
     - samhain
     - yule
+  medicinal:
+    parts used: leaves
+    key constituents:
+      - essential oil
+      - diterpenes
+      - triterpenes
+      - phenolic compounds including rosmarinic acid
+      - tannins
+    key actions:
+      - antiseptic
+      - astringent
+      - clears mucus
+      - nerve tonic
+      - estrogenic
+    uses:
+      - sore throats and throat infections
+      - mouth ulcers and sore gums
+      - irregular or scanty periods
+      - hot flashes and night sweats
+      - reducing breast milk when weaning
+      - poor digestion
+      - memory
+      - high blood fats
+      - diarrhea
+      - bites and stings
+    preparations:
+      - infusion
+      - tincture
+      - fresh leaves
   citation:
     - morgana-green-witch
     - cunningham-herbs
     - kynes-correspondences
+    - chevallier-herbal-medicine

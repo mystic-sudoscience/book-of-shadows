@@ -16,6 +16,37 @@ cardamon:
     - magic
     - sleep
     - unity
+  toxicity:
+    notes:
+      - do not take essential oil internally
+  medicinal:
+    parts used: seeds, seed pods
+    key constituents:
+      - volatile oil
+      - alkaloids
+      - flavonoids
+      - saponins
+      - sterols
+    key actions:
+      - digestive tonic
+      - protects liver
+      - mild stimulant
+      - antispasmodic
+    uses:
+      - indigestion
+      - gas and bloating
+      - cramping
+      - irritable bowel syndrome
+      - poor appetite
+      - bad breath
+      - asthma and bronchitis
+      - urinary incontinence
+      - aphrodisiac
+    preparations:
+      - infusion
+      - tincture
+      - essential oil
   citation:
     - cunningham-herbs
     - kynes-correspondences
+    - chevallier-herbal-medicine

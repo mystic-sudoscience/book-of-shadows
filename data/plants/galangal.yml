@@ -46,7 +46,37 @@ galangal:
     - support
     - well-being
   notes: null
+  medicinal:
+    parts used: rhizome
+    key constituents:
+      - volatile oil with alpha-pinene, cineole, and linalool
+      - sesquiterpene lactones including galangol and galangin
+      - diterpenes
+      - flavonoids
+    key actions:
+      - warming digestive tonic
+      - carminative
+      - anti-inflammatory
+      - anti-emetic
+      - antibacterial
+      - antifungal
+      - antitumor
+    uses:
+      - gas and indigestion
+      - nausea and vomiting
+      - motion sickness
+      - hiccups
+      - abdominal pain
+      - diarrhea
+      - mouth ulcers and sore gums
+      - intestinal candidiasis
+      - osteoarthritis
+    preparations:
+      - decoction
+      - powder
+      - tincture
   citation:
     - morgana-green-witch
     - cunningham-herbs
     - kynes-correspondences
+    - chevallier-herbal-medicine

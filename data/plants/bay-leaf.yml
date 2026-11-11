@@ -10,5 +10,31 @@ bay leaf:
     - healing
     - purification
     - prophecy
+  toxicity:
+    notes:
+      - never take essential oil internally
+      - essential oil may cause allergic reaction
+      - apply essential oil only well diluted
+  medicinal:
+    parts used: leaves, essential oil
+    key constituents:
+      - volatile oil with cineole, linalool, alpha-pinene, and alpha-terpineol acetate
+      - mucilage
+      - tannin
+      - resin
+    key actions:
+      - tonic
+      - digestive stimulant
+      - promotes menstruation
+    uses:
+      - upper digestive disorders
+      - poor appetite
+      - digesting heavy food
+      - arthritic aches
+      - aching muscles and joints
+    preparations:
+      - essential oil
+      - decoction
   citation:
     - morgana-green-witch
+    - chevallier-herbal-medicine

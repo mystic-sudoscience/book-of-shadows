@@ -26,8 +26,29 @@ sweet woodruff:
     pets: false
     notes:
       - humans: nontoxic in small amounts
+      - excessive doses can cause internal bleeding
+      - do not use with medication for circulatory problems
+      - avoid if pregnant
   holidays:
     - beltane
+  medicinal:
+    parts used: aerial parts
+    key constituents:
+      - iridoids
+      - coumarins
+      - tannins
+      - anthraquinones
+      - flavonoids
+    key actions:
+      - tonic
+      - diuretic
+      - anti-inflammatory
+      - antispasmodic
+    uses:
+      - varicose veins
+      - phlebitis
+      - insomnia
   citation:
     - morgana-green-witch
     - kynes-correspondences
+    - chevallier-herbal-medicine

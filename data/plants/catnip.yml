@@ -31,7 +31,27 @@ catnip:
   toxicity:
     notes:
       - avoid if pregnant
+  medicinal:
+    parts used: aerial parts
+    key constituents:
+      - iridoids
+      - tannins
+      - volatile oil with nepetalactones, citronellol, and geraniol
+    key actions:
+      - sedative
+      - promotes sweating
+      - reduces fever
+      - carminative
+    uses:
+      - colds, flu, and fever in children
+      - indigestion and colic
+      - digestive headaches
+      - digestive infections
+      - rheumatism and arthritis
+    preparations:
+      - tincture
   citation:
     - morgana-green-witch
     - cunningham-herbs
     - kynes-correspondences
+    - chevallier-herbal-medicine

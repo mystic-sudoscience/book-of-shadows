@@ -43,6 +43,26 @@ heather:
     pets: false
   holidays:
     - summer solstice
+  medicinal:
+    parts used: flowering tips
+    key constituents:
+      - flavonoids
+      - arbutin
+      - tannin
+      - alkaloid ericodin
+    key actions:
+      - urinary antiseptic
+      - diuretic
+      - detoxifying
+    uses:
+      - cystitis
+      - inflammatory bladder conditions
+      - kidney and bladder stones
+      - rheumatism, arthritis, and gout
+      - chilblains
+    preparations:
+      - hot poultice
   citation:
     - morgana-green-witch
     - kynes-correspondences
+    - chevallier-herbal-medicine

@@ -5,5 +5,26 @@ alfalfa:
   properties:
     - prosperity
     - money
+  toxicity:
+    notes:
+      - do not take with warfarin
+      - avoid sprouted seeds when immunocompromised
+      - avoid large amounts if pregnant or with autoimmune disease
+  medicinal:
+    parts used: aerial parts, seeds, sprouting seeds
+    key constituents:
+      - isoflavones
+      - coumarins
+      - alkaloids
+      - vitamins
+      - porphyrins
+    key actions:
+      - estrogenic
+      - lowers cholesterol
+    uses:
+      - high cholesterol
+      - menstrual problems
+      - menopausal symptoms
   citation:
     - cunningham-herbs
+    - chevallier-herbal-medicine

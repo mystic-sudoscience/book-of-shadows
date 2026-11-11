@@ -27,8 +27,40 @@ witch hazel:
   toxicity:
     humans: false
     pets: true
+    notes:
+      - take internally only under professional supervision
   holidays:
     - samhain
+  medicinal:
+    parts used: leaves, bark, twigs
+    key constituents:
+      - tannins
+      - flavonoids
+      - bitter principle
+      - volatile oil
+    key actions:
+      - astringent
+      - anti-inflammatory
+      - stops external and internal bleeding
+    uses:
+      - eczema and inflamed skin
+      - skin rashes
+      - broken veins
+      - varicose veins
+      - hemorrhoids
+      - bruises
+      - cleansing wounds
+      - insect stings
+      - inflamed eyes
+      - cysts
+      - diarrhea
+    preparations:
+      - distilled witch hazel
+      - tincture
+      - ointment
+      - infusion
+      - eyewash
   citation:
     - morgana-green-witch
     - kynes-correspondences
+    - chevallier-herbal-medicine

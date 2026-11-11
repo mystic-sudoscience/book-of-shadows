@@ -66,7 +66,26 @@ cedar:
   toxicity:
     notes:
       - avoid if pregnant
+      - do not take essential oil internally except under professional supervision
+  medicinal:
+    parts used: leaves, wood, essential oil
+    key constituents:
+      - essential oil mainly alpha-pinene
+    key actions:
+      - antiseptic
+      - expectorant
+      - astringent
+      - diuretic
+      - sedative
+    uses:
+      - congestion
+      - chest infections
+      - cystitis
+      - skin wounds and ulcers
+    preparations:
+      - essential oil
   citation:
     - morgana-green-witch
     - cunningham-herbs
     - kynes-correspondences
+    - chevallier-herbal-medicine

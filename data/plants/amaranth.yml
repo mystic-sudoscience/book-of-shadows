@@ -10,6 +10,22 @@ amaranth:
     - healing
     - heartbreak
     - protection
+  medicinal:
+    parts used: aerial parts
+    key constituents:
+      - tannins including a red pigment
+    key actions:
+      - astringent
+    uses:
+      - heavy menstrual bleeding
+      - excessive vaginal discharge
+      - diarrhea and dysentery
+      - sore throat
+      - canker sores
+    preparations:
+      - decoction
+      - gargle
   citation:
     - cunningham-herbs
     - kynes-correspondences
+    - chevallier-herbal-medicine

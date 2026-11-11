@@ -30,7 +30,38 @@ flax:
   toxicity:
     notes:
       - use an adequate amount of liquid if seed is used internally
+      - do not use immature seeds
+      - which may be toxic
+  medicinal:
+    parts used: seeds, oil
+    key constituents:
+      - fixed oil, mostly alpha-linolenic acid
+      - protein
+      - fiber
+      - mucilage
+      - sterols
+      - lignans
+    key actions:
+      - demulcent
+      - emollient
+      - laxative
+      - phytoestrogenic
+      - cancer-fighting
+    uses:
+      - chronic constipation
+      - colitis and irritable bowel
+      - hemorrhoids
+      - chronic coughs and bronchitis
+      - chronic cystitis
+      - boils and carbuncles
+      - menopausal symptoms
+      - heart and circulatory health
+    preparations:
+      - oil
+      - cracked or ground seed
+      - flour
   citation:
     - cunningham-herbs
     - morgana-green-witch
     - kynes-correspondences
+    - chevallier-herbal-medicine

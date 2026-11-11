@@ -4,5 +4,37 @@ rhubarb:
   properties:
     - protection
     - fidelity
+  toxicity:
+    notes:
+      - avoid if pregnant
+      - avoid if nursing
+      - do not take during menstruation
+      - do not take if prone to gout or kidney stones
+      - not suitable for children
+  medicinal:
+    parts used: rhizome
+    key constituents:
+      - anthraquinones including rhein, aloe-emodin, and emodin
+      - flavonoids including catechin
+      - phenolic acids
+      - tannins
+      - calcium oxalate
+    key actions:
+      - laxative
+      - anti-inflammatory
+      - astringent
+      - stops bleeding
+      - antibacterial
+    uses:
+      - occasional constipation
+      - diarrhea
+      - low appetite
+      - mouth ulcers
+      - burns and boils
+    preparations:
+      - decoction
+      - tablets
+      - tincture
   citation:
     - cunningham-herbs
+    - chevallier-herbal-medicine

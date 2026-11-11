@@ -3,5 +3,34 @@ oats:
   element: earth
   properties:
     - money
+  medicinal:
+    parts used: seeds, straw
+    key constituents:
+      - saponins
+      - alkaloids
+      - sterols
+      - flavonoids
+      - silicic acid
+      - starch
+      - proteins including gluten
+      - b vitamins
+      - minerals, especially calcium
+    key actions:
+      - tonic
+      - mild antidepressant
+      - nervine
+      - emollient
+      - lowers cholesterol
+    uses:
+      - general debility
+      - depression
+      - nervous exhaustion and stress
+      - insomnia from nervous exhaustion
+      - convalescence
+      - high cholesterol
+      - itchiness and eczema
+    preparations:
+      - decoction
   citation:
     - cunningham-herbs
+    - chevallier-herbal-medicine

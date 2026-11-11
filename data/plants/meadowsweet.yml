@@ -23,8 +23,41 @@ meadowsweet:
   toxicity:
     humans: false
     pets: false
+    notes:
+      - do not take if allergic to aspirin
   holidays:
     - summer solstice
+  medicinal:
+    parts used: flowering tops, leaves
+    key constituents:
+      - flavonol glycosides including quercetin glycosides
+      - phenolic glycosides including salicylates
+      - volatile oil including salicylaldehyde
+      - tannins
+    key actions:
+      - anti-inflammatory
+      - antirheumatic
+      - astringent
+      - diuretic
+      - stimulates sweating
+    uses:
+      - acid indigestion and heartburn
+      - gastroesophageal reflux
+      - gastritis
+      - osteoarthritis and gout
+      - lumbago and sciatica
+      - diarrhea
+      - irritable bowel syndrome
+      - headache
+      - colds and flu
+      - toothache
+    preparations:
+      - tincture
+      - tablets
+      - infusion
+      - decoction
+      - powder
   citation:
     - morgana-green-witch
     - kynes-correspondences
+    - chevallier-herbal-medicine

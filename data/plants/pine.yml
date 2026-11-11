@@ -56,6 +56,24 @@ pine:
     pets: true
     notes:
       - mildly toxic
+      - do not use if prone to allergic skin reactions
+      - do not take essential oil internally except under professional supervision
+  medicinal:
+    parts used: leaves, branches, stems, seeds, essential oil
+    key constituents:
+      - volatile oil, mainly alpha-pinene
+      - resin
+      - bitter principles
+    key actions:
+      - antiseptic
+      - diuretic
+      - respiratory stimulant
+    uses:
+      - chest infections
+      - asthma and bronchitis
+      - arthritic and rheumatic problems
+      - gas
   citation:
     - morgana-green-witch
     - kynes-correspondences
+    - chevallier-herbal-medicine

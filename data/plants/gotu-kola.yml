@@ -1,5 +1,39 @@
 gotu kola:
   properties:
     - mindfulness
+  toxicity:
+    notes:
+      - can cause sensitivity to sunlight
+      - may cause allergic reaction in rare cases
+      - restricted in some countries
+  medicinal:
+    parts used: aerial parts
+    key constituents:
+      - triterpenoid saponins including asiaticoside, brahmoside, and thankuniside
+      - alkaloids including hydrocotyline
+      - bitter principles including vellarin
+    key actions:
+      - wound healer
+      - tonic
+      - anti-inflammatory
+      - sedative
+      - peripheral vasodilator
+    uses:
+      - wounds and skin ulcers
+      - preventing scarring
+      - psoriasis
+      - eczema
+      - arthritis and rheumatism
+      - varicose veins
+      - chronic venous insufficiency
+      - poor memory and concentration
+      - anxiety
+      - maintaining vitality
+    preparations:
+      - powder
+      - paste
+      - infusion
+      - tincture
   citation:
     - cunningham-herbs
+    - chevallier-herbal-medicine

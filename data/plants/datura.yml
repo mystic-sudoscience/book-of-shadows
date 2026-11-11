@@ -16,6 +16,28 @@ datura:
     pets: true
     notes:
       - extremely poisonous—do not eat! sensitive skin may be irritated simply by touching the plant
+      - take only under professional supervision
+      - toxic beyond small doses
+      - restricted in most countries
+  medicinal:
+    parts used: leaves, flowering tops, seeds
+    key constituents:
+      - tropane alkaloids including hyoscyamine and hyoscine
+      - flavonoids
+      - steroidal lactones
+      - withanolides
+      - coumarins
+      - tannins
+    key actions:
+      - antispasmodic
+      - reduces secretions
+    uses:
+      - asthma
+      - whooping cough
+      - muscle spasms
+      - parkinsonism
+      - rheumatic pain and neuralgia
   citation:
     - morgana-green-witch
     - cunningham-herbs
+    - chevallier-herbal-medicine

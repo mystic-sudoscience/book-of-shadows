@@ -31,6 +31,26 @@ gardenia:
   toxicity:
     humans: false
     pets: true
+    notes:
+      - avoid with diarrhea
+      - do not take with prescribed blood pressure medication
+  medicinal:
+    parts used: fruit
+    key constituents:
+      - iridoid glycosides
+    key actions:
+      - cooling
+      - stops bleeding
+      - antiseptic
+    uses:
+      - fever
+      - irritability and restlessness
+      - insomnia
+      - cystitis and painful urination
+      - jaundice
+      - nosebleeds
+      - urinary and rectal bleeding
   citation:
     - morgana-green-witch
     - kynes-correspondences
+    - chevallier-herbal-medicine

@@ -31,6 +31,44 @@ fennel:
     - stress
     - warmth
   notes: null
+  toxicity:
+    notes:
+      - seeds are potentially toxic
+      - do not exceed recommended dose
+      - do not take essential oil internally
+  medicinal:
+    parts used: seeds, essential oil
+    key constituents:
+      - volatile oil mostly anethole with fenchone and methylchavicol
+      - flavonoids
+      - coumarins including bergapten
+      - sterols
+    key actions:
+      - carminative
+      - antispasmodic
+      - diuretic
+      - anti-inflammatory
+      - mild expectorant
+      - estrogenic
+      - increases breast milk
+    uses:
+      - bloating and gas
+      - stomach pain and spasm
+      - acidity and indigestion
+      - poor appetite
+      - kidney stones
+      - cystitis
+      - sore throats
+      - infant colic and teething
+      - low breast milk
+      - sore eyes and conjunctivitis
+      - morning sickness and nausea
+      - menopausal symptoms
+    preparations:
+      - infusion
+      - syrup
+      - eyewash
   citation:
     - morgana-green-witch
     - kynes-correspondences
+    - chevallier-herbal-medicine

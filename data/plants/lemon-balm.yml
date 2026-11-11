@@ -29,6 +29,42 @@ lemon balm:
   toxicity:
     humans: false
     pets: false
+    notes:
+      - do not take essential oil internally except under professional supervision
+  medicinal:
+    parts used: aerial parts
+    key constituents:
+      - volatile oil with citral, caryophyllene oxide, linalool, and citronellal
+      - flavonoids
+      - triterpenes
+      - polyphenols
+      - tannins
+    key actions:
+      - relaxant
+      - antispasmodic
+      - increases sweating
+      - carminative
+      - antiviral
+      - nerve tonic
+    uses:
+      - anxiety and mild depression
+      - restlessness and irritability
+      - nervous palpitations
+      - nervous headaches
+      - indigestion, nausea, and bloating
+      - cold sores
+      - shingles and chicken pox
+      - cuts and insect stings
+      - fevers and flu
+      - overactive thyroid
+    preparations:
+      - essential oil
+      - infusion
+      - tincture
+      - lotion
+      - juice
+      - ointment
   citation:
     - morgana-green-witch
     - kynes-correspondences
+    - chevallier-herbal-medicine

@@ -3,5 +3,40 @@ fenugreek:
   element: air
   properties:
     - money
+  toxicity:
+    notes:
+      - avoid if pregnant
+  medicinal:
+    parts used: seeds
+    key constituents:
+      - volatile oil
+      - alkaloids including trigonelline
+      - saponins based on diosgenin
+      - flavonoids
+      - mucilage
+      - protein
+      - fixed oil
+      - vitamins a, b1, and c
+    key actions:
+      - nutritive
+      - demulcent
+      - reduces fever
+      - increases breast milk
+      - antidiabetic
+      - lowers cholesterol
+    uses:
+      - convalescence and weight gain
+      - fever
+      - gastritis and gastric ulcers
+      - low breast milk
+      - insulin resistance and type 2 diabetes
+      - high cholesterol
+      - menstrual cramps
+      - abscesses, boils, and burns
+      - excessive vaginal discharge
+    preparations:
+      - paste
+      - douche
   citation:
     - cunningham-herbs
+    - chevallier-herbal-medicine

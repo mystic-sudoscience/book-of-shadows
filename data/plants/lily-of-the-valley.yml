@@ -24,6 +24,20 @@ lily of the valley:
   toxicity:
     notes:
       - poison
+      - use only under professional supervision
+      - restricted in some countries
+  medicinal:
+    parts used: leaves, flowers
+    key constituents:
+      - cardiac glycosides including convallotoxin and convalloside
+      - flavonoid glycosides
+    key actions:
+      - cardiotonic
+      - diuretic
+    uses:
+      - heart failure
+      - irregular heartbeat
   citation:
     - cunningham-herbs
     - kynes-correspondences
+    - chevallier-herbal-medicine

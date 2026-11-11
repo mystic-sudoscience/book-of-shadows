@@ -13,5 +13,30 @@ queen anne's lace:
     pets: false
     notes:
       - edible with certain identification, though can cause issues with fertility
+      - do not take seeds if pregnant
+  medicinal:
+    parts used: seeds, root, leaves
+    key constituents:
+      - flavonoids
+      - volatile oil including asarone, carotol, pinene, and limonene
+      - carotene
+      - porphyrins in leaves
+    key actions:
+      - diuretic
+      - detoxifying
+      - carminative
+      - promotes menstruation
+      - expels worms
+    uses:
+      - liver support
+      - cystitis
+      - kidney stones
+      - threadworms
+      - flatulence
+      - hangovers
+    preparations:
+      - juice
+      - grated raw root
   citation:
     - morgana-green-witch
+    - chevallier-herbal-medicine

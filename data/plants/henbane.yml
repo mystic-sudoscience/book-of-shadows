@@ -24,7 +24,29 @@ henbane:
     pets: true
     notes:
       - all parts are deadly poison if ingested; always wear gloves when handling
+      - use only under professional supervision
+      - potentially toxic in overdose
+      - restricted in some countries
+  medicinal:
+    parts used: leaves, flowering tops
+    key constituents:
+      - tropane alkaloids including hyoscyamine and hyoscine
+      - flavonoids
+    key actions:
+      - sedative
+      - analgesic
+      - antispasmodic
+      - reduces secretions
+    uses:
+      - urinary tract pain and kidney stones
+      - abdominal cramping
+      - parkinson's disease
+      - asthma and bronchitis
+      - neuralgia, sciatica, and rheumatism
+    preparations:
+      - oil
   citation:
     - morgana-green-witch
     - cunningham-herbs
     - kynes-correspondences
+    - chevallier-herbal-medicine

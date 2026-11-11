@@ -51,8 +51,30 @@ rowan:
   toxicity:
     humans: false
     pets: false
+    notes:
+      - seeds are toxic
+      - remove before use
   holidays:
     - imbolc
+  medicinal:
+    parts used: fruit
+    key constituents:
+      - tannins
+      - sorbitol
+      - malic and sorbic acids
+      - sugars
+      - vitamin c
+    key actions:
+      - astringent
+    uses:
+      - diarrhea
+      - hemorrhoids
+      - sore throats
+      - excessive vaginal discharge
+    preparations:
+      - jam
+      - infusion
   citation:
     - morgana-green-witch
     - kynes-correspondences
+    - chevallier-herbal-medicine

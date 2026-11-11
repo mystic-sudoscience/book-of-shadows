@@ -51,9 +51,51 @@ marigold:
   toxicity:
     humans: false
     pets: false
+    notes:
+      - may cause allergic reaction in rare cases
   holidays:
     - beltane
     - mabon
+  medicinal:
+    parts used: flowers, petals
+    key constituents:
+      - triterpenes
+      - resins
+      - bitter glycosides
+      - volatile oil
+      - phytosterols
+      - flavonoids
+      - mucilage
+      - carotenes
+    key actions:
+      - anti-inflammatory
+      - relieves muscle spasms
+      - astringent
+      - prevents hemorrhaging
+      - heals wounds
+      - antimicrobial
+      - detoxifying
+      - mildly estrogenic
+    uses:
+      - cuts, scrapes, and wounds
+      - minor burns and sunburn
+      - acne and rashes
+      - fungal infections such as ringworm, athlete's foot, and thrush
+      - diaper rash and cradle cap
+      - sore nipples
+      - gastritis and peptic ulcers
+      - colitis
+      - eczema
+      - period pain
+      - varicose veins
+      - bites and stings
+    preparations:
+      - infusion
+      - infused oil
+      - tincture
+      - cream
+      - ointment
   citation:
     - morgana-green-witch
     - kynes-correspondences
+    - chevallier-herbal-medicine

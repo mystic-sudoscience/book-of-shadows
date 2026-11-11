@@ -16,6 +16,33 @@ pepper:
     - motivation
     - protection
     - security
+  toxicity:
+    notes:
+      - do not take essential oil internally without professional supervision
+  medicinal:
+    parts used: fruit, essential oil
+    key constituents:
+      - volatile oil with beta-bisabolene, camphene, and beta-caryophyllene
+      - alkaloids, especially piperine
+      - proteins
+      - minerals
+    key actions:
+      - stimulant
+      - antiseptic
+      - antibacterial
+      - reduces fever
+      - warming
+    uses:
+      - nausea and stomachache
+      - flatulence and bloating
+      - constipation
+      - lack of appetite
+      - rheumatic pain
+      - back pain
+      - toothache
+    preparations:
+      - essential oil
   citation:
     - cunningham-herbs
     - kynes-correspondences
+    - chevallier-herbal-medicine

@@ -34,7 +34,29 @@ periwinkle:
       - may cause low blood pressure
       - may cause hypotension
       - may cause constipation
+      - avoid if pregnant
+  medicinal:
+    parts used: leaves
+    key constituents:
+      - indole alkaloids including vincamine, vincine, and vincaminine
+      - bisindole alkaloid vincarubine
+      - tannins
+    key actions:
+      - astringent
+      - stops bleeding
+      - increases blood flow to the brain
+    uses:
+      - sore throats
+      - gingivitis and mouth ulcers
+      - internal bleeding
+      - heavy menstrual bleeding
+      - nosebleeds
+      - arteriosclerosis
+      - dementia from poor blood flow
+    preparations:
+      - mouthwash
   citation:
     - morgana-green-witch
     - cunningham-herbs
     - kynes-correspondences
+    - chevallier-herbal-medicine

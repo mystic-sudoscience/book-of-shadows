@@ -19,8 +19,37 @@ skullcap:
   toxicity:
     humans: false
     pets: false
+    notes:
+      - best taken under professional supervision
   holidays:
     - mabon
+  medicinal:
+    parts used: aerial parts
+    key constituents:
+      - flavonoids including scutellarin
+      - bitter iridoids including catalpol
+      - volatile oil
+      - tannins
+    key actions:
+      - sedative
+      - nervine tonic
+      - antispasmodic
+      - mild bitter
+    uses:
+      - stress and anxiety
+      - nervous tension
+      - nervous exhaustion
+      - insomnia
+      - muscle tension from stress
+      - headaches and migraine
+      - panic attacks
+      - period pain
+    preparations:
+      - tablets
+      - infusion
+      - tincture
+      - capsules
   citation:
     - morgana-green-witch
     - kynes-correspondences
+    - chevallier-herbal-medicine

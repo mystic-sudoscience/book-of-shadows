@@ -52,6 +52,40 @@ clove:
     - truth
     - warmth
     - weather
+  toxicity:
+    notes:
+      - external use can cause dermatitis
+      - do not take essential oil internally except under professional supervision
+  medicinal:
+    parts used: flower buds, essential oil
+    key constituents:
+      - volatile oil with eugenol, acetyl eugenol, methyl salicylate, pinene, and vanillin
+      - gum
+      - tannins
+    key actions:
+      - antiseptic
+      - carminative
+      - stimulant
+      - analgesic
+      - prevents vomiting
+      - antispasmodic
+      - eliminates parasites
+    uses:
+      - toothache
+      - gas, colic, and bloating
+      - coughs
+      - muscle spasms
+      - neuralgia
+      - fever
+      - acne and boils
+      - skin ulcers and styes
+      - fungal skin infections
+      - insect repellent
+    preparations:
+      - infusion
+      - essential oil
+      - tincture
   citation:
     - cunningham-herbs
     - kynes-correspondences
+    - chevallier-herbal-medicine

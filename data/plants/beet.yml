@@ -3,5 +3,23 @@ beet:
   element: earth
   properties:
     - love
+  medicinal:
+    parts used: root
+    key constituents:
+      - betaine
+      - betanin
+      - inorganic nitrate
+    key actions:
+      - supports liver function
+      - lowers blood pressure
+      - immune enhancing
+    uses:
+      - high blood fat levels
+      - liver, bile duct, and gallbladder support
+      - high blood pressure
+      - immune support
+    preparations:
+      - juice
   citation:
     - cunningham-herbs
+    - chevallier-herbal-medicine

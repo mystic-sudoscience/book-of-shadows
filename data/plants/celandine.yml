@@ -9,5 +9,28 @@ celandine:
   toxicity:
     notes:
       - poison
+      - use only under professional supervision
+      - can cause liver damage in rare cases
+      - restricted in some countries
+  medicinal:
+    parts used: aerial parts, latex
+    key constituents:
+      - isoquinoline alkaloids including allocryptopine, berberine, chelidonine, and sparteine
+    key actions:
+      - mild sedative
+      - antispasmodic
+      - analgesic
+      - improves bile flow
+    uses:
+      - bronchitis
+      - whooping cough
+      - asthma
+      - jaundice and gallstones
+      - gallbladder pain
+      - eczema
+      - warts and ringworm
+    preparations:
+      - latex
   citation:
     - cunningham-herbs
+    - chevallier-herbal-medicine

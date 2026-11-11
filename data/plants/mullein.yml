@@ -47,6 +47,29 @@ mullein:
   toxicity:
     humans: false
     pets: false
+  medicinal:
+    parts used: leaves, flowers
+    key constituents:
+      - mucilage
+      - flavonoids
+      - triterpenoid saponins
+      - volatile oil
+      - tannins
+    key actions:
+      - expectorant
+      - reduces mucus
+      - emollient
+      - wound healer
+    uses:
+      - coughs and congestion
+      - tracheitis and bronchitis
+      - wounds
+      - ear infections
+      - hemorrhoids
+    preparations:
+      - infusion
+      - infused oil of flowers
   citation:
     - morgana-green-witch
     - kynes-correspondences
+    - chevallier-herbal-medicine

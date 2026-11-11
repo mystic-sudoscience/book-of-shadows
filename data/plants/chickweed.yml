@@ -11,6 +11,35 @@ chickweed:
   toxicity:
     notes:
       - harvest from fertilizer-free environments
+      - excessive doses may cause diarrhea and vomiting
+      - avoid if pregnant
+  medicinal:
+    parts used: aerial parts
+    key constituents:
+      - triterpenoid saponins
+      - coumarins
+      - flavonoids
+      - carboxylic acids
+      - vitamin c
+    key actions:
+      - emollient
+      - anti-itch
+      - anti-inflammatory
+    uses:
+      - irritated and itchy skin
+      - eczema
+      - varicose ulcers
+      - hives
+      - diaper rash
+      - rheumatic joints
+      - chest ailments
+    preparations:
+      - juice
+      - poultice
+      - ointment
+      - cream
+      - infusion
   citation:
     - morgana-green-witch
     - cunningham-herbs
+    - chevallier-herbal-medicine

@@ -25,6 +25,27 @@ myrtle:
   toxicity:
     notes:
       - may disturb some part of the digestive system if used internally
+      - do not take essential oil internally except with professional advice
+  medicinal:
+    parts used: leaves, essential oil
+    key constituents:
+      - tannins
+      - flavonoids
+      - volatile oil with alpha-pinene, cineole, and myrtenol
+    key actions:
+      - astringent
+      - tonic
+      - antiseptic
+      - reduces mucus
+    uses:
+      - wounds and ulcers
+      - digestive disorders
+      - urinary disorders
+      - bronchial and lung infections
+    preparations:
+      - infusion
+      - essential oil
   citation:
     - cunningham-herbs
     - kynes-correspondences
+    - chevallier-herbal-medicine

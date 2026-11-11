@@ -8,5 +8,26 @@ blue flag:
       - poison
       - avoid if pregnant
       - may cause nausea, vomiting
+      - excessive doses cause vomiting
+  medicinal:
+    parts used: rhizome
+    key constituents:
+      - triterpenoids
+      - salicylic and isophthalic acids
+      - volatile oil
+      - starch
+      - resin and oleoresin
+      - tannins
+    key actions:
+      - detoxifying
+      - diuretic
+      - increases bile production
+      - mild laxative
+    uses:
+      - acne and eczema
+      - chronic skin diseases
+      - biliousness and indigestion
+      - gland problems
   citation:
     - cunningham-herbs
+    - chevallier-herbal-medicine

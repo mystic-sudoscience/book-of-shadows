@@ -32,6 +32,43 @@ nettle:
   toxicity:
     humans: false
     pets: false
+  medicinal:
+    parts used: aerial parts, leaves, root, seeds
+    key constituents:
+      - flavonoids including quercetin
+      - amines including histamine, choline, acetylcholine, and serotonin
+      - glucoquinone
+      - minerals including calcium, potassium, silicic acid, and iron
+      - plant sterols
+      - phenols
+    key actions:
+      - diuretic
+      - tonic
+      - astringent
+      - prevents hemorrhaging
+      - anti-allergenic
+      - reduces prostate enlargement
+      - anti-inflammatory
+    uses:
+      - hay fever and allergies
+      - mild asthma
+      - itchy skin and hives
+      - eczema
+      - arthritis
+      - anemia
+      - heavy menstrual bleeding
+      - nosebleeds
+      - enlarged prostate
+      - insect bites
+      - diaper rash
+    preparations:
+      - decoction of root
+      - ointment
+      - capsules
+      - infusion
+      - tincture of root
+      - soup
   citation:
     - morgana-green-witch
     - kynes-correspondences
+    - chevallier-herbal-medicine

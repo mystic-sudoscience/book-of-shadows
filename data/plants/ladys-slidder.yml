@@ -3,5 +3,10 @@ lady's slidder:
   element: water
   properties:
     - protection
+  toxicity:
+    notes:
+      - rare
+      - should no longer be used medicinally
   citation:
     - cunningham-herbs
+    - chevallier-herbal-medicine

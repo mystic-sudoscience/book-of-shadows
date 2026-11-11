@@ -25,7 +25,27 @@ horehound:
     notes:
       - humans: nontoxic in small amounts
       - avoid if pregnant
+  medicinal:
+    parts used: leaves
+    key constituents:
+      - diterpenes including marrubiin and marrubenol
+      - tannins
+      - volatile oil
+    key actions:
+      - expectorant
+      - bitter tonic
+      - normalizes heart rhythm
+    uses:
+      - wheeziness
+      - bronchitis and bronchiectasis
+      - bronchial asthma
+      - non-productive coughs
+      - whooping cough
+      - poor appetite
+      - type 2 diabetes
+      - irregular heartbeat
   citation:
     - morgana-green-witch
     - cunningham-herbs
     - kynes-correspondences
+    - chevallier-herbal-medicine

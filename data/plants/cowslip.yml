@@ -27,9 +27,33 @@ cowslip:
     pets: true
     notes:
       - nontoxic in small amounts
+      - avoid if pregnant
+      - do not take if allergic to aspirin or using anticoagulants
+      - excessive doses can cause vomiting and diarrhea
   holidays:
     - ostara
+  medicinal:
+    parts used: flowers, leaves, root
+    key constituents:
+      - triterpenoid saponins
+      - flavonoids
+      - phenols
+      - tannins
+      - volatile oil
+    key actions:
+      - expectorant
+      - sedative
+      - antispasmodic
+      - anti-inflammatory
+      - mild diuretic
+    uses:
+      - chronic coughs
+      - chronic bronchitis and mucus congestion
+      - overactivity and sleeplessness in children
+      - asthma and allergies
+      - rheumatism
   citation:
     - morgana-green-witch
     - cunningham-herbs
     - kynes-correspondences
+    - chevallier-herbal-medicine

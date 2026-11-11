@@ -24,6 +24,31 @@ raspberry:
     pets: true
     notes:
       - pets: berries are not toxic; those who are pregnant or breastfeeding should not ingest raspberry leaves
+      - do not take medicinally in early pregnancy
+  medicinal:
+    parts used: leaves, fruit
+    key constituents:
+      - polyphenols, especially anthocyanins
+      - pectin
+      - fruit sugars and acids
+    key actions:
+      - astringent
+      - uterine tonic
+      - antioxidant
+      - anti-inflammatory
+    uses:
+      - preparing for childbirth
+      - diarrhea
+      - conjunctivitis
+      - mouth problems
+      - ulcers and wounds
+      - excessive vaginal discharge
+    preparations:
+      - decoction
+      - eyewash
+      - mouthwash
+      - lotion
   citation:
     - morgana-green-witch
     - kynes-correspondences
+    - chevallier-herbal-medicine

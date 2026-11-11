@@ -31,6 +31,29 @@ aspen:
     - well-being
   notes:
     - see poplar
+  toxicity:
+    notes:
+      - do not take if allergic to aspirin
+  medicinal:
+    parts used: bark
+    key constituents:
+      - phenolic glycosides including salicin and populin
+      - tannins
+    key actions:
+      - anti-inflammatory
+      - analgesic
+      - reduces fever
+      - astringent
+      - antiseptic
+      - tonic
+    uses:
+      - arthritic and rheumatic pain
+      - fever
+      - anorexia and debility
+      - diarrhea
+      - irritable bowel syndrome
+      - urinary tract infections
   citation:
     - cunningham-herbs
     - kynes-correspondences
+    - chevallier-herbal-medicine

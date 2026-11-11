@@ -9,5 +9,39 @@ echinacea:
     - strength
     - prosperity
   notes: null
+  toxicity:
+    notes:
+      - may cause allergic reaction in rare cases
+  medicinal:
+    parts used: root, flowers
+    key constituents:
+      - alkylamides
+      - caffeic acid esters including echinacoside and cynarin
+      - polysaccharides
+    key actions:
+      - immune modulator
+      - antimicrobial
+      - anti-inflammatory
+      - detoxifying
+      - heals wounds
+      - stimulates saliva
+    uses:
+      - colds and flu
+      - sore throats and tonsillitis
+      - coughs and bronchitis
+      - viral and fungal infections
+      - urinary infections
+      - acne and boils
+      - cold sores and canker sores
+      - earache
+      - chilblains
+      - bites and stings
+      - allergies and asthma
+    preparations:
+      - decoction
+      - tincture
+      - capsules
+      - tablets
   citation:
     - morgana-green-witch
+    - chevallier-herbal-medicine

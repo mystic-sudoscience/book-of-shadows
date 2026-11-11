@@ -36,6 +36,27 @@ birch:
     - true love
     - well-being
     - witches/witchcraft
+  medicinal:
+    parts used: leaves, bark, sap
+    key constituents:
+      - saponins
+      - flavonoids
+      - tannin
+      - volatile oil including methyl salicylate
+    key actions:
+      - diuretic
+      - antiseptic
+    uses:
+      - kidney and bladder stones
+      - rheumatism and gout
+      - fluid retention
+      - eczema and psoriasis
+      - chronic skin problems
+    preparations:
+      - infusion of leaves
+      - decoction of bark
+      - infused oil of bark
   citation:
     - cunningham-herbs
     - kynes-correspondences
+    - chevallier-herbal-medicine

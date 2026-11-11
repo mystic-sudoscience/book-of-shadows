@@ -34,6 +34,37 @@ ginseng:
     - virility
     - well-being
     - wishes
+  toxicity:
+    notes:
+      - do not exceed dose
+      - can cause insomnia and high blood pressure
+      - take on professional advice if using blood-thinning medication
+      - healthy young adults should not take for more than 6 weeks
+      - avoid caffeine while taking
+      - avoid if pregnant
+  medicinal:
+    parts used: root
+    key constituents:
+      - triterpenoid saponins called ginsenosides
+      - acetylenic compounds
+      - panaxans
+      - sesquiterpenes
+    key actions:
+      - adaptogen
+      - tonic
+    uses:
+      - stress and fatigue
+      - nervous exhaustion
+      - poor sleep
+      - maintaining vitality in old age
+      - impotence and erectile dysfunction
+      - menopausal hot flashes and low mood
+      - immune support
+    preparations:
+      - capsules
+      - soup
+      - tablets
   citation:
     - cunningham-herbs
     - kynes-correspondences
+    - chevallier-herbal-medicine

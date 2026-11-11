@@ -19,10 +19,42 @@ chrysanthemum:
     pets: true
     notes:
       - poisonous
+      - may cause allergic reaction in rare cases
   holidays:
     - mabon
     - samhain
+  medicinal:
+    parts used: flower heads, leaves
+    key constituents:
+      - alkaloids including stachydrine
+      - volatile oil
+      - sesquiterpene lactones
+      - flavonoids including apigenin
+      - betaine and choline
+      - vitamin b1
+    key actions:
+      - increases sweating
+      - antiseptic
+      - lowers blood pressure
+      - cooling
+      - reduces fever
+    uses:
+      - red, sore, or tired eyes
+      - tension headaches
+      - mild fevers
+      - colds and flu
+      - high blood pressure
+      - dizziness and tinnitus
+      - dry mouth or throat
+      - bad breath
+      - acne, pimples, and boils
+    preparations:
+      - infusion
+      - powdered leaves
+      - poultice of leaves
+      - poultice of flower heads
   citation:
     - morgana-green-witch
     - cunningham-herbs
     - kynes-correspondences
+    - chevallier-herbal-medicine

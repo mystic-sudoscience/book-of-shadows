@@ -35,7 +35,38 @@ valerian:
     pets: false
     notes:
       - do now drive while after consuming valerian
+      - can cause drowsiness
+      - do not take with sleep-inducing drugs
+  medicinal:
+    parts used: root, rhizome
+    key constituents:
+      - volatile oil including bornyl acetate and beta-caryophyllene
+      - iridoids called valepotriates
+      - alkaloids
+    key actions:
+      - sedative
+      - relaxant
+      - relieves muscle spasms
+      - relieves anxiety
+      - lowers blood pressure
+    uses:
+      - insomnia
+      - chronic anxiety
+      - stress
+      - nervous exhaustion
+      - palpitations and panic
+      - shoulder and neck tension
+      - colic and irritable bowel syndrome
+      - period pain
+      - premenstrual syndrome
+      - high blood pressure from stress
+    preparations:
+      - tablets
+      - capsules
+      - decoction
+      - tincture
   citation:
     - morgana-green-witch
     - cunningham-herbs
     - kynes-correspondences
+    - chevallier-herbal-medicine

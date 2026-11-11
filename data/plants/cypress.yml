@@ -39,6 +39,27 @@ cypress:
   toxicity:
     notes:
       - avoid if pregnant
+      - do not take essential oil internally without professional supervision
+  medicinal:
+    parts used: cones, branches, essential oil
+    key constituents:
+      - volatile oil with pinene, camphene, and cedrol
+      - tannins
+    key actions:
+      - astringent
+      - antispasmodic
+      - tonic
+    uses:
+      - varicose veins
+      - hemorrhoids
+      - excessive foot sweating
+      - whooping cough and spasmodic coughs
+      - colds, flu, and sore throats
+      - rheumatic aches
+    preparations:
+      - lotion
+      - footbath of cones
   citation:
     - cunningham-herbs
     - kynes-correspondences
+    - chevallier-herbal-medicine

@@ -43,6 +43,27 @@ marjoram:
   toxicity:
     humans: false
     pets: true
+    notes:
+      - avoid as a medicine if pregnant
+      - do not take essential oil internally
+  medicinal:
+    parts used: aerial parts, essential oil
+    key constituents:
+      - volatile oil with sabinene hydrate, sabinene, linalool, and carvacrol
+      - flavonoids
+      - caffeic and rosmarinic acid
+      - triterpenoids
+    key actions:
+      - stimulant
+      - antispasmodic
+      - tonic
+    uses:
+      - flatulence and colic
+      - respiratory problems
+      - anxiety
+      - headaches
+      - insomnia
   citation:
     - morgana-green-witch
     - kynes-correspondences
+    - chevallier-herbal-medicine

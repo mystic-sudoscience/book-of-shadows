@@ -6,5 +6,34 @@ balm of gilead:
     - manifestation
     - protection
     - healing
+  toxicity:
+    notes:
+      - best avoided if nursing
+      - do not take if allergic to aspirin
+  medicinal:
+    parts used: buds, stem bark
+    key constituents:
+      - flavonoids
+      - phenolic glycosides including salicin
+      - fatty acids
+    key actions:
+      - expectorant
+      - antiseptic
+      - analgesic
+      - anti-inflammatory
+      - antifungal
+    uses:
+      - sore throats
+      - dry irritable coughs
+      - bronchitis
+      - scrapes and small wounds
+      - chapped and itchy skin
+      - sunburn and chilblains
+      - hemorrhoids
+      - rheumatic joints and strained muscles
+    preparations:
+      - cough mixture
+      - salve
   citation:
     - cunningham-herbs
+    - chevallier-herbal-medicine

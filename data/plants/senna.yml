@@ -7,5 +7,30 @@ senna:
     notes:
       - avoid if pregnant
       - avoid if nursing
+      - do not give to children under 12
+      - do not take for more than 10 days at a time
+      - do not take with colitis
+      - avoid if pregnant unless advised by a practitioner
+  medicinal:
+    parts used: leaves, pods
+    key constituents:
+      - anthraquinone glycosides including sennosides
+      - naphthalene glycosides
+      - mucilage
+      - flavonoids
+      - volatile oil
+    key actions:
+      - stimulant
+      - laxative
+      - cathartic
+    uses:
+      - occasional constipation
+      - anal fissure
+    preparations:
+      - tablets
+      - decoction
+      - infusion
+      - tincture
   citation:
     - cunningham-herbs
+    - chevallier-herbal-medicine

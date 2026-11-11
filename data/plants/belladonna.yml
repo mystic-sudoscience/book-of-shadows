@@ -22,7 +22,30 @@ belladonna:
     pets: true
     notes:
       - highly poisonous
+      - take only if prescribed by a medical herbalist or doctor
+      - can be fatal at the wrong dose
+  medicinal:
+    parts used: leaves, root
+    key constituents:
+      - tropane alkaloids including hyoscyamine and atropine
+      - flavonoids
+      - coumarins
+      - volatile bases including nicotine
+    key actions:
+      - smooth muscle antispasmodic
+      - narcotic
+      - reduces sweating
+      - sedative
+    uses:
+      - intestinal colic
+      - peptic ulcers
+      - urinary spasms
+      - parkinson's disease
+      - anesthetic in conventional medicine
+    preparations:
+      - tincture
   citation:
     - morgana-green-witch
     - cunningham-herbs
     - kynes-correspondences
+    - chevallier-herbal-medicine

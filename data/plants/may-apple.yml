@@ -4,7 +4,11 @@ may apple:
   properties:
     - money
   toxicity:
+    humans: true
     notes:
       - poison
+      - do not take internally
+      - restricted in most countries
   citation:
     - cunningham-herbs
+    - chevallier-herbal-medicine
