@@ -1,0 +1,519 @@
+# Groups of related intentions (FIRST DRAFT, needs review).
+#
+# Each key is a broad intention; its list holds more specific intentions that
+# belong under it. Picking the broad intention in the web app can then also
+# show items listed only under one of the specific wordings, e.g. "love" also
+# shows items whose properties say "attract love" or "true love".
+#
+# Rules (checked by scripts/validate_intentions.py):
+#   - Keys and members must all be in scripts/intentions.py.
+#   - An intention may sit in more than one group ("luck with money" is under
+#     both luck and money).
+#   - A member may be a group itself (magic -> angel magic -> angelic messages),
+#     but there must be no loops.
+#   - Intentions not mentioned here simply stand alone.
+#
+# Only specific wordings are folded in. Broad intentions that are distinct
+# ideas in the sources (wealth vs money vs prosperity, fear vs anxiety) are
+# left as separate groups even where they are related.
+
+abundance:
+  - manifest abundance
+acceptance:
+  - self-acceptance
+activate/awaken:
+  - gently activate/awaken
+afterlife:
+  - guidance of souls
+  - past lives
+aggression:
+  - aggressive magic
+  - warrior energy
+ambition:
+  - long-term goals
+angel magic:
+  - angelic connections
+  - angelic messages
+  - angelic support
+  - communicate with the angelic realm
+anger:
+  - express anger
+  - provoke anger
+animals:
+  - animal fertility
+  - hunt animals
+  - protect animals
+  - protect familiars and pets
+attraction:
+  - attract love
+  - attract loyalty
+  - attract luck
+  - attract positive energy
+  - attract prosperity
+  - attract wealth
+awareness:
+  - cosmic awareness
+  - expand awareness
+  - growth of awareness
+  - self-awareness
+balance:
+  - balance body, mind, and spirit
+  - balance emotions
+  - balance the aura
+  - balance the subconscious
+  - emotional balance
+  - inner balance
+  - karmic balance
+  - mental balance
+  - physical balance
+  - spiritual balance
+beginnings:
+  - new love
+  - spiritual beginnings
+bind:
+  - bind relationships
+business:
+  - business success
+  - professional growth
+calm:
+  - calm mind
+  - emotional calm
+  - inner calm
+  - quiet mind
+  - soothe emotions
+  - soothe mind
+  - spiritual calm
+changes:
+  - support during transitions
+  - unexpected changes
+cheerfulness:
+  - stimulate happiness
+  - sweetness of life
+clarity:
+  - clear mind
+  - clear sight
+  - mental clarity
+  - spiritual clarity
+confidence:
+  - break negative self-image
+  - improve self-image
+  - overcome shyness
+connections:
+  - ancestral connections
+  - angelic connections
+  - connect inner and outer worlds
+  - connect spirit and will
+  - connect with earth energies
+  - connect with higher self
+  - connect with the fairy realm
+  - connect with the natural world
+  - cosmic connections
+  - divine connections
+  - emotional connections
+  - heaven and earth
+  - spiritual connections
+consciousness:
+  - conscious transformation
+  - cosmic consciousness
+  - higher consciousness
+  - raise consciousness
+courage:
+  - overcome fear
+  - spiritual courage
+  - warrior energy
+crossroads:
+  - times of crossroads
+cycles:
+  - rhythms of life
+darkness:
+  - dispel darkness
+  - inner darkness
+  - return from darkness
+death:
+  - burial customs
+  - death of the god
+  - funeral rites
+defense:
+  - defense from psychic attack
+determination:
+  - perseverance
+discipline:
+  - needed discipline
+  - self-discipline
+divination:
+  - prophetic dreams
+dream work:
+  - manifest dreams
+  - prophetic dreams
+emotions:
+  - align emotions with the heart
+  - balance emotions
+  - emotional balance
+  - emotional calm
+  - emotional challenges
+  - emotional connections
+  - emotional empowerment
+  - emotional obstacles
+  - emotional protection
+  - emotional purification
+  - emotional rebirth/renewal
+  - emotional security
+  - emotional stability
+  - emotional support
+  - emotional transformation
+  - express emotions
+  - harmonize emotions
+  - lift emotions
+  - soothe emotions
+empathy:
+  - promote empathy
+empowerment:
+  - emotional empowerment
+enchantment:
+  - mystery of enchantment
+  - protect from enchantment
+energy:
+  - attract positive energy
+  - boost energy
+  - clear unwanted energy
+  - cosmic energy
+  - kundalini energy
+  - loving energy
+  - move/stimulate energy
+  - protection against draining energy
+  - psychic energy
+  - realign energy
+  - receptive energy
+  - sexual energy
+  - solar energy
+  - spiritual energy
+  - universal energy
+  - warrior energy
+enmity:
+  - avoid enmity
+fear:
+  - overcome fear
+  - release/dispel fear
+fertility:
+  - animal fertility
+  - fertility of the land
+  - pregnancy/childbirth
+friendship:
+  - reconcile friendships
+grace:
+  - state of grace
+growth:
+  - growth of awareness
+  - personal growth
+  - professional growth
+  - psychic growth
+guidance:
+  - guidance of others
+  - guidance of souls
+  - inner guidance
+  - listen to inner voice
+  - needed guidance
+  - spiritual guidance
+harmony:
+  - domestic harmony
+  - harmonize emotions
+  - marital harmony
+healing:
+  - heal from negativity
+  - heal relationships
+  - inner healing
+  - self-healing
+  - support healing
+home:
+  - domestic harmony
+  - protect home from negative energy
+honor:
+  - honor ancestors
+introspection:
+  - introspection about the past
+justice:
+  - law
+  - legal matters
+karma:
+  - karmic balance
+knowledge:
+  - arcane knowledge
+  - hidden or secret knowledge
+  - seek knowledge
+  - self-knowledge
+  - unutilized knowledge
+light:
+  - dispel darkness
+love:
+  - attract love
+  - encourage love
+  - give love
+  - influence love
+  - loving energy
+  - loving relationships
+  - manifest love
+  - new love
+  - open to love
+  - secure love
+  - security in love
+  - self-love
+  - true love
+  - unconditional love
+  - universal love
+loyalty:
+  - attract loyalty
+  - strengthen loyalty
+luck:
+  - attract luck
+  - luck with money
+magic:
+  - aggressive magic
+  - angel magic
+  - animal magic
+  - arcane knowledge
+  - black magic
+  - magical power
+  - moon magic
+  - night magic
+  - occult power
+  - sex magic
+  - shamanic work
+  - solar magic
+  - water magic
+manifestation:
+  - manifest abundance
+  - manifest dreams
+  - manifest love
+  - manifest power
+marriage:
+  - marital harmony
+  - reconcile marriage
+memory/memories:
+  - enhance memory
+mind:
+  - alert mind
+  - analytical mind
+  - calm mind
+  - change the mind
+  - clear mind
+  - cunning
+  - intellectual
+  - logic/logical mind
+  - mental balance
+  - mental clarity
+  - mental power
+  - mental purification
+  - mental stimulation
+  - mental well-being
+  - open mind
+  - peace of mind
+  - problem-solving
+  - quick mind
+  - quiet mind
+  - rational mind
+  - remove mental blocks
+  - soothe mind
+  - think things through
+money:
+  - attract wealth
+  - collect debts
+  - financial protection
+  - luck with money
+moon magic:
+  - lunar power
+needs:
+  - sexual needs
+negativity:
+  - absorb negativity
+  - clear unwanted energy
+  - heal from negativity
+  - negativity in relationships
+  - protect from negativity
+  - protect home from negative energy
+  - recognize negativity
+  - return negativity to its origin
+obstacles:
+  - avert obstacles
+  - emotional obstacles
+  - energetic obstacles
+  - remove mental blocks
+  - remove obstacles
+otherworld/underworld:
+  - shamanic work
+passion:
+  - cool passion
+  - increase passion
+  - sexual passion
+  - subdue passion
+peace:
+  - inner peace
+  - peace of mind
+power:
+  - air elemental power
+  - divine/higher power
+  - elemental power
+  - female power
+  - inner power
+  - lunar power
+  - magical power
+  - male power
+  - manifest power
+  - mental power
+  - occult power
+  - personal power
+  - power from within
+  - power of belief
+  - quiet power
+  - spiritual power
+prosperity:
+  - attract prosperity
+protection:
+  - avoid danger
+  - defense from psychic attack
+  - emotional protection
+  - financial protection
+  - maternal protection
+  - protect animals
+  - protect familiars and pets
+  - protect from enchantment
+  - protect from lightning
+  - protect from negativity
+  - protect from spirits
+  - protect from witchcraft
+  - protect home from negative energy
+  - protection against draining energy
+  - protection during travel
+  - protection from theft
+  - psychic protection
+  - self-protection
+  - spiritual protection
+  - warn of danger
+psychic ability:
+  - clairaudience
+  - clairvoyance
+  - inner senses
+  - psychic energy
+  - psychic growth
+  - psychic protection
+  - stimulate intuition
+purification:
+  - emotional purification
+  - inner purification
+  - mental purification
+  - ritual purification
+  - self-purification
+  - spiritual purification
+rebirth/renewal:
+  - emotional rebirth/renewal
+reconciliation:
+  - heal relationships
+  - reconcile friendships
+  - reconcile marriage
+relationships:
+  - bind relationships
+  - heal relationships
+  - loving relationships
+  - negativity in relationships
+  - strengthen relationships
+respect:
+  - respect for others
+  - self-respect
+reversal:
+  - reversal of roles
+security:
+  - emotional security
+  - security in love
+self-improvement:
+  - break negative self-image
+  - improve self-image
+  - personal growth
+senses:
+  - control senses
+  - hearing
+  - heighten senses
+  - inner senses
+  - sight
+  - smell
+  - strengthen senses
+  - taste
+  - touch
+  - trust senses
+sensuality:
+  - pleasure
+sexuality:
+  - sex magic
+  - sexual energy
+  - sexual needs
+  - sexual passion
+shyness:
+  - overcome shyness
+skills:
+  - develop skills
+  - discover skills
+solar magic:
+  - solar energy
+spirits:
+  - communicate with ancestors
+  - communicate with spirits
+  - contact spirits
+  - holy spirits
+  - nature spirits
+  - protect from spirits
+  - spirit guardian
+spirituality:
+  - deepen spirituality
+  - find your spiritual path
+  - spiritual balance
+  - spiritual beginnings
+  - spiritual calm
+  - spiritual clarity
+  - spiritual community
+  - spiritual connections
+  - spiritual courage
+  - spiritual energy
+  - spiritual guidance
+  - spiritual power
+  - spiritual protection
+  - spiritual purification
+  - spiritual transformation
+stability:
+  - emotional stability
+strength:
+  - build strength
+  - fitness
+  - inner strength
+  - overcome weakness
+  - resilience
+success:
+  - business success
+support:
+  - angelic support
+  - emotional support
+  - support during transitions
+  - support healing
+transformation:
+  - conscious transformation
+  - emotional transformation
+  - inner transformation
+  - shape shift
+  - spiritual transformation
+trust:
+  - distrust
+  - trust senses
+truth:
+  - inner truth
+unity:
+  - balance body, mind, and spirit
+  - unite mind, body, and spirit
+vitality:
+  - zest for life
+weather:
+  - protect from lightning
+  - storms
+well-being:
+  - fitness
+  - mental well-being
+wisdom:
+  - higher wisdom
+witches/witchcraft:
+  - protect from witchcraft

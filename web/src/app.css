@@ -1,0 +1,101 @@
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@500;600&family=Inter:wght@400;500;600&display=swap');
+
+:root {
+  --font-ui: Inter, system-ui, -apple-system, 'Segoe UI', sans-serif;
+  --font-display: 'Cormorant Garamond', Georgia, serif;
+
+  --bg: #f6f3ec;
+  --surface: #fffdf8;
+  --surface-2: #f0ebe0;
+  --border: #e2dbcc;
+  --text: #2a2533;
+  --muted: #7a7286;
+  --accent: #6b4fa8;
+  --accent-text: #5a3f96;
+  --on-accent: #ffffff;
+  --edge: #b9b0c4;
+  --node-border: rgba(0, 0, 0, 0.25);
+  --node-ring: #8f8799;
+  --intention: #9d8fc0;
+  --hub-0: #6b4fa8;
+  --hub-1: #c0782a;
+  --hub-2: #2f8f86;
+  --hub-text: #ffffff;
+  --warn-bg: #fbe9e2;
+  --warn-text: #9a3412;
+  --shadow: 0 8px 24px rgba(40, 30, 60, 0.14);
+  color-scheme: light;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme='light']) {
+    --bg: #14121c;
+    --surface: #1c1926;
+    --surface-2: #272334;
+    --border: #322d42;
+    --text: #e9e4f2;
+    --muted: #9a93ab;
+    --accent: #a58be0;
+    --accent-text: #bba6ee;
+    --on-accent: #1a1426;
+    --edge: #4a4360;
+    --node-border: rgba(255, 255, 255, 0.28);
+    --node-ring: #5d566e;
+    --intention: #7d6fa6;
+    --hub-0: #8c6fd0;
+    --hub-1: #d08a3c;
+    --hub-2: #3aa69b;
+    --hub-text: #ffffff;
+    --warn-bg: #3a2018;
+    --warn-text: #f4a582;
+    --shadow: 0 8px 24px rgba(0, 0, 0, 0.5);
+    color-scheme: dark;
+  }
+}
+
+:root[data-theme='dark'] {
+  --bg: #14121c;
+  --surface: #1c1926;
+  --surface-2: #272334;
+  --border: #322d42;
+  --text: #e9e4f2;
+  --muted: #9a93ab;
+  --accent: #a58be0;
+  --accent-text: #bba6ee;
+  --on-accent: #1a1426;
+  --edge: #4a4360;
+  --node-border: rgba(255, 255, 255, 0.28);
+  --node-ring: #5d566e;
+  --intention: #7d6fa6;
+  --hub-0: #8c6fd0;
+  --hub-1: #d08a3c;
+  --hub-2: #3aa69b;
+  --hub-text: #ffffff;
+  --warn-bg: #3a2018;
+  --warn-text: #f4a582;
+  --shadow: 0 8px 24px rgba(0, 0, 0, 0.5);
+  color-scheme: dark;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--text);
+  font-family: var(--font-ui);
+  font-size: 14px;
+  line-height: 1.45;
+  -webkit-font-smoothing: antialiased;
+}
+
+button:focus-visible,
+a:focus-visible {
+  outline: 2px solid var(--accent);
+  outline-offset: 2px;
+}

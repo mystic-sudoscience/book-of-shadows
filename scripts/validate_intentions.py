@@ -6,6 +6,8 @@ Usage:
 
 import sys
 
+import yaml
+
 from data_files import DATA_DIR, read_collection, slug
 from intentions import INTENTIONS
 
@@ -29,11 +31,45 @@ def check(where, entry, intentions, errors):
             errors.append(f"{where}: '{prop}' is not in intentions.py")
 
 
+def check_groups(intentions, errors):
+    """Check data/intention_groups.yml: known intentions, sorted, and no loops."""
+    path = DATA_DIR / "intention_groups.yml"
+    if not path.exists():
+        return
+    groups = yaml.safe_load(path.read_text()) or {}
+    if list(groups) != sorted(groups):
+        errors.append("intention_groups.yml: groups must be in alphabetical order")
+    for group, members in groups.items():
+        members = members or []
+        for name in [group, *members]:
+            if name not in intentions:
+                errors.append(f"intention_groups.yml: '{name}' is not in intentions.py")
+        if group in members:
+            errors.append(f"intention_groups.yml: '{group}' lists itself")
+        if members != sorted(set(members)):
+            errors.append(f"intention_groups.yml: {group}: members must be alphabetical with no duplicates")
+
+    def loops_back(start, node, seen):
+        for member in groups.get(node) or []:
+            if member == start:
+                return True
+            if member in groups and member not in seen:
+                seen.add(member)
+                if loops_back(start, member, seen):
+                    return True
+        return False
+
+    for group in groups:
+        if loops_back(group, group, set()):
+            errors.append(f"intention_groups.yml: '{group}' contains itself through a nested group")
+
+
 def main():
     intentions = set(INTENTIONS)
     errors = []
     if INTENTIONS != sorted(INTENTIONS, key=str.lower) or len(intentions) != len(INTENTIONS):
         errors.append("intentions.py: INTENTIONS must be alphabetical with no duplicates")
+    check_groups(intentions, errors)
 
     for collection in CHECKED:
         try:

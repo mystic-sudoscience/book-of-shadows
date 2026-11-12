@@ -1,0 +1,22 @@
+{
+  "name": "web",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "data": "cd .. && ${PYTHON:-.venv/bin/python} scripts/build_web_data.py",
+    "predev": "npm run data",
+    "dev": "vite",
+    "prebuild": "npm run data",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "@sveltejs/vite-plugin-svelte": "^7.3.1",
+    "svelte": "^5.57.3",
+    "vite": "^8.3.6"
+  },
+  "dependencies": {
+    "cytoscape": "^3.35.0"
+  }
+}
