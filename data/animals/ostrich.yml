@@ -1,0 +1,18 @@
+ostrich:
+  type: bird
+  properties:
+    - community
+    - grounding
+    - justice
+    - knowledge
+    - order/organize
+    - truth
+  notes:
+    - "knowledge: practical applications"
+    - spiritual truth
+    - universal order
+  correspondences:
+    deities:
+      - maat
+  citation:
+    - kynes-correspondences

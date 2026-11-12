@@ -1,0 +1,50 @@
+hare:
+  type: mammal
+  properties:
+    - ambition
+    - creativity
+    - crossroads
+    - cycles
+    - death
+    - desire
+    - dream work
+    - fear
+    - friendship
+    - imagination
+    - intuition
+    - messages/omens
+    - moon magic
+    - prophecy
+    - quick mind
+    - rebirth/renewal
+    - relationships
+    - sensitivity
+    - shamanic work
+    - skills
+    - spirits
+    - witches/witchcraft
+  correspondences:
+    deities:
+      - aphrodite
+      - artemis
+      - eros
+      - freya
+      - hecate
+      - hera
+      - ostara
+    elements:
+      - water
+    holidays:
+      - ostara
+    moon:
+      - april
+      - may
+    planets:
+      - moon
+      - venus
+    seasons:
+      - autumn
+    zodiac:
+      - libra
+  citation:
+    - kynes-correspondences

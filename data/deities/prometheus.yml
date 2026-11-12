@@ -1,0 +1,23 @@
+prometheus:
+  type: god
+  description: Creator god of architecture, astronomy, medicine, writing, and metalwork; aseer
+  culture: Greek
+  properties:
+    - communication
+    - creativity
+    - energy
+    - prophecy
+    - skills
+    - sorrow
+    - strength
+    - wisdom
+  correspondences:
+    elements:
+      - earth
+      - fire
+      - water
+    plants:
+      - fennel
+      - hawthorn
+  citation:
+    - kynes-correspondences

@@ -1,0 +1,33 @@
+justitia:
+  type: goddess
+  description: Goddess of justice
+  culture: Roman
+  also known as:
+    - iustitia
+  properties:
+    - guidance
+    - honor
+    - justice
+  notes:
+  correspondences:
+    animals:
+      - balance
+      - eagle ishment
+      - fairness
+      - morality
+      - protection
+    colors:
+      - blue (dark)
+      - purple
+    crystals:
+      - amethyst
+      - lapis lazuli
+      - sapphire
+    metals:
+      - tin
+    planets:
+      - jupiter
+    zodiac:
+      - libra
+  citation:
+    - kynes-correspondences

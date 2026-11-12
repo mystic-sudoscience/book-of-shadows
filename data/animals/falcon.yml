@@ -1,0 +1,40 @@
+falcon:
+  type: bird
+  properties:
+    - beauty
+    - clarity
+    - elemental power
+    - guidance
+    - guidance of souls
+    - healing
+    - learning
+    - loyalty
+    - magic
+    - messages/omens
+    - personal growth
+    - power
+    - strength
+  notes:
+    - "guidance: soul on its journey"
+    - "healing: soul"
+    - learning and teaching
+    - morality
+    - "power: element air"
+    - "quests: gyrfalcon"
+  correspondences:
+    deities:
+      - freya
+      - frigg
+      - horus
+      - khensu
+      - nephthys
+      - ra
+    elements:
+      - air
+      - fire
+    planets:
+      - sun
+    zodiac:
+      - capricorn
+  citation:
+    - kynes-correspondences

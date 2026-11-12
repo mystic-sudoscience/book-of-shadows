@@ -1,0 +1,20 @@
+hippopotamus:
+  type: mammal
+  properties:
+    - action
+    - creativity
+    - emotions
+    - energy
+    - life
+    - pregnancy/childbirth
+    - protection
+    - strength
+  correspondences:
+    deities:
+      - hathor
+      - set
+    elements:
+      - earth
+      - water
+  citation:
+    - kynes-correspondences

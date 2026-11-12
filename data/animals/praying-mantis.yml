@@ -1,0 +1,22 @@
+praying mantis:
+  type: insect & misc
+  properties:
+    - agriculture
+    - cycles
+    - motivation
+    - power
+    - prophecy
+    - quiet mind
+    - warrior energy
+  notes:
+    - power of stillness
+  correspondences:
+    elements:
+      - fire
+  varieties:
+    female:
+      properties:
+        - energy
+        - warrior energy
+  citation:
+    - kynes-correspondences

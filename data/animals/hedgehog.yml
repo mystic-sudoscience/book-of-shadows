@@ -1,0 +1,24 @@
+hedgehog:
+  type: mammal
+  properties:
+    - concentration/focus
+    - defense
+    - fertility
+    - negativity
+    - nurture
+    - pleasure
+    - wisdom
+  correspondences:
+    elements:
+      - fire
+    planets:
+      - moon
+      - sun
+    plants:
+      - apple
+      - ash
+      - blackthorn
+      - hawthorn
+      - maple
+  citation:
+    - kynes-correspondences

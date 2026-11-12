@@ -1,0 +1,28 @@
+monkey:
+  type: mammal
+  properties:
+    - adaptability
+    - changes
+    - cheerfulness
+    - communication
+    - cunning
+    - family
+    - imagination
+    - pleasure
+    - pregnancy/childbirth
+    - protection
+    - self-improvement
+    - skills
+    - success
+    - well-being
+    - wisdom
+  correspondences:
+    deities:
+      - hanuman
+      - hermes
+    planets:
+      - sun
+    zodiac:
+      - sagittarius
+  citation:
+    - kynes-correspondences

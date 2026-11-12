@@ -1,0 +1,34 @@
+maia:
+  type: goddess
+  description: Goddess of fertility, growth, and plants
+  culture: Greek
+  properties:
+    - abundance
+    - agriculture
+    - creativity
+    - destiny
+    - energy
+    - fertility
+    - growth
+    - honor
+    - increase
+    - love
+    - magic
+    - money
+    - nurture
+    - prosperity
+    - success
+  correspondences:
+    animals:
+      - dove
+    holidays:
+      - "beltane plants: all"
+    planets:
+      - earth
+      - mercury
+    seasons:
+      - spring
+    zodiac:
+      - taurus
+  citation:
+    - kynes-correspondences

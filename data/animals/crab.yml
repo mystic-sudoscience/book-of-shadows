@@ -1,0 +1,32 @@
+crab:
+  type: marine life
+  properties:
+    - adaptability
+    - clarity
+    - community
+    - creativity
+    - dream work
+    - emotions
+    - growth
+    - luck
+    - moon magic
+    - protection
+    - rebirth/renewal
+    - self-improvement
+    - sensitivity
+    - shyness
+    - wishes
+  notes:
+    - "protection: home"
+  correspondences:
+    holidays:
+      - summer solstice
+    planets:
+      - moon
+      - sun
+    tarot:
+      - moon
+    zodiac:
+      - cancer
+  citation:
+    - kynes-correspondences

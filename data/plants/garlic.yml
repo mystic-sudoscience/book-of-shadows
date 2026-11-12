@@ -36,6 +36,7 @@ garlic:
     - weather
     - well-being
     - wishes
+    - exorcism
   toxicity:
     humans: false
     pets: true

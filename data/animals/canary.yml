@@ -1,0 +1,31 @@
+canary:
+  type: bird
+  properties:
+    - activate/awaken
+    - beauty
+    - connections
+    - consecrate/bless
+    - creativity
+    - friendship
+    - happiness
+    - harmony
+    - healing
+    - intuition
+    - love
+    - luck
+    - past lives
+    - self-improvement
+    - sensitivity
+    - spirituality
+  notes:
+    - "activate/awaken: inner voice"
+    - "connections: past lives"
+    - consecrate/bless through song
+    - "friendship: companion"
+    - "self-work: finding your soul path"
+  correspondences:
+    chakras:
+      - heart
+      - throat
+  citation:
+    - kynes-correspondences

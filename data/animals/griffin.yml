@@ -1,0 +1,29 @@
+griffin:
+  type: mythical
+  properties:
+    - alert mind
+    - connections
+    - death
+    - dignity
+    - guardian
+    - heaven and earth
+    - life
+    - obstacles
+    - strength
+    - wisdom
+  notes:
+    - "connections: earth and heaven"
+    - "connections: life and death"
+  correspondences:
+    animals:
+      - eagle
+      - lion
+      - vulture
+    deities:
+      - apollo
+      - dionysus
+      - nemesis
+    planets:
+      - sun
+  citation:
+    - kynes-correspondences

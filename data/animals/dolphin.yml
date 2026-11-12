@@ -1,0 +1,76 @@
+dolphin:
+  type: marine life
+  properties:
+    - afterlife
+    - authority
+    - balance
+    - calm
+    - changes
+    - communication
+    - community
+    - connections
+    - cycles
+    - death
+    - discipline
+    - divination
+    - emotions
+    - energy
+    - freedom
+    - funeral rites
+    - grounding
+    - harmony
+    - healing
+    - honor
+    - improvement
+    - integrity
+    - intellectual
+    - intuition
+    - kindness
+    - knowledge
+    - life
+    - love
+    - manifestation
+    - messages/omens
+    - moon magic
+    - otherworld/underworld
+    - passion
+    - patience
+    - peace
+    - power
+    - release attachments
+    - self-awareness
+    - self-knowledge
+    - sexuality
+    - spirituality
+    - strength
+    - stress
+    - transformation
+    - travel
+    - trust
+    - wisdom
+  notes:
+    - "connections: body"
+    - "connections: mind spirit"
+    - "death: funera rites"
+    - "knowledge: life force"
+    - power through self-control
+  correspondences:
+    deities:
+      - amphitrite
+      - aphrodite cods; apollo
+      - dionysus
+      - manannan
+      - neptune
+      - poseidon
+    directions:
+      - west
+    elements:
+      - water
+    holidays:
+      - new year's day
+    planets:
+      - moon
+    zodiac:
+      - capricorn
+  citation:
+    - kynes-correspondences

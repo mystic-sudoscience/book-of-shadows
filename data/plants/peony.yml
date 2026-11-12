@@ -23,6 +23,7 @@ peony:
     - sorrow
     - stress
     - success
+    - exorcism
   toxicity:
     humans: true
     pets: true

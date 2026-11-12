@@ -1,0 +1,24 @@
+grasshopper:
+  type: insect & misc
+  properties:
+    - abundance
+    - astral realm
+    - balance
+    - changes
+    - cheerfulness
+    - fairness
+    - honor
+    - luck
+    - motivation
+    - obstacles
+    - respect
+    - trust
+  notes:
+    - faith
+    - morality
+    - "trust: inner voice"
+  correspondences:
+    deities:
+      - apollo
+  citation:
+    - kynes-correspondences

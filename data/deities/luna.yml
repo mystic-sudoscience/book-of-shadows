@@ -1,0 +1,33 @@
+luna:
+  type: goddess
+  description: Goddess of the moon
+  culture: Rom an
+  properties:
+    - enchantment
+    - love
+    - moon magic
+    - romance
+  notes:
+    - "sleep m aat/m a'at goddess o ftru th and justice: egyptian"
+  correspondences:
+    colors:
+      - silver
+    crystals:
+      - moonstone
+      - selenite
+    holidays:
+      - feast of luna
+    metals:
+      - silver
+    numbers:
+      - 9
+    planets:
+      - moon
+    plants:
+      - moonwort gemstones el
+      - rowan
+      - willow
+    zodiac:
+      - cancer
+  citation:
+    - kynes-correspondences

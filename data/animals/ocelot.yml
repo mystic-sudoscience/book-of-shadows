@@ -1,0 +1,13 @@
+ocelot:
+  type: mammal
+  properties:
+    - clarity
+    - connections
+    - rebirth/renewal
+    - shamanic work
+    - skills
+    - spirituality
+  notes:
+    - "connections: spirit realm"
+  citation:
+    - kynes-correspondences

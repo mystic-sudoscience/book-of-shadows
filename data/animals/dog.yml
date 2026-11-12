@@ -1,0 +1,83 @@
+dog:
+  type: mammal
+  properties:
+    - aggression
+    - agriculture
+    - black magic
+    - consciousness
+    - courage
+    - death
+    - dedication/devotion
+    - defense
+    - divination
+    - family
+    - fidelity
+    - friendship
+    - growth
+    - guardian
+    - guidance
+    - healing
+    - loyalty
+    - magic
+    - moon magic
+    - nurture
+    - otherworld/underworld
+    - prophecy
+    - protection
+    - secrets
+    - security
+    - sensuality
+    - set hexes
+    - sexuality
+    - skills
+    - smell
+    - spirits
+    - support
+    - unconditional love
+    - warrior energy
+  notes:
+    - "agriculture: stimulate growth"
+    - loving protection
+    - "magic: crone"
+    - "magic: general/w hite with red ears"
+    - white spirits
+  correspondences:
+    deities:
+      - anubis
+      - arawn (white with red ears)
+      - ares
+      - artemis
+      - asclepius
+      - cerridwen (greyhound)
+      - diana
+      - epona
+      - faunus
+      - gwydion ( greyhound )
+      - hades
+      - hecate
+      - hera
+      - hermes
+      - indra
+      - lugh
+      - m abon
+      - manannan
+      - mars
+      - o din.t hoth
+      - them orrigan (black)
+    elements:
+      - earth
+      - water
+    holidays:
+      - lupercalia
+      - mabon
+      - samhain
+      - walpurgis
+    planets:
+      - moon
+    zodiac:
+      - aquarius
+      - cancer
+      - capricorn
+      - scorpio
+  citation:
+    - kynes-correspondences

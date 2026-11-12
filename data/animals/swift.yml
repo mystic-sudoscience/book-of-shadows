@@ -1,0 +1,7 @@
+swift:
+  type: bird
+  properties:
+    - healing
+    - psychic ability
+  citation:
+    - kynes-correspondences

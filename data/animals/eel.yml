@@ -1,0 +1,16 @@
+eel:
+  type: marine life
+  properties:
+    - adaptability
+    - inspiration
+    - protection
+    - wisdom
+  notes:
+    - "opportunities: moray"
+  varieties:
+    electric:
+      properties:
+        - defense
+        - energy
+  citation:
+    - kynes-correspondences

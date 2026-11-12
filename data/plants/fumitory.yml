@@ -4,6 +4,7 @@ fumitory:
   properties:
     - banish
     - money
+    - exorcism
   toxicity:
     notes:
       - toxic in excess

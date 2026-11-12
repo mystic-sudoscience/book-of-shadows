@@ -1,0 +1,32 @@
+turtle:
+  type: reptile & amphibian
+  properties:
+    - abundance
+    - courage
+    - cycles
+    - defense
+    - energy
+    - fairness
+    - fertility
+    - grounding
+    - healing
+    - knowledge
+    - life
+    - psychic energy
+    - relationships
+    - respect
+    - security
+    - skills
+    - travel
+    - wisdom
+  varieties:
+    sea:
+      properties:
+        - balance
+        - determination
+        - hearing
+        - motivation
+        - success
+        - trust senses
+  citation:
+    - kynes-correspondences

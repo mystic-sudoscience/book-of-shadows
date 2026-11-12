@@ -1,0 +1,46 @@
+duck:
+  type: bird
+  energy:
+    - yin
+  properties:
+    - abundance
+    - affection
+    - clarity
+    - communication
+    - community
+    - connections
+    - emotions
+    - energy
+    - fertility
+    - fidelity
+    - guidance
+    - marriage
+    - past lives
+    - protection
+    - provide comfort
+    - shamanic work
+    - support
+    - transformation
+  notes:
+    - "connections: past lives"
+    - emotional clarity
+    - emotional comfort
+    - explore emotions
+    - opportunities
+    - "shamanic work: helper"
+  correspondences:
+    elements:
+      - water
+    seasons:
+      - spring
+      - summer
+      - winter
+  varieties:
+    female:
+      properties:
+        - nurture
+    male:
+      properties:
+        - stress
+  citation:
+    - kynes-correspondences

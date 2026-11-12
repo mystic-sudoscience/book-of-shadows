@@ -1,0 +1,31 @@
+ibis:
+  type: bird
+  properties:
+    - abundance
+    - death
+    - enchantment
+    - enlightenment
+    - healing
+    - magic
+    - mind
+    - moon magic
+    - prophecy
+    - sensitivity
+    - sensuality
+    - well-being
+    - wisdom
+  notes:
+    - ancient wisdom
+    - general magic
+    - "them ind: practicality"
+  correspondences:
+    deities:
+      - hermes
+      - isis
+      - thoth
+    planets:
+      - moon
+    zodiac:
+      - cancer
+  citation:
+    - kynes-correspondences

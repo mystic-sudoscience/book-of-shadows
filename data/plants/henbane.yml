@@ -19,6 +19,7 @@ henbane:
     - skills
     - sleep
     - witches/witchcraft
+    - astral travel
   toxicity:
     humans: true
     pets: true

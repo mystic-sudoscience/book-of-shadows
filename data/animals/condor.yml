@@ -1,0 +1,24 @@
+condor:
+  type: bird
+  properties:
+    - action
+    - authority
+    - connections
+    - contact spirits
+    - healing
+    - insight
+    - limitations/boundaries
+    - manifestation
+    - prophecy
+    - protection
+    - purification
+    - rebirth/renewal
+    - sight
+    - strength
+  correspondences:
+    elements:
+      - air
+    planets:
+      - sun
+  citation:
+    - kynes-correspondences

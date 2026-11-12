@@ -1,0 +1,27 @@
+moth:
+  type: insect & misc
+  properties:
+    - action
+    - changes
+    - defense
+    - love
+    - messages/omens
+    - moon magic
+    - self-improvement
+    - sexuality
+    - smell
+    - transformation
+  notes:
+    - mystical love
+    - "self-work: seeking the soul"
+  correspondences:
+    planets:
+      - moon
+  varieties:
+    silk:
+      properties:
+        - abundance
+        - fertility
+        - life
+  citation:
+    - kynes-correspondences

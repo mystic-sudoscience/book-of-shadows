@@ -1,0 +1,11 @@
+egret:
+  type: bird
+  properties:
+    - abundance
+    - confidence
+    - guidance
+    - peace
+  notes:
+    - guidance between worlds
+  citation:
+    - kynes-correspondences

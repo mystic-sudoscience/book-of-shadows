@@ -1,0 +1,13 @@
+worm:
+  type: insect & misc
+  properties:
+    - agriculture
+    - avert obstacles
+    - purification
+    - rebirth/renewal
+  varieties:
+    earthworm:
+      properties:
+        - grounding
+  citation:
+    - kynes-correspondences

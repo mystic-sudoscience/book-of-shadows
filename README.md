@@ -7,6 +7,7 @@ A community-maintained collection of correspondences (plants, crystals, colors, 
 | File                                  | Description                                                                 |
 | ------------------------------------- | --------------------------------------------------------------------------- |
 | [data/plants/](data/plants/)           | Herbs and plants with their correspondences, safety notes, and uses (one file per plant) |
+| [data/animals/](data/animals/)         | Animals, birds, marine life, reptiles, insects, and mythical creatures, with varieties (one file per animal) |
 | [data/crystals.yml](data/crystals.yml) | Crystals, gemstones, and minerals, with varieties and their properties     |
 | [data/directions.yml](data/directions.yml) | The eight compass directions and their properties                      |
 | [data/elements.yml](data/elements.yml) | Earth, air, fire, and water and what they govern                            |

@@ -1,0 +1,27 @@
+bobcat:
+  type: mammal
+  also known as:
+    - wildcat
+  properties:
+    - balance
+    - clarity
+    - communication
+    - freedom
+    - intuition
+    - learning
+    - magic
+    - psychic ability
+    - secrets
+    - seek knowledge
+    - sex magic
+  notes:
+    - "balance: creative forces"
+    - "loneliness: em brace"
+    - measured communication
+    - trust intuition
+  correspondences:
+    seasons:
+      - spring
+      - winter
+  citation:
+    - kynes-correspondences

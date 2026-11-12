@@ -1,0 +1,11 @@
+orangutan:
+  type: mammal
+  properties:
+    - freedom
+    - mind
+    - obstacles
+  notes:
+    - gentleness
+    - "problems: solve creatively"
+  citation:
+    - kynes-correspondences

@@ -1,0 +1,26 @@
+ran:
+  type: goddess
+  description: Goddess of the sea and queen of the drowned
+  culture: Norse, Teutonic
+  properties:
+    - death
+    - destruction
+    - emotions
+    - energy
+    - face danger
+    - weather
+  correspondences:
+    elements:
+      - water
+    holidays:
+      - neptunalia
+    metals:
+      - gold
+    planets:
+      - neptune
+    plants:
+      - blackthorn
+      - elm
+      - juniper
+  citation:
+    - kynes-correspondences

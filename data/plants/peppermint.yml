@@ -46,6 +46,8 @@ peppermint:
     - integrity
     - sleep
     - warmth
+    - visions
+    - creativity
   toxicity:
     humans: false
     pets: true

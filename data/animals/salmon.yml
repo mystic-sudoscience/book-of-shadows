@@ -1,0 +1,37 @@
+salmon:
+  type: marine life
+  properties:
+    - abundance
+    - changes
+    - cycles
+    - determination
+    - divination
+    - endurance
+    - guardian
+    - guidance
+    - healing
+    - insight
+    - intuition
+    - knowledge
+    - motivation
+    - rebirth/renewal
+    - reversal
+    - shamanic work
+    - shape shift
+    - strength
+    - support
+    - wisdom
+  notes:
+    - ancient knowledge
+    - "shamanic work: shape shift"
+    - spiritual knowledge
+    - understanding divination
+  correspondences:
+    deities:
+      - cerridwen
+      - mabon
+    plants:
+      - hazel
+      - rowan
+  citation:
+    - kynes-correspondences

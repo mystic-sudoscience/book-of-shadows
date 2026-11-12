@@ -1,0 +1,34 @@
+albatross:
+  type: bird
+  properties:
+    - adaptability
+    - afterlife
+    - astral realm
+    - beginnings
+    - challenges
+    - clarity
+    - creativity
+    - endings
+    - endurance
+    - freedom
+    - intuition
+    - messages/omens
+    - obstacles
+    - patience
+    - prophecy
+    - spiritual purification
+    - spirituality
+    - strength
+    - transformation
+    - travel
+  notes:
+    - "clarity: overtime"
+    - quests
+  correspondences:
+    elements:
+      - air
+      - water
+    zodiac:
+      - aquarius
+  citation:
+    - kynes-correspondences

@@ -1,0 +1,43 @@
+ares:
+  type: god
+  description: God of war and storms
+  culture: Greek
+  properties:
+    - action
+    - aggression
+    - anger
+    - assertiveness
+    - changes
+    - death
+    - defense
+    - destruction
+    - energy
+    - fear
+    - fertility
+    - heartbreak
+    - jealousy
+    - protection
+    - storms
+    - strength
+    - warrior energy
+  correspondences:
+    animals:
+      - boar
+      - cattle (bull)
+      - chicken (rooster)
+      - dog
+      - eagle
+      - owl
+      - snake
+      - vulture
+      - woodpecker
+    planets:
+      - mars
+    plants:
+      - ash
+      - holly
+      - oak
+    zodiac:
+      - aries
+  citation:
+    - kynes-correspondences

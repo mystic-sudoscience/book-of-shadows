@@ -1,0 +1,25 @@
+vulcan:
+  type: god
+  description: God of fire, volcanoes, and metalworking
+  culture: Roman
+  also known as:
+    - vulcanus
+  properties:
+    - bind
+    - community
+    - creativity
+    - destruction
+    - energy
+    - jealousy
+    - skills
+  correspondences:
+    elements:
+      - fire
+    metals:
+      - iron
+    plants:
+      - elder
+      - pine
+      - rowan
+  citation:
+    - kynes-correspondences

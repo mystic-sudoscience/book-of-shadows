@@ -1,0 +1,89 @@
+apollo:
+  type: god
+  description: God of medicine, music, prophecy
+  culture: Greek
+  properties:
+    - beauty
+    - black magic
+    - communication
+    - compassion
+    - creativity
+    - divination
+    - forgiveness
+    - healing
+    - intellectual
+    - justice
+    - light
+    - lust
+    - mind
+    - passion
+    - prophecy
+    - purification
+    - release attachments
+    - sensitivity
+    - sensuality
+    - solar energy
+    - solar magic
+    - strength
+    - success
+    - support
+    - transformation
+    - travel
+    - truth
+    - warmth
+    - warrior energy
+    - well-being
+    - wisdom
+    - youth
+  correspondences:
+    animals:
+      - cattle (ox)
+      - chicken (rooster)
+      - crane
+      - crow
+      - deer (stag)
+      - dolphin
+      - donkey
+      - grasshopper
+      - griffin
+      - horse
+      - kite
+      - mouse
+      - porpoise
+      - quail
+      - raven
+      - "snake insects elm isc.: bee"
+      - swan
+      - vulture
+      - wolf
+    crystals:
+      - amber
+      - sapphire
+    holidays:
+      - summer solstice
+      - yule
+    numbers:
+      - 1
+    planets:
+      - sun
+    plants:
+      - anise
+      - apple
+      - aspen
+      - beech
+      - cypress walnut
+      - "herb el garden: heliotrope"
+      - hyacinth
+      - laurel
+      - lily of the valley
+      - mistletoe
+      - oak
+      - olive
+      - palm
+      - sunflower
+    seasons:
+      - summer
+    zodiac:
+      - gemini
+  citation:
+    - kynes-correspondences

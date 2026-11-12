@@ -1,0 +1,87 @@
+venus:
+  type: goddess
+  description: Goddess of love, fertility, beauty, springtime, and fruitful ness; protector of gardens
+  culture: Roman
+  properties:
+    - affection
+    - agriculture
+    - attraction
+    - authority
+    - beauty
+    - cycles
+    - desire
+    - discipline
+    - fertility
+    - freedom
+    - love
+    - marriage
+    - passion
+    - pleasure
+    - prosperity
+    - protection
+    - purification
+    - sensuality
+    - sex magic
+    - sexual needs
+    - sexuality
+  notes:
+    - attract affection
+  correspondences:
+    animals:
+      - dove
+      - scallop swan
+      - sparrow
+    crystals:
+      - amethyst
+      - emerald
+      - lapis lazuli
+      - onyx
+      - rose quartz
+    holidays:
+      - beltane
+      - ostara
+    metals:
+      - copper gemstones el
+    numbers:
+      - 2
+      - 8
+    planets:
+      - venus
+    plants:
+      - angelica
+      - apple
+      - aster
+      - cinnamon
+      - daisy
+      - elder
+      - hazel
+      - heather
+      - honeysuckle
+      - lily
+      - linden
+      - magnolia
+      - maple
+      - marjoram
+      - mistletoe
+      - myrtle
+      - "pine herb el garden: anemone"
+      - raspberry
+      - rose
+      - sandalwood
+      - strawberry
+      - vervain
+      - violet
+    sea:
+      - coral
+      - cowry
+      - pearl
+    seasons:
+      - spring
+    weekdays:
+      - friday
+    zodiac:
+      - libra
+      - pisces
+      - taurus
+  citation:
+    - kynes-correspondences

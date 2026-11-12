@@ -1,0 +1,11 @@
+llama:
+  type: mammal
+  properties:
+    - emotional security
+    - endurance
+    - obstacles
+    - provide comfort
+  notes:
+    - "comfort: others"
+  citation:
+    - kynes-correspondences

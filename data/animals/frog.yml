@@ -1,0 +1,46 @@
+frog:
+  type: reptile & amphibian
+  energy:
+    - yin
+  properties:
+    - abundance
+    - changes
+    - communication
+    - connections
+    - emotions
+    - energy
+    - fertility
+    - healing
+    - hearing
+    - life
+    - luck
+    - magic
+    - mind
+    - nurture
+    - peace
+    - purification
+    - rebirth/renewal
+    - shamanic work
+    - transformation
+    - weather
+  notes:
+    - emotional healing
+    - opportunities
+    - understand emotions
+  correspondences:
+    deities:
+      - chalchiuhtlicue
+      - coatlicue
+    elements:
+      - water
+    planets:
+      - moon
+    seasons:
+      - spring
+  varieties:
+    tadpole:
+      properties:
+        - beginnings
+        - pregnancy/childbirth
+  citation:
+    - kynes-correspondences

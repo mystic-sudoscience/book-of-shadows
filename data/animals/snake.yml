@@ -1,0 +1,105 @@
+snake:
+  type: reptile & amphibian
+  properties:
+    - afterlife
+    - changes
+    - creativity
+    - cunning
+    - cycles
+    - enchantment
+    - energy
+    - enmity
+    - fertility
+    - forgiveness
+    - jealousy
+    - life
+    - limitations/boundaries
+    - longevity
+    - lust
+    - magic
+    - manifestation
+    - otherworld/underworld
+    - prophecy
+    - psychic ability
+    - rebirth/renewal
+    - sexuality
+    - shamanic work
+    - storms
+    - strength
+    - transformation
+    - vitality
+    - well-being
+    - wisdom
+  notes:
+    - "energy: goddess"
+    - "energy: life force"
+    - "favors: green"
+    - "life: energy"
+    - "life: mysteries"
+    - quests
+    - "sexuality: potency"
+  correspondences:
+    chakras:
+      - all
+    deities:
+      - am un
+      - anat
+      - apollo
+      - ares
+      - asclepius
+      - athena
+      - cernunnos
+      - chalchiuhtlicue
+      - coatlicue
+      - demeter
+      - devi
+      - dionysus
+      - enki
+      - hades
+      - hathor
+      - hermes
+      - isis
+      - mercury
+      - quetzalcoatl
+      - ra
+      - set
+      - vishnu
+      - zeus
+    directions:
+      - south
+    elements:
+      - earth
+      - fire
+      - water
+    holidays:
+      - ostara
+    planets:
+      - earth
+      - moon
+    seasons:
+      - autumn
+      - winter
+    zodiac:
+      - libra
+      - scorpio
+  varieties:
+    copperhead:
+      properties:
+        - assertiveness
+    python:
+      properties:
+        - patience
+        - power
+        - strength
+    rattle:
+      properties:
+        - face danger
+        - fear
+        - healing
+    rattlesnake:
+      properties:
+        - face danger
+        - fear
+        - healing
+  citation:
+    - kynes-correspondences

@@ -1,0 +1,20 @@
+baboon:
+  type: mammal
+  properties:
+    - activate/awaken
+    - defense
+    - family
+    - grounding
+    - magic
+    - messages/omens
+    - witches/witchcraft
+  notes:
+    - defense of family
+  correspondences:
+    deities:
+      - khensu
+      - thoth
+    planets:
+      - sun
+  citation:
+    - kynes-correspondences

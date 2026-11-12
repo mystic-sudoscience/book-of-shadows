@@ -1,0 +1,18 @@
+rhinoceros:
+  type: mammal
+  properties:
+    - connections
+    - healing
+    - insight
+    - past lives
+    - provide comfort
+    - self-knowledge
+    - trust
+    - wisdom
+  notes:
+    - ancient wisdom
+    - comfort in solitude
+    - "connections: past lives"
+    - "trust: instincts"
+  citation:
+    - kynes-correspondences

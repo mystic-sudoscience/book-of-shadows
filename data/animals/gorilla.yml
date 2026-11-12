@@ -1,0 +1,30 @@
+gorilla:
+  type: mammal
+  properties:
+    - adaptability
+    - aggression
+    - authority
+    - communication
+    - community
+    - family
+    - generosity
+    - goodness
+    - grounding
+    - integrity
+    - intellectual
+    - intuition
+    - peace
+    - power
+    - strength
+    - support
+  notes:
+    - gentleness
+    - "leadership: silverback"
+    - maternal intuition
+  correspondences:
+    deities:
+      - nephthys
+      - osiris
+      - thoth 1
+  citation:
+    - kynes-correspondences

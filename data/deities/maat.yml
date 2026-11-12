@@ -1,0 +1,34 @@
+maat:
+  type: goddess
+  description: Goddess of truth and justice
+  culture: Egyptian
+  also known as:
+    - ma'at
+  properties:
+    - afterlife
+    - balance
+    - death
+    - fairness
+    - guardian
+    - guidance
+    - honesty
+    - justice
+    - stability
+    - truth
+  notes:
+    - morality
+  correspondences:
+    animals:
+      - ostrich
+      - vulture
+    crystals:
+      - jade
+      - turquoise
+    holidays:
+      - yule
+    planets:
+      - mercury
+    zodiac:
+      - libra
+  citation:
+    - kynes-correspondences

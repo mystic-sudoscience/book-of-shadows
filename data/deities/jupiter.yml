@@ -1,0 +1,76 @@
+jupiter:
+  type: god
+  description: Sky, fertility, and war 1 god
+  culture: Roman
+  properties:
+    - abundance
+    - agriculture
+    - animals
+    - authority
+    - bind
+    - business
+    - changes
+    - creativity
+    - defense
+    - dignity
+    - fear
+    - fertility
+    - guardian
+    - guidance
+    - honor
+    - intuition
+    - justice
+    - life
+    - light
+    - marriage
+    - prosperity
+    - protection
+    - skills
+    - storms
+    - truth
+    - warrior energy
+    - wealth
+    - weather
+    - wisdom
+  notes:
+    - decisions
+    - general weather
+    - lightning weather
+    - "protection: youths"
+  correspondences:
+    animals:
+      - cattle (bull)
+      - eagle
+      - sheep (ram )
+      - woodpecker
+    crystals:
+      - topaz
+    holidays:
+      - new year's day
+      - summer solstice
+    metals:
+      - iron
+    numbers:
+      - 4
+    planets:
+      - jupiter
+      - moon
+      - sun
+    plants:
+      - carnation
+      - cypress
+      - gorse
+      - henbane
+      - mistletoe
+      - mullein
+      - oak
+      - olive
+      - vervain
+      - walnut
+    weekdays:
+      - thursday
+    zodiac:
+      - sagittarius
+      - taurus
+  citation:
+    - kynes-correspondences

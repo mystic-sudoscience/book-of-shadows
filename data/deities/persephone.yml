@@ -1,0 +1,50 @@
+persephone:
+  type: goddess
+  description: The name by which Kore was known after she be came Queen of the Underworld
+  culture: Greek
+  properties:
+    - acceptance
+    - afterlife
+    - agriculture
+    - changes
+    - clairvoyance
+    - cycles
+    - death
+    - knowledge
+    - magic
+    - otherworld/underworld
+    - rebirth/renewal
+    - sleep
+    - wisdom
+  notes:
+    - "magic: crone"
+  correspondences:
+    animals:
+      - bat
+      - owl (screech)
+    elements:
+      - cedar
+      - cherry
+      - earth trees; aspen
+      - fir
+      - pomegranate
+      - poplar
+    holidays:
+      - lughnasadh
+      - mabon
+      - ostara
+      - twelfth night
+    planets:
+      - moon
+      - pluto
+    plants:
+      - daffodil
+      - dittany
+      - ivy
+      - poppy
+      - vervain i grain
+    zodiac:
+      - scorpio
+      - virgo
+  citation:
+    - kynes-correspondences

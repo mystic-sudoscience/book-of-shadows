@@ -4,6 +4,7 @@ crocus:
   properties:
     - love
     - clairvoyance
+    - visions
   toxicity:
     notes:
       - not recommended for internal use

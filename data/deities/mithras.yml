@@ -1,0 +1,65 @@
+mithras:
+  type: god
+  description: Solar deity and god of vegetation and regeneration
+  culture: Roman
+  properties:
+    - afterlife
+    - agriculture
+    - business
+    - community
+    - compassion
+    - courage
+    - death
+    - destiny
+    - discipline
+    - goodness
+    - growth
+    - harmony
+    - honor
+    - illumination
+    - kindness
+    - life
+    - light
+    - loyalty
+    - magic
+    - prosperity
+    - psychic ability
+    - purification
+    - rebirth/renewal
+    - secrets
+    - solar energy
+    - solar magic
+    - strength
+    - success
+    - truth
+    - warmth
+    - warrior energy
+  notes:
+    - general magic
+    - morality
+  correspondences:
+    animals:
+      - cattle (bull)
+      - crow
+      - lion
+      - raven
+    holidays:
+      - ostara
+      - summer solstice
+      - yule
+    metals:
+      - brass
+      - gold
+    numbers:
+      - 7
+    planets:
+      - sun
+    plants:
+      - agrimony
+      - heliotrope
+    zodiac:
+      - leo
+      - libra
+      - taurus
+  citation:
+    - kynes-correspondences

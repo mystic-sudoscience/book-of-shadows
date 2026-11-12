@@ -1,0 +1,33 @@
+armadillo:
+  type: mammal
+  properties:
+    - aggression
+    - agriculture
+    - connections
+    - defense
+    - divination
+    - emotional protection
+    - emotions
+    - empathy
+    - fertility of the land
+    - past lives
+    - psychic protection
+    - relationships
+    - respect
+    - security
+    - self-knowledge
+    - sensitivity
+    - shamanic work
+    - spirits
+  notes:
+    - "agriculture: fertility of land"
+    - "connections: past lives"
+    - control sensitivity
+    - explore emotions safely
+  correspondences:
+    elements:
+      - earth
+    numbers:
+      - 4
+  citation:
+    - kynes-correspondences

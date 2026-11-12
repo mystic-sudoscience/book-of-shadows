@@ -1,0 +1,46 @@
+badger:
+  type: mammal
+  properties:
+    - action
+    - assertiveness
+    - concentration/focus
+    - courage
+    - cunning
+    - defense
+    - determination
+    - dream work
+    - endurance
+    - family
+    - grounding
+    - guidance
+    - healing
+    - home
+    - improvement
+    - knowledge
+    - magic
+    - passion
+    - protection
+    - revenge
+    - secrets
+    - shamanic work
+    - strength
+    - wisdom
+  notes:
+    - innocent deceit
+    - "knowledge: keeper"
+    - secrets of ancestors
+    - "secrets: otherworld"
+    - "shamanic work: pathfinder"
+    - storytelling wisdom
+  correspondences:
+    deities:
+      - brigantia
+      - rhiannon
+    elements:
+      - earth
+    holidays:
+      - imbolc
+    seasons:
+      - spring
+  citation:
+    - kynes-correspondences

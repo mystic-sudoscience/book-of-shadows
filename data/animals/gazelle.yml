@@ -1,0 +1,17 @@
+gazelle:
+  type: mammal
+  properties:
+    - accomplishment
+    - beauty
+    - grace
+    - insight
+    - introspection
+    - law
+    - sight
+    - spirituality
+    - trust
+  notes:
+    - "law: wheel of law"
+    - "sight: inner vision"
+  citation:
+    - kynes-correspondences

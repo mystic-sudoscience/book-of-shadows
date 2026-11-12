@@ -1,0 +1,12 @@
+caribou:
+  type: mammal
+  properties:
+    - action
+    - community
+    - connections
+    - endurance
+    - home
+    - motivation
+    - travel
+  citation:
+    - kynes-correspondences

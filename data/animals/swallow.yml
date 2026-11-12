@@ -1,0 +1,44 @@
+swallow:
+  type: bird
+  energy:
+    - yang
+    - yin
+  properties:
+    - community
+    - divination
+    - family
+    - fertility
+    - healing
+    - home
+    - hope
+    - light
+    - love
+    - manifestation
+    - new love
+    - protection
+    - rebirth/renewal
+    - reversal
+    - security
+    - warmth
+  notes:
+    - loneliness
+  correspondences:
+    animals:
+      - thunderbird
+    deities:
+      - aphrodite
+      - inanna
+      - isis
+      - ra
+    elements:
+      - fire
+    holidays:
+      - mabon
+      - ostara
+    planets:
+      - sun
+    seasons:
+      - spring
+      - summer
+  citation:
+    - kynes-correspondences

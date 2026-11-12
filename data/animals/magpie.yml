@@ -1,0 +1,48 @@
+magpie:
+  type: bird
+  properties:
+    - adaptability
+    - balance
+    - changes
+    - communication
+    - community
+    - death
+    - divination
+    - face danger
+    - fidelity
+    - growth
+    - happiness
+    - integrity
+    - intellectual
+    - knowledge
+    - learning
+    - life
+    - luck
+    - manifestation
+    - messages/omens
+    - prophecy
+    - prosperity
+    - secrets
+    - skills
+    - spirits
+    - spirituality
+    - warrior energy
+    - willpower
+    - witches/witchcraft
+    - youth
+  notes:
+    - "knowledge: occult"
+    - opportunities
+    - spirituality in everyday life
+    - "warrior energy: battlefields"
+  correspondences:
+    deities:
+      - aphrodite
+      - bacchus
+    seasons:
+      - summer
+      - winter
+    zodiac:
+      - aries
+  citation:
+    - kynes-correspondences

@@ -1,0 +1,49 @@
+crocodile:
+  type: reptile & amphibian
+  properties:
+    - abundance
+    - balance
+    - beginnings
+    - clairvoyance
+    - death
+    - defense
+    - destruction
+    - endurance
+    - fear
+    - fertility
+    - knowledge
+    - maternal protection
+    - messages/omens
+    - otherworld/underworld
+    - power
+    - rebirth/renewal
+    - revenge
+    - secrets
+    - self-protection
+    - strength
+    - weather
+    - wisdom
+  notes:
+    - deceit
+  correspondences:
+    animals:
+      - dragon
+    deities:
+      - canga
+      - coatlicue
+      - geb
+      - helios
+      - khensu
+      - osiris
+      - set
+    elements:
+      - earth
+      - water
+    planets:
+      - moon
+    plants:
+      - water lily
+    sea:
+      - conch
+  citation:
+    - kynes-correspondences

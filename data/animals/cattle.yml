@@ -1,0 +1,115 @@
+cattle:
+  type: mammal
+  properties:
+    - balance
+    - community
+    - fertility
+    - manifestation
+    - prophecy
+    - rebirth/renewal
+    - warn of danger
+  varieties:
+    bull:
+      properties:
+        - adaptability
+        - authority
+        - defense
+        - fertility of the land
+        - justice
+        - order/organize
+        - otherworld/underworld
+        - past lives
+        - power
+        - stability
+        - strength
+        - vitality
+    cow:
+      properties:
+        - abundance
+        - connections
+        - death
+        - enlightenment
+        - funeral rites
+        - guardian
+        - guidance
+        - home
+        - love
+        - moon magic
+        - motivation
+        - needs
+        - nurture
+        - patience
+        - pregnancy/childbirth
+        - prosperity
+        - provide comfort
+        - warmth
+        - wealth
+      notes:
+        - "connections: mother goddess"
+        - "death: funeral rites"
+        - physical needs
+      correspondences:
+        deities:
+          - )uno
+          - anat
+          - aphrodite
+          - banba
+          - boann
+          - brigid
+          - cailleach bheur
+          - cerridwen
+          - diana
+          - hathor
+          - hera
+          - hestia
+          - inanna
+          - isis
+          - krishna
+          - maeve
+          - manannan
+          - nut
+          - them orrigan
+        elements:
+          - water
+        holidays:
+          - beltane
+          - samhain
+        moon:
+          - full
+        planets:
+          - earth
+    ox:
+      energy:
+        - yin
+      properties:
+        - abundance
+        - kindness
+        - peace
+        - power
+        - responsibility
+        - stability
+        - strength
+      notes:
+        - controlled power
+      correspondences:
+        deities:
+          - apollo
+          - artemis
+          - athena
+          - epona
+          - helios
+          - hermes
+          - minerva
+          - ptah
+          - selene
+          - set
+        seasons:
+          - winter
+        zodiac:
+          - pisces
+          - taurus
+    white bull:
+      properties:
+        - moon magic
+  citation:
+    - kynes-correspondences

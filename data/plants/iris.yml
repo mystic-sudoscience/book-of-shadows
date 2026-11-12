@@ -29,6 +29,7 @@ iris:
     - spirituality
     - willpower
     - wisdom
+    - creativity
   toxicity:
     notes:
       - some species should not be used internally

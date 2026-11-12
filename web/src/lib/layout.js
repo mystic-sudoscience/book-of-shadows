@@ -143,12 +143,17 @@ export function layoutWeb(hubs, members) {
 }
 
 /** Item-centred view: the item in the middle, its properties (and relatives) around it. */
-export function layoutFocus(centerId, satellites) {
+export function layoutFocus(centerId, satellites, linked = []) {
   const out = new Map([[centerId, { x: 0, y: 0 }]])
-  // One roomy ring when it fits, so labels have space; more rings for long lists.
+  // Inner ring: the item's intentions (one roomy ring when it fits, so labels have space).
   const gap = 84
   const r0 = Math.max(170, Math.min(340, (satellites.length * gap) / (2 * Math.PI)))
   const res = fillArc(satellites, -Math.PI / 2, (3 * Math.PI) / 2, r0, gap)
   satellites.forEach((s, i) => out.set(s.id, res.pos[i]))
+  // Outer ring: items it is linked with, in one petal per type.
+  if (linked.length) {
+    const inner = satellites.length ? res.radius : 0
+    petals(linked, { x: 0, y: 0 }, -Math.PI / 2, (3 * Math.PI) / 2, inner + 120).positions.forEach((p, id) => out.set(id, p))
+  }
   return out
 }

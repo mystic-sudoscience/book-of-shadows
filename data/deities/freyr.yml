@@ -1,0 +1,39 @@
+freyr:
+  type: god
+  description: God of fertility, patron of married couples, brother of Freya
+  culture: Norse, Teutonic
+  also known as:
+    - frey
+  properties:
+    - beginnings
+    - defense
+    - fertility
+    - happiness
+    - light
+    - magic
+    - marriage
+    - peace
+    - pleasure
+    - prosperity
+    - protection
+    - travel
+    - weather
+  notes:
+    - "magic: rune"
+  correspondences:
+    animals:
+      - boar
+      - horse
+    holidays:
+      - beltane
+    numbers:
+      - 1
+    plants:
+      - ash
+      - elder
+      - gorse
+      - ivy
+    zodiac:
+      - capricorn
+  citation:
+    - kynes-correspondences

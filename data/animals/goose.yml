@@ -1,0 +1,74 @@
+goose:
+  type: bird
+  properties:
+    - abundance
+    - action
+    - communication
+    - community
+    - divination
+    - family
+    - fertility
+    - fidelity
+    - freedom
+    - growth
+    - guardian
+    - guidance
+    - happiness
+    - home
+    - imagination
+    - inspiration
+    - love
+    - marriage
+    - messages/omens
+    - motivation
+    - otherworld/underworld
+    - power
+    - protection during travel
+    - provide comfort
+    - self-improvement
+    - spirits
+    - spirituality
+    - support
+    - travel
+    - unity
+    - warn of danger
+  notes:
+    - general support
+    - quests
+    - "self-work: soul pathway"
+    - support of others during healing
+    - "travel: safe return"
+  correspondences:
+    deities:
+      - am un
+      - aphrodite
+      - bertha
+      - brahma
+      - ceb
+      - hera
+      - isis
+      - juno
+      - odin
+      - osiris
+      - ra
+    elements:
+      - earth
+    holidays:
+      - mabon
+    planets:
+      - sun
+    seasons:
+      - autumn
+    zodiac:
+      - libra
+  varieties:
+    snow:
+      correspondences:
+        holidays:
+          - yule
+        moon:
+          - full
+        zodiac:
+          - capricorn
+  citation:
+    - kynes-correspondences

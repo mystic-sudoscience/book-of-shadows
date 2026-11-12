@@ -1,0 +1,41 @@
+crow:
+  type: bird
+  properties:
+    - adaptability
+    - afterlife
+    - assertiveness
+    - awareness
+    - changes
+    - communication
+    - community
+    - crossroads
+    - darkness
+    - death
+    - defense
+    - destruction
+    - divination
+    - fear
+    - fertility
+    - growth
+    - home
+    - honor
+    - integrity
+    - love
+    - magic
+    - manifestation
+    - motivation
+    - power
+    - prophecy
+    - rebirth/renewal
+    - spirituality
+    - warn of danger
+    - well-being
+    - wisdom
+  notes:
+    - archetypal power
+  varieties:
+    hooded:
+      properties:
+        - witches/witchcraft
+  citation:
+    - kynes-correspondences

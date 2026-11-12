@@ -1,0 +1,23 @@
+mockingbird:
+  type: bird
+  properties:
+    - communication
+    - courage
+    - fidelity
+    - harmony
+    - imagination
+    - integrity
+    - intellectual
+    - knowledge
+    - marriage
+    - overcome fear
+    - power
+    - respect
+  notes:
+    - knowledge through experience
+    - power of voice
+  correspondences:
+    directions:
+      - south
+  citation:
+    - kynes-correspondences

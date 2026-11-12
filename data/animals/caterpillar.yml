@@ -1,0 +1,21 @@
+caterpillar:
+  type: insect & misc
+  properties:
+    - changes
+    - cycles
+    - inspiration
+    - luck
+    - manifestation
+    - messages/omens
+    - obstacles
+    - self-improvement
+    - transformation
+    - weather
+  notes:
+    - "weather: predict/woo/y"
+  varieties:
+    wooly:
+      properties:
+        - weather
+  citation:
+    - kynes-correspondences

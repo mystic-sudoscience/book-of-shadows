@@ -1,0 +1,27 @@
+eos:
+  type: goddess
+  description: Goddess of the dawn
+  culture: Greek
+  properties:
+    - activate/awaken
+    - beginnings
+    - cycles
+    - light
+    - lust
+    - senses
+    - youth
+  notes:
+    - gentleness
+  correspondences:
+    animals:
+      - cicada
+      - horse
+    colors:
+      - purple
+      - yellow
+    holidays:
+      - ostara
+    plants:
+      - saffron
+  citation:
+    - kynes-correspondences

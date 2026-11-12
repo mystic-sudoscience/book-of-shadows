@@ -1,0 +1,21 @@
+meadowlark:
+  type: bird
+  properties:
+    - cheerfulness
+    - clarity
+    - grounding
+    - happiness
+    - imagination
+    - introspection
+    - intuition
+    - luck
+    - self-improvement
+  correspondences:
+    holidays:
+      - summer solstice
+    planets:
+      - moon
+    seasons:
+      - summer
+  citation:
+    - kynes-correspondences

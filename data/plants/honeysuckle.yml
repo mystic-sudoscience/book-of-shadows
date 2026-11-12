@@ -50,6 +50,10 @@ honeysuckle:
     - well-being
     - wishes
     - witches/witchcraft
+    - happiness
+    - creativity
+    - intuition
+    - learning
   toxicity:
     humans: false
     pets: true

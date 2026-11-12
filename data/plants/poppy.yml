@@ -27,6 +27,8 @@ poppy:
     - sleep
     - spirits
     - support
+    - visions
+    - astral travel
   toxicity:
     humans: false
     pets: true

@@ -1,0 +1,29 @@
+hephaestus:
+  type: god
+  description: God of artisans and blacksmiths
+  culture: Greek
+  also known as:
+    - hephaistos
+  properties:
+    - bind
+    - creativity
+    - jealousy
+    - revenge
+    - skills
+    - wisdom
+  correspondences:
+    animals:
+      - crane
+      - donkey
+    elements:
+      - fire
+    numbers:
+      - 1
+    plants:
+      - fennel
+    seasons:
+      - winter
+    zodiac:
+      - libra
+  citation:
+    - kynes-correspondences

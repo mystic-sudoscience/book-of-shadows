@@ -28,6 +28,8 @@ lily:
     - relationships
     - willpower
     - youth
+    - happiness
+    - creativity
   toxicity:
     humans: true
     pets: true

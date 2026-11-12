@@ -9,6 +9,7 @@ hellebore:
     - banish
     - set hexes
     - contact spirits
+    - exorcism
   toxicity:
     humans: true
     pets: true

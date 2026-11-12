@@ -24,6 +24,7 @@ borage:
     - skills
     - soothe mind
     - sorrow
+    - happiness
   toxicity:
     humans: false
     pets: true

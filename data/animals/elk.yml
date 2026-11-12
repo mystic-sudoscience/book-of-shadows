@@ -1,0 +1,22 @@
+elk:
+  type: mammal
+  properties:
+    - determination
+    - dignity
+    - endurance
+    - freedom
+    - friendship
+    - integrity
+    - needs
+    - passion
+    - power
+    - pride
+    - relationships
+    - sensuality
+    - strength
+    - support
+    - wisdom
+  notes:
+    - balance relationships
+  citation:
+    - kynes-correspondences

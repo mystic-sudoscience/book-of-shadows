@@ -1,0 +1,21 @@
+turkey:
+  type: bird
+  properties:
+    - abundance
+    - blessings
+    - generosity
+    - gratitude
+    - growth
+    - honor
+    - rebirth/renewal
+  notes:
+    - shared blessings
+  varieties:
+    female:
+      properties:
+        - fertility
+    male:
+      properties:
+        - virility
+  citation:
+    - kynes-correspondences

@@ -1,0 +1,26 @@
+spider woman:
+  type: goddess
+  description: Creatrix and goddess of 1 wisdom
+  culture: Navajo, Zuni
+  properties:
+    - communication
+    - connections
+    - destiny
+    - face danger
+    - magic
+    - skills
+    - wisdom
+  correspondences:
+    animals:
+      - chipmunk
+      - spider
+    elements:
+      - fire
+    planets:
+      - moon
+      - sun
+    plants:
+      - grain
+      - reed
+  citation:
+    - kynes-correspondences

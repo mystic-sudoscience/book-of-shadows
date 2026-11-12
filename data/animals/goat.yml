@@ -1,0 +1,69 @@
+goat:
+  type: mammal
+  properties:
+    - abundance
+    - beginnings
+    - connections
+    - fertility
+    - freedom
+    - life
+    - magic
+    - past lives
+    - rebirth/renewal
+    - security
+    - sex magic
+    - sexuality
+    - sight
+    - sorrow
+    - spirits
+    - stability
+    - support
+    - vitality
+  notes:
+    - "connections: past lives"
+    - "life: vitality"
+    - "security: em otional/m ountain goat"
+    - "sexuality: sexual vigor"
+  correspondences:
+    deities:
+      - agni
+      - aphrodite
+      - artemis holle
+      - athena
+      - bacchus
+      - cailleach bheur
+      - dionysus
+      - faunus
+      - freya
+      - hermes
+      - mercury
+      - pan
+      - pushan
+      - silvanus
+      - thor
+      - zeus
+    elements:
+      - earth
+      - fire
+    holidays:
+      - beltane
+      - lupercalia
+    planets:
+      - moon
+      - saturn
+      - sun
+    plants:
+      - ash
+    seasons:
+      - spring
+      - summer
+    zodiac:
+      - aries
+      - capricorn
+      - taurus
+  varieties:
+    mountain:
+      properties:
+        - emotional security
+  citation:
+    - kynes-correspondences

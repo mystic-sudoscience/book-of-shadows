@@ -1,0 +1,12 @@
+cheetah:
+  type: mammal
+  properties:
+    - adaptability
+    - community
+    - concentration/focus
+    - freedom
+    - self-improvement
+    - self-respect
+    - sight
+  citation:
+    - kynes-correspondences

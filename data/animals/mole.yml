@@ -1,0 +1,29 @@
+mole:
+  type: mammal
+  properties:
+    - awareness
+    - darkness
+    - death
+    - energy
+    - enmity
+    - fear
+    - guardian
+    - guidance
+    - hidden or secret knowledge
+    - introspection
+    - knowledge
+    - magic
+    - self-improvement
+    - sensitivity
+    - skills
+  notes:
+    - earth energy
+    - earth magic
+    - hidden knowledge
+  correspondences:
+    deities:
+      - asclepius
+    elements:
+      - earth
+  citation:
+    - kynes-correspondences

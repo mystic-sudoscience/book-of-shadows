@@ -1,0 +1,93 @@
+raven:
+  type: bird
+  properties:
+    - affection
+    - changes
+    - clairvoyance
+    - clarity
+    - communication
+    - connections
+    - consciousness
+    - courage
+    - crossroads
+    - death
+    - destiny
+    - divination
+    - gratitude
+    - growth
+    - guardian
+    - guidance
+    - healing
+    - honor
+    - honor ancestors
+    - integrity
+    - intellectual
+    - introspection
+    - learning
+    - life
+    - listening
+    - loss
+    - magic
+    - manifestation
+    - memory/memories
+    - messages/omens
+    - mind
+    - otherworld/underworld
+    - prophecy
+    - protection
+    - rebirth/renewal
+    - shamanic work
+    - shape shift
+    - visions
+    - warrior energy
+    - wisdom
+  notes:
+    - "affection: family"
+    - "connections: crone"
+    - favors
+    - general magic
+    - "honor: elders"
+    - "magic: crone"
+    - "mind: thought"
+    - opportunities
+    - quests
+    - "shamanic work: shape shift"
+    - "warrior energy: battlefields"
+  correspondences:
+    deities:
+      - amaterasu
+      - apollo
+      - asclepius
+      - athena
+      - badb
+      - cailleach bheur
+      - danu
+      - freya
+      - inanna
+      - lugh
+      - macha
+      - maeve
+      - mars
+      - mithras
+      - odin
+      - rhiannon
+      - saturn
+      - them orrigan
+      - tiam at
+    directions:
+      - east
+    holidays:
+      - yule
+    moon:
+      - march
+    planets:
+      - saturn
+      - sun
+      - venus
+    plants:
+      - aspen
+    zodiac:
+      - gemini
+      - libra
+  citation:
+    - kynes-correspondences

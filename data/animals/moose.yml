@@ -1,0 +1,45 @@
+moose:
+  type: mammal
+  energy:
+    - yin
+  properties:
+    - accomplishment
+    - awareness
+    - clairaudience
+    - confidence
+    - connections
+    - dignity
+    - expand awareness
+    - freedom
+    - illumination
+    - intuition
+    - knowledge
+    - longevity
+    - messages/omens
+    - rebirth/renewal
+    - self-improvement
+    - self-knowledge
+    - self-respect
+    - sexual energy
+    - shamanic work
+    - spirits
+    - strength
+    - truth
+    - wisdom
+  notes:
+    - "awareness: new depths"
+    - banish spirits
+    - connections to elders
+    - "connections: inner and outer worlds"
+    - "knowledge: self and soul"
+  correspondences:
+    chakras:
+      - crown
+      - third eye
+    elements:
+      - water
+    seasons:
+      - autumn
+      - winter
+  citation:
+    - kynes-correspondences

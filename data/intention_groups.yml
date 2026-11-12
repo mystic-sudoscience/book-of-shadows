@@ -44,6 +44,8 @@ animals:
   - hunt animals
   - protect animals
   - protect familiars and pets
+astral realm:
+  - astral travel
 attraction:
   - attract love
   - attract loyalty
@@ -67,6 +69,8 @@ balance:
   - mental balance
   - physical balance
   - spiritual balance
+banish:
+  - exorcism
 beginnings:
   - new love
   - spiritual beginnings
@@ -87,8 +91,11 @@ changes:
   - support during transitions
   - unexpected changes
 cheerfulness:
+  - happiness
   - stimulate happiness
   - sweetness of life
+clairvoyance:
+  - visions
 clarity:
   - clear mind
   - clear sight
@@ -135,6 +142,7 @@ death:
   - funeral rites
 defense:
   - defense from psychic attack
+  - defensive magic
 determination:
   - perseverance
 discipline:
@@ -142,6 +150,7 @@ discipline:
   - self-discipline
 divination:
   - prophetic dreams
+  - visions
 dream work:
   - manifest dreams
   - prophetic dreams
@@ -191,6 +200,8 @@ energy:
   - warrior energy
 enmity:
   - avoid enmity
+fairy magic:
+  - connect with the fairy realm
 fear:
   - overcome fear
   - release/dispel fear
@@ -229,8 +240,12 @@ home:
   - protect home from negative energy
 honor:
   - honor ancestors
+inspiration:
+  - creativity
 introspection:
   - introspection about the past
+intuition:
+  - stimulate intuition
 justice:
   - law
   - legal matters
@@ -239,9 +254,12 @@ karma:
 knowledge:
   - arcane knowledge
   - hidden or secret knowledge
+  - learning
   - seek knowledge
   - self-knowledge
   - unutilized knowledge
+life:
+  - longevity
 light:
   - dispel darkness
 love:
@@ -272,10 +290,13 @@ magic:
   - animal magic
   - arcane knowledge
   - black magic
+  - defensive magic
+  - fairy magic
   - magical power
   - moon magic
   - night magic
   - occult power
+  - rain magic
   - sex magic
   - shamanic work
   - solar magic
@@ -392,6 +413,7 @@ psychic ability:
   - clairaudience
   - clairvoyance
   - inner senses
+  - intuition
   - psychic energy
   - psychic growth
   - psychic protection
@@ -403,6 +425,8 @@ purification:
   - ritual purification
   - self-purification
   - spiritual purification
+purity:
+  - chastity
 rebirth/renewal:
   - emotional rebirth/renewal
 reconciliation:
@@ -509,6 +533,7 @@ vitality:
   - zest for life
 weather:
   - protect from lightning
+  - rain magic
   - storms
 well-being:
   - fitness
@@ -517,3 +542,5 @@ wisdom:
   - higher wisdom
 witches/witchcraft:
   - protect from witchcraft
+youth:
+  - longevity

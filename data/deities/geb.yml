@@ -1,0 +1,25 @@
+geb:
+  type: god
+  description: Earth god
+  culture: Egyptian
+  properties:
+    - beginnings
+    - face danger
+    - fertility
+    - grounding
+    - justice
+  notes:
+    - "justice: judge"
+  correspondences:
+    animals:
+      - crocodile
+      - goose
+    elements:
+      - earth
+    planets:
+      - earth
+    plants:
+      - grain
+      - reed
+  citation:
+    - kynes-correspondences

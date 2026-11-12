@@ -1,0 +1,48 @@
+woodpecker:
+  type: bird
+  properties:
+    - activate/awaken
+    - assertiveness
+    - cycles
+    - fertility
+    - generosity
+    - growth
+    - hidden or secret knowledge
+    - knowledge
+    - luck
+    - magic
+    - mind
+    - prophecy
+    - protection
+    - purification
+    - security
+    - shamanic work
+    - stimulation
+    - truth
+    - weather
+  notes:
+    - hidden knowledge
+    - reveal truth
+  correspondences:
+    deities:
+      - ares
+      - buddha
+      - jupiter
+      - mars
+      - pan
+      - silvanus
+      - zeus
+    elements:
+      - earth
+      - fire
+    planets:
+      - mars
+    plants:
+      - oak
+      - peony
+    seasons:
+      - summer
+    zodiac:
+      - aries
+  citation:
+    - kynes-correspondences

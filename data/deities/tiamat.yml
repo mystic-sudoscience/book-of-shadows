@@ -1,0 +1,35 @@
+tiamat:
+  type: goddess
+  description: Goddess of the primeval sea
+  culture: Assyro-Babylonian, Chaldean, 1 Semitic
+  properties:
+    - challenges
+    - changes
+    - energy
+    - face danger
+    - magic
+    - otherworld/underworld
+    - warrior energy
+  notes:
+    - "magic: dragon"
+  correspondences:
+    animals:
+      - dragon
+      - hyena
+      - raven
+      - spider
+      - "vulture insects el misc.: scorpion"
+    crystals:
+      - beryl
+    elements:
+      - water
+    holidays:
+      - yule
+    numbers:
+      - 11
+    planets:
+      - neptune
+    zodiac:
+      - aries
+  citation:
+    - kynes-correspondences

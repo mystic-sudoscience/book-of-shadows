@@ -1,0 +1,28 @@
+ostara:
+  type: goddess
+  description: Goddess of spring and renewal
+  culture: Anglo-Saxon
+  also known as:
+    - eostre
+  properties:
+    - beginnings
+    - cycles
+    - energy
+    - fertility
+    - growth
+    - love
+    - rebirth/renewal
+  correspondences:
+    animals:
+      - hare
+      - rabbit
+    holidays:
+      - ostara
+    plants:
+      - ash
+      - lily
+      - linden
+    seasons:
+      - spring
+  citation:
+    - kynes-correspondences

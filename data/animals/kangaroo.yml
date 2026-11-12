@@ -1,0 +1,12 @@
+kangaroo:
+  type: mammal
+  properties:
+    - adaptability
+    - balance
+    - energy
+    - fidelity
+    - home
+    - motivation
+    - unity
+  citation:
+    - kynes-correspondences

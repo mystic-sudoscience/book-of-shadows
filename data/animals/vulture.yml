@@ -1,0 +1,28 @@
+vulture:
+  type: bird
+  properties:
+    - afterlife
+    - compassion
+    - cycles
+    - death
+    - divination
+    - guardian
+    - healing
+    - life
+    - nurture
+    - patience
+    - purification
+    - rebirth/renewal
+    - shape shift
+    - sight
+    - transformation
+    - trust
+    - trust senses
+  notes:
+    - guardian of mysteries
+  varieties:
+    turkey:
+      properties:
+        - smell
+  citation:
+    - kynes-correspondences

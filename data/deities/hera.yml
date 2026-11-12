@@ -1,0 +1,58 @@
+hera:
+  type: goddess
+  description: Sky goddess and wife of Zeus
+  culture: Greek
+  also known as:
+    - here
+  properties:
+    - anger
+    - banish
+    - business
+    - communication
+    - community
+    - death
+    - energy
+    - fertility
+    - fidelity
+    - jealousy
+    - love
+    - marriage
+    - prophecy
+    - protection
+    - rebirth/renewal
+    - wisdom
+  correspondences:
+    animals:
+      - cattle (cow)
+      - crane
+      - cuckoo
+      - dog
+      - goose
+      - hare
+      - hawk
+      - lion
+      - peacock
+      - stork
+    elements:
+      - air
+    holidays:
+      - new year's day
+      - ostara
+    numbers:
+      - 8
+    planets:
+      - jupiter
+      - pluto
+      - saturn
+    plants:
+      - apple
+      - iris
+      - lily
+      - oak
+      - orrisroot
+      - pomegranate
+      - willow
+    zodiac:
+      - leo
+  citation:
+    - kynes-correspondences

@@ -1,0 +1,17 @@
+wolverine:
+  type: mammal
+  properties:
+    - aggression
+    - connections
+    - courage
+    - endurance
+    - energy
+    - magic
+    - revenge
+    - strength
+    - travel
+  notes:
+    - connection between worlds
+    - trickster energy
+  citation:
+    - kynes-correspondences

@@ -1,0 +1,34 @@
+beaver:
+  type: mammal
+  properties:
+    - action
+    - balance
+    - changes
+    - community
+    - creativity
+    - determination
+    - family
+    - fidelity
+    - harmony
+    - home
+    - long-term goals
+    - motivation
+    - skills
+    - unity
+  notes:
+    - "action: dreams into reality"
+    - "community: work together"
+    - creativity with available resources
+    - "opportunities: never limit options"
+  correspondences:
+    elements:
+      - water
+    plants:
+      - aspen
+      - poplar
+    times:
+      - dusk
+    zodiac:
+      - taurus
+  citation:
+    - kynes-correspondences

@@ -1,0 +1,35 @@
+hel:
+  type: goddess
+  description: Goddess of death and the Underworld
+  culture: Norse, Teutonic
+  also known as:
+    - hella
+    - urth
+  properties:
+    - afterlife
+    - darkness
+    - death
+    - otherworld/underworld
+    - warrior energy
+  correspondences:
+    holidays:
+      - samhain
+      - yule
+    numbers:
+      - 9
+    planets:
+      - pluto
+    plants:
+      - ash
+      - beech
+      - elder
+      - elm
+      - holly
+      - ivy
+      - juniper
+      - willow
+      - yew
+    zodiac:
+      - scorpio
+  citation:
+    - kynes-correspondences

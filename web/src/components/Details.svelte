@@ -11,6 +11,24 @@
   // Properties that count as a match: the active intentions, plus their related wordings.
   const activeSet = $derived(new Set(active.flatMap((a) => (exact ? [a] : [...relatedTo(a)]))))
   const fields = $derived(Object.entries(item.fields).filter(([k]) => k !== 'toxicity' && k !== 'type'))
+  // What this item names in its correspondences, grouped by collection (unresolved names shown as text).
+  const LINK_LABELS = { deities: 'Deities', sea: 'From the sea' }
+  const linkGroups = $derived(
+    Object.entries(item.correspondences ?? {})
+      .map(([coll, list]) => ({ coll, label: LINK_LABELS[coll] ?? typeInfo(coll).label, list }))
+      .sort((a, b) => a.label.localeCompare(b.label)),
+  )
+  // Items that name this one, grouped by type.
+  const backGroups = $derived.by(() => {
+    const groups = new Map()
+    for (const id of item.linkedFrom ?? []) {
+      const it = itemsById.get(id)
+      if (!it) continue
+      if (!groups.has(it.type)) groups.set(it.type, [])
+      groups.get(it.type).push(it)
+    }
+    return [...groups.entries()].map(([type, list]) => ({ type, label: typeInfo(type).label, list: list.sort((a, b) => a.name.localeCompare(b.name)) }))
+  })
   // Matched intentions first, then the rest alphabetically.
   const props = $derived([...item.properties].sort((a, b) => activeSet.has(b) - activeSet.has(a) || a.localeCompare(b)))
 </script>
@@ -68,6 +86,31 @@
           </button>
         {/each}
       </div>
+    </section>
+  {/if}
+
+  {#if linkGroups.length || backGroups.length}
+    <section>
+      <h3>Linked items</h3>
+      <dl class="links">
+        {#each linkGroups as g (g.coll)}
+          <dt>{g.label}</dt>
+          <dd>
+            {#each g.list as l, i (l.name)}{#if i},&nbsp;{/if}{#if l.id}<button class="ref" onclick={() => onselect(l.id)}>{l.name}</button>{:else}<span class="unlinked" title="Not in the data yet">{l.name}</span>{/if}{/each}
+          </dd>
+        {/each}
+      </dl>
+      {#if backGroups.length}
+        <h4>Linked from</h4>
+        <dl class="links">
+          {#each backGroups as g (g.type)}
+            <dt>{g.label} <span class="n">{g.list.length}</span></dt>
+            <dd>
+              {#each g.list as it, i (it.id)}{#if i},&nbsp;{/if}<button class="ref" onclick={() => onselect(it.id)}>{it.name}</button>{/each}
+            </dd>
+          {/each}
+        </dl>
+      {/if}
     </section>
   {/if}
 
@@ -233,6 +276,18 @@
   dd {
     margin: 0;
     min-width: 0;
+  }
+  h4 {
+    margin: 10px 0 4px;
+    font-size: 11px;
+    color: var(--muted);
+    font-weight: 600;
+  }
+  .links dd {
+    line-height: 1.6;
+  }
+  .unlinked {
+    color: var(--muted);
   }
   .sources {
     margin: 0;

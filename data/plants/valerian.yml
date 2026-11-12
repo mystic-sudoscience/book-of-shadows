@@ -30,6 +30,7 @@ valerian:
     - sleep
     - stress
     - truth
+    - longevity
   toxicity:
     humans: false
     pets: false

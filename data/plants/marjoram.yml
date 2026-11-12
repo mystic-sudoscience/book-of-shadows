@@ -40,6 +40,8 @@ marjoram:
     - unity
     - warmth
     - well-being
+    - happiness
+    - defensive magic
   toxicity:
     humans: false
     pets: true

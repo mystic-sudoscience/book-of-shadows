@@ -1,0 +1,62 @@
+boar:
+  type: mammal
+  energy:
+    - yang
+  properties:
+    - assertiveness
+    - authority
+    - challenges
+    - courage
+    - crossroads
+    - cunning
+    - death
+    - determination
+    - encouragement
+    - enmity
+    - face danger
+    - family
+    - fertility
+    - fidelity
+    - goodness
+    - healing
+    - honesty
+    - lust
+    - magic
+    - otherworld/underworld
+    - passion
+    - power
+    - prophecy
+    - prosperity
+    - protection
+    - strength
+    - truth
+    - warrior energy
+    - wealth
+  notes:
+    - find truth
+    - spiritual authority
+  correspondences:
+    deities:
+      - arawn
+      - ares
+      - arianrhod
+      - artemis
+      - brahma
+      - cailleach bheur
+      - cernunnos
+      - freya
+      - freyr
+      - lugh
+      - manannan
+      - nut
+      - set
+      - vishnu
+    elements:
+      - earth
+    holidays:
+      - samhain
+      - yule
+    plants:
+      - oak
+  citation:
+    - kynes-correspondences

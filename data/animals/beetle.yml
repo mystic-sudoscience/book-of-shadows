@@ -1,0 +1,20 @@
+beetle:
+  type: insect & misc
+  properties:
+    - changes
+    - rebirth/renewal
+    - transformation
+  correspondences:
+    zodiac:
+      - cancer
+  varieties:
+    scarab:
+      properties:
+        - creativity
+        - life
+        - longevity
+      correspondences:
+        deities:
+          - ra
+  citation:
+    - kynes-correspondences

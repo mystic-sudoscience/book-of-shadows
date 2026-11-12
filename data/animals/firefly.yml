@@ -1,0 +1,25 @@
+firefly:
+  type: insect & misc
+  properties:
+    - accomplishment
+    - activate/awaken
+    - communication
+    - creativity
+    - darkness
+    - dispel darkness
+    - energy
+    - guidance
+    - hope
+    - illumination
+    - inspiration
+    - light
+    - night magic
+    - spirituality
+  notes:
+    - guidance in the dark
+  correspondences:
+    elements:
+      - air
+      - fire
+  citation:
+    - kynes-correspondences

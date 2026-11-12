@@ -1,0 +1,11 @@
+nighthawk:
+  type: bird
+  properties:
+    - abundance
+    - adaptability
+    - communication
+    - determination
+    - freedom
+    - success
+  citation:
+    - kynes-correspondences

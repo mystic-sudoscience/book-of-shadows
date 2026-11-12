@@ -1,0 +1,41 @@
+iris:
+  type: goddess
+  description: Goddess of the rainbow
+  culture: Greek
+  properties:
+    - communication
+    - discipline
+    - emotions
+    - energy
+    - kindness
+    - messages/omens
+    - shamanic work
+    - support
+    - weather
+  notes:
+    - gentleness
+    - "weather: rainbows"
+  correspondences:
+    animals:
+      - bee
+      - peacock
+    colors:
+      - blue
+      - green
+      - indigo
+      - orange
+      - red
+      - violet
+      - yellow
+    crystals:
+      - obsidian (rainbow)
+    holidays:
+      - ostara
+    plants:
+      - iris
+      - orrisroot
+      - wormwood
+    zodiac:
+      - virgo
+  citation:
+    - kynes-correspondences

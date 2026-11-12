@@ -1,0 +1,60 @@
+loki:
+  type: god
+  description: Trickster god
+  culture: Norse, Teutonic
+  properties:
+    - acceptance
+    - beauty
+    - challenges
+    - changes
+    - clairvoyance
+    - communication
+    - cunning
+    - destiny
+    - emotions
+    - enmity
+    - face danger
+    - freedom
+    - learning
+    - magic
+    - obstacles
+    - protection
+    - shamanic work
+    - support
+  notes:
+    - deceit
+    - "obstacles: unexpected obstacles"
+    - opportunities
+    - "protection: personal space"
+    - "shamanic work: shape shift"
+  correspondences:
+    animals:
+      - banish
+      - bee attraction
+      - coyote
+      - erm ination
+      - fertility
+      - i
+      - loki trickster god (norse, teutonic)
+      - magic (sex)
+      - romance
+      - sensuality
+    holidays:
+      - samhain
+      - summer solstice
+    numbers:
+      - 2
+    planets:
+      - mercury
+    plants:
+      - beech
+      - blackthorn
+      - elm
+      - ivy
+      - juniper
+      - willow
+      - yew
+    zodiac:
+      - capricorn
+  citation:
+    - kynes-correspondences

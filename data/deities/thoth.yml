@@ -1,0 +1,62 @@
+thoth:
+  type: god
+  description: God of wisdom, time, magic, medicine; messenger and secretary of the gods
+  culture: Egyptian
+  also known as:
+    - djehuty
+  properties:
+    - balance
+    - business
+    - clarity
+    - communication
+    - creativity
+    - destiny
+    - divination
+    - guardian
+    - guidance
+    - healing
+    - honesty
+    - intellectual
+    - justice
+    - knowledge
+    - learning
+    - life
+    - magic
+    - mental power
+    - messages/omens
+    - mind
+    - moon magic
+    - otherworld/underworld
+    - peace
+    - prophecy
+    - rebirth/renewal
+    - secrets
+    - success
+    - truth
+    - wisdom
+  notes:
+    - general magic
+    - writing communication
+  correspondences:
+    animals:
+      - baboon
+      - dog
+      - gorilla
+      - ibis
+      - lizard
+    elements:
+      - air
+    holidays:
+      - mabon
+    planets:
+      - mercury
+      - moon
+    plants:
+      - bamboo
+    weekdays:
+      - monday
+    zodiac:
+      - gemini
+      - libra
+  citation:
+    - kynes-correspondences

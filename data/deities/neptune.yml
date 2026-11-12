@@ -1,0 +1,47 @@
+neptune:
+  type: god
+  description: Sea god
+  culture: Roman
+  also known as:
+    - neptunus
+    - nethunus
+  properties:
+    - authority
+    - discipline
+    - divination
+    - emotions
+    - energy
+    - guardian
+    - guidance
+    - intuition
+    - life
+    - power
+    - protection
+    - sex magic
+    - wisdom
+  correspondences:
+    animals:
+      - dolphin
+      - horse
+      - porpoise
+      - sea horse
+      - whale
+    crystals:
+      - beryl
+      - salt (sea)
+    elements:
+      - water
+    holidays:
+      - neptunalia
+    numbers:
+      - 11
+    planets:
+      - neptune
+    plants:
+      - ash
+    sea:
+      - pearl
+    zodiac:
+      - pisces
+  citation:
+    - kynes-correspondences

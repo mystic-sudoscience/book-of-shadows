@@ -1,0 +1,10 @@
+parakeet:
+  type: bird
+  properties:
+    - changes
+    - love
+    - relationships
+    - support
+    - trust
+  citation:
+    - kynes-correspondences

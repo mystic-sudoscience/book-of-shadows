@@ -1,0 +1,70 @@
+crane:
+  type: bird
+  properties:
+    - abundance
+    - astral realm
+    - balance
+    - concentration/focus
+    - connections
+    - creativity
+    - cycles
+    - death
+    - divination
+    - endurance
+    - freedom
+    - grace
+    - guardian
+    - healing
+    - honor
+    - introspection
+    - justice
+    - learning
+    - logic/logical mind
+    - longevity
+    - magic
+    - mind
+    - otherworld/underworld
+    - past lives
+    - patience
+    - peace
+    - protection
+    - rebirth/renewal
+    - reversal
+    - secrets
+    - self-knowledge
+    - shamanic work
+    - support
+    - transformation
+    - travel
+    - well-being
+    - wisdom
+  notes:
+    - "connections: otherworld"
+    - "connections: past lives"
+    - keeper of secrets
+    - logical them ind
+    - "protection: children"
+  correspondences:
+    deities:
+      - apollo
+      - artemis
+      - athena
+      - badb
+      - hephaestus
+      - hera
+      - hermes
+      - lugh
+      - manannan
+      - the morrigan
+    elements:
+      - fire
+      - water
+    planets:
+      - moon
+      - sun
+    plants:
+      - willow
+    seasons:
+      - spring
+  citation:
+    - kynes-correspondences

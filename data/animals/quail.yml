@@ -1,0 +1,42 @@
+quail:
+  type: bird
+  energy:
+    - yang
+    - yin
+  properties:
+    - challenges
+    - courage
+    - cycles
+    - enlightenment
+    - fertility
+    - harmony
+    - innocence
+    - insight
+    - mindfulness
+    - nurture
+    - passion
+    - power
+    - protection
+    - sexuality
+    - shamanic work
+    - shape shift
+    - warmth
+    - warrior energy
+  notes:
+    - power of names
+    - "shamanic work: shape shift"
+    - "warrior energy: valor"
+  correspondences:
+    deities:
+      - apollo
+      - artemis
+    directions:
+      - south
+    elements:
+      - fire
+    seasons:
+      - autumn
+      - spring
+      - summer
+  citation:
+    - kynes-correspondences

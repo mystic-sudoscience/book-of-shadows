@@ -1,0 +1,31 @@
+khensu:
+  type: god
+  description: Moon god of healing and regeneration
+  culture: Egyptian
+  also known as:
+    - khonsu
+  properties:
+    - banish
+    - cycles
+    - healing
+    - inspiration
+    - light
+    - moon magic
+    - rebirth/renewal
+    - travel
+  correspondences:
+    animals:
+      - baboon
+      - crocodile
+      - falcon
+    colors:
+      - silver
+    numbers:
+      - 9
+    planets:
+      - moon
+      - saturn
+    plants:
+      - moonwort
+  citation:
+    - kynes-correspondences

@@ -1,0 +1,64 @@
+poseidon:
+  type: god
+  description: God of the sea and rivers
+  culture: Greek
+  properties:
+    - action
+    - animal magic
+    - animals
+    - authority
+    - discipline
+    - divination
+    - energy
+    - fertility
+    - freedom
+    - jealousy
+    - learning
+    - life
+    - loss
+    - power
+    - rebirth/renewal
+    - sex magic
+    - shamanic work
+    - skills
+    - success
+    - transformation
+    - travel
+    - weather
+  notes:
+    - "animals: fertility"
+    - "weather: ocean storms"
+  correspondences:
+    animals:
+      - cattle (bull)
+      - dolphin
+      - horse
+      - porpoise
+      - sea horse
+      - sheep (ram )
+    crystals:
+      - beryl
+      - salt (sea)
+    elements:
+      - water
+    numbers:
+      - 8
+      - n
+    planets:
+      - neptune
+    plants:
+      - ash
+      - blackberry/bram ble gemstones el
+      - olive
+      - pine
+      - reed
+      - spruce
+      - willow
+    sea:
+      - pearl
+      - triton
+    zodiac:
+      - pisces
+      - taurus
+  citation:
+    - kynes-correspondences

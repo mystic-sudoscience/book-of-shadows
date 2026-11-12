@@ -1,0 +1,23 @@
+pig:
+  type: mammal
+  properties:
+    - abundance
+    - cheerfulness
+    - death
+    - destiny
+    - determination
+    - family
+    - fertility
+    - integrity
+    - knowledge
+    - otherworld/underworld
+    - patience
+    - sight
+    - smell
+    - transformation
+    - truth
+    - wealth
+  notes:
+    - "knowledge: past lives"
+  citation:
+    - kynes-correspondences

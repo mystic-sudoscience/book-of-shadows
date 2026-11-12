@@ -1,0 +1,12 @@
+zebra:
+  type: mammal
+  properties:
+    - awareness
+    - balance
+    - clarity
+    - community
+    - family
+    - power
+    - stability
+  citation:
+    - kynes-correspondences

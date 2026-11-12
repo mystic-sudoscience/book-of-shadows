@@ -1,0 +1,39 @@
+blue jay:
+  type: bird
+  properties:
+    - adaptability
+    - assertiveness
+    - astral realm
+    - connections
+    - courage
+    - death
+    - dedication/devotion
+    - develop skills
+    - fear
+    - heaven and earth
+    - knowledge
+    - loyalty
+    - luck
+    - magic
+    - otherworld/underworld
+    - power
+    - prophecy
+    - psychic ability
+    - skills
+  notes:
+    - "connections: heaven and earth"
+    - higher knowledge
+    - opportunities
+    - "psychic ability: dabble"
+    - "skills: develop and use appropriately"
+    - use power wisely
+  correspondences:
+    deities:
+      - gaia
+      - mars
+    elements:
+      - earth
+    planets:
+      - mercury
+  citation:
+    - kynes-correspondences

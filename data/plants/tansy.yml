@@ -8,6 +8,7 @@ tansy:
   properties:
     - healing
     - life
+    - longevity
   toxicity:
     humans: true
     pets: true

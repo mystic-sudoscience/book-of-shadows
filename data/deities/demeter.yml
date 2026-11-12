@@ -1,0 +1,78 @@
+demeter:
+  type: goddess
+  description: Goddess of grain and the fruitful in ess of the earth
+  culture: Greek
+  properties:
+    - abundance
+    - acceptance
+    - accomplishment
+    - action
+    - affection
+    - afterlife
+    - agriculture
+    - beginnings
+    - business
+    - changes
+    - compassion
+    - cycles
+    - energy
+    - family
+    - fertility
+    - gratitude
+    - grief
+    - grounding
+    - justice
+    - knowledge
+    - learning
+    - life
+    - longevity
+    - manifestation
+    - money
+    - nurture
+    - power
+    - prophecy
+    - prosperity
+    - purification
+    - purity
+    - release attachments
+    - security
+    - sorrow
+    - truth
+    - wealth
+    - well-being
+    - youth
+  notes:
+    - "youth: nurture"
+  correspondences:
+    animals:
+      - bee
+      - cat
+      - dove
+      - fox
+      - horse
+      - pig
+      - snake
+      - weasel
+    elements:
+      - earth
+    holidays:
+      - lughnasadh
+      - ostara
+    planets:
+      - earth
+      - saturn
+    plants:
+      - grain
+      - lady's mantle
+      - myrrh
+      - oak
+      - pennyroyal
+      - poppy
+      - rose
+      - sunflower
+      - vervain
+    zodiac:
+      - cancer
+      - virgo
+  citation:
+    - kynes-correspondences

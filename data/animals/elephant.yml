@@ -1,0 +1,58 @@
+elephant:
+  type: mammal
+  properties:
+    - affection
+    - balance
+    - communication
+    - community
+    - confidence
+    - connections
+    - dignity
+    - emotions
+    - endurance
+    - family
+    - fertility
+    - intuition
+    - learning
+    - longevity
+    - loyalty
+    - luck
+    - memory/memories
+    - obstacles
+    - patience
+    - power
+    - prophecy
+    - protection
+    - relationships
+    - respect
+    - revenge
+    - sexuality
+    - sight
+    - state of grace
+    - strength
+    - success
+    - warrior energy
+    - well-being
+    - wisdom
+  notes:
+    - ancient power
+    - "communication: subtlety"
+    - "connections: ancient wisdom"
+    - learning and teaching
+    - "opportunities: education"
+  correspondences:
+    deities:
+      - buddha
+      - ganesh
+      - indra
+      - lakshmi
+      - parvati
+      - shiva
+    elements:
+      - earth
+    planets:
+      - moon
+    zodiac:
+      - capricorn
+  citation:
+    - kynes-correspondences

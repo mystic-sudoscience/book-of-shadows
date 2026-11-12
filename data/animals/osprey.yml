@@ -1,0 +1,14 @@
+osprey:
+  type: bird
+  properties:
+    - abundance
+    - action
+    - authority
+    - defense
+    - freedom
+    - insight
+  correspondences:
+    planets:
+      - moon
+  citation:
+    - kynes-correspondences

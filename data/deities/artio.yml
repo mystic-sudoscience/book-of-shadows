@@ -1,0 +1,27 @@
+artio:
+  type: goddess
+  description: Goddess of wildlife, bear cult
+  culture: Celtic — Gaul
+  properties:
+    - abundance
+    - agriculture
+    - animal magic
+    - animals
+    - courage
+    - defense
+    - fertility
+    - knowledge
+    - money
+    - prosperity
+    - strength
+  notes:
+    - "agriculture: harvest"
+  correspondences:
+    animals:
+      - bear
+    holidays:
+      - imbolc
+    tarot:
+      - strength
+  citation:
+    - kynes-correspondences

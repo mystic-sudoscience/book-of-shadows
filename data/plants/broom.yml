@@ -29,6 +29,7 @@ broom:
     - stimulation
     - unity
     - witches/witchcraft
+    - astral travel
   toxicity:
     humans: true
     pets: true

@@ -1,0 +1,15 @@
+muskrat:
+  type: mammal
+  properties:
+    - adaptability
+    - emotions
+    - guardian
+    - guidance
+    - limitations/boundaries
+    - mind
+    - trust senses
+  notes:
+    - navigate emotions
+    - resourceful mind
+  citation:
+    - kynes-correspondences

@@ -1,0 +1,47 @@
+phoenix:
+  type: mythical
+  energy:
+    - yang
+  properties:
+    - beauty
+    - beginnings
+    - destruction
+    - endings
+    - happiness
+    - hope
+    - knowledge
+    - longevity
+    - marriage
+    - otherworld/underworld
+    - rebirth/renewal
+    - self-improvement
+  notes:
+    - happy marriage
+  correspondences:
+    colors:
+      - red
+    deities:
+      - osiris
+      - quetzalcoatl
+      - ra
+      - shiva
+    directions:
+      - south
+    elements:
+      - fire
+    metals:
+      - mercury
+    planets:
+      - sun
+    plants:
+      - cedar
+      - cinnamon
+    seasons:
+      - summer
+    times:
+      - dawn
+    zodiac:
+      - aquarius
+      - scorpio
+  citation:
+    - kynes-correspondences

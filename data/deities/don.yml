@@ -1,0 +1,36 @@
+don:
+  type: goddess
+  description: Great mother goddess; mother of Arianrhod and Gwydion
+  culture: Celtic — Wales, England
+  properties:
+    - authority
+    - communication
+    - enchantment
+    - fertility
+    - goodness
+    - inspiration
+    - knowledge
+    - provide comfort
+    - skills
+  correspondences:
+    colors:
+      - black
+      - indigo
+    crystals:
+      - jet
+      - onyx
+    directions:
+      - west
+    holidays:
+      - beltane
+    metals:
+      - lead
+    planets:
+      - saturn
+    plants:
+      - oak
+      - yew
+    tarot:
+      - empress
+  citation:
+    - kynes-correspondences

@@ -1,0 +1,37 @@
+lynx:
+  type: mammal
+  properties:
+    - astral realm
+    - clairvoyance
+    - divination
+    - hidden or secret knowledge
+    - integrity
+    - intellectual
+    - knowledge
+    - love
+    - motivation
+    - power
+    - secrets
+    - shyness
+    - sight
+    - skills
+    - truth
+  notes:
+    - hidden knowledge
+    - psychic power
+  correspondences:
+    deities:
+      - dionysus
+      - freya
+      - lugh
+    directions:
+      - north
+    numbers:
+      - 11
+    planets:
+      - venus
+    seasons:
+      - autumn
+      - winter
+  citation:
+    - kynes-correspondences

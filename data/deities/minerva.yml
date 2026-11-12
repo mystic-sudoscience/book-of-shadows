@@ -1,0 +1,49 @@
+minerva:
+  type: goddess
+  description: Goddess of war, schools, commerce, and artisans
+  culture: Etruscan, Roman
+  properties:
+    - action
+    - business
+    - community
+    - creativity
+    - freedom
+    - guidance
+    - healing
+    - intellectual
+    - knowledge
+    - learning
+    - mind
+    - money
+    - peace
+    - power
+    - protection
+    - skills
+    - warrior energy
+    - wisdom
+  notes:
+    - decisions
+  correspondences:
+    animals:
+      - antelope
+      - cattle (ox)
+      - owl
+    holidays:
+      - feast of epona
+      - ostara
+    numbers:
+      - 5
+      - 7
+    planets:
+      - mars
+      - mercury
+    plants:
+      - ash
+      - olive
+      - spindletree
+      - thistle
+    zodiac:
+      - aries
+      - libra
+  citation:
+    - kynes-correspondences

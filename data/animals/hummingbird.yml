@@ -1,0 +1,24 @@
+hummingbird:
+  type: bird
+  properties:
+    - balance
+    - beauty
+    - defense
+    - enchantment
+    - endurance
+    - forgiveness
+    - healing
+    - home
+    - jealousy
+    - motivation
+    - purity
+    - reversal
+    - sleep
+    - strength
+    - sweetness of life
+    - travel
+    - well-being
+  notes:
+    - "jealousy: heal fron"
+  citation:
+    - kynes-correspondences

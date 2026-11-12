@@ -1,0 +1,27 @@
+nut:
+  type: goddess
+  description: Goddess of the night sky
+  culture: Egyptian
+  properties:
+    - astral realm
+    - cosmic energy
+    - night magic
+    - nightmares
+    - protection
+    - rebirth/renewal
+    - weather
+  correspondences:
+    animals:
+      - boar
+      - cattle (cow)
+      - pig (sow)
+    elements:
+      - air
+    planets:
+      - jupiter
+    plants:
+      - "sycamore gemstone/w lineral: lapis lazuli"
+    zodiac:
+      - aquarius
+  citation:
+    - kynes-correspondences

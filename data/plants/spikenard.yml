@@ -26,6 +26,7 @@ spikenard:
     - relationships
     - stability
     - well-being
+    - creativity
   toxicity:
     humans: false
     pets: false

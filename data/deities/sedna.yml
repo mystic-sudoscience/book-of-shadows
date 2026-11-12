@@ -1,0 +1,31 @@
+sedna:
+  type: goddess
+  description: Sea goddess and mother of sea creatures
+  culture: Eskimo — North America
+  properties:
+    - abundance
+    - balance
+    - blessings
+    - consecrate/bless
+    - death
+    - life
+    - loss
+    - magic
+    - purification
+    - rebirth/renewal
+    - release attachments
+    - shamanic work
+  notes:
+    - "magic: crone"
+  correspondences:
+    animals:
+      - all
+    elements:
+      - water
+    planets:
+      - moon
+      - neptune
+    zodiac:
+      - pisces
+  citation:
+    - kynes-correspondences

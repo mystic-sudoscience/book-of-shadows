@@ -1,0 +1,10 @@
+panda:
+  type: mammal
+  properties:
+    - adaptability
+    - balance
+    - kindness
+    - sensitivity
+    - strength
+  citation:
+    - kynes-correspondences

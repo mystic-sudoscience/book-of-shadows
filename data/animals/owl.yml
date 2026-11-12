@@ -1,0 +1,67 @@
+owl:
+  type: bird
+  properties:
+    - affection
+    - agriculture
+    - astral realm
+    - authority
+    - awareness
+    - clairaudience
+    - clairvoyance
+    - clarity
+    - connections
+    - consciousness
+    - darkness
+    - determination
+    - enlightenment
+    - fear
+    - fertility
+    - freedom
+    - guardian
+    - hidden or secret knowledge
+    - higher wisdom
+    - insight
+    - knowledge
+    - life
+    - magic
+    - moon magic
+    - negativity
+    - night magic
+    - otherworld/underworld
+    - patience
+    - prophecy
+    - psychic ability
+    - purification
+    - rebirth/renewal
+    - secrets
+    - shape shift
+    - sight
+    - sleep
+    - support
+    - truth
+    - witches/witchcraft
+  notes:
+    - "connections: seen and unseen"
+    - extract secrets
+    - intuitive knowledge
+  varieties:
+    barn:
+      properties:
+        - death
+    burrowing:
+      properties:
+        - grounding
+        - guidance
+        - pregnancy/childbirth
+    long-eared:
+      properties:
+        - assertiveness
+        - defense
+    screech:
+      properties:
+        - afterlife
+    white:
+      properties:
+        - mind
+  citation:
+    - kynes-correspondences

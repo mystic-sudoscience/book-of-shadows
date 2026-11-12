@@ -1,0 +1,22 @@
+rat:
+  type: mammal
+  properties:
+    - adaptability
+    - community
+    - cunning
+    - defense
+    - determination
+    - fertility
+    - integrity
+    - intellectual
+    - money
+    - obstacles
+    - success
+    - unity
+    - wealth
+  correspondences:
+    deities:
+      - ganesh
+      - shiva
+  citation:
+    - kynes-correspondences

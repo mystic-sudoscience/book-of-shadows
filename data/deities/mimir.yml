@@ -1,0 +1,29 @@
+mimir:
+  type: god
+  description: God of knowledge, prophecy, and wisdom, as well as smiths and water
+  culture: Norse, Teutonic
+  also known as:
+    - mimar
+  properties:
+    - balance
+    - creativity
+    - guidance
+    - insight
+    - inspiration
+    - intuition
+    - knowledge
+    - prophecy
+    - wisdom
+  notes:
+    - decisions
+    - secret knowledge
+  correspondences:
+    elements:
+      - air
+      - earth
+      - fire
+      - water
+    plants:
+      - ash
+  citation:
+    - kynes-correspondences

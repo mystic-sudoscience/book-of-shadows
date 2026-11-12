@@ -1,0 +1,23 @@
+chickadee:
+  type: bird
+  properties:
+    - action
+    - activate/awaken
+    - balance
+    - cheerfulness
+    - community
+    - emotions
+    - knowledge
+    - mind
+    - overcome fear
+    - truth
+  notes:
+    - "moods: attitudes"
+    - understand moods
+  correspondences:
+    numbers:
+      - 7
+    seasons:
+      - spring
+  citation:
+    - kynes-correspondences

@@ -22,6 +22,7 @@ cowslip:
     - strength
     - trust
     - youth
+    - fairy magic
   toxicity:
     humans: true
     pets: true

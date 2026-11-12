@@ -1,0 +1,32 @@
+eros:
+  type: god
+  description: God of love
+  culture: Greek
+  properties:
+    - creativity
+    - desire
+    - face danger
+    - love
+    - passion
+    - peace
+    - romance
+    - sensuality
+    - sex magic
+    - sexuality
+    - youth
+  correspondences:
+    animals:
+      - hare
+    holidays:
+      - beltane
+      - imbolc
+    plants:
+      - apple
+      - myrtle
+      - rose
+    weekdays:
+      - friday
+    zodiac:
+      - pisces
+  citation:
+    - kynes-correspondences

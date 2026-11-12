@@ -1,0 +1,22 @@
+octopus:
+  type: marine life
+  properties:
+    - aggression
+    - avoid danger
+    - changes
+    - communication
+    - integrity
+    - intellectual
+    - life
+    - negativity
+    - spirits
+  notes:
+    - deceit for safety
+    - spirits of the underworld
+  correspondences:
+    holidays:
+      - summer solstice
+    zodiac:
+      - cancer
+  citation:
+    - kynes-correspondences

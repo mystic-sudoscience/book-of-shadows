@@ -79,6 +79,9 @@ rose:
     - trust
     - unity
     - wisdom
+    - happiness
+    - creativity
+    - fairy magic
   toxicity:
     humans: false
     pets: false

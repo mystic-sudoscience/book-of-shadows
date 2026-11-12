@@ -27,7 +27,8 @@
         style: {
           label: 'data(label)',
           color: text,
-          'font-family': css('--font-ui'),
+          // Cytoscape's font-family parser rejects single quotes.
+          'font-family': css('--font-ui').replaceAll("'", '"'),
           'font-size': 12,
           'text-valign': 'bottom',
           'text-margin-y': 4,
@@ -94,6 +95,10 @@
       },
       ...[0, 1, 2].map((i) => ({ selector: `node[kind = "hub"][hub = ${i}]`, style: { 'background-color': css(`--hub-${i}`) } })),
       ...[0, 1, 2].map((i) => ({ selector: `edge[hub = ${i}]`, style: { 'line-color': css(`--hub-${i}`), opacity: 0.35 } })),
+      {
+        selector: 'edge[link]',
+        style: { 'curve-style': 'straight', 'line-color': css('--accent'), opacity: 0.3 },
+      },
       {
         selector: 'edge[relation]',
         style: { 'curve-style': 'straight', 'line-style': 'dashed', width: 1.5, opacity: 0.8 },

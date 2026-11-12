@@ -1,0 +1,25 @@
+mouse:
+  type: mammal
+  properties:
+    - concentration/focus
+    - cunning
+    - destruction
+    - enchantment
+    - face danger
+    - guidance
+    - introspection
+    - messages/omens
+    - secrets
+    - shyness
+    - skills
+    - spirits
+    - success
+    - visions
+  notes:
+    - deceit
+  correspondences:
+    deities:
+      - apollo
+      - ganesh
+  citation:
+    - kynes-correspondences

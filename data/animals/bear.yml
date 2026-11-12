@@ -1,0 +1,81 @@
+bear:
+  type: mammal
+  energy:
+    - yang
+    - yin
+  properties:
+    - activate/awaken
+    - adaptability
+    - astral realm
+    - changes
+    - communicate with spirits
+    - communication
+    - connections
+    - courage
+    - cunning
+    - cycles
+    - death
+    - defense
+    - dream work
+    - endurance
+    - energy
+    - growth
+    - healing
+    - hearing
+    - introspection
+    - maternal protection
+    - nurture
+    - otherworld/underworld
+    - pleasure
+    - power
+    - rebirth/renewal
+    - revenge
+    - self-improvement
+    - self-knowledge
+    - shamanic work
+    - sleep
+    - smell
+    - spirits
+    - strength
+    - subconscious
+    - transformation
+    - travel
+    - wealth
+    - wisdom
+  notes:
+    - "activate/awaken: potentials"
+    - communication with spirits
+    - "energy: inner stores"
+    - "nurture: inner self"
+    - protective power
+    - spiritual growth
+  correspondences:
+    colors:
+      - black
+    deities:
+      - artemis
+      - artio
+      - brigid
+      - diana
+    directions:
+      - north
+    elements:
+      - earth
+    holidays:
+      - yule
+    planets:
+      - moon
+    seasons:
+      - spring
+      - summer
+    zodiac:
+      - virgo
+  varieties:
+    black:
+      properties:
+        - crossroads
+    grizzly:
+      properties:
+        - face danger
+  citation:
+    - kynes-correspondences

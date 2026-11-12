@@ -1,0 +1,104 @@
+eagle:
+  type: bird
+  properties:
+    - activate/awaken
+    - adaptability
+    - authority
+    - awareness
+    - balance
+    - beauty
+    - changes
+    - clarity
+    - communication
+    - confidence
+    - connections
+    - courage
+    - creativity
+    - dignity
+    - enlightenment
+    - fear
+    - fidelity
+    - freedom
+    - grounding
+    - guidance
+    - healing
+    - illumination
+    - inspiration
+    - intuition
+    - karma
+    - knowledge
+    - life
+    - long-term goals
+    - longevity
+    - magic
+    - messages/omens
+    - motivation
+    - passion
+    - power
+    - prosperity
+    - psychic ability
+    - purification
+    - rebirth/renewal
+    - respect
+    - shamanic work
+    - shape shift
+    - sight
+    - spirits
+    - spirituality
+    - strength
+    - success
+    - support
+    - truth
+    - unity
+    - visions
+    - warrior energy
+    - wisdom
+  notes:
+    - connection with spirits
+    - connections between worlds
+    - controlled power
+    - hidden truth
+    - judicious communication
+    - opportunities
+    - shape shifting/shamanic work
+  correspondences:
+    animals:
+      - griffin
+    deities:
+      - agni
+      - ares
+      - belenus
+      - isis
+      - jupiter
+      - justitia
+      - lugh
+      - odin
+      - pan
+      - zeus
+    directions:
+      - east
+      - north
+      - south
+      - west
+    elements:
+      - air
+      - fire
+    holidays:
+      - hunting of the wren
+      - yule
+    planets:
+      - jupiter
+      - sun
+    seasons:
+      - summer
+    zodiac:
+      - aquarius
+      - gemini
+      - leo
+      - scorpio
+  varieties:
+    golden:
+      properties:
+        - peace
+  citation:
+    - kynes-correspondences

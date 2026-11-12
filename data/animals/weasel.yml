@@ -1,0 +1,28 @@
+weasel:
+  type: mammal
+  properties:
+    - awareness
+    - clarity
+    - creativity
+    - integrity
+    - intellectual
+    - power
+    - prophecy
+    - provide comfort
+    - revenge
+    - secrets
+    - success
+    - warrior energy
+    - witches/witchcraft
+  notes:
+    - clarity for hidden meaning
+    - comfort in solitude
+    - deceit
+    - discover secrets
+    - supernatural power
+    - "warrior energy: warriors"
+  correspondences:
+    deities:
+      - demeter
+  citation:
+    - kynes-correspondences

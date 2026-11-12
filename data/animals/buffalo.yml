@@ -1,0 +1,39 @@
+buffalo:
+  type: mammal
+  properties:
+    - abundance
+    - community
+    - connections
+    - courage
+    - determination
+    - encouragement
+    - endurance
+    - fidelity
+    - generosity
+    - gratitude
+    - grounding
+    - harmony
+    - healing
+    - honor
+    - increase
+    - knowledge
+    - life
+    - luck
+    - manifestation
+    - order/organize
+    - prosperity
+    - relationships
+    - strength
+    - truth
+    - warmth
+  notes:
+    - "connections: mundane and divine"
+  correspondences:
+    deities:
+      - durga
+    elements:
+      - earth
+    planets:
+      - earth
+  citation:
+    - kynes-correspondences

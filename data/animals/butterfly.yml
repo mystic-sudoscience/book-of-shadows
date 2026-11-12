@@ -1,0 +1,53 @@
+butterfly:
+  type: insect & misc
+  energy:
+    - yin
+  properties:
+    - agriculture
+    - balance
+    - beauty
+    - changes
+    - confidence
+    - cycles
+    - death
+    - dream work
+    - energy
+    - fear
+    - fidelity
+    - freedom
+    - grace
+    - happiness
+    - inspiration
+    - knowledge
+    - life
+    - light
+    - love
+    - magic
+    - manifestation
+    - negativity
+    - power
+    - rebirth/renewal
+    - relationships
+    - self-improvement
+    - spirits
+    - transformation
+    - trust
+  notes:
+    - "life: breath"
+    - opportunities
+    - "power: unseen"
+  correspondences:
+    numbers:
+      - 5
+    planets:
+      - sun
+    plants:
+      - chrysanthemum
+  varieties:
+    monarch:
+      properties:
+        - endurance
+        - reversal
+        - travel
+  citation:
+    - kynes-correspondences

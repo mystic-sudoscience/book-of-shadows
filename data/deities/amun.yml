@@ -1,0 +1,46 @@
+amun:
+  type: god
+  description: Creator god, solar and patron deity of Thebes
+  culture: Egypt
+  also known as:
+    - amen
+    - amon
+    - the hidden one
+  properties:
+    - afterlife
+    - agriculture
+    - growth
+    - insight
+    - knowledge
+    - light
+    - love
+    - magic
+    - power
+    - rebirth/renewal
+    - romance
+    - secrets
+    - solar magic
+    - warmth
+  notes:
+    - general magic
+  correspondences:
+    animals:
+      - cattle (bull)
+      - goose
+      - heron
+      - lion
+      - lizard
+      - peacock
+      - sheep (ram )
+      - snake
+    planets:
+      - saturn
+      - sun
+    plants:
+      - olive
+      - palm
+    zodiac:
+      - aries
+      - leo
+  citation:
+    - kynes-correspondences

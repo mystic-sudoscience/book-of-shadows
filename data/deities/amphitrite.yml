@@ -1,0 +1,27 @@
+amphitrite:
+  type: goddess
+  description: Sea goddess and personification of the sea
+  culture: Greek
+  properties:
+    - calm
+    - emotions
+    - energy
+    - freedom
+    - weather
+  notes:
+    - "weather: calm storms"
+  correspondences:
+    animals:
+      - dolphin
+      - seal
+    elements:
+      - water
+    numbers:
+      - 6
+    planets:
+      - neptune
+    sea:
+      - conch
+      - mussel
+  citation:
+    - kynes-correspondences

@@ -32,6 +32,7 @@ saffron:
     - strength
     - virility
     - well-being
+    - happiness
   toxicity:
     humans: false
     pets: true

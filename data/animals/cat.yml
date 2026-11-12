@@ -1,0 +1,41 @@
+cat:
+  type: mammal
+  properties:
+    - affection
+    - afterlife
+    - concentration/focus
+    - connections
+    - darkness
+    - defense
+    - destruction
+    - dignity
+    - enchantment
+    - enmity
+    - family
+    - friendship
+    - grace
+    - healing
+    - inner power
+    - love
+    - magic
+    - maternal protection
+    - moon magic
+    - night magic
+    - otherworld/underworld
+    - passion
+    - peace
+    - psychic ability
+    - revenge
+    - secrets
+    - security
+    - sensuality
+    - spirituality
+    - stress
+    - warmth
+  varieties:
+    black:
+      properties:
+        - crossroads
+        - witches/witchcraft
+  citation:
+    - kynes-correspondences

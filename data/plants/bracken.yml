@@ -9,6 +9,7 @@ bracken:
     - healing
     - weather
     - dream work
+    - rain magic
   toxicity:
     humans: true
     pets: true

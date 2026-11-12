@@ -1,0 +1,23 @@
+nightingale:
+  type: bird
+  properties:
+    - beauty
+    - communication
+    - connections
+    - darkness
+    - eloquence
+    - energy
+    - grief
+    - healing
+    - hope
+    - night magic
+  notes:
+    - "communication: eloquence"
+    - "connections: death and love"
+  correspondences:
+    planets:
+      - moon
+    plants:
+      - lotus
+  citation:
+    - kynes-correspondences

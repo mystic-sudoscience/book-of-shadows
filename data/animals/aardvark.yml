@@ -1,0 +1,14 @@
+aardvark:
+  type: mammal
+  also known as:
+    - ant bear
+  properties:
+    - determination
+    - introspection
+    - intuition
+    - shyness
+    - smell
+    - travel
+    - truth
+  citation:
+    - kynes-correspondences

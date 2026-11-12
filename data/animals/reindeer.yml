@@ -1,0 +1,18 @@
+reindeer:
+  type: mammal
+  properties:
+    - abundance
+    - death
+    - freedom
+    - funeral rites
+    - guidance of souls
+    - knowledge
+  notes:
+    - "death: funeral rites"
+  correspondences:
+    directions:
+      - north
+    planets:
+      - moon
+  citation:
+    - kynes-correspondences

@@ -1,0 +1,38 @@
+faunus:
+  type: god
+  description: God of fertility, crops, hunting, and poetry; protector of agriculture and shepherds
+  culture: Roman
+  also known as:
+    - fanus
+  properties:
+    - agriculture
+    - animal magic
+    - animals
+    - creativity
+    - dream work
+    - hunt animals
+    - love
+    - prophecy
+    - protection
+    - sex magic
+  notes:
+    - "agriculture: fertility of land"
+    - "animals: fertility"
+    - "protection: crops"
+    - "protection: shepherds"
+  correspondences:
+    animals:
+      - dog
+      - goat
+    holidays:
+      - beltane
+      - lupercalia
+    planets:
+      - earth
+    plants:
+      - holly
+      - ivy
+    zodiac:
+      - capricorn
+  citation:
+    - kynes-correspondences

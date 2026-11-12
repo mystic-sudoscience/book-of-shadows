@@ -32,6 +32,7 @@ sunflower:
     - well-being
     - wisdom
     - wishes
+    - happiness
   toxicity:
     humans: false
     pets: false

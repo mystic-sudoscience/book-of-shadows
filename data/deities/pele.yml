@@ -1,0 +1,28 @@
+pele:
+  type: goddess
+  description: Mother and fire goddess
+  culture: Hawaiian, Polynesian
+  properties:
+    - astral realm
+    - energy
+    - home
+    - lust
+    - magic
+    - power
+    - purification
+    - shamanic work
+    - transformation
+    - travel
+    - weather
+  notes:
+    - lightning weather
+  correspondences:
+    crystals:
+      - obsidian
+      - peridot
+    elements:
+      - fire
+    plants:
+      - olive
+  citation:
+    - kynes-correspondences

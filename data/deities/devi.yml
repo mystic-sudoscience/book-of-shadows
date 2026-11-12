@@ -1,0 +1,30 @@
+devi:
+  type: goddess
+  description: Great and universal mother goddess
+  culture: Vedic, Hindu — India
+  properties:
+    - affection
+    - beauty
+    - blessings
+    - death
+    - defense
+    - empathy
+    - family
+    - fertility
+    - mindfulness
+    - nurture
+    - protection
+    - rebirth/renewal
+    - warrior energy
+  correspondences:
+    animals:
+      - jackal
+      - lion
+      - peacock
+      - snake
+    planets:
+      - jupiter
+    zodiac:
+      - leo
+  citation:
+    - kynes-correspondences

@@ -1,0 +1,32 @@
+khnum:
+  type: god
+  description: Creator deity, ram-god
+  culture: Egyptian
+  also known as:
+    - khnumu
+  properties:
+    - animals
+    - astral realm
+    - balance
+    - creativity
+    - life
+    - mind
+    - otherworld/underworld
+    - pregnancy/childbirth
+    - protection
+  notes:
+    - "animals: fertility"
+    - "life: life-force"
+  correspondences:
+    animals:
+      - lion
+      - sheep (ram )
+    elements:
+      - air
+      - earth
+      - fire
+      - water
+    zodiac:
+      - aries
+  citation:
+    - kynes-correspondences

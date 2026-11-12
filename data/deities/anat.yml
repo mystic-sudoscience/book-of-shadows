@@ -1,0 +1,61 @@
+anat:
+  type: goddess
+  description: Mother and earth goddess
+  culture: Assyrian, Canaanite, Chaldean, Sumerian, Egyptian
+  also known as:
+    - anath
+  properties:
+    - action
+    - agriculture
+    - cunning
+    - defense
+    - defensive magic
+    - desire
+    - destruction
+    - energy
+    - enmity
+    - fertility
+    - freedom
+    - gratitude
+    - grief
+    - knowledge
+    - life
+    - longevity
+    - love
+    - lust
+    - passion
+    - power
+    - prosperity
+    - revenge
+    - romance
+    - set hexes
+    - sex magic
+    - sexual energy
+    - sexual needs
+    - sexuality
+    - strength
+    - success
+    - warrior energy
+    - well-being
+    - wisdom
+    - wishes
+  notes:
+    - general energy
+  correspondences:
+    animals:
+      - cattle (cow)
+      - lion
+      - snake
+    elements:
+      - earth
+    planets:
+      - earth
+      - mars
+      - uranus
+    zodiac:
+      - aries
+      - leo
+      - sagittarius
+      - virgo
+  citation:
+    - kynes-correspondences

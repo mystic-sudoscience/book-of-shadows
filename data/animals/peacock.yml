@@ -1,0 +1,54 @@
+peacock:
+  type: bird
+  properties:
+    - abundance
+    - attraction
+    - beauty
+    - confidence
+    - connections
+    - death
+    - dignity
+    - funeral rites
+    - harmony
+    - honesty
+    - longevity
+    - manifestation
+    - past lives
+    - peace
+    - power
+    - pride
+    - prosperity
+    - protection
+    - psychic ability
+    - rebirth/renewal
+    - visions
+    - wisdom
+  notes:
+    - "connections: past lives"
+    - "death: funerary symbol"
+  correspondences:
+    deities:
+      - am un
+      - brahma
+      - devi
+      - hera
+      - hermes
+      - hestia
+      - horus
+      - iris
+      - juno
+      - pan
+      - sarasvati
+      - zeus
+    elements:
+      - fire
+    moon:
+      - full
+    planets:
+      - moon
+      - sun
+    zodiac:
+      - aquarius
+      - leo
+  citation:
+    - kynes-correspondences

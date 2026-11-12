@@ -59,6 +59,10 @@ jasmine:
     - stress
     - support
     - well-being
+    - happiness
+    - visions
+    - creativity
+    - defensive magic
   toxicity:
     humans: false
     pets: false

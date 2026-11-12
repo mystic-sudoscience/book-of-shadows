@@ -1,0 +1,39 @@
+indra:
+  type: god
+  description: Supreme deity, war and storm god
+  culture: Buddhist, Hindu, Vedic — India
+  properties:
+    - energy
+    - fertility
+    - jealousy
+    - magic
+    - negativity
+    - pride
+    - revenge
+    - storms
+    - warrior energy
+    - weather
+  notes:
+    - "energy: life-force"
+    - general weather
+  correspondences:
+    animals:
+      - cattle (bull)
+      - dog
+      - elephant
+      - horse
+      - owl
+    chakras:
+      - throat
+    elements:
+      - fire
+    planets:
+      - jupiter
+      - mars
+    plants:
+      - olive
+    zodiac:
+      - aries
+      - taurus
+  citation:
+    - kynes-correspondences

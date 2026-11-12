@@ -1,0 +1,59 @@
+kali:
+  type: goddess
+  description: Goddess of war, fertility, and time
+  culture: Hindu — India
+  properties:
+    - action
+    - assertiveness
+    - authority
+    - balance
+    - black magic
+    - changes
+    - creativity
+    - darkness
+    - death
+    - destruction
+    - discipline
+    - divination
+    - dream work
+    - endings
+    - energy
+    - enmity
+    - face danger
+    - fear
+    - fertility
+    - freedom
+    - intuition
+    - karma
+    - life
+    - negativity
+    - night magic
+    - obstacles
+    - power
+    - protection
+    - release attachments
+    - revenge
+    - sorrow
+    - strength
+    - transformation
+    - truth
+    - warrior energy
+    - weather
+  notes:
+    - cosmic truth
+    - dispel fear
+  correspondences:
+    animals:
+      - tiger
+    colors:
+      - black
+      - yellow
+    holidays:
+      - samhain
+    numbers:
+      - "5 h erb/spice: asafoetida"
+    planets:
+      - pluto
+      - saturn
+  citation:
+    - kynes-correspondences

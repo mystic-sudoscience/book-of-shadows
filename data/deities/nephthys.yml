@@ -1,0 +1,43 @@
+nephthys:
+  type: goddess
+  description: Goddess of the dead
+  culture: Egyptian
+  also known as:
+    - nebet-het
+  properties:
+    - afterlife
+    - consciousness
+    - death
+    - dedication/devotion
+    - divination
+    - dream work
+    - gratitude
+    - grief
+    - healing
+    - intuition
+    - life
+    - lust
+    - magic
+    - night magic
+    - nightmares
+    - otherworld/underworld
+    - rebirth/renewal
+    - security
+    - sorrow
+    - spirits
+    - support
+  notes:
+    - general magic
+  correspondences:
+    animals:
+      - falcon
+      - gorilla
+      - hawk
+      - kite
+      - vulture
+    elements:
+      - earth
+    holidays:
+      - samhain
+  citation:
+    - kynes-correspondences

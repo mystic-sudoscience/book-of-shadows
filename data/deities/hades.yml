@@ -1,0 +1,35 @@
+hades:
+  type: god
+  description: God of death and the underworld; provider of fertility and wealth
+  culture: Greek
+  properties:
+    - abundance
+    - acceptance
+    - afterlife
+    - darkness
+    - death
+    - fertility
+    - generosity
+    - money
+    - otherworld/underworld
+    - prosperity
+    - wealth
+  correspondences:
+    animals:
+      - dog
+      - owl (screech)
+      - sheep (black)
+      - snake
+      - wolf
+    holidays:
+      - samhain
+    numbers:
+      - 13
+    plants:
+      - cypress
+      - oak
+      - poplar
+    zodiac:
+      - sagittarius
+  citation:
+    - kynes-correspondences

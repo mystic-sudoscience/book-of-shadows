@@ -1,0 +1,32 @@
+spider:
+  type: insect & misc
+  properties:
+    - afterlife
+    - agriculture
+    - assertiveness
+    - balance
+    - communication
+    - connections
+    - cycles
+    - destiny
+    - enchantment
+    - life
+    - magic
+    - manifestation
+    - memory/memories
+    - patience
+    - power
+    - rebirth/renewal
+    - shape shift
+    - skills
+    - wisdom
+    - witches/witchcraft
+  varieties:
+    black widow:
+      properties:
+        - face danger
+    water:
+      properties:
+        - adaptability
+  citation:
+    - kynes-correspondences

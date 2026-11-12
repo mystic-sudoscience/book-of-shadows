@@ -91,13 +91,24 @@
         ...relatives.map((r) => ({ id: r.id, itemId: r.id, label: r.name, kind: 'item', color: itemColor(r), shape: shapeOf(r.type), size: 20, relation: true })),
         ...item.properties.map((p) => ({ id: 'intent:' + p, name: p, label: p, kind: 'intention', shape: 'ellipse', size: Math.round(10 + 2.5 * Math.log2(countFor(p) + 1)) })),
       ]
-      const pos = layoutFocus(item.id, sats)
+      // Items it names in its correspondences, and items that name it.
+      const linkIds = [...new Set([...item.links, ...item.linkedFrom])].filter((id) => !sats.some((s) => s.id === id))
+      const linkedAll = linkIds.map((id) => itemsById.get(id)).filter(Boolean)
+      const counts = {}
+      for (const l of linkedAll) counts[l.type] = (counts[l.type] ?? 0) + 1
+      const on = new Set(enabled)
+      const linked = linkedAll.filter((l) => on.has(l.type))
+      const pos = layoutFocus(item.id, sats, linked)
       const nodes = [
         { id: item.id, itemId: item.id, label: item.name, kind: 'center', color: itemColor(item), shape: shapeOf(item.type), size: 64, inSpell: spellSet.has(item.id), ...pos.get(item.id) },
         ...sats.map(({ relation, ...s }) => ({ ...s, inSpell: s.itemId && spellSet.has(s.itemId), ...pos.get(s.id) })),
+        ...linked.map((l) => ({ id: l.id, itemId: l.id, label: l.name, kind: 'item', color: itemColor(l), shape: shapeOf(l.type), size: 18, inSpell: spellSet.has(l.id), ...pos.get(l.id) })),
       ]
-      const edges = sats.map((s) => ({ id: `${item.id}>${s.id}`, source: item.id, target: s.id, ...(s.relation ? { relation: 'family' } : {}) }))
-      return { nodes, edges, counts: null, item }
+      const edges = [
+        ...sats.map((s) => ({ id: `${item.id}>${s.id}`, source: item.id, target: s.id, ...(s.relation ? { relation: 'family' } : {}) })),
+        ...linked.map((l) => ({ id: `${item.id}~${l.id}`, source: item.id, target: l.id, link: 1 })),
+      ]
+      return { nodes, edges, counts, item, linkedTotal: linkedAll.length, linkedShown: linked.length }
     }
     return null
   })
@@ -152,7 +163,7 @@
   </header>
 
   <aside class="left" class:open={panelOpen}>
-    <TypeToggles {enabled} counts={view?.counts ?? null} disabled={route.mode === 'item'} onchange={(t) => (enabled = t)} />
+    <TypeToggles {enabled} counts={view?.counts ?? null} onchange={(t) => (enabled = t)} />
   </aside>
 
   <main class="stage">
@@ -168,7 +179,11 @@
       />
       <div class="overlay top-left">
         {#if view.item}
-          <p>Double-click an item to centre on it · click an intention to see its web</p>
+          <p>
+            <strong>{view.item.properties.length}</strong> intentions · <strong>{view.linkedShown}</strong>
+            {#if view.linkedShown < view.linkedTotal}of {view.linkedTotal}{/if} linked items
+          </p>
+          <p class="legend">Inner ring: intentions · outer ring: linked items · double-click any item to centre on it</p>
         {:else}
           <p>
             <strong>{view.shown}</strong> of {view.total} items{#if view.shown < view.total}&nbsp;(filtered){/if}

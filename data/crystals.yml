@@ -1116,12 +1116,6 @@ emerald:
     - wishes
   citation:
     - kynes-correspondences
-fircon:
-  properties:
-    - love
-    - weather
-  citation:
-    - kynes-correspondences
 fluorite:
   properties:
     - activate/awaken
@@ -1162,14 +1156,6 @@ fluorite:
       properties:
         - introspection
         - spirituality
-  citation:
-    - kynes-correspondences
-foisite:
-  properties:
-    - connections
-    - fertility
-    - growth
-    - love
   citation:
     - kynes-correspondences
 garnet:
@@ -1354,11 +1340,6 @@ howlite:
     - patience
     - pregnancy/childbirth
     - stress
-  citation:
-    - kynes-correspondences
-iet:
-  properties:
-    - witches/witchcraft
   citation:
     - kynes-correspondences
 iolite:
@@ -1567,6 +1548,7 @@ jet:
     - transformation
     - travel
     - well-being
+    - witches/witchcraft
   citation:
     - kynes-correspondences
 kunzite:
@@ -3065,6 +3047,7 @@ zircon:
     - harmony
     - improvement
     - inspiration
+    - love
     - motivation
     - prosperity
     - protection
@@ -3073,6 +3056,7 @@ zircon:
     - spirituality
     - success
     - unity
+    - weather
   varieties:
     blue:
       properties:
@@ -3113,8 +3097,12 @@ zoisite:
   properties:
     - action
     - confidence
+    - connections
     - emotions
+    - fertility
+    - growth
     - integrity
+    - love
     - psychic ability
     - release/dispel fear
   varieties:

@@ -36,6 +36,7 @@ cypress:
     - truth
     - willpower
     - witches/witchcraft
+    - longevity
   toxicity:
     notes:
       - avoid if pregnant

@@ -1,0 +1,18 @@
+shark:
+  type: marine life
+  properties:
+    - adaptability
+    - defense
+    - determination
+    - endurance
+    - face danger
+    - family
+    - guardian
+    - knowledge
+    - shape shift
+    - smell
+  notes:
+    - guardian of family
+    - "knowledge: lost wisdom"
+  citation:
+    - kynes-correspondences

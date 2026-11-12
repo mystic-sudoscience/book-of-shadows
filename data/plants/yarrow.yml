@@ -54,6 +54,7 @@ yarrow:
     - weather
     - well-being
     - witches/witchcraft
+    - exorcism
   toxicity:
     humans: true
     pets: true

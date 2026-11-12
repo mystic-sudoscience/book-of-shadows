@@ -1,0 +1,17 @@
+chipmunk:
+  type: mammal
+  also known as:
+    - ground squirrel
+  properties:
+    - abundance
+    - hearing
+    - nurture
+    - travel
+  notes:
+    - physical nurture
+    - spiritual nurture
+  correspondences:
+    deities:
+      - spider woman
+  citation:
+    - kynes-correspondences

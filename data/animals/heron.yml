@@ -1,0 +1,31 @@
+heron:
+  type: bird
+  properties:
+    - abundance
+    - afterlife
+    - astral realm
+    - balance
+    - dignity
+    - hope
+    - introspection
+    - knowledge
+    - logic/logical mind
+    - magic
+    - secrets
+    - self-knowledge
+    - transformation
+    - wisdom
+  notes:
+    - "knowledge: divine, life path"
+    - "secrets: keeper"
+  varieties:
+    great blue:
+      properties:
+        - aggression
+        - assertiveness
+        - authority
+        - guardian
+        - guidance
+        - skills
+  citation:
+    - kynes-correspondences

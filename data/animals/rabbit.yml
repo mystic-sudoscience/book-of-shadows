@@ -1,0 +1,42 @@
+rabbit:
+  type: mammal
+  properties:
+    - abundance
+    - alert mind
+    - anxiety
+    - attract love
+    - attraction
+    - awareness
+    - divination
+    - fertility
+    - home
+    - intuition
+    - life
+    - love
+    - moon magic
+    - overcome fear
+    - quick mind
+    - security
+    - sensitivity
+    - sexuality
+    - spirits
+    - well-being
+    - witches/witchcraft
+  notes:
+    - gentleness
+  correspondences:
+    deities:
+      - hecate
+      - ostara
+    holidays:
+      - beltane
+      - ostara
+    planets:
+      - moon
+    seasons:
+      - spring
+    times:
+      - dawn
+      - dusk
+  citation:
+    - kynes-correspondences

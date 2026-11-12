@@ -1,0 +1,49 @@
+mercury:
+  type: god
+  description: God of merchants; protector of road and travelers; messenger of the gods
+  culture: Roman
+  properties:
+    - business
+    - business success
+    - cheerfulness
+    - communication
+    - community
+    - creativity
+    - crossroads
+    - cunning
+    - divination
+    - intellectual
+    - knowledge
+    - limitations/boundaries
+    - magic
+    - messages/omens
+    - prosperity
+    - travel
+  correspondences:
+    animals:
+      - chicken (rooster)
+      - goat
+      - hawk
+      - snake
+      - tortoise
+    crystals:
+      - emerald
+    elements:
+      - air
+    numbers:
+      - 8
+    planets:
+      - mercury
+    plants:
+      - anise
+      - hazel
+      - palm
+      - vervain
+      - willow
+    weekdays:
+      - wednesday
+    zodiac:
+      - cancer
+      - gemini
+  citation:
+    - kynes-correspondences

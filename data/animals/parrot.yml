@@ -1,0 +1,13 @@
+parrot:
+  type: bird
+  properties:
+    - abundance
+    - communication
+    - community
+    - connections
+    - fertility
+    - guidance
+    - healing
+    - prophecy
+  citation:
+    - kynes-correspondences

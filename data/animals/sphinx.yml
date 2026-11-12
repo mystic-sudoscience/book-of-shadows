@@ -1,0 +1,29 @@
+sphinx:
+  type: mythical
+  properties:
+    - afterlife
+    - death
+    - destruction
+    - guardian
+    - knowledge
+    - magic
+    - mind
+    - secrets
+    - sex magic
+  notes:
+    - general magic
+  correspondences:
+    deities:
+      - astarte
+      - athena
+      - horus
+      - isis
+      - osiris
+    elements:
+      - air
+    planets:
+      - sun
+    zodiac:
+      - leo
+  citation:
+    - kynes-correspondences

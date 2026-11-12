@@ -1,0 +1,32 @@
+bluebird:
+  type: bird
+  properties:
+    - accomplishment
+    - activate/awaken
+    - changes
+    - confidence
+    - creativity
+    - fertility
+    - growth
+    - happiness
+    - healing
+    - love
+    - motivation
+    - reversal
+    - transformation
+  notes:
+    - gentleness
+    - spiritual growth
+    - unassuming confidence
+  correspondences:
+    chakras:
+      - throat
+    directions:
+      - east
+      - north
+      - south
+    seasons:
+      - summer
+      - winter
+  citation:
+    - kynes-correspondences

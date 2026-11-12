@@ -1,0 +1,39 @@
+unicorn:
+  type: mythical
+  energy:
+    - yang
+    - yin
+  properties:
+    - beauty
+    - compassion
+    - dignity
+    - enchantment
+    - enlightenment
+    - freedom
+    - goodness
+    - innocence
+    - light
+    - longevity
+    - love
+    - luck
+    - peace
+    - power
+    - purity
+    - spirituality
+    - universal energy
+  notes:
+    - "love: courtly"
+    - "spirituality: purity"
+    - "spirituality: revelation"
+  correspondences:
+    chakras:
+      - third eye
+    metals:
+      - mercury
+    numbers:
+      - 1
+    planets:
+      - jupiter
+      - sun
+  citation:
+    - kynes-correspondences

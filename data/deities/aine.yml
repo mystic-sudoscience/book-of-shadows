@@ -1,0 +1,52 @@
+aine:
+  type: goddess
+  description: Goddess of the sun, fertility, and cattle; associated with fairies and the moon
+  culture: Celtic — Ireland
+  properties:
+    - abundance
+    - affection
+    - agriculture
+    - banish
+    - desire
+    - fairy magic
+    - fertility
+    - healing
+    - honor
+    - justice
+    - love
+    - magic
+    - moon magic
+    - prosperity
+    - protect animals
+    - protection
+    - romance
+    - solar magic
+  notes:
+    - general magic
+    - "protection: o fw omen"
+  correspondences:
+    animals:
+      - cattle
+      - horse (red mare)
+    colors:
+      - brown
+      - silver
+    elements:
+      - fire
+    holidays:
+      - lughnasadh
+      - lunantishees
+      - midsummer's eve
+    moon:
+      - waxing
+    numbers:
+      - 9
+    planets:
+      - moon
+      - sun
+    plants:
+      - gorse
+      - meadowsweet
+      - moonwort
+  citation:
+    - kynes-correspondences

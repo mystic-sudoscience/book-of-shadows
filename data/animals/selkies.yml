@@ -1,0 +1,26 @@
+selkies:
+  type: mythical
+  properties:
+    - desire
+    - destiny
+    - emotions
+    - face danger
+    - lust
+    - passion
+    - revenge
+    - secrets
+    - shamanic work
+    - shape shift
+    - storms
+    - weather
+  notes:
+    - "shamanic work: shape shift"
+    - "weather: raise storms"
+  correspondences:
+    elements:
+      - earth
+      - water
+    holidays:
+      - midsummer's eve
+  citation:
+    - kynes-correspondences

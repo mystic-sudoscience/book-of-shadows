@@ -1,0 +1,16 @@
+opossum:
+  type: mammal
+  properties:
+    - guidance
+    - skills
+    - wisdom
+  notes:
+    - "deceit: unveil falsities"
+    - "guidance: find talents"
+  correspondences:
+    numbers:
+      - 13
+    seasons:
+      - spring
+  citation:
+    - kynes-correspondences

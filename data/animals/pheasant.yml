@@ -1,0 +1,26 @@
+pheasant:
+  type: bird
+  energy:
+    - yang
+  properties:
+    - attraction
+    - confidence
+    - determination
+    - fertility
+    - harmony
+    - justice
+    - longevity
+    - romance
+    - self-awareness
+    - sexuality
+    - warmth
+  notes:
+    - cosmic harmony
+    - morality
+  correspondences:
+    deities:
+      - amaterasu
+    planets:
+      - sun
+  citation:
+    - kynes-correspondences

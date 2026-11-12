@@ -43,6 +43,8 @@ thyme:
     - strength
     - stress
     - well-being
+    - happiness
+    - fairy magic
   toxicity:
     humans: false
     pets: false

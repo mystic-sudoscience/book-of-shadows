@@ -12,6 +12,7 @@ nasturtium:
     - protection
     - purity
     - strength
+    - creativity
   toxicity:
     humans: false
     pets: false

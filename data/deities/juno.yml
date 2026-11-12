@@ -1,0 +1,58 @@
+juno:
+  type: goddess
+  description: Goddess of light, childbirth, marriage
+  culture: Roman
+  properties:
+    - beginnings
+    - business
+    - cheerfulness
+    - cycles
+    - fear
+    - fertility
+    - goodness
+    - guardian
+    - guidance
+    - jealousy
+    - kindness
+    - light
+    - lust
+    - marriage
+    - money
+    - prosperity
+    - protection
+    - purification
+    - romance
+    - security
+    - wealth
+    - well-being
+  correspondences:
+    animals:
+      - cattle (cow)
+      - cuckoo
+      - goose
+      - peacock
+      - stork
+    holidays:
+      - imbolc
+      - new year's day
+      - ostara
+    numbers:
+      - 9
+    planets:
+      - moon
+      - saturn
+    plants:
+      - iris
+      - lily
+      - lotus
+      - myrrh
+      - vervain
+    weekdays:
+      - thursday
+    zodiac:
+      - 1 marriage
+      - aquarius
+      - cancer
+      - leo
+  citation:
+    - kynes-correspondences

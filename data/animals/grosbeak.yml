@@ -1,0 +1,24 @@
+grosbeak:
+  type: bird
+  energy:
+    - yin
+  properties:
+    - affection
+    - family
+    - healing
+    - nurture
+    - pride
+    - rebirth/renewal
+    - relationships
+    - self-improvement
+    - travel
+  notes:
+    - "family: unity"
+    - "healing: old wounds"
+    - "self-work: past lives"
+  correspondences:
+    seasons:
+      - spring
+      - summer
+  citation:
+    - kynes-correspondences

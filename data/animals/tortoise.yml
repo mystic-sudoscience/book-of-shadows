@@ -1,0 +1,19 @@
+tortoise:
+  type: reptile & amphibian
+  properties:
+    - defense
+    - grounding
+    - healing
+    - order/organize
+    - patience
+    - power
+    - respect
+    - skills
+    - stability
+    - success
+    - support
+    - transformation
+  notes:
+    - "defense: non-violent, psychic"
+  citation:
+    - kynes-correspondences

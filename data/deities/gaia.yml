@@ -1,0 +1,58 @@
+gaia:
+  type: goddess
+  description: Great mother goddess and goddess of the earth
+  culture: Greek
+  also known as:
+    - gaea
+  properties:
+    - abundance
+    - affection
+    - afterlife
+    - blessings
+    - calm
+    - cycles
+    - dedication/devotion
+    - divination
+    - energy
+    - enlightenment
+    - fertility
+    - grounding
+    - growth
+    - healing
+    - life
+    - love
+    - marriage
+    - nurture
+    - prophecy
+    - rebirth/renewal
+    - wealth
+    - weather
+    - well-being
+    - wisdom
+  correspondences:
+    animals:
+      - blue jay
+    elements:
+      - earth
+    holidays:
+      - earth day
+      - imbolc
+      - ostara
+      - yule
+    numbers:
+      - 8
+    planets:
+      - earth
+    plants:
+      - aspen
+      - elder
+      - elm
+      - holly
+      - honeysuckle
+      - lady's mantle
+      - laurel
+    zodiac:
+      - capricorn
+      - taurus
+  citation:
+    - kynes-correspondences

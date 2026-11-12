@@ -1,0 +1,31 @@
+the green man:
+  type: god
+  description: Although not a god, the Green Man holds a special place in Pagan and Wiccan beliefs. He is the spirit of vegetation and male fertility
+  culture: Pan Celtic
+  properties:
+    - abundance
+    - agriculture
+    - cycles
+    - death
+    - fertility
+    - grounding
+    - growth
+    - magic
+    - male power
+    - rebirth/renewal
+    - sexuality
+  notes:
+    - male fertility
+  correspondences:
+    elements:
+      - earth
+    holidays:
+      - beltane
+      - imbolc
+      - mabon
+      - ostara
+      - yule
+    plants:
+      - oak
+  citation:
+    - kynes-correspondences

@@ -1,0 +1,44 @@
+wren:
+  type: bird
+  properties:
+    - activate/awaken
+    - adaptability
+    - assertiveness
+    - confidence
+    - divination
+    - endurance
+    - family
+    - fear
+    - grounding
+    - happiness
+    - messages/omens
+    - mind
+    - overcome fear
+    - prophecy
+    - purification
+    - relationships
+    - spirits
+    - strength
+  notes:
+    - no fear
+    - resourceful mind
+  correspondences:
+    deities:
+      - saturn
+    elements:
+      - fire
+    holidays:
+      - hunting of the wren
+      - new year's day
+      - saturnalia
+      - summer solstice
+      - yule
+    planets:
+      - saturn
+      - sun
+    plants:
+      - oak
+    seasons:
+      - spring
+  citation:
+    - kynes-correspondences

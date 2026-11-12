@@ -1,0 +1,35 @@
+anubis:
+  type: god
+  description: God of the dead, the cemetery, and the Underworld
+  culture: Egyptian
+  also known as:
+    - anpu
+  properties:
+    - afterlife
+    - astral realm
+    - death
+    - divination
+    - guardian
+    - honesty
+    - justice
+    - magic
+    - otherworld/underworld
+    - protection
+    - security
+    - solar magic
+    - truth
+  notes:
+    - "death: funeral rites"
+    - general magic
+    - "protection: o fth e dead"
+  correspondences:
+    animals:
+      - antelope
+      - dog
+      - jackal
+    planets:
+      - mercury
+    zodiac:
+      - scorpio
+  citation:
+    - kynes-correspondences

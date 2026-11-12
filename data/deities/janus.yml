@@ -1,0 +1,36 @@
+janus:
+  type: god
+  description: High god of beginnings and endings, daybreak and travel
+  culture: Etruscan, Roman
+  properties:
+    - accomplishment
+    - beginnings
+    - business
+    - changes
+    - crossroads
+    - cycles
+    - endings
+    - guardian
+    - guidance
+    - life
+    - light
+    - motivation
+    - success
+    - travel
+    - wisdom
+  correspondences:
+    holidays:
+      - new year's day
+      - yule
+    numbers:
+      - 12
+    planets:
+      - moon
+    plants:
+      - oak
+    times:
+      - dawn
+    zodiac:
+      - gemini
+  citation:
+    - kynes-correspondences

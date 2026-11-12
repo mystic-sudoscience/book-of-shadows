@@ -1,0 +1,26 @@
+ganga:
+  type: goddess
+  description: Goddess of fertility and the Ganges River
+  culture: Hindu — India
+  properties:
+    - abundance
+    - changes
+    - fertility
+    - happiness
+    - healing
+    - long-term goals
+    - negativity
+    - power
+    - purification
+    - wealth
+    - well-being
+  notes:
+    - faith
+    - "negativity: wash away"
+  correspondences:
+    animals:
+      - crocodile
+    colors:
+      - white
+  citation:
+    - kynes-correspondences

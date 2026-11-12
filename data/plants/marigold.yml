@@ -48,6 +48,9 @@ marigold:
     - warmth
     - wealth
     - well-being
+    - longevity
+    - happiness
+    - visions
   toxicity:
     humans: false
     pets: false

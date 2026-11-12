@@ -1,0 +1,31 @@
+blackbird:
+  type: bird
+  properties:
+    - courage
+    - energy
+    - guidance
+    - home
+    - knowledge
+    - life
+    - messages/omens
+    - otherworld/underworld
+    - rebirth/renewal
+    - shamanic work
+    - support
+    - wisdom
+  notes:
+    - access otherworld/underworld
+    - "energy: dark mother"
+    - "knowledge: natural world"
+    - "life: go with the flow"
+  correspondences:
+    deities:
+      - rhiannon
+    elements:
+      - water
+    times:
+      - dusk
+    zodiac:
+      - cancer
+  citation:
+    - kynes-correspondences

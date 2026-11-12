@@ -1,0 +1,21 @@
+starling:
+  type: bird
+  properties:
+    - adaptability
+    - aggression
+    - assertiveness
+    - communication
+    - community
+    - creativity
+    - empowerment
+    - integrity
+    - intellectual
+    - peace
+    - relationships
+    - strength
+    - warrior energy
+  correspondences:
+    seasons:
+      - spring
+  citation:
+    - kynes-correspondences

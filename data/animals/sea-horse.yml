@@ -1,0 +1,19 @@
+sea horse:
+  type: marine life
+  properties:
+    - confidence
+    - creativity
+    - determination
+    - family
+    - grace
+    - happiness
+    - romance
+  notes:
+    - "family: fatherhood"
+  correspondences:
+    deities:
+      - manannan
+      - neptune
+      - poseidon
+  citation:
+    - kynes-correspondences

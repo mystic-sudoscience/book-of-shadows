@@ -1,0 +1,15 @@
+partridge:
+  type: bird
+  properties:
+    - beauty
+    - cunning
+    - dedication/devotion
+    - dignity
+    - energy
+    - fertility
+    - grace
+    - lust
+    - travel
+    - true love
+  citation:
+    - kynes-correspondences

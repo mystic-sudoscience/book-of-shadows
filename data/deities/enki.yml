@@ -1,0 +1,37 @@
+enki:
+  type: god
+  description: Lord of the earth, god of fertility
+  culture: Sumerian
+  properties:
+    - abundance
+    - agriculture
+    - authority
+    - changes
+    - creativity
+    - cunning
+    - destiny
+    - discipline
+    - grounding
+    - intellectual
+    - life
+    - magic
+    - mind
+    - obstacles
+    - power
+    - purification
+    - sexuality
+    - skills
+    - wisdom
+  notes:
+    - "agriculture: fertility of land"
+    - decisions
+  correspondences:
+    animals:
+      - snake
+    planets:
+      - earth
+    zodiac:
+      - capricorn
+      - gemini
+  citation:
+    - kynes-correspondences

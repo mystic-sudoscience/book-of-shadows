@@ -1,0 +1,17 @@
+lemur:
+  type: mammal
+  properties:
+    - clairaudience
+    - clarity
+    - concentration/focus
+    - knowledge
+    - memory/memories
+    - otherworld/underworld
+    - travel
+    - visions
+  notes:
+    - "knowledge: o fth e unseen"
+    - memory/memories of ancestors
+    - the otherworld/underworld. spirits of ancestors
+  citation:
+    - kynes-correspondences

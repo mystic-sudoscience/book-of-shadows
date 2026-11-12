@@ -1,0 +1,23 @@
+oriole:
+  type: bird
+  properties:
+    - cheerfulness
+    - energy
+    - home
+    - life
+    - marriage
+    - nature spirits
+    - relationships
+    - skills
+    - spirits
+  notes:
+    - "life: weave your path"
+    - "spirits: tree spirits"
+  correspondences:
+    planets:
+      - sun
+    seasons:
+      - spring
+      - summer
+  citation:
+    - kynes-correspondences

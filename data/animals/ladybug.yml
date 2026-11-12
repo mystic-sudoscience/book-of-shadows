@@ -1,0 +1,16 @@
+ladybug:
+  type: insect & misc
+  properties:
+    - aggression
+    - agriculture
+    - happiness
+    - long-term goals
+    - luck
+    - messages/omens
+    - obstacles
+    - wishes
+  correspondences:
+    elements:
+      - fire
+  citation:
+    - kynes-correspondences

@@ -1,0 +1,115 @@
+horse:
+  type: mammal
+  properties:
+    - abundance
+    - action
+    - astral realm
+    - awareness
+    - burial customs
+    - changes
+    - clairvoyance
+    - communication
+    - darkness
+    - death
+    - dedication/devotion
+    - desire
+    - destiny
+    - destruction
+    - divination
+    - emotions
+    - endurance
+    - energy
+    - fertility
+    - fidelity
+    - freedom
+    - friendship
+    - guidance
+    - guidance of souls
+    - life
+    - light
+    - love
+    - loyalty
+    - magic
+    - nightmares
+    - obstacles
+    - otherworld/underworld
+    - personal power
+    - protection
+    - rebirth/renewal
+    - secrets
+    - sexuality
+    - shamanic work
+    - spirits
+    - strength
+    - travel
+    - unity
+    - warn of danger
+    - warrior energy
+    - wealth
+    - youth
+  notes:
+    - communication across species
+    - "death: burial customs"
+    - "guidance: souls"
+    - "guidance: travelers"
+    - protection against abuse of power
+    - "secrets: initiation"
+    - spiritual quests
+    - swift action
+  correspondences:
+    deities:
+      - agni
+      - aine (red mare)
+      - apollo
+      - arawn (pale)
+      - artemis
+      - astarte
+      - athena
+      - belenus
+      - buddha
+      - demeter
+      - dionysus
+      - eos
+      - epona
+      - freyr
+      - gwydion
+      - hermes
+      - indra
+      - lugh
+      - mabon
+      - macha
+      - maeve
+      - manannan
+      - mars
+      - modron
+      - neptune
+      - poseidon
+      - selene
+      - surya
+      - them orrigan
+      - vishnu
+    elements:
+      - fire
+      - water
+    holidays:
+      - feast of epona
+      - summer solstice
+    planets:
+      - earth
+      - moon
+    plants:
+      - gorse
+    zodiac:
+      - pisces
+      - sagittarius
+  varieties:
+    white:
+      properties:
+        - innocence
+      correspondences:
+        deities:
+          - helios issue
+          - "intention/pow er: innocence"
+          - rhiannon
+  citation:
+    - kynes-correspondences

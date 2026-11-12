@@ -1,0 +1,20 @@
+cicada:
+  type: insect & misc
+  properties:
+    - happiness
+    - home
+    - honesty
+    - innocence
+    - longevity
+    - patience
+    - success
+    - transformation
+  correspondences:
+    deities:
+      - eos
+    elements:
+      - fire
+    seasons:
+      - summer
+  citation:
+    - kynes-correspondences

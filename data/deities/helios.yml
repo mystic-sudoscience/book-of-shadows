@@ -1,0 +1,45 @@
+helios:
+  type: god
+  description: Sun god
+  culture: Greek
+  also known as:
+    - helius
+  properties:
+    - agriculture
+    - beauty
+    - business
+    - fertility
+    - growth
+    - light
+    - solar energy
+    - solar magic
+    - warmth
+    - wealth
+    - wishes
+  correspondences:
+    animals:
+      - cattle (ox)
+      - chicken (rooster)
+      - crocodile
+      - horse (white)
+      - lion
+    crystals:
+      - beryl (golden)
+    holidays:
+      - imbolc
+      - yule
+    metals:
+      - brass
+      - gold
+    planets:
+      - sun
+    plants:
+      - frankincense
+      - laurel
+      - "oak herb el garden: heliotrope"
+    weekdays:
+      - sunday
+    zodiac:
+      - leo
+  citation:
+    - kynes-correspondences

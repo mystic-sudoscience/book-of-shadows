@@ -1,0 +1,31 @@
+quetzalcoatl:
+  type: god
+  description: Supreme deity and god of the wind
+  culture: Aztec, Mayan, Toltec — Mexico
+  also known as:
+    - quetzal-cohualt
+  properties:
+    - agriculture
+    - business
+    - changes
+    - darkness
+    - fertility
+    - healing
+    - illumination
+    - learning
+    - life
+    - skills
+    - spirituality
+    - wealth
+  correspondences:
+    animals:
+      - phoenix
+      - snake
+    elements:
+      - air
+    planets:
+      - venus
+    plants:
+      - grain
+  citation:
+    - kynes-correspondences

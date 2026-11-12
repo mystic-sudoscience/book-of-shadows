@@ -1,0 +1,13 @@
+koala:
+  type: mammal
+  also known as:
+    - joeys (koala babies)
+  properties:
+    - calm
+    - empathy
+    - guidance
+    - obstacles
+  notes:
+    - gentleness
+  citation:
+    - kynes-correspondences

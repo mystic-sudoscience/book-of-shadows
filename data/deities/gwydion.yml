@@ -1,0 +1,35 @@
+gwydion:
+  type: god
+  description: Magician god; brother of Arianrhod. Sometimes known as the Druid of the Gods
+  culture: Celtic — Wales
+  also known as:
+    - gwidion
+  properties:
+    - changes
+    - enchantment
+    - healing
+    - knowledge
+    - learning
+    - magic
+    - mental power
+    - power
+    - revenge
+    - shamanic work
+    - skills
+    - transformation
+    - witches/witchcraft
+  notes:
+    - "power: trickery"
+  correspondences:
+    animals:
+      - deer (stag)
+      - dog ( greyhound )
+      - horse
+      - lapwing
+      - pig
+      - wolf
+    plants:
+      - clover
+      - mushroom
+  citation:
+    - kynes-correspondences

@@ -1,0 +1,33 @@
+carp:
+  type: marine life
+  properties:
+    - balance
+    - courage
+    - defense
+    - determination
+    - divination
+    - endurance
+    - fame
+    - fertility
+    - home
+    - hope
+    - inspiration
+    - life
+    - longevity
+    - love
+    - luck
+    - marriage
+    - messages/omens
+    - patience
+    - prosperity
+    - strength
+    - success
+    - unity
+    - virility
+    - youth
+  notes:
+    - "life: virility"
+    - protect home
+    - succeed opportunities
+  citation:
+    - kynes-correspondences

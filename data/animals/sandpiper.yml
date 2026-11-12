@@ -1,0 +1,12 @@
+sandpiper:
+  type: bird
+  properties:
+    - abundance
+    - community
+    - cycles
+    - freedom
+    - learning
+  notes:
+    - deceit
+  citation:
+    - kynes-correspondences

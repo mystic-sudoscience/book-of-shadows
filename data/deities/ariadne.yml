@@ -1,0 +1,33 @@
+ariadne:
+  type: goddess
+  description: Moon deity; goddess of dawn, fertility, and vegetation
+  culture: Greek — Crete
+  properties:
+    - agriculture
+    - death
+    - fertility
+    - grief
+    - manifestation
+    - moon magic
+    - protection
+    - sexuality
+  notes:
+    - quests
+  correspondences:
+    animals:
+      - spider
+    colors:
+      - silver
+    elements:
+      - earth
+    holidays:
+      - ostara
+    numbers:
+      - 9
+    planets:
+      - moon
+      - saturn
+    plants:
+      - moonwort
+  citation:
+    - kynes-correspondences

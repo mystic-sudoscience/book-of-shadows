@@ -1,0 +1,40 @@
+set:
+  type: god
+  description: Weather deity; god of evil and darkness
+  culture: Egyptian
+  also known as:
+    - seth
+  properties:
+    - black magic
+    - challenges
+    - cunning
+    - darkness
+    - death
+    - jealousy
+    - negativity
+    - sex magic
+    - sexuality
+    - weather
+  notes:
+    - deceit
+    - "negativity: stir up"
+    - "weather: desert storms"
+  correspondences:
+    animals:
+      - antelope
+      - boar
+      - cattle (ox) hyena
+      - crocodile
+      - donkey
+      - hippopotamus
+      - leopard
+      - panther
+      - pig (sow)
+      - scorpion
+      - snake
+    planets:
+      - mars
+    zodiac:
+      - scorpio
+  citation:
+    - kynes-correspondences

@@ -16,6 +16,7 @@ foxglove:
     - release attachments
     - stimulation
     - stress
+    - fairy magic
   toxicity:
     humans: true
     pets: true

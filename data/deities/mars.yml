@@ -1,0 +1,61 @@
+mars:
+  type: god
+  description: God of war and agriculture
+  culture: Roman
+  properties:
+    - action
+    - agriculture
+    - anger
+    - assertiveness
+    - courage
+    - death
+    - defense
+    - energy
+    - fear
+    - fertility
+    - jealousy
+    - power
+    - prophecy
+    - protection
+    - revenge
+    - sex magic
+    - strength
+    - warrior energy
+    - well-being
+    - willpower
+  notes:
+    - decisions
+  correspondences:
+    animals:
+      - blue jay
+      - cattle (bull)
+      - dog
+      - raven
+      - vulture
+      - wolf
+      - woodpecker horse
+    crystals:
+      - onyx
+      - sardonyx
+    numbers:
+      - 5
+    planets:
+      - mars
+    plants:
+      - ash
+      - cherry
+      - galangal
+      - laurel
+      - oak
+      - rue
+      - vervain
+    seasons:
+      - spring
+    weekdays:
+      - tuesday
+    zodiac:
+      - 1
+      - aries
+      - sagittarius
+  citation:
+    - kynes-correspondences

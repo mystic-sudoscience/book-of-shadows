@@ -1,0 +1,73 @@
+sekhmet:
+  type: goddess
+  description: Warrior goddess of fire, heat, and childbirth
+  culture: Egyptian
+  also known as:
+    - sekhem
+  properties:
+    - action
+    - activate/awaken
+    - anger
+    - assertiveness
+    - authority
+    - awareness
+    - beginnings
+    - cheerfulness
+    - community
+    - compassion
+    - darkness
+    - death
+    - defense
+    - defensive magic
+    - destruction
+    - discipline
+    - empowerment
+    - enchantment
+    - enmity
+    - fear
+    - happiness
+    - healing
+    - illumination
+    - justice
+    - life
+    - light
+    - love
+    - loyalty
+    - lust
+    - magic
+    - messages/omens
+    - nurture
+    - peace
+    - power
+    - pregnancy/childbirth
+    - protection
+    - purification
+    - purity
+    - revenge
+    - senses
+    - sex magic
+    - storms
+    - strength
+    - transformation
+    - warrior energy
+    - wealth
+    - well-being
+    - wisdom
+  notes:
+    - general magic
+  correspondences:
+    animals:
+      - cat
+      - lion
+    elements:
+      - fire
+    planets:
+      - sun
+    plants:
+      - catnip
+      - locust
+    zodiac:
+      - aries
+      - leo
+  citation:
+    - kynes-correspondences

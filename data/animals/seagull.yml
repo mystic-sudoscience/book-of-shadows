@@ -1,0 +1,34 @@
+seagull:
+  type: bird
+  properties:
+    - abundance
+    - action
+    - afterlife
+    - clarity
+    - communication
+    - freedom
+    - friendship
+    - knowledge
+    - learning
+    - magic
+    - messages/omens
+    - order/organize
+    - purification
+    - spirits
+    - transformation
+    - travel
+  notes:
+    - communication with deities
+    - magic of in between places
+    - opportunities
+  correspondences:
+    deities:
+      - aphrodite
+      - njord
+    elements:
+      - air
+      - water
+    zodiac:
+      - cancer
+  citation:
+    - kynes-correspondences

@@ -38,6 +38,7 @@ wormwood:
     - set hexes
     - skills
     - stress
+    - astral travel
   toxicity:
     humans: true
     pets: true

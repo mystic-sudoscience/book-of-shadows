@@ -1,0 +1,32 @@
+robin:
+  type: bird
+  properties:
+    - changes
+    - growth
+    - happiness
+    - luck
+    - messages/omens
+    - spirits
+    - wisdom
+    - wishes
+  notes:
+    - wisdom of change
+  correspondences:
+    chakras:
+      - throat
+    deities:
+      - belenus
+    elements:
+      - fire
+    holidays:
+      - imbolc
+      - new year's day
+      - summer solstice
+      - yule
+    seasons:
+      - spring
+    zodiac:
+      - aries
+      - taurus
+  citation:
+    - kynes-correspondences

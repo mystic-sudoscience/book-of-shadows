@@ -1,0 +1,25 @@
+raccoon:
+  type: mammal
+  properties:
+    - adaptability
+    - balance
+    - confidence
+    - defense
+    - determination
+    - guidance
+    - hidden or secret knowledge
+    - knowledge
+    - shyness
+    - sleep
+    - transformation
+  notes:
+    - hidden knowledge
+    - seek guidance
+  correspondences:
+    elements:
+      - water
+    seasons:
+      - spring
+      - summer
+  citation:
+    - kynes-correspondences

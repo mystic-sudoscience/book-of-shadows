@@ -1,0 +1,35 @@
+byelobog:
+  type: god
+  description: God of light and day
+  culture: Slavic
+  also known as:
+    - bielbog
+  properties:
+    - agriculture
+    - balance
+    - darkness
+    - goodness
+    - growth
+    - happiness
+    - justice
+    - light
+    - luck
+    - order/organize
+    - peace
+    - support
+    - travel
+    - warmth
+  notes:
+    - "agriculture: good harvest"
+    - make it through darkness
+  correspondences:
+    plants:
+      - grain
+    seasons:
+      - spring
+      - summer
+    times:
+      - dawn
+      - midday
+  citation:
+    - kynes-correspondences

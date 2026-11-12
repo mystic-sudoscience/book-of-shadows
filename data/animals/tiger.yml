@@ -1,0 +1,51 @@
+tiger:
+  type: mammal
+  energy:
+    - yang
+  properties:
+    - action
+    - activate/awaken
+    - confidence
+    - connections
+    - courage
+    - dedication/devotion
+    - desire
+    - energy
+    - face danger
+    - fairness
+    - guardian
+    - longevity
+    - manifestation
+    - passion
+    - past lives
+    - power
+    - protection
+    - sensuality
+    - strength
+    - willpower
+  notes:
+    - "connections: past lives"
+    - faith
+    - "manifestation: new adventures"
+  correspondences:
+    deities:
+      - bacchus
+      - dionysus
+      - durga
+      - kali
+      - shiva
+    directions:
+      - north
+    elements:
+      - fire
+    holidays:
+      - yule
+    moon:
+      - full
+      - new
+    planets:
+      - moon
+    zodiac:
+      - taurus
+  citation:
+    - kynes-correspondences

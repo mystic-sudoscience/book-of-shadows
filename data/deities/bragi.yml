@@ -1,0 +1,16 @@
+bragi:
+  type: god
+  description: God of poetry and music; son of Odin
+  properties:
+    - authority
+    - communication
+    - creativity
+    - respect
+    - sensuality
+    - youth
+  correspondences:
+    holidays:
+      - imbolc
+      - yule
+  citation:
+    - kynes-correspondences

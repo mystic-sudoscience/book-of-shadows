@@ -21,6 +21,7 @@ hyacinth:
     - stability
     - stress
     - wisdom
+    - happiness
   toxicity:
     notes:
       - not recommended for internal use

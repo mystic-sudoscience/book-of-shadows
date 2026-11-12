@@ -1,0 +1,31 @@
+porcupine:
+  type: mammal
+  properties:
+    - aggression
+    - defense
+    - happiness
+    - innocence
+    - memory/memories
+    - protection
+    - respect
+    - security
+    - self-improvement
+    - spirits
+    - trust
+  notes:
+    - "protection: inner child"
+    - respect for differences
+    - "self-work: individual path"
+    - "spirits: realm"
+  correspondences:
+    crystals:
+      - salt
+    elements:
+      - fire
+    plants:
+      - fir
+      - pine
+    seasons:
+      - autumn
+  citation:
+    - kynes-correspondences

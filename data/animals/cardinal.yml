@@ -1,0 +1,25 @@
+cardinal:
+  type: bird
+  properties:
+    - balance
+    - clarity
+    - creativity
+    - family
+    - friendship
+    - intuition
+    - life
+    - listen to inner voice
+    - love
+    - nurture
+    - romance
+    - seek knowledge
+    - self-improvement
+    - senses
+    - vitality
+    - well-being
+  notes:
+    - "family: fatherhood"
+    - "life: vitality"
+    - "senses: listening to inner voice"
+  citation:
+    - kynes-correspondences

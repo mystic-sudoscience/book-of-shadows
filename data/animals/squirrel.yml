@@ -1,0 +1,26 @@
+squirrel:
+  type: mammal
+  properties:
+    - abundance
+    - action
+    - avoid danger
+    - balance
+    - changes
+    - communication
+    - community
+    - concentration/focus
+    - innocence
+    - knowledge
+    - needs
+    - negativity
+    - trust
+    - truth
+  notes:
+    - concentration/focus on solutions
+  correspondences:
+    holidays:
+      - yule
+    zodiac:
+      - virgo
+  citation:
+    - kynes-correspondences

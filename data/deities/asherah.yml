@@ -1,0 +1,28 @@
+asherah:
+  type: goddess
+  description: Mother goddess of fertility
+  culture: Assyrian, Canaanite, Phoenician, Mesopotamian
+  also known as:
+    - ashera
+  properties:
+    - fertility
+    - growth
+    - love
+    - manifestation
+    - romance
+    - sex magic
+    - sexuality
+    - wisdom
+    - wishes
+  correspondences:
+    elements:
+      - earth
+    plants:
+      - lily
+      - oak
+      - palm
+      - poplar
+    zodiac:
+      - taurus
+  citation:
+    - kynes-correspondences

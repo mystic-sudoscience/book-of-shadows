@@ -1,0 +1,20 @@
+penguin:
+  type: bird
+  properties:
+    - aggression
+    - astral realm
+    - balance
+    - dream work
+    - endurance
+    - family
+    - freedom
+    - inner strength
+    - love
+    - loyalty
+    - patience
+    - pleasure
+    - wisdom
+  notes:
+    - "family: fatherhood"
+  citation:
+    - kynes-correspondences

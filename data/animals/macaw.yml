@@ -1,0 +1,23 @@
+macaw:
+  type: bird
+  properties:
+    - balance
+    - communication
+    - creativity
+    - emotions
+    - guidance
+    - longevity
+    - sight
+    - solar energy
+    - visions
+  correspondences:
+    elements:
+      - fire
+    planets:
+      - sun
+  varieties:
+    scarlet:
+      properties:
+        - spirituality
+  citation:
+    - kynes-correspondences

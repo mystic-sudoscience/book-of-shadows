@@ -1,0 +1,12 @@
+goldfish:
+  type: marine life
+  properties:
+    - balance
+    - beauty
+    - harmony
+    - peace
+    - prosperity
+  notes:
+    - opportunities
+  citation:
+    - kynes-correspondences

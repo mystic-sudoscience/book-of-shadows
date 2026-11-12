@@ -1,0 +1,33 @@
+stork:
+  type: bird
+  properties:
+    - beginnings
+    - compassion
+    - creativity
+    - dedication/devotion
+    - emotions
+    - fertility
+    - fidelity
+    - honor
+    - longevity
+    - luck
+    - nurture
+    - pregnancy/childbirth
+    - protection
+    - rebirth/renewal
+    - spirits
+    - wealth
+  notes:
+    - opportunities
+    - "protection: ofyoung"
+  correspondences:
+    deities:
+      - hera
+      - hermes
+      - juno
+    elements:
+      - water
+    zodiac:
+      - pisces
+  citation:
+    - kynes-correspondences

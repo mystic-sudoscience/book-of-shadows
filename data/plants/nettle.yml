@@ -29,6 +29,7 @@ nettle:
     - security
     - stress
     - unity
+    - exorcism
   toxicity:
     humans: false
     pets: false

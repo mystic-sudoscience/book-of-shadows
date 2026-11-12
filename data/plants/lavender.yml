@@ -52,6 +52,7 @@ lavender:
     - support
     - well-being
     - wishes
+    - longevity
   toxicity:
     humans: false
     pets: true

@@ -1,0 +1,52 @@
+epona:
+  type: goddess
+  description: Goddess of horses and bestower of sovereignty
+  culture: Celtic — England; Rom an-British
+  properties:
+    - abundance
+    - afterlife
+    - aggression
+    - agriculture
+    - animal magic
+    - animals
+    - authority
+    - dream work
+    - grace
+    - guardian
+    - healing
+    - life
+    - motivation
+    - nightmares
+    - power
+    - prosperity
+    - sex magic
+    - shamanic work
+    - skills
+    - strength
+    - travel
+    - warrior energy
+  notes:
+    - "nightmares: children"
+  correspondences:
+    animals:
+      - cattle (ox)
+      - dog
+      - donkey
+      - horse
+    colors:
+      - black
+      - white
+    crystals:
+      - azurite
+    holidays:
+      - feast of epona
+      - mabon
+    plants:
+      - coltsfoot
+      - grain
+      - valerian
+      - vervain
+    zodiac:
+      - sagittarius
+  citation:
+    - kynes-correspondences

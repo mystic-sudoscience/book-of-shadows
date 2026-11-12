@@ -1,0 +1,84 @@
+diana:
+  type: goddess
+  description: Goddess of fertility, wild places, and childbirth
+  culture: Roman
+  properties:
+    - animals
+    - authority
+    - beauty
+    - discipline
+    - empowerment
+    - enmity
+    - fertility
+    - freedom
+    - friendship
+    - knowledge
+    - long-term goals
+    - love
+    - moon magic
+    - needs
+    - night magic
+    - nightmares
+    - pregnancy/childbirth
+    - protection
+    - secrets
+    - shamanic work
+    - strength
+    - witches/witchcraft
+    - youth
+  notes:
+    - "youth: young animals"
+  correspondences:
+    animals:
+      - 1 deer
+      - bat
+      - bear
+      - cat
+      - cattle (cow)
+      - dog
+    crystals:
+      - amethyst
+      - moonstone
+    holidays:
+      - beltane
+      - ostara
+    metals:
+      - silver
+    numbers:
+      - 1
+    planets:
+      - moon
+    plants:
+      - acacia
+      - apple
+      - beech
+      - chestnut
+      - cypress
+      - dittany
+      - fir
+      - hazel
+      - horse chestnut
+      - lily
+      - mandrake
+      - moonwort
+      - mugwort
+      - oak
+      - palm
+      - pine
+      - poppy
+      - rue
+      - vervain
+      - walnut
+      - "willow herb el garden: jasmine"
+      - wormwood
+    sea:
+      - "pearl insects elm isc.: bee"
+      - scorpion
+    zodiac:
+      - cancer
+      - leo
+      - pisces
+      - sagittarius
+      - virgo
+  citation:
+    - kynes-correspondences

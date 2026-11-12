@@ -1,0 +1,86 @@
+sheep:
+  type: mammal
+  properties:
+    - abundance
+    - balance
+    - beginnings
+    - confidence
+    - courage
+    - determination
+    - grief
+    - security
+    - sensitivity
+    - spirits
+    - support
+  correspondences:
+    deities:
+      - dumuzi
+      - hades (black)
+      - hecate
+    holidays:
+      - imbolc
+    zodiac:
+      - aquarius
+      - pisces
+  varieties:
+    ewe:
+      properties:
+        - nurture
+    lamb:
+      properties:
+        - grief
+        - innocence
+        - rebirth/renewal
+        - youth
+      notes:
+        - quests for divine knowledge
+      correspondences:
+        deities:
+          - agni
+          - brigantia
+          - brigid
+          - dionysus
+        holidays:
+          - imbolc
+        planets:
+          - sun
+        seasons:
+          - spring
+    ram:
+      properties:
+        - fertility
+        - generosity
+        - healing
+        - imagination
+        - inspiration
+        - mind
+        - power
+        - warmth
+      notes:
+        - active them ind
+      correspondences:
+        chakras:
+          - solar plexus
+        deities:
+          - agni
+          - am un
+          - ea
+          - hermes
+          - khnum
+          - osiris
+          - pan
+          - poseidon
+          - zeus jupiter
+        elements:
+          - fire
+        holidays:
+          - ostara
+        planets:
+          - mars
+          - sun
+        seasons:
+          - spring
+        zodiac:
+          - aries
+  citation:
+    - kynes-correspondences

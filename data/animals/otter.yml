@@ -1,0 +1,47 @@
+otter:
+  type: mammal
+  energy:
+    - yin
+  properties:
+    - balance
+    - community
+    - empathy
+    - encouragement
+    - energy
+    - female power
+    - fidelity
+    - freedom
+    - friendship
+    - guidance
+    - guidance of souls
+    - happiness
+    - healing
+    - imagination
+    - jealousy
+    - life
+    - loyalty
+    - otherworld/underworld
+    - patience
+    - pleasure
+    - state of grace
+    - support
+    - transformation
+    - truth
+  notes:
+    - "guidance: souls"
+    - healing with laughter
+  correspondences:
+    deities:
+      - cerridwen
+    elements:
+      - earth
+      - water
+    planets:
+      - moon
+    seasons:
+      - spring
+      - summer
+    zodiac:
+      - aquarius
+  citation:
+    - kynes-correspondences

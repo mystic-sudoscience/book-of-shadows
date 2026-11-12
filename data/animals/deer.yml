@@ -1,0 +1,102 @@
+deer:
+  type: mammal
+  properties:
+    - activate/awaken
+    - adaptability
+    - affection
+    - awareness
+    - balance
+    - clarity
+    - cycles
+    - generosity
+    - grace
+    - guidance
+    - guidance of souls
+    - innocence
+    - kindness
+    - light
+    - listening
+    - motivation
+    - peace
+    - purification
+    - purity
+    - secrets
+    - sensitivity
+    - spirits
+    - touch
+    - unconditional love
+    - wisdom
+  notes:
+    - "activate/awaken: new adventures"
+    - gentleness
+    - "guidance: souls"
+  correspondences:
+    deities:
+      - artemis
+      - athena
+      - cailleach
+      - diana
+    holidays:
+      - imbolc
+    numbers:
+      - 7
+    planets:
+      - sun
+    plants:
+      - pine
+    seasons:
+      - autumn
+      - spring
+    zodiac:
+      - gemini
+  varieties:
+    doe:
+      properties:
+        - communication
+        - enchantment
+        - gratitude
+        - long-term goals
+      correspondences:
+        zodiac:
+          - leo
+          - sagittarius
+    fawn:
+      properties:
+        - rebirth/renewal
+    stag:
+      energy:
+        - yang
+      properties:
+        - knowledge
+        - longevity
+        - messages/omens
+        - otherworld/underworld
+        - rebirth/renewal
+        - shamanic work
+        - shyness
+        - support
+      notes:
+        - messages/omens from the otherworld/udi/fe
+        - white otherworld/underworld
+        - white quests
+      correspondences:
+        deities:
+          - adonis
+          - aphrodite
+          - apollo
+          - cernunnos
+          - gwydion
+          - nemesis
+          - silvanus
+        elements:
+          - earth
+        holidays:
+          - yule
+        planets:
+          - earth
+          - jupiter
+    white stag:
+      properties:
+        - otherworld/underworld
+  citation:
+    - kynes-correspondences

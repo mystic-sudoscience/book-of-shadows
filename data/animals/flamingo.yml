@@ -1,0 +1,16 @@
+flamingo:
+  type: bird
+  properties:
+    - abundance
+    - balance
+    - community
+    - knowledge
+    - night magic
+    - stability
+    - touch
+    - transformation
+  notes:
+    - community and personal purpose
+    - transformation from darkness to light
+  citation:
+    - kynes-correspondences

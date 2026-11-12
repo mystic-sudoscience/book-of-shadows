@@ -1,0 +1,21 @@
+pelican:
+  type: bird
+  properties:
+    - abundance
+    - challenges
+    - emotions
+    - generosity
+    - grace
+    - kindness
+    - loss
+    - magic
+    - obstacles
+    - rebirth/renewal
+    - reversal
+    - support
+  notes:
+    - recover from loss
+    - rise above problems
+    - use abundance wisely
+  citation:
+    - kynes-correspondences

@@ -1,0 +1,83 @@
+swan:
+  type: bird
+  energy:
+    - yang
+  properties:
+    - activate/awaken
+    - afterlife
+    - balance
+    - beauty
+    - changes
+    - connections
+    - death
+    - dedication/devotion
+    - desire
+    - divination
+    - dream work
+    - emotions
+    - enchantment
+    - fidelity
+    - grace
+    - healing
+    - innocence
+    - intuition
+    - light
+    - longevity
+    - love
+    - manifestation
+    - memory/memories
+    - messages/omens
+    - otherworld/underworld
+    - secrets
+    - self-improvement
+    - sensitivity
+    - shamanic work
+    - sleep
+    - spirits
+    - spirituality
+    - support
+    - support during transitions
+    - transformation
+    - travel
+    - trust
+  notes:
+    - "activate/awaken: power of self"
+    - "dream work: understanding symbolism"
+    - "memory/memories: past lives"
+    - psychological healing
+    - quests
+  correspondences:
+    deities:
+      - angus
+      - aphrodite
+      - apollo
+      - bertha
+      - brahma
+      - brigid
+      - manannan
+      - nemesis
+      - njord
+      - sarasvati
+      - venus
+      - zeus
+    directions:
+      - north
+      - west
+    elements:
+      - earth
+      - water
+    holidays:
+      - imbolc
+      - mabon
+    metals:
+      - mercury
+    planets:
+      - sun
+      - venus
+    seasons:
+      - winter
+    zodiac:
+      - libra
+      - pisces
+  citation:
+    - kynes-correspondences

@@ -1,0 +1,18 @@
+toad:
+  type: reptile & amphibian
+  properties:
+    - agriculture
+    - death
+    - enmity
+    - healing
+    - magic
+    - memory/memories
+    - money
+    - prophecy
+    - skills
+    - strength
+    - success
+    - wealth
+    - witches/witchcraft
+  citation:
+    - kynes-correspondences

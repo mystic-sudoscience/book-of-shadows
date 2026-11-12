@@ -1,0 +1,32 @@
+brahma:
+  type: god
+  description: Creator god of the universe
+  culture: Buddhist, Brahmanic, Hindu — India
+  also known as:
+    - brahmans
+  properties:
+    - consciousness
+    - introspection
+    - intuition
+    - mindfulness
+  correspondences:
+    animals:
+      - antelope
+      - boar
+      - cattle
+      - goose
+      - peacock
+      - swan
+    chakras:
+      - root
+    colors:
+      - red
+    elements:
+      - fire
+    plants:
+      - lotus
+      - oak
+      - olive
+      - poplar
+  citation:
+    - kynes-correspondences

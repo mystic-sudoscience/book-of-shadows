@@ -1,0 +1,29 @@
+mabon:
+  type: god
+  description: Divine youth, god of music; son of Modron
+  culture: Celtic — Ireland, Wales, Britain
+  also known as:
+    - maponos
+  properties:
+    - darkness
+    - death
+    - freedom
+    - harmony
+    - hunt animals
+    - innocence
+    - justice
+  correspondences:
+    animals:
+      - dog
+      - horse
+      - salmon
+    elements:
+      - water
+    holidays:
+      - mabon
+      - yule
+    plants:
+      - grape
+      - ivy
+  citation:
+    - kynes-correspondences

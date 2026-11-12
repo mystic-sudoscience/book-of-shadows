@@ -1,0 +1,36 @@
+dove:
+  type: bird
+  properties:
+    - death
+    - fertility
+    - forgiveness
+    - grounding
+    - harmony
+    - healing
+    - holy spirits
+    - life
+    - magic
+    - peace
+    - pregnancy/childbirth
+    - prophecy
+    - prosperity
+    - rebirth/renewal
+    - relationships
+    - sensuality
+    - wisdom
+  notes:
+    - "life: breath"
+  varieties:
+    mourning:
+      properties:
+        - grief
+    turtledove:
+      properties:
+        - fidelity
+        - love
+        - passion
+    white:
+      properties:
+        - mind
+  citation:
+    - kynes-correspondences

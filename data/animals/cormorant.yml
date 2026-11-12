@@ -1,0 +1,19 @@
+cormorant:
+  type: bird
+  properties:
+    - burial customs
+    - community
+    - death
+    - freedom
+    - prophecy
+    - skills
+    - transformation
+  notes:
+    - "death: burial customs"
+  correspondences:
+    elements:
+      - water
+    holidays:
+      - ostara
+  citation:
+    - kynes-correspondences

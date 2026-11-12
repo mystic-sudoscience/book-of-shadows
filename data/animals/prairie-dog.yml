@@ -1,0 +1,17 @@
+prairie dog:
+  type: mammal
+  properties:
+    - affection
+    - community
+    - family
+    - home
+    - support
+    - touch
+  correspondences:
+    elements:
+      - earth
+    seasons:
+      - spring
+      - summer
+  citation:
+    - kynes-correspondences

@@ -11,10 +11,14 @@ import yaml
 from data_files import DATA_DIR, read_collection, slug
 from intentions import INTENTIONS
 
+# Collections an entry's `correspondences` may point into ("sea" is From the Sea items, not yet a collection).
+LINKABLE = {"animals", "chakras", "colors", "crystals", "deities", "directions", "elements", "holidays", "metals", "moon",
+            "numbers", "planets", "plants", "sea", "seasons", "tarot", "times", "weekdays", "zodiac"}
+
 # Collections whose `properties` must be intentions, including the nested
 # properties under colors' `shades`, crystals' `varieties`, and the full moon's `months`.
 NESTED = ("shades", "varieties", "months")
-CHECKED = ["chakras", "colors", "crystals", "directions", "holidays", "metals", "moon", "numbers", "planets", "plants", "seasons", "tarot", "times", "weekdays", "zodiac"]
+CHECKED = ["animals", "chakras", "deities", "colors", "crystals", "directions", "holidays", "metals", "moon", "numbers", "planets", "plants", "seasons", "tarot", "times", "weekdays", "zodiac"]
 
 
 def location(collection, name):
@@ -24,8 +28,17 @@ def location(collection, name):
 
 
 def check(where, entry, intentions, errors):
-    if not (entry or {}).get("properties"):
+    if not (entry or {}).get("properties") and not (entry or {}).get("correspondences"):
         errors.append(f"{where}: has no properties")
+    links = (entry or {}).get("correspondences") or {}
+    if not isinstance(links, dict):
+        errors.append(f"{where}: correspondences must map a collection to a list of names")
+        links = {}
+    for coll, names in links.items():
+        if coll not in LINKABLE:
+            errors.append(f"{where}: correspondences: unknown collection '{coll}'")
+        if not isinstance(names, list) or not all(isinstance(n, (str, int)) for n in names):
+            errors.append(f"{where}: correspondences: {coll} must be a list of names")
     for prop in (entry or {}).get("properties", []):
         if prop not in intentions:
             errors.append(f"{where}: '{prop}' is not in intentions.py")

@@ -1,0 +1,26 @@
+kore:
+  type: goddess
+  description: The name by which Demeter ’s daughter was known prior toher abduction by Hades; afterwards shewas known as Persephone
+  culture: Greek
+  properties:
+    - agriculture
+    - growth
+    - honor
+    - hope
+    - innocence
+    - life
+    - purity
+    - youth
+  correspondences:
+    elements:
+      - earth
+    holidays:
+      - lughnasadh
+      - mabon
+      - twelfth night
+    seasons:
+      - spring
+    zodiac:
+      - virgo
+  citation:
+    - kynes-correspondences

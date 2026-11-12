@@ -1,0 +1,25 @@
+phoebe:
+  type: goddess
+  description: Solar deity, daughter of Gaia and Uranus
+  culture: Greek
+  properties:
+    - cycles
+    - divination
+    - emotions
+    - light
+    - solar magic
+  correspondences:
+    elements:
+      - air
+      - fire
+    holidays:
+      - summer solstice
+    metals:
+      - brass
+      - gold
+    planets:
+      - sun
+    plants:
+      - heliotrope
+  citation:
+    - kynes-correspondences

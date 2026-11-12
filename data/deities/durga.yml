@@ -1,0 +1,48 @@
+durga:
+  type: goddess
+  description: Warrior goddess of death and invincible destroyer
+  culture: Hindu — India
+  properties:
+    - activate/awaken
+    - ambition
+    - anger
+    - assertiveness
+    - authority
+    - balance
+    - banish
+    - cosmic energy
+    - death
+    - destiny
+    - discipline
+    - endings
+    - face danger
+    - fear
+    - jealousy
+    - life
+    - power
+    - strength
+    - success
+    - warrior energy
+  notes:
+    - morality
+  correspondences:
+    animals:
+      - buffalo/bison
+      - lion
+      - tiger
+    colors:
+      - yellow
+    elements:
+      - fire
+    holidays:
+      - samhain
+    planets:
+      - mars
+      - saturn
+    sea:
+      - conch
+    zodiac:
+      - aries
+      - leo
+  citation:
+    - kynes-correspondences

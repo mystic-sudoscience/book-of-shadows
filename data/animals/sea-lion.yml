@@ -1,0 +1,6 @@
+sea lion:
+  type: marine life
+  properties:
+    - guidance
+  citation:
+    - kynes-correspondences

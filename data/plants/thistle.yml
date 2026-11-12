@@ -27,6 +27,7 @@ thistle:
     - success
     - trust
     - unity
+    - defensive magic
   toxicity:
     humans: false
     pets: false

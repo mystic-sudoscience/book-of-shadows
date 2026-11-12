@@ -1,0 +1,16 @@
+lapwing:
+  type: bird
+  properties:
+    - cunning
+    - divination
+    - guidance
+    - secrets
+  notes:
+    - deceit
+  correspondences:
+    deities:
+      - gwydion
+    holidays:
+      - yule
+  citation:
+    - kynes-correspondences

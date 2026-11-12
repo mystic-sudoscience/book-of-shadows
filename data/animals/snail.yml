@@ -1,0 +1,13 @@
+snail:
+  type: insect & misc
+  properties:
+    - changes
+    - cycles
+    - death
+    - defense
+    - emotions
+    - pregnancy/childbirth
+    - rebirth/renewal
+    - travel
+  citation:
+    - kynes-correspondences

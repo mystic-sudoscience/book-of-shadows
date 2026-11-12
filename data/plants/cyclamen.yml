@@ -10,6 +10,7 @@ cyclamen:
     - protection
     - cheerfulness
     - lust
+    - happiness
   toxicity:
     humans: true
     pets: true

@@ -1,0 +1,47 @@
+lizard:
+  type: reptile & amphibian
+  properties:
+    - agriculture
+    - changes
+    - consciousness
+    - defense
+    - discipline
+    - divination
+    - dream work
+    - energy
+    - fear
+    - growth
+    - illumination
+    - intuition
+    - learning
+    - longevity
+    - loss
+    - mind
+    - otherworld/underworld
+    - peace
+    - prophecy
+    - psychic ability
+    - rebirth/renewal
+    - sensitivity
+    - sleep
+    - visions
+  notes:
+    - control dream work
+    - "control: dreams"
+    - subtle energy
+  correspondences:
+    chakras:
+      - third eye
+    deities:
+      - am un
+      - hermes
+      - thoth
+    elements:
+      - fire
+  varieties:
+    newt:
+      properties:
+        - inspiration
+        - transformation
+  citation:
+    - kynes-correspondences

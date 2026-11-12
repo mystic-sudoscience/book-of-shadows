@@ -1,0 +1,90 @@
+aphrodite:
+  type: goddess
+  description: Goddess of love, beauty, and pleasure
+  culture: Greek
+  properties:
+    - affection
+    - afterlife
+    - attraction
+    - beauty
+    - desire
+    - emotions
+    - fertility
+    - fidelity
+    - freedom
+    - goodness
+    - long-term goals
+    - love
+    - marriage
+    - passion
+    - pleasure
+    - pregnancy/childbirth
+    - rebirth/renewal
+    - relationships
+    - revenge
+    - romance
+    - sensuality
+    - sex magic
+    - sexuality
+    - youth
+  correspondences:
+    animals:
+      - cattle (cow)
+      - deer (stag)
+      - dolphin
+      - dove
+      - goat
+      - goose
+      - hare
+      - leopard
+      - magpie
+      - partridge
+      - seagull
+      - sparrow
+      - swallow
+      - swan
+    crystals:
+      - salt (sea)
+    elements:
+      - water
+    holidays:
+      - beltane
+      - ostara
+      - yule
+    metals:
+      - copper
+    numbers:
+      - 1
+    planets:
+      - uranus
+    plants:
+      - anemone
+      - apple
+      - cinnamon
+      - cypress
+      - daisy
+      - hazel
+      - magnolia
+      - mandrake
+      - marjoram
+      - myrrh
+      - myrtle
+      - orrisroot
+      - palm
+      - periwinkle
+      - rose
+      - rowan
+      - violet
+      - walnut
+    sea:
+      - pearl
+      - scallop
+    weekdays:
+      - friday
+    zodiac:
+      - capricorn
+      - libra
+      - pisces
+      - taurus
+  citation:
+    - kynes-correspondences

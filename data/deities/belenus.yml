@@ -1,0 +1,52 @@
+belenus:
+  type: god
+  description: Fire and possibly solar deity
+  culture: Celtic — Continent
+  also known as:
+    - be
+    - belenos
+  properties:
+    - astral realm
+    - cunning
+    - death
+    - destiny
+    - healing
+    - light
+    - memory/memories
+    - prosperity
+    - purification
+    - solar magic
+    - success
+    - warmth
+    - weather
+    - well-being
+    - wisdom
+  notes:
+    - lightning weather
+    - "memory/memories: past life"
+  correspondences:
+    animals:
+      - eagle
+      - horse
+      - robin
+    elements:
+      - fire
+      - water
+    holidays:
+      - beltane
+      - samhain
+    metals:
+      - brass
+      - gold
+    planets:
+      - sun
+    plants:
+      - ash
+      - blackthorn
+      - gorse
+      - hawthorn
+      - willow
+    zodiac:
+      - aries
+  citation:
+    - kynes-correspondences

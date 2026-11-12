@@ -1,0 +1,35 @@
+sparrow:
+  type: bird
+  properties:
+    - activate/awaken
+    - assertiveness
+    - desire
+    - dignity
+    - fertility
+    - fidelity
+    - grounding
+    - happiness
+    - love
+    - loyalty
+    - magic
+    - manifestation
+    - sex magic
+  correspondences:
+    chakras:
+      - heart
+      - throat
+    deities:
+      - aphrodite
+      - venus
+    elements:
+      - earth
+    holidays:
+      - ostara
+    planets:
+      - moon
+      - sun
+    zodiac:
+      - libra
+      - virgo
+  citation:
+    - kynes-correspondences

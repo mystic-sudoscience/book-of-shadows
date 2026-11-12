@@ -1,0 +1,34 @@
+pushan:
+  type: god
+  description: Solar god; patron of herds and travelers
+  culture: Hindu — India
+  also known as:
+    - puchan
+  properties:
+    - abundance
+    - animals
+    - fertility
+    - growth
+    - guardian
+    - love
+    - marriage
+    - motivation
+    - relationships
+    - reversal
+    - travel
+    - wealth
+  notes:
+    - "animals: guardian of cattle"
+    - "guardian: roads"
+    - "guardian: the dead"
+  correspondences:
+    animals:
+      - cattle
+      - goat
+    metals:
+      - brass
+      - gold
+    planets:
+      - sun
+  citation:
+    - kynes-correspondences

@@ -1,0 +1,19 @@
+giraffe:
+  type: mammal
+  properties:
+    - awareness
+    - balance
+    - clarity
+    - communication
+    - family
+    - grounding
+    - mind
+    - motivation
+    - prophecy
+    - relationships
+    - travel
+    - wisdom
+  notes:
+    - "mind: higher perception"
+  citation:
+    - kynes-correspondences

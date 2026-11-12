@@ -1,0 +1,43 @@
+selene:
+  type: goddess
+  description: Moon goddess
+  culture: Greek
+  properties:
+    - beauty
+    - calm
+    - cycles
+    - dream work
+    - enchantment
+    - light
+    - magic
+    - moon magic
+    - nightmares
+    - sleep
+    - youth
+  notes:
+    - general magic
+  correspondences:
+    animals:
+      - cattle (ox)
+      - horse
+    colors:
+      - silver
+    crystals:
+      - moonstone
+      - selenite
+    holidays:
+      - imbolc
+    metals:
+      - iron
+      - silver
+    numbers:
+      - 9
+    planets:
+      - moon
+    plants:
+      - moonwort
+      - rowan
+    weekdays:
+      - monday
+  citation:
+    - kynes-correspondences

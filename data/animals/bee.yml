@@ -1,0 +1,67 @@
+bee:
+  type: insect & misc
+  properties:
+    - abundance
+    - afterlife
+    - agriculture
+    - communicate with spirits
+    - communication
+    - community
+    - concentration/focus
+    - connections
+    - family
+    - fertility
+    - guidance
+    - heaven and earth
+    - karma
+    - knowledge
+    - life
+    - mind
+    - motivation
+    - otherworld/underworld
+    - power
+    - prosperity
+    - purification
+    - rebirth/renewal
+    - relationships
+    - romance
+    - spirituality
+    - state of grace
+    - support
+    - sweetness of life
+    - wisdom
+  notes:
+    - communication with the dead
+    - "connections: heaven and earth"
+    - "family: unity"
+    - guidance to spirits
+    - hidden wisdom
+    - "life: sweetness"
+    - "otherworld/underworld: symbol of the soul"
+  correspondences:
+    deities:
+      - apollo
+      - cybele
+      - demeter
+      - diana
+      - iris
+      - krishna
+      - ra
+      - vishnu
+    elements:
+      - fire
+    holidays:
+      - beltane
+    planets:
+      - saturn
+      - sun
+    plants:
+      - lemon balm
+      - willow
+  varieties:
+    female:
+      properties:
+        - energy
+        - warrior energy
+  citation:
+    - kynes-correspondences

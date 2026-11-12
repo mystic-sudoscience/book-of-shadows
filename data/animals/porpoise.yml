@@ -1,0 +1,23 @@
+porpoise:
+  type: marine life
+  properties:
+    - balance
+    - changes
+    - communication
+    - freedom
+    - harmony
+    - power
+    - travel
+    - trust
+    - wisdom
+  notes:
+    - power of life's rhythms
+  correspondences:
+    deities:
+      - apollo
+      - neptune
+      - poseidon
+    elements:
+      - water
+  citation:
+    - kynes-correspondences

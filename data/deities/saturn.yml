@@ -1,0 +1,40 @@
+saturn:
+  type: god
+  description: God of agriculture and workers
+  culture: Roman
+  properties:
+    - abundance
+    - agriculture
+    - animals
+    - beginnings
+    - determination
+    - learning
+    - prosperity
+    - success
+  correspondences:
+    animals:
+      - crow
+      - raven
+      - wren
+    holidays:
+      - saturnalia
+      - yule
+    numbers:
+      - 2
+    planets:
+      - saturn
+    plants:
+      - cypress
+      - grape
+      - holly
+      - ivy
+      - lavender
+      - mandrake
+      - myrrh
+      - yew
+    weekdays:
+      - saturday
+    zodiac:
+      - capricorn
+  citation:
+    - kynes-correspondences

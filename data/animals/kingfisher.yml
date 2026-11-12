@@ -1,0 +1,40 @@
+kingfisher:
+  type: bird
+  properties:
+    - abundance
+    - beauty
+    - beginnings
+    - clarity
+    - concentration/focus
+    - fidelity
+    - happiness
+    - harmony
+    - long-term goals
+    - love
+    - marriage
+    - peace
+    - prophecy
+    - prosperity
+    - relationships
+    - storms
+    - warmth
+    - weather
+  notes:
+    - clarity of emotions
+    - happy marriage
+    - lightning weather
+    - "prophecy: weather"
+  correspondences:
+    colors:
+      - blue
+    directions:
+      - north
+    elements:
+      - water
+    holidays:
+      - summer solstice
+      - yule
+    seasons:
+      - winter
+  citation:
+    - kynes-correspondences

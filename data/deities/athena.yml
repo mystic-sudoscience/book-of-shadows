@@ -1,0 +1,76 @@
+athena:
+  type: goddess
+  description: Goddess of wisdom, war, and crafts, and protector
+  culture: Greek
+  also known as:
+    - athene
+  properties:
+    - affection
+    - authority
+    - beauty
+    - courage
+    - creativity
+    - death
+    - defense
+    - discipline
+    - freedom
+    - growth
+    - guardian
+    - guidance
+    - harmony
+    - healing
+    - inspiration
+    - intellectual
+    - jealousy
+    - justice
+    - mind
+    - peace
+    - power
+    - protection
+    - purity
+    - skills
+    - strength
+    - warrior energy
+    - wisdom
+  correspondences:
+    animals:
+      - cattle (ox)
+      - crane
+      - crow
+      - cuckoo
+      - deer
+      - goat
+      - horse
+      - owl
+      - partridge
+      - raven
+      - snake
+      - sphinx
+    colors:
+      - yellow
+    elements:
+      - air
+    holidays:
+      - feast of epona
+      - imbolc
+      - ostara
+    numbers:
+      - 6
+      - 7
+    planets:
+      - mercury
+    plants:
+      - apple
+      - beech
+      - fir
+      - maple
+      - olive
+      - spindletree
+      - willow
+    weekdays:
+      - wednesday
+    zodiac:
+      - libra
+      - sagittarius
+  citation:
+    - kynes-correspondences

@@ -1,0 +1,19 @@
+chimpanzee:
+  type: mammal
+  properties:
+    - aggression
+    - changes
+    - communication
+    - community
+    - compassion
+    - integrity
+    - intellectual
+    - obstacles
+    - self-awareness
+    - skills
+  notes:
+    - balance aggression
+    - deceit
+    - "problems: solve"
+  citation:
+    - kynes-correspondences

@@ -1,0 +1,86 @@
+lion:
+  type: mammal
+  energy:
+    - yin
+  properties:
+    - affection
+    - authority
+    - communication
+    - community
+    - courage
+    - dignity
+    - elemental power
+    - energy
+    - family
+    - integrity
+    - jealousy
+    - justice
+    - knowledge
+    - light
+    - passion
+    - patience
+    - power
+    - pride
+    - prosperity
+    - protection
+    - rebirth/renewal
+    - release attachments
+    - respect
+    - spirituality
+    - strength
+    - stress
+    - unity
+    - wisdom
+  notes:
+    - divine knowledge
+    - "power: female/z/oness"
+    - "power: fire///on"
+  correspondences:
+    animals:
+      - griffin
+    deities:
+      - am un
+      - anat
+      - artemis
+      - astarte (lioness)
+      - brigantia (lioness)
+      - buddha
+      - cybele
+      - devi
+      - dionysus
+      - durga
+      - hathor
+      - helios
+      - hera
+      - inanna
+      - ishtar
+      - isis
+      - khnum
+      - krishna
+      - lugh. mithras
+      - nergal
+      - parvati
+      - rhea
+      - sekhmet
+      - vishnu
+    directions:
+      - south
+    elements:
+      - fire
+    metals:
+      - gold
+    planets:
+      - sun
+    seasons:
+      - spring
+      - summer
+    zodiac:
+      - capricorn
+      - leo
+      - sagittarius
+  varieties:
+    lioness:
+      properties:
+        - female power
+  citation:
+    - kynes-correspondences

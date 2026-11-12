@@ -1,0 +1,89 @@
+chicken:
+  type: bird
+  properties:
+    - abundance
+    - community
+    - divination
+    - family
+    - fertility
+    - power
+    - provide comfort
+    - rebirth/renewal
+    - security
+    - spirits
+  notes:
+    - "power: inner voice"
+  correspondences:
+    elements:
+      - earth
+  varieties:
+    hen:
+      properties:
+        - connections
+        - death
+        - guidance of souls
+        - nurture
+      notes:
+        - black death
+        - "connections: spirits of the dead"
+      correspondences:
+        deities:
+          - cerridwen
+    rooster:
+      properties:
+        - activate/awaken
+        - anger
+        - cheerfulness
+        - confidence
+        - connections
+        - courage
+        - crossroads
+        - death
+        - funeral rites
+        - guardian
+        - guidance
+        - healing
+        - kindness
+        - light
+        - lust
+        - negativity
+        - past lives
+        - psychic protection
+        - secrets
+        - sexuality
+        - solar energy
+        - spirituality
+        - stimulation
+      notes:
+        - "connections: past lives"
+        - "death: funeral rites"
+        - "spirituality: vigilance"
+      correspondences:
+        colors:
+          - black
+          - red
+          - white
+        deities:
+          - amaterasu
+          - apollo
+          - ares
+          - asclepius mercury
+          - attis
+          - brigid
+          - helios
+          - hermes
+          - lugh
+        holidays:
+          - lughnasadh
+        numbers:
+          - 5
+        planets:
+          - sun
+        plants:
+          - ash
+        times:
+          - dawn
+        zodiac:
+          - gemini
+  citation:
+    - kynes-correspondences
