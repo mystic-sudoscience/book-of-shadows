@@ -2,6 +2,7 @@ elephant:
   type: mammal
   properties:
     - affection
+    - authority
     - balance
     - communication
     - community
@@ -17,6 +18,7 @@ elephant:
     - longevity
     - loyalty
     - luck
+    - maternal protection
     - memory/memories
     - obstacles
     - patience
@@ -56,3 +58,4 @@ elephant:
       - capricorn
   citation:
     - kynes-correspondences
+    - johnson-mystical-stitches

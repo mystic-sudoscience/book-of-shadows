@@ -1,4 +1,14 @@
+0:
+  properties:
+    - beginnings
+    - cycles
+    - secrets
+    - universal energy
+  citation:
+    - johnson-mystical-stitches
 1:
+  tarot sequence: initiation
+  tarot meaning: promise and potential; the seed that must be planted and nourished
   properties:
     - accomplishment
     - action
@@ -8,9 +18,12 @@
     - business
     - courage
     - determination
+    - divine/higher power
+    - growth
     - harmony
     - healing
     - inspiration
+    - life
     - light
     - money
     - order/organize
@@ -19,42 +32,61 @@
     - willpower
   citation:
     - kynes-correspondences
+    - hermitsmirror-minor-sequences
+    - johnson-mystical-stitches
 2:
+  tarot sequence: initiation
+  tarot meaning: connection, balance, and distinction; deciding what to do with the ace's potential
   properties:
     - adaptability
     - balance
     - challenges
     - changes
+    - connections
     - dream work
     - emotional security
     - empathy
     - friendship
+    - harmony
     - imagination
     - increase
     - insight
     - integrity
     - introspection
+    - intuition
     - love
     - mind
     - patience
+    - relationships
     - romance
+    - subconscious
     - support
+  correspondences:
+    tarot:
+      - high priestess
   citation:
     - kynes-correspondences
+    - hermitsmirror-minor-sequences
+    - johnson-mystical-stitches
 3:
+  tarot sequence: initiation
+  tarot meaning: potential moves into the outside world, bringing activity, passion, and vulnerability
   properties:
     - action
     - ambition
     - authority
     - beauty
     - beginnings
+    - challenges
     - communication
     - connections
+    - creativity
     - crossroads
     - cycles
     - discipline
     - endings
     - friendship
+    - growth
     - harmony
     - healing
     - imagination
@@ -65,6 +97,7 @@
     - mind
     - moon magic
     - motivation
+    - passion
     - pride
     - protection
     - psychic ability
@@ -72,7 +105,11 @@
     - unity
   citation:
     - kynes-correspondences
+    - hermitsmirror-minor-sequences
+    - johnson-mystical-stitches
 4:
+  tarot sequence: maintenance
+  tarot meaning: structure and stability; a safe container for rest and recovery that can turn stagnant
   properties:
     - accomplishment
     - attraction
@@ -84,8 +121,10 @@
     - consciousness
     - crossroads
     - desire
+    - home
     - justice
     - limitations/boundaries
+    - logic/logical mind
     - loyalty
     - manifestation
     - money
@@ -96,20 +135,28 @@
     - power
     - protection
     - respect
+    - security
     - stability
     - well-being
   citation:
     - kynes-correspondences
+    - hermitsmirror-minor-sequences
+    - johnson-mystical-stitches
 5:
+  tarot sequence: maintenance
+  tarot meaning: chaos and unfocused experimentation; conflict that breaks the 4's safety open for growth
   properties:
     - action
     - attraction
+    - challenges
     - changes
     - communication
     - connections
+    - elemental power
     - energy
     - fear
     - freedom
+    - growth
     - inspiration
     - love
     - passion
@@ -118,19 +165,29 @@
     - sensuality
     - sexuality
     - sleep
+    - spiritual transformation
     - spirituality
+    - transformation
     - travel
+    - unexpected changes
   citation:
     - kynes-correspondences
+    - hermitsmirror-minor-sequences
+    - johnson-mystical-stitches
 6:
+  tarot sequence: maintenance
+  tarot meaning: harmony, mediation, and natural flow; giving and taking that keeps things moving
   properties:
     - affection
     - anxiety
     - balance
+    - beauty
     - compassion
     - consciousness
     - family
+    - freedom
     - friendship
+    - generosity
     - harmony
     - imagination
     - integrity
@@ -140,19 +197,32 @@
     - loyalty
     - mind
     - money
+    - move/stimulate energy
     - peace
     - relationships
     - responsibility
+    - unity
     - well-being
+  correspondences:
+    tarot:
+      - lovers
   citation:
     - kynes-correspondences
+    - hermitsmirror-minor-sequences
+    - johnson-mystical-stitches
 7:
+  tarot sequence: completion
+  tarot meaning: experience and leadership; choosing your focus and taking a stand on your own terms
   properties:
     - accomplishment
     - affection
+    - authority
     - business
     - changes
     - clairvoyance
+    - connect with higher self
+    - courage
+    - determination
     - enchantment
     - fairness
     - fear
@@ -179,32 +249,47 @@
     - well-being
   citation:
     - kynes-correspondences
+    - hermitsmirror-minor-sequences
+    - johnson-mystical-stitches
 8:
+  tarot sequence: completion
+  tarot meaning: striving and ambition; close to the goal, tested by last-minute doubts
   properties:
     - abundance
     - accomplishment
     - ambition
     - authority
+    - balance
     - business
+    - challenges
     - dedication/devotion
+    - determination
     - discipline
     - fertility
+    - higher wisdom
     - increase
     - karma
     - money
     - order/organize
     - patience
+    - perseverance
+    - personal power
     - power from within
     - pride
     - protection
     - secrets
+    - skills
     - spirituality
     - stability
     - stress
     - well-being
   citation:
     - kynes-correspondences
+    - hermitsmirror-minor-sequences
+    - johnson-mystical-stitches
 9:
+  tarot sequence: completion
+  tarot meaning: culmination; the end arrives for good or bad, dreams or nightmares fulfilled
   properties:
     - accomplishment
     - beginnings
@@ -212,7 +297,9 @@
     - courage
     - crossroads
     - determination
+    - endings
     - generosity
+    - happiness
     - healing
     - inspiration
     - light
@@ -223,21 +310,31 @@
     - nightmares
     - protection
     - psychic ability
+    - wishes
   citation:
     - kynes-correspondences
+    - hermitsmirror-minor-sequences
+    - johnson-mystical-stitches
 10:
+  tarot sequence: transition
+  tarot meaning: the suit's epilogue; one cycle ends and is handed on to the next
   properties:
     - accomplishment
     - beginnings
     - cycles
     - death
+    - endings
+    - family
     - fertility
+    - introspection
     - life
     - marriage
     - order/organize
+    - support during transitions
     - unity
   citation:
     - kynes-correspondences
+    - hermitsmirror-minor-sequences
 11:
   properties:
     - black magic

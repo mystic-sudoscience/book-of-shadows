@@ -24,6 +24,8 @@ peony:
     - stress
     - success
     - exorcism
+    - abundance
+    - luck
   toxicity:
     humans: true
     pets: true
@@ -32,3 +34,4 @@ peony:
   citation:
     - morgana-green-witch
     - kynes-correspondences
+    - johnson-mystical-stitches

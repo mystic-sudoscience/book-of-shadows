@@ -4,28 +4,29 @@ A community-maintained collection of correspondences (plants, crystals, colors, 
 
 ## Contents
 
-| File                                  | Description                                                                 |
-| ------------------------------------- | --------------------------------------------------------------------------- |
-| [data/plants/](data/plants/)           | Herbs and plants with their correspondences, safety notes, and uses (one file per plant) |
-| [data/animals/](data/animals/)         | Animals, birds, marine life, reptiles, insects, and mythical creatures, with varieties (one file per animal) |
-| [data/crystals.yml](data/crystals.yml) | Crystals, gemstones, and minerals, with varieties and their properties     |
-| [data/directions.yml](data/directions.yml) | The eight compass directions and their properties                      |
-| [data/elements.yml](data/elements.yml) | Earth, air, fire, and water and what they govern                            |
-| [data/holidays.yml](data/holidays.yml) | Holidays and festivals and their properties                                 |
-| [data/metals.yml](data/metals.yml)     | Metals and their properties                                                 |
-| [data/moon.yml](data/moon.yml)         | Moon phases, each month's full moon, and the moon by month                  |
-| [data/numbers.yml](data/numbers.yml)   | The numbers 1 through 13 and their properties                               |
-| [data/planets.yml](data/planets.yml)   | The sun, moon, and planets and their properties                             |
-| [data/seasons.yml](data/seasons.yml)   | The four seasons and their properties                                       |
-| [data/weekdays.yml](data/weekdays.yml) | Days of the week, ruling planets, Norse deities, and properties             |
-| [data/tarot.yml](data/tarot.yml)       | Major arcana cards and the four minor arcana suits, with their properties   |
-| [data/times.yml](data/times.yml)       | Times of day (dawn, noon, dusk, midnight) and their properties              |
-| [data/zodiac.yml](data/zodiac.yml)     | The twelve zodiac signs and their properties                                |
-| [data/chakras.yml](data/chakras.yml)   | The seven chakras: color, location, meaning, and signs of blockage          |
-| [data/colors.yml](data/colors.yml)     | Colors and their shades (dark blue, royal blue, ...) with their properties  |
-| [data/bibliography.yml](data/bibliography.yml) | Every source, keyed by a short id that entries reference in `citation` |
-| [load_db.py](scripts/load_db.py)               | Script that loads the YAML data into a local MongoDB database               |
-| [data_files.py](scripts/data_files.py)         | Shared helper that reads single-file and one-file-per-entry collections     |
+| File                                          | Description                                                                                                  |
+| --------------------------------------------- | ------------------------------------------------------------------------------------------------------------ |
+| [data/plants/](data/plants/)                   | Herbs and plants with their correspondences, safety notes, and uses (one file per plant)                     |
+| [data/animals/](data/animals/)                 | Animals, birds, marine life, reptiles, insects, and mythical creatures, with varieties (one file per animal) |
+| [data/crystals.yml](data/crystals.yml)         | Crystals, gemstones, and minerals, with varieties and their properties                                       |
+| [data/directions.yml](data/directions.yml)     | The eight compass directions and their properties                                                            |
+| [data/elements.yml](data/elements.yml)         | Earth, air, fire, and water and what they govern                                                             |
+| [data/holidays.yml](data/holidays.yml)         | Holidays and festivals and their properties                                                                  |
+| [data/metals.yml](data/metals.yml)             | Metals and their properties                                                                                  |
+| [data/moon.yml](data/moon.yml)                 | Moon phases, each month's full moon, and the moon by month                                                   |
+| [data/numbers.yml](data/numbers.yml)           | The numbers 1 through 13 and their properties                                                                |
+| [data/planets.yml](data/planets.yml)           | The sun, moon, and planets and their properties                                                              |
+| [data/seasons.yml](data/seasons.yml)           | The four seasons and their properties                                                                        |
+| [data/weekdays.yml](data/weekdays.yml)         | Days of the week, ruling planets, Norse deities, and properties                                              |
+| [data/imagery.yml](data/imagery.yml)           | Imagery: geometric forms, platonic solids, animal parts, forces of nature, human forms, and tools            |
+| [data/tarot.yml](data/tarot.yml)               | Major arcana cards and the four minor arcana suits, with their properties                                    |
+| [data/times.yml](data/times.yml)               | Times of day (dawn, noon, dusk, midnight) and their properties                                               |
+| [data/zodiac.yml](data/zodiac.yml)             | The twelve zodiac signs and their properties                                                                 |
+| [data/chakras.yml](data/chakras.yml)           | The seven chakras: color, location, meaning, and signs of blockage                                           |
+| [data/colors.yml](data/colors.yml)             | Colors and their shades (dark blue, royal blue, ...) with their properties                                   |
+| [data/bibliography.yml](data/bibliography.yml) | Every source, keyed by a short id that entries reference in `citation`                                     |
+| [load_db.py](scripts/load_db.py)               | Script that loads the YAML data into a local MongoDB database                                                |
+| [data_files.py](scripts/data_files.py)         | Shared helper that reads single-file and one-file-per-entry collections                                      |
 
 ## How to contribute
 
@@ -229,6 +230,24 @@ april:
 
 `type` is `phase` (`new`, `waxing`, `full`, `waning`, or a seasonal variant such as `waxing summer`; the dark moon is `new`, so use `new` rather than `dark` here and in a plant's `moon phase`) or `month` (the moon in that month generally, or a range such as `april through october`). The full moon of a particular month goes under `full` > `months`, not in the month entry. Phases are in cycle order and months in calendar order. Every property must be in [intentions.py](scripts/intentions.py).
 
+### Imagery (`imagery.yml`)
+
+```yaml
+wand:
+  type: tool
+  element: fire
+  properties:
+    - action
+    - personal power
+  correspondences:
+    tarot:
+      - wands
+  citation:
+    - johnson-mystical-stitches
+```
+
+ Entries are alphabetical, and every property must be in [intentions.py](scripts/intentions.py).
+
 ### Directions, numbers, holidays, planets, and seasons (`directions.yml`, `numbers.yml`, `holidays.yml`, `planets.yml`, `seasons.yml`)
 
 ```yaml
@@ -239,6 +258,8 @@ north:
   citation:
     - kynes-correspondences
 ```
+
+A number can also have `tarot sequence` (the stage it marks in the minor arcana: `initiation`, `maintenance`, `completion`, or `transition`), a short `tarot meaning`, and `correspondences` naming tarot cards it is tied to (`correspondences:` > `tarot:` > `- high priestess`).
 
 Directions are in compass order starting from north, numbers in numeric order, planets in order from the sun (sun, moon, mercury, venus, earth, mars, and so on out to pluto), and seasons from spring to winter. Holidays are alphabetical. A plant's `holidays` and `planet` should use the names in `holidays.yml` and `planets.yml`, in lowercase. Every property must be in [intentions.py](scripts/intentions.py).
 

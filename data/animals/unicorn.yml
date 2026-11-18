@@ -5,12 +5,14 @@ unicorn:
     - yin
   properties:
     - beauty
+    - chastity
     - compassion
     - dignity
     - enchantment
     - enlightenment
     - freedom
     - goodness
+    - healing
     - innocence
     - light
     - longevity
@@ -37,3 +39,4 @@ unicorn:
       - sun
   citation:
     - kynes-correspondences
+    - johnson-mystical-stitches

@@ -12,13 +12,13 @@ from data_files import DATA_DIR, read_collection, slug
 from intentions import INTENTIONS
 
 # Collections an entry's `correspondences` may point into ("sea" is From the Sea items, not yet a collection).
-LINKABLE = {"animals", "chakras", "colors", "crystals", "deities", "directions", "elements", "holidays", "metals", "moon",
+LINKABLE = {"animals", "chakras", "colors", "crystals", "deities", "directions", "elements", "holidays", "imagery", "metals", "moon",
             "numbers", "planets", "plants", "sea", "seasons", "tarot", "times", "weekdays", "zodiac"}
 
 # Collections whose `properties` must be intentions, including the nested
 # properties under colors' `shades`, crystals' `varieties`, and the full moon's `months`.
 NESTED = ("shades", "varieties", "months")
-CHECKED = ["animals", "chakras", "deities", "colors", "crystals", "directions", "holidays", "metals", "moon", "numbers", "planets", "plants", "seasons", "tarot", "times", "weekdays", "zodiac"]
+CHECKED = ["animals", "chakras", "deities", "colors", "crystals", "directions", "holidays", "imagery", "metals", "moon", "numbers", "planets", "plants", "seasons", "tarot", "times", "weekdays", "zodiac"]
 
 
 def location(collection, name):

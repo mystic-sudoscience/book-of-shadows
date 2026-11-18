@@ -2,6 +2,7 @@ bee:
   type: insect & misc
   properties:
     - abundance
+    - accomplishment
     - afterlife
     - agriculture
     - communicate with spirits
@@ -9,9 +10,11 @@ bee:
     - community
     - concentration/focus
     - connections
+    - death
     - family
     - fertility
     - guidance
+    - guidance of souls
     - heaven and earth
     - karma
     - knowledge
@@ -65,3 +68,4 @@ bee:
         - warrior energy
   citation:
     - kynes-correspondences
+    - johnson-mystical-stitches

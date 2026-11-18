@@ -2,6 +2,7 @@ wheat:
   planet: venus
   element: earth
   properties:
+    - abundance
     - blessings
     - death
     - fertility
@@ -9,6 +10,8 @@ wheat:
     - money
     - purity
     - rebirth/renewal
+    - wealth
   citation:
     - cunningham-herbs
     - kynes-correspondences
+    - johnson-mystical-stitches

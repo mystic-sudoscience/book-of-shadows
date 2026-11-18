@@ -24,6 +24,7 @@ export const TYPES = {
   directions: { label: 'Directions', group: 'symbols', color: '#8a9a6a' },
   chakras: { label: 'Chakras', group: 'symbols', color: '#c96fc2' },
   animals: { label: 'Animals', group: 'symbols', color: '#a8794e' },
+  imagery: { label: 'Imagery', group: 'symbols', color: '#a0566b' },
 }
 
 export const TYPE_ORDER = Object.keys(TYPES)

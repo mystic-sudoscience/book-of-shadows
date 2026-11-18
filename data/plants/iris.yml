@@ -30,9 +30,13 @@ iris:
     - willpower
     - wisdom
     - creativity
+    - divination
+    - hope
+    - prophecy
   toxicity:
     notes:
       - some species should not be used internally
   citation:
     - cunningham-herbs
     - kynes-correspondences
+    - johnson-mystical-stitches

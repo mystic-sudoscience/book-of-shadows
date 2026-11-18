@@ -1,0 +1,7 @@
+palm:
+  properties:
+    - abundance
+    - fertility
+    - travel
+  citation:
+    - johnson-mystical-stitches

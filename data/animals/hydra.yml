@@ -1,0 +1,9 @@
+hydra:
+  type: mythical
+  properties:
+    - awareness
+    - guardian
+    - otherworld/underworld
+    - remove obstacles
+  citation:
+    - johnson-mystical-stitches

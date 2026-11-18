@@ -4,10 +4,12 @@ mouse:
     - concentration/focus
     - cunning
     - destruction
+    - determination
     - enchantment
     - face danger
     - guidance
     - introspection
+    - invisibility
     - messages/omens
     - secrets
     - shyness
@@ -23,3 +25,4 @@ mouse:
       - ganesh
   citation:
     - kynes-correspondences
+    - johnson-mystical-stitches

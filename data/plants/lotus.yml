@@ -3,6 +3,7 @@ lotus:
   element: water
   properties:
     - awareness
+    - beauty
     - clear mind
     - consciousness
     - dream work
@@ -15,17 +16,19 @@ lotus:
     - karma
     - light
     - peace
+    - personal growth
     - protection
     - psychic ability
     - purification
     - rebirth/renewal
     - spiritual energy
     - spirituality
-  notes:
-    - per cunningham, opens locks
   toxicity:
     notes:
       - may disturb some part of the digestive system if used internally
+  notes:
+    - per cunningham, opens locks
   citation:
     - cunningham-herbs
     - kynes-correspondences
+    - johnson-mystical-stitches

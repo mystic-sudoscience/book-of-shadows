@@ -9,9 +9,11 @@ chariot:
     - kynes-correspondences
 cups:
   arcana: minor
+  element: water
   properties:
     - compassion
     - empathy
+    - express emotions
     - imagination
     - nurture
     - patience
@@ -19,8 +21,10 @@ cups:
     - relationships
     - sensitivity
     - stimulation
+    - subconscious
   citation:
     - kynes-correspondences
+    - johnson-mystical-stitches
 death:
   arcana: major
   properties:
@@ -160,7 +164,9 @@ moon:
     - kynes-correspondences
 pentacles:
   arcana: minor
+  element: earth
   properties:
+    - abundance
     - attachments
     - business
     - endurance
@@ -174,6 +180,7 @@ pentacles:
     - stress
   citation:
     - kynes-correspondences
+    - johnson-mystical-stitches
 star:
   arcana: major
   properties:
@@ -208,21 +215,26 @@ sun:
     - kynes-correspondences
 swords:
   arcana: minor
+  element: air
   properties:
     - balance the subconscious
     - defense
     - desire
+    - determination
     - freedom
     - growth
     - honesty
     - inner guidance
     - integrity
+    - intellectual
     - justice
     - knowledge
+    - mental power
     - mind
     - motivation
   citation:
     - kynes-correspondences
+    - johnson-mystical-stitches
 temperance:
   arcana: major
   properties:
@@ -247,14 +259,18 @@ tower:
     - kynes-correspondences
 wands:
   arcana: minor
+  element: fire
   properties:
     - action
     - confidence
     - fairness
     - inspiration
+    - personal power
     - power
+    - transformation
   citation:
     - kynes-correspondences
+    - johnson-mystical-stitches
 wheel of fortune:
   arcana: major
   properties:

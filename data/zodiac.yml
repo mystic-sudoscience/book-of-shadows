@@ -2,9 +2,11 @@ aquarius:
   properties:
     - ambition
     - charity
+    - community
     - compassion
     - desire
     - determination
+    - emotional stability
     - freedom
     - friendship
     - healing
@@ -19,6 +21,7 @@ aquarius:
     - spirituality
   citation:
     - kynes-correspondences
+    - johnson-mystical-stitches
 aries:
   properties:
     - action
@@ -36,24 +39,32 @@ aries:
     - jealousy
     - light
     - lust
+    - motivation
     - needs
     - obstacles
     - passion
+    - power
     - pregnancy/childbirth
+    - rebirth/renewal
     - virility
     - vitality
     - warmth
   citation:
     - kynes-correspondences
+    - johnson-mystical-stitches
 cancer:
   properties:
     - beginnings
     - changes
     - connections
     - determination
+    - discipline
+    - emotions
     - family
+    - home
     - imagination
     - introspection
+    - intuition
     - love
     - magic
     - moon magic
@@ -68,11 +79,13 @@ cancer:
     - support
   citation:
     - kynes-correspondences
+    - johnson-mystical-stitches
 capricorn:
   properties:
     - accomplishment
     - ambition
     - beginnings
+    - challenges
     - concentration/focus
     - confidence
     - cycles
@@ -89,6 +102,7 @@ capricorn:
     - obstacles
     - order/organize
     - patience
+    - perseverance
     - prosperity
     - psychic ability
     - responsibility
@@ -98,6 +112,7 @@ capricorn:
     - willpower
   citation:
     - kynes-correspondences
+    - johnson-mystical-stitches
 gemini:
   properties:
     - adaptability
@@ -107,12 +122,16 @@ gemini:
     - communication
     - community
     - integrity
+    - intellectual
     - knowledge
     - money
+    - quick mind
     - relationships
+    - self-expression
     - truth
   citation:
     - kynes-correspondences
+    - johnson-mystical-stitches
 leo:
   properties:
     - action
@@ -122,6 +141,7 @@ leo:
     - authority
     - confidence
     - courage
+    - determination
     - eloquence
     - energy
     - enlightenment
@@ -131,6 +151,7 @@ leo:
     - growth
     - guardian
     - guidance
+    - inspiration
     - integrity
     - jealousy
     - light
@@ -141,11 +162,13 @@ leo:
     - pride
     - romance
     - sex magic
+    - strength
     - warmth
     - willpower
     - zest for life
   citation:
     - kynes-correspondences
+    - johnson-mystical-stitches
 libra:
   properties:
     - attraction
@@ -166,6 +189,7 @@ libra:
     - unity
   citation:
     - kynes-correspondences
+    - johnson-mystical-stitches
 pisces:
   properties:
     - adaptability
@@ -174,7 +198,9 @@ pisces:
     - clarity
     - community
     - compassion
+    - cycles
     - death
+    - dream work
     - enchantment
     - endings
     - imagination
@@ -190,6 +216,7 @@ pisces:
     - unity
   citation:
     - kynes-correspondences
+    - johnson-mystical-stitches
 sagittarius:
   properties:
     - animal magic
@@ -206,6 +233,7 @@ sagittarius:
     - improvement
     - knowledge
     - prophecy
+    - seek knowledge
     - sexuality
     - spirituality
     - travel
@@ -213,6 +241,7 @@ sagittarius:
     - unity
   citation:
     - kynes-correspondences
+    - johnson-mystical-stitches
 scorpio:
   properties:
     - authority
@@ -245,12 +274,16 @@ scorpio:
     - sexuality
     - spirituality
     - stress
+    - truth
     - willpower
   citation:
     - kynes-correspondences
+    - johnson-mystical-stitches
 taurus:
   properties:
     - affection
+    - beauty
+    - connect with earth energies
     - dedication/devotion
     - determination
     - endurance
@@ -270,19 +303,23 @@ taurus:
     - sex magic
     - sexuality
     - stability
+    - strength
     - vitality
     - wealth
   citation:
     - kynes-correspondences
+    - johnson-mystical-stitches
 virgo:
   properties:
     - abundance
+    - agriculture
     - analytical mind
     - business success
     - consciousness
     - cycles
     - destiny
     - endings
+    - female power
     - grounding
     - love
     - nurture
@@ -293,3 +330,4 @@ virgo:
     - well-being
   citation:
     - kynes-correspondences
+    - johnson-mystical-stitches

@@ -34,6 +34,8 @@ poppy:
     - honor ancestors
     - luck
     - invisibility
+    - acceptance
+    - release attachments
   toxicity:
     humans: false
     pets: true
@@ -47,3 +49,4 @@ poppy:
     - morgana-green-witch
     - kynes-correspondences
     - riteofritual-apothecary
+    - johnson-mystical-stitches

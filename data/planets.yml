@@ -11,6 +11,7 @@ sun:
     - cheerfulness
     - confidence
     - consciousness
+    - courage
     - energy
     - enlightenment
     - fertility
@@ -25,6 +26,7 @@ sun:
     - justice
     - life
     - light
+    - luck
     - manifestation
     - mind
     - money
@@ -34,6 +36,7 @@ sun:
     - pride
     - prosperity
     - protection
+    - purification
     - purity
     - rebirth/renewal
     - reversal
@@ -42,13 +45,16 @@ sun:
     - solar magic
     - stability
     - stimulation
+    - strength
     - stress
     - travel
+    - vitality
     - warmth
     - well-being
     - willpower
   citation:
     - kynes-correspondences
+    - johnson-mystical-stitches
 moon:
   properties:
     - action
@@ -107,6 +113,8 @@ mercury:
     - changes
     - communication
     - divination
+    - eloquence
+    - enhance memory
     - fear
     - improvement
     - inspiration
@@ -115,8 +123,10 @@ mercury:
     - love
     - magic
     - memory/memories
+    - mental stimulation
     - money
     - power
+    - protection during travel
     - rebirth/renewal
     - skills
     - times of crossroads
@@ -124,6 +134,7 @@ mercury:
     - wealth
   citation:
     - kynes-correspondences
+    - johnson-mystical-stitches
 venus:
   properties:
     - affection
@@ -132,9 +143,12 @@ venus:
     - attraction
     - beauty
     - beginnings
+    - community
     - compassion
     - connections
+    - creativity
     - desire
+    - family
     - fertility
     - friendship
     - harmony
@@ -143,6 +157,7 @@ venus:
     - lust
     - needs
     - passion
+    - pleasure
     - rebirth/renewal
     - receptive energy
     - relationships
@@ -156,18 +171,22 @@ venus:
     - unity
   citation:
     - kynes-correspondences
+    - johnson-mystical-stitches
 earth:
   properties:
     - agriculture
     - animal magic
+    - connect with earth energies
     - grounding
     - healing
+    - home
     - nurture
     - peace
     - protection
     - revenge
   citation:
     - kynes-correspondences
+    - johnson-mystical-stitches
 mars:
   properties:
     - action
@@ -193,21 +212,28 @@ mars:
     - sexual energy
     - sexuality
     - skills
+    - success
+    - warrior energy
     - willpower
   citation:
     - kynes-correspondences
+    - johnson-mystical-stitches
 jupiter:
   properties:
     - abundance
+    - ambition
     - astral realm
     - authority
     - business
     - dignity
     - discipline
     - generosity
+    - growth
     - honor
+    - intellectual
     - justice
     - kindness
+    - luck
     - mind
     - money
     - power
@@ -216,10 +242,12 @@ jupiter:
     - responsibility
     - spirituality
     - stress
+    - success
     - wealth
     - well-being
   citation:
     - kynes-correspondences
+    - johnson-mystical-stitches
 saturn:
   properties:
     - agriculture
@@ -245,18 +273,22 @@ saturn:
     - lust
     - mind
     - obstacles
+    - order/organize
     - peace
     - purification
     - relationships
+    - responsibility
     - stability
   citation:
     - kynes-correspondences
+    - johnson-mystical-stitches
 uranus:
   properties:
     - ambition
     - anger
     - changes
     - community
+    - creativity
     - freedom
     - hope
     - illumination
@@ -264,8 +296,11 @@ uranus:
     - motivation
     - power
     - relationships
+    - transformation
+    - unexpected changes
   citation:
     - kynes-correspondences
+    - johnson-mystical-stitches
 neptune:
   properties:
     - clairvoyance
@@ -275,7 +310,11 @@ neptune:
     - expand awareness
     - guardian
     - guidance
+    - healing
+    - illumination
+    - imagination
     - inspiration
+    - intuition
     - life
     - otherworld/underworld
     - power
@@ -283,14 +322,18 @@ neptune:
     - psychic ability
     - psychic energy
     - sensitivity
+    - spirituality
     - subconscious
   citation:
     - kynes-correspondences
+    - johnson-mystical-stitches
 pluto:
   properties:
     - afterlife
     - changes
+    - cycles
     - death
+    - destruction
     - dream work
     - face danger
     - inner darkness
@@ -302,6 +345,8 @@ pluto:
     - secrets
     - sexuality
     - spirituality
+    - transformation
     - wealth
   citation:
     - kynes-correspondences
+    - johnson-mystical-stitches

@@ -9,6 +9,7 @@ new:
     - divination
     - illumination
     - improvement
+    - manifestation
     - night magic
     - psychic ability
     - rebirth/renewal
@@ -17,6 +18,7 @@ new:
     - well-being
   citation:
     - kynes-correspondences
+    - johnson-mystical-stitches
 waxing:
   type: phase
   properties:
@@ -47,6 +49,29 @@ waxing summer:
     - increase
   citation:
     - kynes-correspondences
+waxing crescent:
+  type: phase
+  properties:
+    - growth
+    - manifestation
+    - nurture
+  citation:
+    - johnson-mystical-stitches
+first quarter:
+  type: phase
+  properties:
+    - action
+    - attraction
+    - move/stimulate energy
+  citation:
+    - johnson-mystical-stitches
+waxing gibbous:
+  type: phase
+  properties:
+    - magical power
+    - power
+  citation:
+    - johnson-mystical-stitches
 full:
   type: phase
   properties:
@@ -56,9 +81,11 @@ full:
     - activate/awaken
     - beauty
     - business
+    - community
     - divination
     - empowerment
     - energy
+    - express emotions
     - fertility
     - growth
     - healing
@@ -79,6 +106,7 @@ full:
     - psychic ability
     - psychic energy
     - relationships
+    - release attachments
     - romance
     - sex magic
     - sexuality
@@ -142,6 +170,7 @@ full:
         - truth
   citation:
     - kynes-correspondences
+    - johnson-mystical-stitches
 waning:
   type: phase
   properties:
@@ -163,6 +192,30 @@ waning:
     - spirituality
   citation:
     - kynes-correspondences
+waning gibbous:
+  type: phase
+  properties:
+    - inner transformation
+    - introspection
+    - release attachments
+    - self-improvement
+  citation:
+    - johnson-mystical-stitches
+last quarter:
+  type: phase
+  properties:
+    - clear unwanted energy
+    - release attachments
+  citation:
+    - johnson-mystical-stitches
+waning crescent:
+  type: phase
+  properties:
+    - clear unwanted energy
+    - introspection
+    - meditation
+  citation:
+    - johnson-mystical-stitches
 january:
   type: month
   properties:

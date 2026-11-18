@@ -1,0 +1,753 @@
+ankh:
+  type: geometric form
+  properties:
+    - balance
+    - female power
+    - male power
+    - wisdom
+  citation:
+    - johnson-mystical-stitches
+antler:
+  type: animal part
+  properties:
+    - cycles
+    - power
+    - rebirth/renewal
+    - virility
+  correspondences:
+    animals:
+      - deer
+  citation:
+    - johnson-mystical-stitches
+arrow:
+  type: geometric form
+  properties:
+    - action
+    - concentration/focus
+    - warrior energy
+  citation:
+    - johnson-mystical-stitches
+bird claw:
+  type: animal part
+  properties:
+    - cunning
+    - protection
+    - strength
+  correspondences:
+    animals:
+      - chicken
+  citation:
+    - johnson-mystical-stitches
+bowl:
+  type: tool
+  properties:
+    - receptive energy
+  citation:
+    - johnson-mystical-stitches
+broom:
+  type: tool
+  properties:
+    - banish
+    - female power
+    - home
+    - purification
+    - witches/witchcraft
+  citation:
+    - johnson-mystical-stitches
+candle:
+  type: tool
+  element: fire
+  properties:
+    - divine connections
+    - light
+    - purification
+    - wisdom
+  citation:
+    - johnson-mystical-stitches
+chain:
+  type: tool
+  properties:
+    - bind
+    - limitations/boundaries
+    - relationships
+  citation:
+    - johnson-mystical-stitches
+chalice:
+  type: tool
+  element: water
+  properties:
+    - relationships
+    - spirituality
+    - subconscious
+  correspondences:
+    tarot:
+      - cups
+  citation:
+    - johnson-mystical-stitches
+checkerboard:
+  type: geometric form
+  properties:
+    - balance
+    - inner darkness
+    - self-acceptance
+  citation:
+    - johnson-mystical-stitches
+chevron:
+  type: geometric form
+  properties:
+    - growth
+    - heaven and earth
+  citation:
+    - johnson-mystical-stitches
+circle:
+  type: geometric form
+  properties:
+    - beginnings
+    - universal energy
+  correspondences:
+    numbers:
+      - 0
+  citation:
+    - johnson-mystical-stitches
+cloud:
+  type: force of nature
+  properties:
+    - compassion
+    - rain magic
+    - storms
+  citation:
+    - johnson-mystical-stitches
+coin:
+  type: tool
+  element: earth
+  properties:
+    - abundance
+    - money
+    - wealth
+  correspondences:
+    tarot:
+      - pentacles
+  citation:
+    - johnson-mystical-stitches
+comb:
+  type: tool
+  properties:
+    - enlightenment
+    - order/organize
+  citation:
+    - johnson-mystical-stitches
+conch:
+  type: animal part
+  properties:
+    - beauty
+    - water magic
+    - wisdom
+  citation:
+    - johnson-mystical-stitches
+coral:
+  type: animal part
+  properties:
+    - community
+    - fertility
+    - protection
+  citation:
+    - johnson-mystical-stitches
+cowrie shell:
+  type: animal part
+  properties:
+    - female power
+    - fertility
+    - wealth
+  citation:
+    - johnson-mystical-stitches
+cross:
+  type: geometric form
+  properties:
+    - crossroads
+    - heaven and earth
+  citation:
+    - johnson-mystical-stitches
+crystal:
+  type: force of nature
+  properties:
+    - inspiration
+    - magical power
+  citation:
+    - johnson-mystical-stitches
+cube:
+  type: platonic solid
+  element: earth
+  properties:
+    - stability
+  citation:
+    - johnson-mystical-stitches
+dodecahedron:
+  type: platonic solid
+  properties:
+    - cosmic connections
+    - spirituality
+  notes:
+    - associated with ether or spirit, the fifth element.
+  citation:
+    - johnson-mystical-stitches
+door:
+  type: tool
+  properties:
+    - abundance
+    - beginnings
+    - protection
+  citation:
+    - johnson-mystical-stitches
+double helix:
+  type: geometric form
+  properties:
+    - healing
+    - life
+  citation:
+    - johnson-mystical-stitches
+droplet:
+  type: force of nature
+  element: water
+  properties:
+    - express emotions
+    - fertility
+    - water magic
+  citation:
+    - johnson-mystical-stitches
+ear:
+  type: human form
+  properties:
+    - balance
+    - hearing
+    - receptive energy
+  citation:
+    - johnson-mystical-stitches
+egg:
+  type: animal part
+  properties:
+    - beginnings
+    - creativity
+    - life
+  citation:
+    - johnson-mystical-stitches
+eight-pointed star:
+  type: geometric form
+  properties:
+    - goddess magic
+    - guidance
+  notes:
+    - related to the compass rose; also used as the star of lakshmi and the star of ishtar/inanna.
+  correspondences:
+    numbers:
+      - 8
+  citation:
+    - johnson-mystical-stitches
+eye:
+  type: human form
+  properties:
+    - clear sight
+    - enlightenment
+    - guidance
+    - intuition
+    - wisdom
+  citation:
+    - johnson-mystical-stitches
+feather:
+  type: animal part
+  element: air
+  properties:
+    - astral travel
+    - justice
+    - truth
+  citation:
+    - johnson-mystical-stitches
+flower of life:
+  type: geometric form
+  properties:
+    - connections
+    - harmony
+    - universal energy
+  citation:
+    - johnson-mystical-stitches
+foot:
+  type: human form
+  properties:
+    - connect with earth energies
+    - grounding
+    - stability
+  citation:
+    - johnson-mystical-stitches
+hair:
+  type: human form
+  properties:
+    - dedication/devotion
+    - memory/memories
+    - power
+  citation:
+    - johnson-mystical-stitches
+half circle:
+  type: geometric form
+  properties:
+    - cycles
+    - female power
+    - intuition
+    - receptive energy
+  citation:
+    - johnson-mystical-stitches
+hand:
+  type: human form
+  properties:
+    - blessings
+    - luck
+    - manifestation
+    - protection
+  notes:
+    - see also the hamsa.
+  citation:
+    - johnson-mystical-stitches
+heart:
+  type: human form
+  properties:
+    - inner guidance
+    - intuition
+    - rhythms of life
+  citation:
+    - johnson-mystical-stitches
+heptagram:
+  type: geometric form
+  properties:
+    - cycles
+    - magic
+  notes:
+    - seven-pointed star; also known as the septagram. tied to the seven days, seven classical planets, and seven alchemical metals.
+  correspondences:
+    numbers:
+      - 7
+  citation:
+    - johnson-mystical-stitches
+hexagram:
+  type: geometric form
+  properties:
+    - female power
+    - male power
+    - unity
+  notes:
+    - six-pointed star; also known as the seal of solomon and the shield of david.
+  correspondences:
+    numbers:
+      - 6
+  citation:
+    - johnson-mystical-stitches
+hourglass:
+  type: tool
+  properties:
+    - death
+    - mindfulness
+  citation:
+    - johnson-mystical-stitches
+hut:
+  type: geometric form
+  properties:
+    - community
+    - family
+    - home
+    - security
+    - unity
+  citation:
+    - johnson-mystical-stitches
+icosahedron:
+  type: platonic solid
+  element: water
+  properties:
+    - adaptability
+  citation:
+    - johnson-mystical-stitches
+infinity:
+  type: geometric form
+  properties:
+    - cycles
+    - rebirth/renewal
+    - transformation
+  citation:
+    - johnson-mystical-stitches
+key:
+  type: tool
+  properties:
+    - beginnings
+    - freedom
+    - hidden or secret knowledge
+  citation:
+    - johnson-mystical-stitches
+knot:
+  type: tool
+  properties:
+    - bind
+    - connections
+    - marriage
+    - unity
+  citation:
+    - johnson-mystical-stitches
+labyrinth:
+  type: tool
+  properties:
+    - deepen spirituality
+    - introspection
+  citation:
+    - johnson-mystical-stitches
+light rays:
+  type: force of nature
+  properties:
+    - divine connections
+    - light
+  citation:
+    - johnson-mystical-stitches
+lightning:
+  type: force of nature
+  properties:
+    - action
+    - illumination
+    - messages/omens
+  citation:
+    - johnson-mystical-stitches
+lozenge:
+  type: geometric form
+  properties:
+    - divine connections
+    - visions
+  notes:
+    - also known as god's eye; nierika in huichol tradition.
+  citation:
+    - johnson-mystical-stitches
+lungs:
+  type: human form
+  properties:
+    - clarity
+    - inspiration
+    - purification
+  citation:
+    - johnson-mystical-stitches
+mandorla:
+  type: geometric form
+  properties:
+    - creativity
+    - divine connections
+  notes:
+    - also known as the vesica piscis.
+  citation:
+    - johnson-mystical-stitches
+mask:
+  type: tool
+  properties:
+    - invisibility
+    - shape shift
+    - transformation
+  citation:
+    - johnson-mystical-stitches
+merkaba:
+  type: geometric form
+  properties:
+    - higher consciousness
+    - personal growth
+    - unite mind, body, and spirit
+  citation:
+    - johnson-mystical-stitches
+mountain:
+  type: force of nature
+  properties:
+    - deepen spirituality
+    - inspiration
+  citation:
+    - johnson-mystical-stitches
+mouth:
+  type: human form
+  properties:
+    - affection
+    - communication
+    - self-expression
+  citation:
+    - johnson-mystical-stitches
+mushroom:
+  type: botanical
+  properties:
+    - community
+    - connections
+    - cycles
+  citation:
+    - johnson-mystical-stitches
+nautilus:
+  type: animal part
+  properties:
+    - divine connections
+  citation:
+    - johnson-mystical-stitches
+net:
+  type: geometric form
+  properties:
+    - abundance
+    - destiny
+    - goddess magic
+  citation:
+    - johnson-mystical-stitches
+octahedron:
+  type: platonic solid
+  element: air
+  properties:
+    - quick mind
+  citation:
+    - johnson-mystical-stitches
+oyster and pearl:
+  type: animal part
+  properties:
+    - beauty
+    - challenges
+    - female power
+  citation:
+    - johnson-mystical-stitches
+pentagram:
+  type: geometric form
+  properties:
+    - elemental power
+    - protection
+    - spirituality
+  notes:
+    - five-pointed star
+  correspondences:
+    numbers:
+      - 5
+  citation:
+    - johnson-mystical-stitches
+philosopher's stone:
+  type: geometric form
+  properties:
+    - elemental power
+    - enlightenment
+    - spiritual transformation
+  citation:
+    - johnson-mystical-stitches
+pillar:
+  type: tool
+  properties:
+    - heaven and earth
+    - stability
+    - wisdom
+  citation:
+    - johnson-mystical-stitches
+pyramid:
+  type: tool
+  properties:
+    - higher wisdom
+    - inspiration
+  citation:
+    - johnson-mystical-stitches
+river:
+  type: force of nature
+  element: water
+  properties:
+    - abundance
+    - rhythms of life
+  citation:
+    - johnson-mystical-stitches
+root:
+  type: botanical
+  properties:
+    - ancestral connections
+    - grounding
+    - growth
+    - stability
+  citation:
+    - johnson-mystical-stitches
+rope:
+  type: tool
+  properties:
+    - bind
+  citation:
+    - johnson-mystical-stitches
+seed:
+  type: botanical
+  properties:
+    - beginnings
+    - growth
+  citation:
+    - johnson-mystical-stitches
+skull:
+  type: human form
+  properties:
+    - death
+    - meditation
+  citation:
+    - johnson-mystical-stitches
+smoke:
+  type: force of nature
+  element: fire
+  properties:
+    - dedication/devotion
+    - spiritual transformation
+    - transformation
+  citation:
+    - johnson-mystical-stitches
+snowflake:
+  type: force of nature
+  properties:
+    - creativity
+    - inspiration
+  citation:
+    - johnson-mystical-stitches
+spiral:
+  type: geometric form
+  properties:
+    - creativity
+    - cycles
+    - growth
+  citation:
+    - johnson-mystical-stitches
+square:
+  type: geometric form
+  properties:
+    - balance
+    - order/organize
+    - stability
+    - support
+  correspondences:
+    numbers:
+      - 4
+  citation:
+    - johnson-mystical-stitches
+stairs or ladder:
+  type: tool
+  properties:
+    - divine connections
+    - higher consciousness
+  citation:
+    - johnson-mystical-stitches
+sword:
+  type: tool
+  element: air
+  properties:
+    - determination
+    - intellectual
+    - mental power
+  correspondences:
+    tarot:
+      - swords
+  citation:
+    - johnson-mystical-stitches
+teeth:
+  type: human form
+  properties:
+    - learning
+    - power
+  citation:
+    - johnson-mystical-stitches
+temple:
+  type: tool
+  properties:
+    - divine connections
+    - grounding
+  citation:
+    - johnson-mystical-stitches
+tetrahedron:
+  type: platonic solid
+  element: fire
+  properties:
+    - transformation
+  citation:
+    - johnson-mystical-stitches
+tongue:
+  type: human form
+  properties:
+    - communication
+    - taste
+  citation:
+    - johnson-mystical-stitches
+triangle:
+  type: geometric form
+  properties:
+    - unite mind, body, and spirit
+    - unity
+  correspondences:
+    numbers:
+      - 3
+  citation:
+    - johnson-mystical-stitches
+triple goddess:
+  type: geometric form
+  properties:
+    - cycles
+    - female power
+    - goddess magic
+    - moon magic
+  citation:
+    - johnson-mystical-stitches
+triskelion:
+  type: geometric form
+  properties:
+    - luck
+  correspondences:
+    numbers:
+      - 3
+  citation:
+    - johnson-mystical-stitches
+vase:
+  type: tool
+  properties:
+    - female power
+    - fertility
+    - nurture
+  citation:
+    - johnson-mystical-stitches
+wand:
+  type: tool
+  element: fire
+  properties:
+    - action
+    - magical power
+    - personal power
+    - transformation
+  correspondences:
+    tarot:
+      - wands
+  citation:
+    - johnson-mystical-stitches
+wave:
+  type: geometric form
+  element: water
+  properties:
+    - adaptability
+    - changes
+    - grace
+    - water magic
+  citation:
+    - johnson-mystical-stitches
+wheel:
+  type: tool
+  properties:
+    - acceptance
+    - changes
+    - cycles
+  citation:
+    - johnson-mystical-stitches
+wing:
+  type: animal part
+  properties:
+    - divine connections
+    - protection during travel
+  citation:
+    - johnson-mystical-stitches
+yin yang:
+  type: geometric form
+  properties:
+    - balance
+    - female power
+    - harmony
+    - male power
+  citation:
+    - johnson-mystical-stitches
+zigzag:
+  type: geometric form
+  element: water
+  properties:
+    - abundance
+    - life
+    - water magic
+  citation:
+    - johnson-mystical-stitches

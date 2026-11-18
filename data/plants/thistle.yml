@@ -28,6 +28,8 @@ thistle:
     - trust
     - unity
     - defensive magic
+    - defense
+    - limitations/boundaries
   toxicity:
     humans: false
     pets: false
@@ -36,3 +38,4 @@ thistle:
   citation:
     - morgana-green-witch
     - kynes-correspondences
+    - johnson-mystical-stitches
