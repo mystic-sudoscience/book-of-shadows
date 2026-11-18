@@ -14,7 +14,7 @@ indra:
     - warrior energy
     - weather
   notes:
-    - "energy: life-force"
+    - life force energy
     - general weather
   correspondences:
     animals:

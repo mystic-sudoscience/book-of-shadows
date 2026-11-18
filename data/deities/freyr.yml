@@ -19,7 +19,7 @@ freyr:
     - travel
     - weather
   notes:
-    - "magic: rune"
+    - rune magic
   correspondences:
     animals:
       - boar

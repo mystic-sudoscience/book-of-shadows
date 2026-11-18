@@ -35,12 +35,12 @@ goose:
   notes:
     - general support
     - quests
-    - "self-work: soul pathway"
+    - soul pathway
     - support of others during healing
-    - "travel: safe return"
+    - safe return from travel
   correspondences:
     deities:
-      - am un
+      - amun
       - aphrodite
       - bertha
       - brahma

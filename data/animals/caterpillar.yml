@@ -12,7 +12,7 @@ caterpillar:
     - transformation
     - weather
   notes:
-    - "weather: predict/woo/y"
+    - predict weather (wooly)
   varieties:
     wooly:
       properties:

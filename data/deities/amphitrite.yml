@@ -9,7 +9,7 @@ amphitrite:
     - freedom
     - weather
   notes:
-    - "weather: calm storms"
+    - calm storms
   correspondences:
     animals:
       - dolphin

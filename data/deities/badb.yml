@@ -27,9 +27,9 @@ badb:
     - general magic
     - general warrior energy
     - influence
-    - "magic: crone"
-    - "self-work: past life"
-    - "warrior energy: battlefields"
+    - crone magic
+    - past life work
+    - battlefields
   correspondences:
     animals:
       - crane

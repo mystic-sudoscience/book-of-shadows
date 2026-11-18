@@ -17,8 +17,8 @@ set:
     - weather
   notes:
     - deceit
-    - "negativity: stir up"
-    - "weather: desert storms"
+    - stir up negativity
+    - desert storms
   correspondences:
     animals:
       - antelope

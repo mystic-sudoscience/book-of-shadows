@@ -26,8 +26,8 @@ poseidon:
     - travel
     - weather
   notes:
-    - "animals: fertility"
-    - "weather: ocean storms"
+    - animal fertility
+    - ocean storms
   correspondences:
     animals:
       - cattle (bull)

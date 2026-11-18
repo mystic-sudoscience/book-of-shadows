@@ -16,10 +16,10 @@ faunus:
     - protection
     - sex magic
   notes:
-    - "agriculture: fertility of land"
-    - "animals: fertility"
-    - "protection: crops"
-    - "protection: shepherds"
+    - fertility of the land
+    - animal fertility
+    - protection of crops
+    - protection of shepherds
   correspondences:
     animals:
       - dog

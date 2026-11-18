@@ -14,7 +14,7 @@ iris:
     - weather
   notes:
     - gentleness
-    - "weather: rainbows"
+    - rainbows
   correspondences:
     animals:
       - bee

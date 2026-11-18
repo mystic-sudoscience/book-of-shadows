@@ -18,9 +18,9 @@ pushan:
     - travel
     - wealth
   notes:
-    - "animals: guardian of cattle"
-    - "guardian: roads"
-    - "guardian: the dead"
+    - guardian of cattle
+    - guardian of roads
+    - guardian of the dead
   correspondences:
     animals:
       - cattle

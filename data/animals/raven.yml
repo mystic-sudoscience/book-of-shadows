@@ -42,17 +42,17 @@ raven:
     - warrior energy
     - wisdom
   notes:
-    - "affection: family"
-    - "connections: crone"
+    - family affection
+    - connection to the crone
     - favors
     - general magic
-    - "honor: elders"
-    - "magic: crone"
-    - "mind: thought"
+    - honor elders
+    - crone magic
+    - thought
     - opportunities
     - quests
-    - "shamanic work: shape shift"
-    - "warrior energy: battlefields"
+    - shapeshifting
+    - battlefields
   correspondences:
     deities:
       - amaterasu

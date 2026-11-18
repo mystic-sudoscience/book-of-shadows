@@ -15,7 +15,7 @@ modron:
     - pregnancy/childbirth
     - sex magic
   notes:
-    - "agriculture: harvest"
+    - harvest
   correspondences:
     animals:
       - horse

@@ -19,7 +19,7 @@ dragonfly:
     - transformation
     - truth
   notes:
-    - "power: self-preservation"
+    - self-preservation
   correspondences:
     animals:
       - dragon
