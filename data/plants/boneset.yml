@@ -1,12 +1,21 @@
 boneset:
   planet: saturn
   element: water
+  zodiac sign: capricorn
+  chakra: root
   properties:
     - protection
     - banish
+    - release attachments
+    - endings
+    - clear unwanted energy
+    - break hexes
+    - purification
+    - healing
   toxicity:
     notes:
       - not recommended for internal use
+      - do not use fresh; contains toxic compounds
   medicinal:
     parts used: aerial parts
     key constituents:
@@ -23,6 +32,10 @@ boneset:
       - expectorant
       - tonic
       - laxative
+      - induce perspiration
+      - relieve fever
+      - relieve nausea
+      - mild anti-inflammatory
     uses:
       - common cold
       - flu and fevers
@@ -35,3 +48,4 @@ boneset:
   citation:
     - cunningham-herbs
     - chevallier-herbal-medicine
+    - riteofritual-apothecary

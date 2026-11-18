@@ -1,50 +1,31 @@
 patchouli:
   planet: saturn
   element: earth
+  zodiac sign: taurus, virgo, scorpio
+  chakra: heart, third eye
   properties:
-    - activate/awaken
     - afterlife
-    - aggression
     - attract love
     - attraction
-    - balance
-    - banish
-    - break hexes
     - business
-    - calm mind
-    - clairvoyance
     - community
-    - consecrate/bless
-    - defense
     - desire
-    - divination
     - domestic harmony
     - fairness
     - fertility
     - grounding
-    - growth
     - justice
-    - knowledge
-    - listening
+    - love
     - lust
-    - magic
-    - magical power
-    - manifestation
-    - memory/memories
     - money
-    - negativity
     - peace
     - prosperity
-    - psychic protection
-    - purification
-    - rebirth/renewal
     - relationships
     - sensuality
     - sexual energy
     - sexual passion
     - sexuality
     - skills
-    - stress
     - wealth
   toxicity:
     notes:
@@ -57,6 +38,9 @@ patchouli:
       - aphrodisiac
       - antidepressant
       - antiseptic
+      - stimulant
+      - enhances mental clarity
+      - emotional stabilizer
     uses:
       - headaches
       - fever
@@ -70,3 +54,4 @@ patchouli:
     - cunningham-herbs
     - kynes-correspondences
     - chevallier-herbal-medicine
+    - riteofritual-apothecary

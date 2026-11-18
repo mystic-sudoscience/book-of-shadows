@@ -10,17 +10,22 @@ agrimony:
     - banish
     - break hexes
     - dream work
+    - empowerment
     - enchantment
     - energy
     - gratitude
     - harmony
     - healing
+    - inner healing
     - messages/omens
     - protection
+    - purification
     - sleep
   toxicity:
     humans: false
     pets: true
+  notes:
+    - also known as fairy's wand.
   medicinal:
     parts used: aerial parts
     key constituents:
@@ -33,6 +38,8 @@ agrimony:
       - mild bitter
       - stops bleeding
       - anti-inflammatory
+      - calming
+      - supports digestive and nervous system
     uses:
       - wounds
       - diarrhea
@@ -46,3 +53,4 @@ agrimony:
     - morgana-green-witch
     - kynes-correspondences
     - chevallier-herbal-medicine
+    - riteofritual-apothecary

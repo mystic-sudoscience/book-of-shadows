@@ -1,11 +1,11 @@
 poppy:
   type: herb & garden
   parts used: flowers, leaves, seeds
-  planet: moon
+  planet: moon, neptune
   element: water
   moon phase: waning
-  zodiac sign: capricorn
-  chakra: solar plexus
+  zodiac sign: capricorn, gemini
+  chakra: solar plexus, third eye
   properties:
     - afterlife
     - assertiveness
@@ -29,9 +29,21 @@ poppy:
     - support
     - visions
     - astral travel
+    - memory/memories
+    - divination
+    - honor ancestors
+    - luck
+    - invisibility
   toxicity:
     humans: false
     pets: true
+  medicinal:
+    key actions:
+      - supports sleep
+      - digestive aid
+      - skin health
+      - heart health
   citation:
     - morgana-green-witch
     - kynes-correspondences
+    - riteofritual-apothecary

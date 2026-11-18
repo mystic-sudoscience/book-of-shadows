@@ -1,16 +1,18 @@
 pennyroyal:
   type: herb & garden
   parts used: leaves, stems, flowers
-  planet: mars
+  planet: mars, earth
   element: fire
   moon phase: waxing
-  zodiac sign: libra
-  chakra: root, solar plexus
+  zodiac sign: libra, scorpio
+  chakra: root, solar plexus, throat
   properties:
     - anxiety
+    - banish
     - break hexes
     - challenges
     - community
+    - courage
     - energy
     - family
     - healing
@@ -24,6 +26,7 @@ pennyroyal:
     - otherworld/underworld
     - peace
     - protection
+    - psychic protection
     - purification
     - stimulation
     - strength
@@ -49,6 +52,10 @@ pennyroyal:
       - carminative
       - uterine stimulant
       - promotes menstruation
+      - digestive aid
+      - headache relief
+      - eases menstrual cramps
+      - antimicrobial
     uses:
       - flatulence and colic
       - intestinal worms
@@ -65,3 +72,4 @@ pennyroyal:
     - cunningham-herbs
     - kynes-correspondences
     - chevallier-herbal-medicine
+    - riteofritual-apothecary

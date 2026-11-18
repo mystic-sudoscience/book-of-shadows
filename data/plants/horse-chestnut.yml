@@ -2,14 +2,17 @@ horse chestnut:
   type: tree
   planet: jupiter
   element: fire
+  zodiac sign: sagittarius, pisces
   properties:
     - money
     - healing
     - banish
     - divination
     - prosperity
-  notes:
-    - also called buckeye
+    - abundance
+    - protection
+    - grounding
+    - limitations/boundaries
   toxicity:
     notes:
       - poison
@@ -19,6 +22,8 @@ horse chestnut:
       - not suitable for children
       - do not apply to broken or ulcerated skin
       - may interact with blood-thinning drugs
+  notes:
+    - also called buckeye
   medicinal:
     parts used: seeds, leaves, bark
     key constituents:
@@ -34,6 +39,9 @@ horse chestnut:
       - anti-inflammatory
       - antioxidant
       - reduces fluid retention
+      - vascular tonic
+      - supports circulation
+      - bruises and hemorrhoids
     uses:
       - varicose veins
       - chronic venous insufficiency
@@ -52,3 +60,4 @@ horse chestnut:
     - cunningham-herbs
     - kynes-correspondences
     - chevallier-herbal-medicine
+    - riteofritual-apothecary

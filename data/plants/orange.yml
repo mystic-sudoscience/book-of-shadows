@@ -1,12 +1,26 @@
 orange:
   planet: sun
   element: fire
+  zodiac sign: leo
+  chakra: sacral, solar plexus
   properties:
+    - confidence
     - divination
+    - happiness
     - love
     - luck
     - money
+    - prosperity
+    - purification
     - subconscious
+    - vitality
+  medicinal:
+    key actions:
+      - supports circulation
+      - digestive aid
+      - antioxidant
+      - immune support
   citation:
     - cunningham-herbs
     - kynes-correspondences
+    - riteofritual-apothecary

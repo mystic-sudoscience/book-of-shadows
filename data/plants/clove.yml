@@ -1,61 +1,37 @@
 clove:
   type: misc
-  planet: jupiter
+  planet: jupiter, sun
   element: fire
+  zodiac sign: aries
+  chakra: root
   properties:
     - attraction
     - authority
-    - awareness
     - banish
     - beauty
     - beginnings
     - bind
     - break hexes
-    - cheerfulness
-    - clairvoyance
     - collect debts
     - courage
     - dignity
-    - divination
-    - emotions
-    - energy
     - friendship
     - harmony
     - healing
     - inspiration
-    - life
     - love
     - lust
     - magic
-    - memory/memories
-    - mental balance
-    - mental power
-    - mental stimulation
-    - mind
     - money
     - negativity
     - obstacles
-    - power
     - prosperity
     - protection
-    - provide comfort
     - psychic ability
     - purification
     - relationships
     - release attachments
-    - sensitivity
-    - sex magic
-    - sight
-    - smell
-    - stress
     - success
-    - truth
-    - warmth
-    - weather
-    - longevity
-    - happiness
-    - visions
-    - creativity
   toxicity:
     notes:
       - external use can cause dermatitis
@@ -74,6 +50,10 @@ clove:
       - prevents vomiting
       - antispasmodic
       - eliminates parasites
+      - antioxidant
+      - supports liver function
+      - reduces ulcers
+      - digestive support
     uses:
       - toothache
       - gas, colic, and bloating
@@ -93,3 +73,4 @@ clove:
     - cunningham-herbs
     - kynes-correspondences
     - chevallier-herbal-medicine
+    - riteofritual-apothecary

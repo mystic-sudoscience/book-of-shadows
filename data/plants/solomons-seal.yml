@@ -1,0 +1,23 @@
+solomon's seal:
+  parts used: root
+  planet: saturn
+  element: water
+  zodiac sign: capricorn
+  properties:
+    - break hexes
+    - dedication/devotion
+    - exorcism
+    - protection
+    - success
+    - wisdom
+  toxicity:
+    notes:
+      - berries are toxic and may cause vomiting
+  medicinal:
+    key actions:
+      - demulcent
+      - astringent
+      - decongestant
+      - anti-inflammatory
+  citation:
+    - riteofritual-apothecary

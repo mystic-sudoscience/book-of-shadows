@@ -1,9 +1,15 @@
 lemon verbena:
   planet: mercury
   element: air
+  zodiac sign: aquarius, virgo, gemini
+  chakra: solar plexus
   properties:
     - purification
     - love
+    - protection
+    - luck
+    - clarity
+    - amplification
   medicinal:
     parts used: leaves
     key constituents:
@@ -15,6 +21,11 @@ lemon verbena:
       - gentle sedative
       - carminative
       - nerve tonic
+      - digestive support
+      - nervine
+      - mild sedative
+      - anti-inflammatory
+      - mood support
     uses:
       - abdominal discomfort
       - gas and bloating
@@ -22,3 +33,4 @@ lemon verbena:
   citation:
     - cunningham-herbs
     - chevallier-herbal-medicine
+    - riteofritual-apothecary

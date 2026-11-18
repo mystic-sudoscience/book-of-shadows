@@ -1,22 +1,32 @@
 elderberry:
   parts used: leaves, berries, bark
   planet: venus, mercury
-  element: water
+  element: water, air
   moon phase: waxing
-  zodiac sign: capricorn, sagittarius
-  chakra: root
+  zodiac sign: capricorn, sagittarius, libra, pisces
+  chakra: root, throat, heart
   properties:
     - protection
     - banish
     - healing
     - prosperity
     - love
+    - dream work
+    - communicate with spirits
+    - transformation
+    - intuition
+    - beauty
+    - harmony
+    - purification
+    - psychic ability
   toxicity:
     humans: true
     pets: true
     notes:
       - only the berries are safe for humans to eat if they are cooked
       - do not eat unripe berries
+      - avoid if pregnant
+      - avoid if nursing
   medicinal:
     parts used: flowering tops, berries
     key constituents:
@@ -34,6 +44,13 @@ elderberry:
       - anti-inflammatory
       - diuretic
       - increases sweating
+      - antioxidant
+      - immune support
+      - respiratory support
+      - digestive support
+      - soothing
+      - mild diuretic
+      - supports skin health
     uses:
       - colds and flu
       - fevers
@@ -51,3 +68,4 @@ elderberry:
   citation:
     - morgana-green-witch
     - chevallier-herbal-medicine
+    - riteofritual-apothecary

@@ -1,57 +1,36 @@
 pine:
   type: tree
   parts used: needles, branches, bark, nuts
-  planet: mars
-  element: air
+  planet: mars, sun, jupiter
+  element: air, earth
   moon phase: waxing
-  zodiac sign: aries
-  chakra: root
+  zodiac sign: aries, sagittarius, leo
+  chakra: root, heart, crown
   properties:
     - abundance
-    - activate/awaken
     - banish
-    - beginnings
     - bind
     - blessings
     - clear unwanted energy
-    - confidence
     - courage
-    - cycles
-    - desire
-    - domestic harmony
-    - endurance
     - energy
-    - fertility
-    - freedom
-    - friendship
-    - grounding
     - guardian
     - healing
-    - heartbreak
     - honor
-    - hope
-    - inspiration
     - justice
-    - listening
-    - memory/memories
     - money
-    - motivation
     - negativity
-    - peace
     - prosperity
     - protection
     - purification
-    - rebirth/renewal
-    - reconciliation
     - reversal
     - smell
     - spirituality
     - stimulation
-    - support
-    - trust
-    - truth
     - well-being
     - exorcism
+    - longevity
+    - vitality
   toxicity:
     humans: true
     pets: true
@@ -69,6 +48,10 @@ pine:
       - antiseptic
       - diuretic
       - respiratory stimulant
+      - antioxidant
+      - anti-inflammatory
+      - immune support
+      - respiratory support
     uses:
       - chest infections
       - asthma and bronchitis
@@ -78,3 +61,4 @@ pine:
     - morgana-green-witch
     - kynes-correspondences
     - chevallier-herbal-medicine
+    - riteofritual-apothecary

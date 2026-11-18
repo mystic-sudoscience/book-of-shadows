@@ -1,35 +1,24 @@
 nutmeg:
-  planet: jupiter
+  planet: jupiter, moon
   element: fire
+  zodiac sign: leo, sagittarius
+  chakra: solar plexus, heart
   properties:
-    - authority
-    - avoid danger
-    - awareness
+    - abundance
     - beauty
-    - beginnings
-    - calm
     - clairvoyance
-    - concentration/focus
     - divination
     - dream work
-    - enchantment
     - energy
     - fidelity
     - healing
-    - increase
     - justice
     - life
     - love
     - luck
-    - memory/memories
-    - mind
     - money
-    - power
     - prosperity
     - psychic ability
-    - sleep
-    - stimulation
-    - wealth
     - well-being
   toxicity:
     notes:
@@ -48,6 +37,9 @@ nutmeg:
       - relieves muscle spasms
       - prevents vomiting
       - stimulant
+      - antispasmodic
+      - digestive support
+      - anti-inflammatory
     uses:
       - gastroenteritis
       - nausea, vomiting, and diarrhea
@@ -65,3 +57,4 @@ nutmeg:
     - cunningham-herbs
     - kynes-correspondences
     - chevallier-herbal-medicine
+    - riteofritual-apothecary

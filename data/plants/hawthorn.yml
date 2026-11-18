@@ -4,27 +4,15 @@ hawthorn:
   planet: mars
   element: fire
   moon phase: full
-  zodiac sign: aries
-  chakra: sacral
+  zodiac sign: aries, sagittarius
+  chakra: sacral, heart
   properties:
-    - attract luck
-    - challenges
-    - changes
     - cheerfulness
-    - clear unwanted energy
     - emotions
-    - enchantment
-    - energy
     - family
     - fertility
-    - freedom
-    - growth
     - hope
-    - improvement
-    - inspiration
-    - life
     - love
-    - magic
     - marriage
     - negativity
     - patience
@@ -33,23 +21,13 @@ hawthorn:
     - protect from lightning
     - protect home from negative energy
     - protection
-    - purification
-    - purity
     - reconciliation
     - relationships
-    - release attachments
     - security
-    - self-improvement
     - sexuality
     - sorrow
-    - storms
     - stress
-    - success
-    - wisdom
-    - wishes
-    - witches/witchcraft
     - happiness
-    - creativity
     - fairy magic
     - defensive magic
     - chastity
@@ -78,6 +56,9 @@ hawthorn:
       - circulatory tonic
       - lowers blood pressure
       - antioxidant
+      - circulatory support
+      - diuretic
+      - blood pressure support
     uses:
       - angina
       - coronary artery disease
@@ -95,3 +76,4 @@ hawthorn:
     - cunningham-herbs
     - kynes-correspondences
     - chevallier-herbal-medicine
+    - riteofritual-apothecary

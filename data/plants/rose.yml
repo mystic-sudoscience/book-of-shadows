@@ -4,32 +4,19 @@ rose:
   planet: venus
   element: water
   moon phase: waxing
-  zodiac sign: leo, taurus
-  chakra: root
+  zodiac sign: leo, taurus, libra
+  chakra: root, heart
   properties:
     - affection
-    - afterlife
-    - attachments
-    - attract luck
     - attraction
-    - banish
     - beauty
-    - beginnings
-    - bind
-    - blessings
-    - break hexes
     - calm
-    - cheerfulness
     - clarity
     - compassion
-    - confidence
     - connections
-    - consecrate/bless
     - courage
     - darkness
-    - dedication/devotion
     - desire
-    - dignity
     - divination
     - dream work
     - emotional protection
@@ -38,50 +25,27 @@ rose:
     - fertility
     - fidelity
     - friendship
-    - grace
-    - grief
-    - harmony
     - healing
     - heartbreak
     - home
-    - innocence
-    - inspiration
     - jealousy
-    - loss
     - love
-    - manifestation
     - messages/omens
-    - moon magic
     - nurture
-    - obstacles
-    - otherworld/underworld
     - passion
-    - patience
-    - peace
-    - personal power
     - pregnancy/childbirth
-    - pride
     - psychic ability
     - purification
-    - purity
     - relationships
-    - release attachments
     - reversal
     - romance
-    - secrets
     - sensuality
     - sex magic
     - sexual energy
     - sexuality
-    - sleep
-    - spirituality
-    - strength
     - trust
     - unity
-    - wisdom
-    - happiness
-    - creativity
-    - fairy magic
+    - protection
   toxicity:
     humans: false
     pets: false
@@ -96,6 +60,8 @@ rose:
       - antidepressant
       - anti-inflammatory
       - astringent
+      - antioxidant
+      - promotes relaxation
     uses:
       - depression
       - high cholesterol
@@ -107,3 +73,4 @@ rose:
     - morgana-green-witch
     - kynes-correspondences
     - chevallier-herbal-medicine
+    - riteofritual-apothecary

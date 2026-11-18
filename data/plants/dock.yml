@@ -1,14 +1,19 @@
 dock:
   parts used: leaves, seeds, root
   planet: jupiter
-  element: air
+  element: air, earth
   moon phase: waxing
-  zodiac sign: libra
+  zodiac sign: libra, capricorn, taurus
   chakra: sacral
   properties:
     - healing
     - fertility
     - money
+    - purification
+    - protection
+    - grounding
+    - strength
+    - endurance
   toxicity:
     humans: false
     pets: true
@@ -16,6 +21,8 @@ dock:
       - may cause kidney stones
       - avoid if pregnant
       - avoid if nursing
+  notes:
+    - also known as yellow dock, curled dock.
   medicinal:
     parts used: root
     key constituents:
@@ -27,6 +34,10 @@ dock:
       - gentle laxative
       - detoxifying
       - improves bile flow
+      - blood purifier
+      - liver support
+      - digestive tonic
+      - mild laxative
     uses:
       - constipation
       - long-term toxic conditions
@@ -37,3 +48,4 @@ dock:
     - morgana-green-witch
     - cunningham-herbs
     - chevallier-herbal-medicine
+    - riteofritual-apothecary

@@ -1,10 +1,10 @@
 valerian:
   type: herb & garden
   parts used: flowers, leaves, root
-  planet: venus, mercury
+  planet: venus, mercury, saturn
   element: water
   moon phase: full
-  zodiac sign: scorpio, virgo
+  zodiac sign: scorpio, virgo, aquarius
   chakra: root, throat
   properties:
     - anger
@@ -31,6 +31,8 @@ valerian:
     - stress
     - truth
     - longevity
+    - dream work
+    - emotional balance
   toxicity:
     humans: false
     pets: false
@@ -50,6 +52,8 @@ valerian:
       - relieves muscle spasms
       - relieves anxiety
       - lowers blood pressure
+      - nervine
+      - sleep support
     uses:
       - insomnia
       - chronic anxiety
@@ -71,3 +75,4 @@ valerian:
     - cunningham-herbs
     - kynes-correspondences
     - chevallier-herbal-medicine
+    - riteofritual-apothecary

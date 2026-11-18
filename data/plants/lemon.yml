@@ -1,12 +1,18 @@
 lemon:
-  planet: moon
-  element: water
+  planet: moon, sun
+  element: water, fire
+  zodiac sign: leo, cancer
+  chakra: sacral
   properties:
     - life
     - purification
     - love
     - friendship
     - longevity
+    - protection
+    - prosperity
+    - clarity
+    - break hexes
   toxicity:
     notes:
       - do not take essential oil internally except under professional supervision
@@ -24,6 +30,8 @@ lemon:
       - antibacterial
       - antioxidant
       - reduces fever
+      - circulatory support
+      - immune support
     uses:
       - colds and flu
       - chest infections
@@ -43,3 +51,4 @@ lemon:
   citation:
     - cunningham-herbs
     - chevallier-herbal-medicine
+    - riteofritual-apothecary

@@ -1,10 +1,15 @@
 gentian:
   planet: mars
   element: fire
+  zodiac sign: aries
+  chakra: solar plexus
   properties:
     - love
     - power
     - break hexes
+    - inner strength
+    - strength
+    - protection
   toxicity:
     notes:
       - may cause ulcers
@@ -21,6 +26,8 @@ gentian:
       - bitter
       - digestive stimulant
       - eases stomach pain
+      - bitter tonic
+      - appetite enhancer
     uses:
       - weak digestion
       - poor appetite
@@ -36,3 +43,4 @@ gentian:
   citation:
     - cunningham-herbs
     - chevallier-herbal-medicine
+    - riteofritual-apothecary

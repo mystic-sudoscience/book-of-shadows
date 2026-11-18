@@ -4,7 +4,7 @@ passionflower:
   element: water
   moon phase: waning
   zodiac sign: libra
-  chakra: third eye
+  chakra: third eye, heart, throat
   properties:
     - anxiety
     - attraction
@@ -17,6 +17,7 @@ passionflower:
     - emotional challenges
     - emotional stability
     - friendship
+    - inner healing
     - lust
     - money
     - passion
@@ -24,6 +25,7 @@ passionflower:
     - purification
     - sleep
     - spiritual balance
+    - spiritual clarity
     - spirituality
   toxicity:
     humans: false
@@ -43,6 +45,9 @@ passionflower:
       - sedative
       - antispasmodic
       - tranquilizing
+      - nervine
+      - relaxant
+      - anti-spasmodic
     uses:
       - insomnia
       - anxiety and tension
@@ -63,3 +68,4 @@ passionflower:
     - morgana-green-witch
     - kynes-correspondences
     - chevallier-herbal-medicine
+    - riteofritual-apothecary

@@ -3,13 +3,18 @@ bay leaf:
   planet: sun
   element: fire
   moon phase: waxing
-  zodiac sign: capricorn
-  chakra: solar plexus
+  zodiac sign: capricorn, leo
+  chakra: solar plexus, third eye
   properties:
     - protection
     - healing
     - purification
     - prophecy
+    - manifestation
+    - strength
+    - prosperity
+    - luck
+    - money
   toxicity:
     notes:
       - never take essential oil internally
@@ -26,6 +31,11 @@ bay leaf:
       - tonic
       - digestive stimulant
       - promotes menstruation
+      - antibacterial
+      - antifungal
+      - boosts appetite
+      - eases joint pain
+      - reduces congestion
     uses:
       - upper digestive disorders
       - poor appetite
@@ -38,3 +48,4 @@ bay leaf:
   citation:
     - morgana-green-witch
     - chevallier-herbal-medicine
+    - riteofritual-apothecary

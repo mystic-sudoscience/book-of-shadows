@@ -5,46 +5,28 @@ mullein:
   element: fire
   moon phase: waning
   zodiac sign: leo
-  chakra: heart
+  chakra: heart, throat, sacral
   properties:
-    - authority
-    - awareness
-    - balance
     - banish
     - beauty
-    - black magic
     - break hexes
     - courage
-    - darkness
     - determination
-    - divination
-    - domestic harmony
     - enmity
     - face danger
-    - goodness
-    - healing
     - honesty
-    - inner senses
-    - life
     - love
-    - magic
     - motivation
     - negativity
-    - nightmares
     - nurture
     - protect animals
     - protection
-    - psychic ability
     - purification
     - release attachments
     - security
     - self-improvement
-    - spirits
     - spiritual protection
-    - support
     - unity
-    - well-being
-    - longevity
     - exorcism
   toxicity:
     humans: false
@@ -62,6 +44,12 @@ mullein:
       - reduces mucus
       - emollient
       - wound healer
+      - lungs and coughing
+      - lymphatic system
+      - glandular swelling
+      - antimicrobial
+      - antispasmodic
+      - blood cleanser
     uses:
       - coughs and congestion
       - tracheitis and bronchitis
@@ -75,3 +63,4 @@ mullein:
     - morgana-green-witch
     - kynes-correspondences
     - chevallier-herbal-medicine
+    - riteofritual-apothecary

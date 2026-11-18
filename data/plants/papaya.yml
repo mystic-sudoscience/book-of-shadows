@@ -1,9 +1,18 @@
 papaya:
   planet: moon
   element: water
+  zodiac sign: cancer
+  chakra: solar plexus
   properties:
+    - banish
+    - clear unwanted energy
+    - fertility
+    - healing
     - love
+    - luck
+    - prosperity
     - protection
+    - purification
   medicinal:
     parts used: fruit, latex, leaves, flowers, seeds
     key constituents:
@@ -13,6 +22,11 @@ papaya:
       - digestive
       - mild laxative
       - expels worms
+      - supports digestion
+      - anti-inflammatory
+      - antioxidant
+      - liver health
+      - blood sugar regulation
     uses:
       - poor digestion
       - wounds and ulcers
@@ -27,3 +41,4 @@ papaya:
   citation:
     - cunningham-herbs
     - chevallier-herbal-medicine
+    - riteofritual-apothecary

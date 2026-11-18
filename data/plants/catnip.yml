@@ -5,7 +5,7 @@ catnip:
   element: water
   moon phase: full
   zodiac sign: cancer, libra, pisces
-  chakra: heart
+  chakra: heart, sacral, throat, third eye
   properties:
     - acceptance
     - anger
@@ -27,11 +27,14 @@ catnip:
     - sleep
     - stress
     - happiness
-  holidays:
-    - samhain
+    - healing
+    - strengthen relationships
+    - goddess magic
   toxicity:
     notes:
       - avoid if pregnant
+  holidays:
+    - samhain
   medicinal:
     parts used: aerial parts
     key constituents:
@@ -43,6 +46,8 @@ catnip:
       - promotes sweating
       - reduces fever
       - carminative
+      - antioxidant
+      - promotes rest and relaxation
     uses:
       - colds, flu, and fever in children
       - indigestion and colic
@@ -56,3 +61,4 @@ catnip:
     - cunningham-herbs
     - kynes-correspondences
     - chevallier-herbal-medicine
+    - riteofritual-apothecary

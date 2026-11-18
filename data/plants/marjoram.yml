@@ -4,44 +4,28 @@ marjoram:
   planet: mercury
   element: air
   moon phase: full
-  zodiac sign: aries
-  chakra: root, heart
+  zodiac sign: aries, gemini, virgo, capricorn
+  chakra: root, heart, solar plexus
   properties:
-    - afterlife
     - attraction
-    - black magic
-    - break hexes
     - calm
     - cheerfulness
-    - community
-    - concentration/focus
     - connections
-    - consciousness
-    - family
     - friendship
-    - grief
     - healing
-    - innocence
     - love
     - marriage
-    - memory/memories
     - money
     - peace
     - prosperity
     - protection
-    - provide comfort
-    - psychic ability
-    - purification
     - relationships
-    - release attachments
     - security
-    - sleep
     - stress
-    - unity
     - warmth
     - well-being
-    - happiness
     - defensive magic
+    - harmony
   toxicity:
     humans: false
     pets: true
@@ -59,6 +43,11 @@ marjoram:
       - stimulant
       - antispasmodic
       - tonic
+      - anti-inflammatory
+      - antimicrobial
+      - antioxidant
+      - digestive support
+      - respiratory support
     uses:
       - flatulence and colic
       - respiratory problems
@@ -69,3 +58,4 @@ marjoram:
     - morgana-green-witch
     - kynes-correspondences
     - chevallier-herbal-medicine
+    - riteofritual-apothecary

@@ -2,62 +2,43 @@ cinnamon:
   type: misc
   parts used: leaves, bark
   planet: sun
-  element: fire
+  element: fire, air
   moon phase: waxing
   zodiac sign: aries, capricorn, leo
-  chakra: crown
+  chakra: crown, solar plexus, sacral
   properties:
     - success
-    - action
     - astral realm
     - attract luck
     - attraction
     - authority
-    - awareness
-    - blessings
     - business
-    - concentration/focus
-    - consecrate/bless
     - desire
     - divination
     - dream work
-    - fear
-    - harmony
-    - healing
     - heartbreak
-    - illumination
     - increase
-    - inner balance
     - inspiration
     - justice
-    - knowledge
     - love
     - lust
-    - magic
     - money
     - negativity
     - passion
     - peace
-    - power
     - prosperity
     - protection
     - psychic ability
-    - purification
-    - receptive energy
     - security
     - skills
-    - smell
-    - spiritual purification
-    - spirituality
-    - stimulation
-    - stress
-    - wishes
+    - wealth
   toxicity:
     notes:
       - do not abuse internally
       - may cause allergic reaction in rare cases
       - excessive doses may cause low blood sugar
       - do not take essential oil internally
+      - avoid heavy consumption if pregnant
   medicinal:
     parts used: inner bark, essential oil
     key constituents:
@@ -71,6 +52,14 @@ cinnamon:
       - antidiabetic
       - antimicrobial
       - antifungal
+      - digestive support
+      - warming circulation
+      - gas and bloating relief
+      - nausea support
+      - motion sickness
+      - upset stomach
+      - gas and bloating
+      - digestion
     uses:
       - colds and flu
       - poor circulation
@@ -92,3 +81,4 @@ cinnamon:
     - cunningham-herbs
     - kynes-correspondences
     - chevallier-herbal-medicine
+    - riteofritual-apothecary

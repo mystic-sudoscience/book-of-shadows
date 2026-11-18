@@ -4,8 +4,8 @@ black cohosh:
   planet: pluto
   element: fire
   moon phase: waxing, waning
-  zodiac sign: scorpio
-  chakra: root
+  zodiac sign: scorpio, leo
+  chakra: root, solar plexus, heart, sacral
   properties:
     - balance
     - banish
@@ -27,6 +27,8 @@ black cohosh:
     - virility
     - well-being
     - longevity
+    - psychic ability
+    - ritual purification
   toxicity:
     humans: true
     pets: true
@@ -47,6 +49,8 @@ black cohosh:
       - antirheumatic
       - estrogenic
       - expectorant
+      - supports menopause symptoms (hot flashes
+      - night sweats)
     uses:
       - menopausal symptoms and hot flashes
       - period pain
@@ -66,3 +70,4 @@ black cohosh:
     - cunningham-herbs
     - kynes-correspondences
     - chevallier-herbal-medicine
+    - riteofritual-apothecary

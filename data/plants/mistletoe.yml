@@ -1,25 +1,16 @@
 mistletoe:
   type: misc
   parts used: whole plant
-  planet: sun
-  element: air
+  planet: sun, jupiter, saturn
+  element: air, water
   moon phase: waning
   zodiac sign: leo
-  chakra: crown
+  chakra: crown, third eye
   properties:
-    - activate/awaken
-    - attract luck
-    - banish
     - beauty
-    - beginnings
-    - blessings
-    - business
     - calm
-    - consecrate/bless
-    - death
     - defense
     - divination
-    - dream work
     - energy
     - fertility
     - friendship
@@ -29,36 +20,21 @@ mistletoe:
     - inspiration
     - life
     - love
-    - magic
     - marriage
-    - messages/omens
     - negativity
-    - nightmares
-    - obstacles
-    - otherworld/underworld
-    - peace
-    - personal power
     - prosperity
     - protect from lightning
     - protection
     - purification
-    - purity
     - rebirth/renewal
-    - secrets
     - security
     - sex magic
-    - sleep
-    - spirits
     - spiritual protection
-    - strength
-    - stress
-    - success
     - virility
-    - weather
     - well-being
     - longevity
     - exorcism
-    - creativity
+    - reconciliation
   toxicity:
     humans: true
     pets: true
@@ -67,6 +43,8 @@ mistletoe:
       - highly toxic
       - especially the berries
       - take only under professional supervision
+  notes:
+    - also known as all-heal.
   holidays:
     - summer solstice
     - yule
@@ -85,6 +63,9 @@ mistletoe:
       - lowers blood pressure
       - sedative
       - immune stimulant
+      - anti-inflammatory
+      - antioxidant
+      - antibacterial
     uses:
       - high blood pressure
       - anxiety
@@ -99,3 +80,4 @@ mistletoe:
     - morgana-green-witch
     - kynes-correspondences
     - chevallier-herbal-medicine
+    - riteofritual-apothecary

@@ -1,61 +1,42 @@
-marigold:
+calendula:
   type: herb & garden
   parts used: flowers
   planet: sun
   element: air, fire
   moon phase: waxing
   zodiac sign: cancer, leo
-  chakra: solar plexus
+  chakra: solar plexus, heart
   properties:
     - affection
-    - afterlife
-    - authority
-    - awareness
-    - business
-    - cheerfulness
     - clairvoyance
-    - communication
-    - consecrate/bless
-    - dedication/devotion
     - divination
     - dream work
-    - endurance
     - energy
     - enmity
     - fidelity
-    - grief
     - healing
     - jealousy
-    - legal matters
     - life
     - love
     - messages/omens
-    - mind
     - peace
     - prophecy
-    - provide comfort
     - psychic ability
     - relationships
-    - responsibility
-    - sensitivity
-    - sensuality
-    - skills
-    - solar energy
     - spiritual protection
-    - stress
     - success
-    - transformation
     - warmth
-    - wealth
     - well-being
     - longevity
-    - happiness
     - visions
+    - limitations/boundaries
   toxicity:
     humans: false
     pets: false
     notes:
       - may cause allergic reaction in rare cases
+  notes:
+    - also known as marigold.
   holidays:
     - beltane
     - mabon
@@ -79,6 +60,10 @@ marigold:
       - antimicrobial
       - detoxifying
       - mildly estrogenic
+      - antibacterial
+      - antioxidant
+      - immune support
+      - skin healing
     uses:
       - cuts, scrapes, and wounds
       - minor burns and sunburn
@@ -102,3 +87,4 @@ marigold:
     - morgana-green-witch
     - kynes-correspondences
     - chevallier-herbal-medicine
+    - riteofritual-apothecary

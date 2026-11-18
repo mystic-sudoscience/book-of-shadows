@@ -2,11 +2,19 @@ prickly ash:
   planet: mars
   element: fire
   properties:
+    - activate/awaken
+    - amplification
+    - break hexes
+    - healing
     - love
+    - protection
+    - travel
   toxicity:
     notes:
       - avoid if pregnant
       - avoid if nursing
+  notes:
+    - also known as northern prickly ash, suterberry, yellow tree.
   medicinal:
     parts used: bark, berries
     key constituents:
@@ -20,6 +28,10 @@ prickly ash:
       - increases sweating
       - antirheumatic
       - antifungal
+      - capillary circulation
+      - anti-inflammatory
+      - fever
+      - diuretic
     uses:
       - arthritis and rheumatism
       - poor circulation
@@ -37,3 +49,4 @@ prickly ash:
   citation:
     - cunningham-herbs
     - chevallier-herbal-medicine
+    - riteofritual-apothecary

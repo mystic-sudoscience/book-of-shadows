@@ -3,12 +3,16 @@ tansy:
   planet: venus
   element: water
   moon phase: waxing
-  zodiac sign: gemini
-  chakra: solar plexus
+  zodiac sign: gemini, leo
+  chakra: solar plexus, throat
   properties:
+    - banish
     - healing
     - life
     - longevity
+    - protection
+    - purification
+    - rebirth/renewal
   toxicity:
     humans: true
     pets: true
@@ -17,7 +21,14 @@ tansy:
       - use only under professional supervision
       - possibly unsafe internally and externally
       - restricted in some countries
+  medicinal:
+    key actions:
+      - antioxidant
+      - tonic
+      - stimulant
+      - traditionally used for fever support
   citation:
     - morgana-green-witch
     - cunningham-herbs
     - chevallier-herbal-medicine
+    - riteofritual-apothecary

@@ -1,15 +1,24 @@
 irish moss:
   planet: moon
   element: water
+  zodiac sign: pisces
+  chakra: root, sacral
   properties:
     - money
     - attract luck
     - protection
-  notes:
-    - carrageen
+    - luck
+    - prosperity
+    - abundance
+    - stability
+    - home
+    - blessings
   toxicity:
     notes:
       - do not use with anticoagulant medicines
+  notes:
+    - carrageen
+    - also known as pearl moss.
   medicinal:
     parts used: whole plant
     key constituents:
@@ -23,6 +32,10 @@ irish moss:
       - emollient
       - expectorant
       - thins the blood
+      - nutritive
+      - anti-inflammatory
+      - mineral-rich
+      - digestive support
     uses:
       - coughs and bronchitis
       - acid indigestion and gastritis
@@ -32,3 +45,4 @@ irish moss:
   citation:
     - cunningham-herbs
     - chevallier-herbal-medicine
+    - riteofritual-apothecary

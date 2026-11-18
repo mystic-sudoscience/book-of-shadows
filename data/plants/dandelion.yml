@@ -1,36 +1,27 @@
 dandelion:
   type: herb & garden
   parts used: leaves, flowers, root
-  planet: jupiter
-  element: air
+  planet: jupiter, saturn
+  element: air, earth
   moon phase: waxing
-  zodiac sign: sagittarius
-  chakra: throat
+  zodiac sign: sagittarius, capricorn, pisces
+  chakra: throat, root, solar plexus
   properties:
+    - abundance
     - authority
-    - awareness
     - clarity
-    - communication
+    - communicate with spirits
     - divination
     - dream work
-    - freedom
-    - guardian
-    - guidance
-    - healing
-    - inner purification
-    - mind
+    - grounding
+    - luck
+    - manifestation
     - money
     - needs
-    - power
     - prophecy
-    - protection
+    - prosperity
     - psychic ability
     - skills
-    - sleep
-    - spiritual beginnings
-    - spirituality
-    - stress
-    - travel
     - wishes
   medicinal:
     parts used: leaves, root
@@ -47,6 +38,11 @@ dandelion:
       - diuretic
       - detoxifying
       - bitter
+      - liver support
+      - digestive aid
+      - detoxification
+      - circulation support
+      - digestive support
     uses:
       - fluid retention and swollen ankles
       - high blood pressure
@@ -69,3 +65,4 @@ dandelion:
     - morgana-green-witch
     - kynes-correspondences
     - chevallier-herbal-medicine
+    - riteofritual-apothecary

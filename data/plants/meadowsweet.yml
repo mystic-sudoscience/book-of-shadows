@@ -1,11 +1,11 @@
 meadowsweet:
   type: misc
   parts used: flowers, leaves, root
-  planet: jupiter
+  planet: jupiter, mercury, saturn
   element: air
   moon phase: waxing
   zodiac sign: gemini
-  chakra: root
+  chakra: root, heart
   properties:
     - attract luck
     - balance
@@ -21,6 +21,8 @@ meadowsweet:
     - power
     - security
     - happiness
+    - goddess magic
+    - harmonize emotions
   toxicity:
     humans: false
     pets: false
@@ -41,6 +43,10 @@ meadowsweet:
       - astringent
       - diuretic
       - stimulates sweating
+      - analgesic
+      - antacid
+      - stomachic
+      - supports skin and connective tissue
     uses:
       - acid indigestion and heartburn
       - gastroesophageal reflux
@@ -62,3 +68,4 @@ meadowsweet:
     - morgana-green-witch
     - kynes-correspondences
     - chevallier-herbal-medicine
+    - riteofritual-apothecary

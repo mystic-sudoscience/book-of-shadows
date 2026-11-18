@@ -4,42 +4,27 @@ st. john's wort:
   planet: sun
   element: fire
   moon phase: waxing
-  zodiac sign: leo
-  chakra: third eye
+  zodiac sign: leo, libra
+  chakra: third eye, solar plexus
   properties:
-    - banish
-    - blessings
     - courage
-    - darkness
-    - death
-    - divination
-    - dream work
-    - endings
     - energy
     - fear
-    - fertility
     - healing
-    - justice
-    - magic
     - mental well-being
     - money
     - nightmares
     - overcome fear
     - peace
     - power
-    - prosperity
     - protect animals
     - protection
     - psychic protection
     - purification
     - security
     - sensitivity
-    - spiritual beginnings
-    - spirituality
     - stimulation
-    - storms
     - strength
-    - weather
     - willpower
   toxicity:
     humans: true
@@ -66,6 +51,9 @@ st. john's wort:
       - antiviral
       - wound healer
       - anti-inflammatory
+      - sleep support
+      - menopause relief
+      - headache relief
     uses:
       - mild to moderate depression
       - nervous exhaustion
@@ -87,3 +75,4 @@ st. john's wort:
     - cunningham-herbs
     - kynes-correspondences
     - chevallier-herbal-medicine
+    - riteofritual-apothecary

@@ -1,7 +1,11 @@
 elecampane:
-  planet: mercury
+  planet: mercury, sun
   element: air
+  zodiac sign: gemini
+  chakra: heart, third eye
   properties:
+    - clarity
+    - communicate with spirits
     - love
     - protection
     - psychic ability
@@ -12,6 +16,8 @@ elecampane:
       - do not take internally in high doses; find several sources that have appropriate doses of this herb
       - can cause skin reactions
       - avoid internally if pregnant or nursing
+  notes:
+    - also known as elfwort, elfdock.
   medicinal:
     parts used: root
     key constituents:
@@ -26,6 +32,10 @@ elecampane:
       - mildly bitter
       - eliminates worms
       - antibacterial
+      - antiseptic
+      - bitter
+      - diaphoretic
+      - supports respiratory and digestive health
     uses:
       - chest infections
       - chronic bronchitis
@@ -41,3 +51,4 @@ elecampane:
   citation:
     - cunningham-herbs
     - chevallier-herbal-medicine
+    - riteofritual-apothecary

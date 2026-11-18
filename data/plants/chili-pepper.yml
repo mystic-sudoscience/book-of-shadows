@@ -3,12 +3,17 @@ chili pepper:
   planet: mars
   element: fire
   moon phase: waning, new
-  zodiac sign: sagittarius
+  zodiac sign: sagittarius, aries
   chakra: root
   properties:
     - fidelity
     - love
     - break hexes
+    - courage
+    - set hexes
+    - remove obstacles
+    - boost energy
+    - protection
   toxicity:
     notes:
       - nontoxic at normal doses
@@ -31,6 +36,9 @@ chili pepper:
       - increases sweating
       - increases blood flow to the skin
       - analgesic
+      - circulation support
+      - energizing
+      - stimulates metabolism
     uses:
       - poor circulation
       - arthritis and rheumatism
@@ -50,3 +58,4 @@ chili pepper:
   citation:
     - morgana-green-witch
     - chevallier-herbal-medicine
+    - riteofritual-apothecary

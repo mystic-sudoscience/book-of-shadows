@@ -1,9 +1,15 @@
 hyssop:
   planet: jupiter
   element: fire
+  zodiac sign: cancer
+  chakra: throat
   properties:
     - purification
     - protection
+    - banish
+    - spiritual protection
+    - clear unwanted energy
+    - healing
   toxicity:
     notes:
       - avoid if pregnant
@@ -23,6 +29,10 @@ hyssop:
       - tonic
       - sedative
       - carminative
+      - antiseptic
+      - respiratory support
+      - cough relief
+      - immune booster
     uses:
       - bronchitis with excess mucus
       - respiratory infections
@@ -32,3 +42,4 @@ hyssop:
   citation:
     - cunningham-herbs
     - chevallier-herbal-medicine
+    - riteofritual-apothecary

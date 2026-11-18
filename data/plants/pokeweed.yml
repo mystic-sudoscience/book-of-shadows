@@ -1,0 +1,26 @@
+pokeweed:
+  parts used: root
+  planet: mars
+  element: water, earth
+  zodiac sign: scorpio, aries
+  chakra: root
+  properties:
+    - banish
+    - divination
+    - healing
+    - protection
+    - purification
+  toxicity:
+    notes:
+      - toxic in large quantities; use only with proper knowledge
+  notes:
+    - also known as poke root.
+  medicinal:
+    key actions:
+      - detoxifying
+      - immune-boosting
+      - pain relief
+      - anti-inflammatory
+      - antiviral
+  citation:
+    - riteofritual-apothecary

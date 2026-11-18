@@ -1,10 +1,29 @@
 cornflower:
   parts used: flowers
-  planet: venus
-  element: water
+  planet: venus, sun
+  element: water, air, fire
+  zodiac sign: libra, pisces
+  chakra: third eye
   properties:
+    - abundance
+    - blessings
+    - creativity
+    - fertility
+    - harmony
+    - home
+    - insight
+    - intuition
     - love
+    - protection
+    - psychic ability
+    - stimulate intuition
   notes:
     - also known as bachelor's buttons.
+  medicinal:
+    key actions:
+      - eye support
+      - anti-inflammatory
+      - nervous system support
   citation:
     - cunningham-herbs
+    - riteofritual-apothecary

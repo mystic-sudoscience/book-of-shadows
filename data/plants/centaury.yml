@@ -1,8 +1,14 @@
 centaury:
   planet: sun
   element: fire
+  zodiac sign: virgo
+  chakra: solar plexus, sacral
   properties:
+    - banish
+    - clarity
+    - clear unwanted energy
     - protection
+    - psychic ability
   notes:
     - per cunningham, removes snakes
   medicinal:
@@ -13,6 +19,10 @@ centaury:
       - bitter
       - digestive stimulant
       - stimulates appetite
+      - fever
+      - kidney pains
+      - extreme thirst
+      - digestive support
     uses:
       - weak digestion
       - poor appetite
@@ -21,3 +31,4 @@ centaury:
   citation:
     - cunningham-herbs
     - chevallier-herbal-medicine
+    - riteofritual-apothecary

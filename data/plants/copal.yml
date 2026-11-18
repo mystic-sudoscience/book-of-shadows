@@ -1,8 +1,24 @@
 copal:
   planet: sun
   element: fire
+  zodiac sign: taurus
+  chakra: crown
   properties:
+    - amplification
+    - ancestral connections
+    - clear unwanted energy
+    - divination
+    - harmony
     - love
+    - meditation
+    - peace
+    - protection
     - purification
+    - spiritual connections
+  medicinal:
+    key actions:
+      - repels mosquitoes
+      - supports calm and focus
   citation:
     - cunningham-herbs
+    - riteofritual-apothecary

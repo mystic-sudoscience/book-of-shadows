@@ -3,12 +3,16 @@ plantain:
   planet: venus
   element: earth
   moon phase: waxing
-  zodiac sign: taurus
-  chakra: solar plexus
+  zodiac sign: taurus, virgo
+  chakra: solar plexus, sacral
   properties:
     - healing
     - strength
     - protection
+    - protection during travel
+    - prosperity
+    - abundance
+    - grounding
   toxicity:
     humans: false
     pets: false
@@ -27,6 +31,9 @@ plantain:
       - expectorant
       - reduces mucus
       - anti-inflammatory
+      - antiseptic
+      - astringent
+      - decongestant
     uses:
       - wounds and bruises
       - broken bones
@@ -44,3 +51,4 @@ plantain:
   citation:
     - morgana-green-witch
     - chevallier-herbal-medicine
+    - riteofritual-apothecary

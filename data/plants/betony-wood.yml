@@ -1,14 +1,19 @@
 betony, wood:
   planet: jupiter
   element: fire
+  zodiac sign: virgo
+  chakra: crown, root
   properties:
     - anxiety
     - authority
     - awareness
     - banish
     - calm
+    - clarity
+    - courage
     - dream work
     - energy
+    - grounding
     - harmony
     - healing
     - love
@@ -19,9 +24,12 @@ betony, wood:
     - relationships
     - security
     - sexuality
+    - spiritual power
   toxicity:
     notes:
       - avoid if pregnant
+  notes:
+    - also known as bishop's wort.
   medicinal:
     parts used: aerial parts
     key constituents:
@@ -35,6 +43,9 @@ betony, wood:
       - astringent
       - mild bitter
       - tonic
+      - nervine
+      - digestive support
+      - anti-inflammatory
     uses:
       - headaches and facial pain
       - nervous stress and tension
@@ -46,3 +57,4 @@ betony, wood:
     - cunningham-herbs
     - kynes-correspondences
     - chevallier-herbal-medicine
+    - riteofritual-apothecary

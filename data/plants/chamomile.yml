@@ -1,46 +1,30 @@
 chamomile:
   type: herb & garden
   parts used: leaves, flowers
-  planet: sun
+  planet: sun, venus
   element: water
   moon phase: waxing
   zodiac sign: cancer, leo
-  chakra: heart
+  chakra: heart, solar plexus, throat
   properties:
     - anger
-    - anxiety
     - attraction
     - balance
     - beauty
     - blessings
     - break hexes
     - calm
-    - communication
-    - determination
-    - dream work
-    - emotional security
-    - energy
-    - grounding
-    - growth
     - harmony
-    - healing
-    - insight
-    - introspection
     - justice
     - love
-    - manifestation
     - money
     - nightmares
-    - patience
     - prosperity
-    - psychic ability
     - purification
-    - sensitivity
     - sleep
     - stress
     - support
-    - wishes
-    - intuition
+    - peace
   toxicity:
     notes:
       - fresh plant can cause dermatitis
@@ -60,6 +44,11 @@ chamomile:
       - antispasmodic
       - relaxant
       - carminative
+      - stress
+      - anxiety
+      - muscle and menstrual cramps
+      - digestion
+      - skin and mouth inflammation
     uses:
       - indigestion and acidity
       - gastritis
@@ -87,3 +76,4 @@ chamomile:
     - morgana-green-witch
     - kynes-correspondences
     - chevallier-herbal-medicine
+    - riteofritual-apothecary

@@ -8,52 +8,29 @@ honeysuckle:
   chakra: all
   properties:
     - abundance
-    - adaptability
     - affection
     - attraction
     - authority
-    - awareness
-    - balance
     - break hexes
     - calm
-    - changes
-    - cheerfulness
     - clarity
-    - concentration/focus
-    - confidence
-    - dedication/devotion
     - destiny
     - divination
     - fidelity
     - friendship
     - generosity
-    - guidance
     - healing
-    - honesty
-    - inspiration
     - justice
-    - knowledge
     - love
-    - memory/memories
-    - mind
     - money
-    - peace
     - power
     - prosperity
     - protection
     - psychic ability
     - rebirth/renewal
-    - secrets
     - skills
-    - strength
-    - stress
-    - well-being
-    - wishes
     - witches/witchcraft
-    - happiness
-    - creativity
     - intuition
-    - learning
   toxicity:
     humans: false
     pets: true

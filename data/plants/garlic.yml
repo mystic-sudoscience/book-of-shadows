@@ -7,35 +7,20 @@ garlic:
   zodiac sign: aries
   chakra: solar plexus
   properties:
-    - aggression
-    - anxiety
     - banish
     - break hexes
-    - communication
-    - community
-    - concentration/focus
-    - courage
     - defense
     - energy
-    - enmity
-    - fear
     - healing
-    - improvement
-    - jealousy
-    - justice
     - lust
-    - magic
     - protection during travel
-    - protection from theft
     - purification
     - security
     - sex magic
     - smell
     - stimulation
     - travel
-    - weather
     - well-being
-    - wishes
     - exorcism
   toxicity:
     humans: false

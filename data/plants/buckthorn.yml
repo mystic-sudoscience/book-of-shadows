@@ -1,11 +1,16 @@
 buckthorn:
-  planet: saturn
+  planet: saturn, moon, mercury
   element: water
+  zodiac sign: scorpio, sagittarius
+  chakra: root, sacral
   properties:
     - protection
     - banish
     - wishes
     - legal matters
+    - purification
+    - luck
+    - transformation
   toxicity:
     notes:
       - avoid if pregnant
@@ -30,9 +35,13 @@ buckthorn:
     key actions:
       - laxative
       - cathartic
+      - mild laxative
+      - digestive support
+      - antibacterial
     uses:
       - chronic constipation
       - poor bile flow
   citation:
     - cunningham-herbs
     - chevallier-herbal-medicine
+    - riteofritual-apothecary

@@ -1,45 +1,31 @@
 myrrh:
-  planet: moon
-  element: water
+  planet: moon, sun
+  element: water, air
+  zodiac sign: cancer, leo
+  chakra: third eye, crown
   properties:
-    - abundance
     - afterlife
     - angel magic
     - animal magic
-    - awareness
-    - balance
     - banish
+    - blessings
     - break hexes
-    - changes
     - clear unwanted energy
-    - concentration/focus
     - consecrate/bless
+    - exorcism
     - funeral rites
-    - gratitude
     - grounding
     - healing
-    - heartbreak
-    - honor
     - inner healing
-    - love
-    - magic
-    - manifestation
     - negativity
     - obstacles
+    - peace
     - prosperity
     - protection
-    - provide comfort
-    - psychic ability
     - psychic protection
     - purification
-    - rebirth/renewal
     - ritual purification
-    - sorrow
-    - spiritual energy
-    - spirituality
-    - stress
     - warmth
-    - wealth
     - well-being
   toxicity:
     notes:
@@ -59,6 +45,9 @@ myrrh:
       - anti-inflammatory
       - antiulcer
       - wound healer
+      - oral health support
+      - antimicrobial
+      - antioxidant
     uses:
       - sore throats
       - mouth ulcers and canker sores
@@ -80,3 +69,4 @@ myrrh:
     - cunningham-herbs
     - kynes-correspondences
     - chevallier-herbal-medicine
+    - riteofritual-apothecary

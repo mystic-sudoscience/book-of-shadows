@@ -1,14 +1,23 @@
 thistle, milk:
-  planet: mars
-  element: fire
+  planet: mars, saturn
+  element: fire, earth
+  zodiac sign: virgo
+  chakra: root, solar plexus
   properties:
+    - healing
+    - justice
+    - legal matters
+    - protection
     - provoke anger
-  notes:
-    - per cunningham, enrages snakes
+    - purification
+    - strength
+    - transformation
   toxicity:
     notes:
       - may cause allergic reaction in rare cases
       - seek professional advice before taking alongside chemotherapy
+  notes:
+    - per cunningham, enrages snakes
   medicinal:
     parts used: seeds, flower heads
     key constituents:
@@ -21,6 +30,11 @@ thistle, milk:
       - anticancer
       - anti-allergenic
       - increases breast-milk production
+      - liver support
+      - detoxification
+      - anti-inflammatory
+      - digestive aid
+      - antioxidant
     uses:
       - liver disorders
       - hepatitis and jaundice
@@ -38,3 +52,4 @@ thistle, milk:
   citation:
     - cunningham-herbs
     - chevallier-herbal-medicine
+    - riteofritual-apothecary

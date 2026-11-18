@@ -1,44 +1,29 @@
 mugwort:
   type: herb & garden
   parts used: leaves, flowers
-  planet: venus
+  planet: venus, moon
   element: earth, air
   moon phase: full
-  zodiac sign: cancer, gemini, libra, sagittarius
-  chakra: third eye
+  zodiac sign: cancer, gemini, libra, sagittarius, taurus
+  chakra: third eye, crown
   properties:
     - astral realm
-    - authority
-    - awareness
-    - banish
-    - beginnings
-    - blessings
-    - community
-    - consecrate/bless
+    - astral travel
     - defense
     - divination
     - dream work
-    - empathy
     - face danger
-    - fertility
-    - guidance
     - healing
-    - love
-    - magic
     - messages/omens
     - power
     - protect animals
+    - protection
     - psychic ability
     - psychic energy
     - psychic protection
     - purification
     - reversal
-    - skills
-    - sleep
-    - spirits
     - travel
-    - weather
-    - witches/witchcraft
   toxicity:
     humans: true
     pets: true
@@ -61,6 +46,10 @@ mugwort:
       - mildly promotes menstruation
       - antiseptic
       - expels worms
+      - indigestion
+      - menstrual regulation
+      - mild sedative
+      - cold/fever relief
     uses:
       - poor appetite and digestion
       - nutrient absorption
@@ -74,3 +63,4 @@ mugwort:
     - cunningham-herbs
     - kynes-correspondences
     - chevallier-herbal-medicine
+    - riteofritual-apothecary

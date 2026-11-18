@@ -5,13 +5,16 @@ horehound:
   element: air, earth
   moon phase: waning, new
   zodiac sign: gemini, scorpio, virgo
-  chakra: sacral
+  chakra: sacral, root
   properties:
+    - amplification
     - banish
     - break hexes
     - clarity
     - energy
     - healing
+    - limitations/boundaries
+    - mental clarity
     - mental power
     - mind
     - power
@@ -35,6 +38,8 @@ horehound:
       - expectorant
       - bitter tonic
       - normalizes heart rhythm
+      - digestive stimulant
+      - mild cardiac support
     uses:
       - wheeziness
       - bronchitis and bronchiectasis
@@ -49,3 +54,4 @@ horehound:
     - cunningham-herbs
     - kynes-correspondences
     - chevallier-herbal-medicine
+    - riteofritual-apothecary

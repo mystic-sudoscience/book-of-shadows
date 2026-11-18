@@ -1,23 +1,40 @@
 spearmint:
   planet: venus
   element: water
+  zodiac sign: libra
+  chakra: solar plexus, heart, throat
   properties:
     - aggression
     - concentration/focus
     - healing
     - inner calm
     - innocence
+    - lift emotions
     - love
+    - mental clarity
     - mental power
     - money
+    - prosperity
     - protection
+    - psychic ability
     - purification
     - security
     - sleep
     - stimulation
+    - success
     - support
     - trust
     - warmth
+  notes:
+    - also known as garden mint.
+  medicinal:
+    key actions:
+      - amphoteric
+      - digestive aid
+      - lung support
+      - nervine
+      - flavoring agent
   citation:
     - cunningham-herbs
     - kynes-correspondences
+    - riteofritual-apothecary

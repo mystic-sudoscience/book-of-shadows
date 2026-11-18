@@ -1,9 +1,12 @@
 allspice:
   type: misc
   parts used: berries
-  planet: mars
-  element: Fire
+  planet: mars, uranus
+  element: fire
+  zodiac sign: aries, scorpio
+  chakra: sacral
   properties:
+    - amplification
     - attract luck
     - attraction
     - business
@@ -18,9 +21,11 @@ allspice:
     - friendship
     - healing
     - kindness
+    - luck
     - money
     - power
     - prosperity
+    - protection
     - spirituality
     - strength
     - stress
@@ -42,6 +47,9 @@ allspice:
       - antiseptic
       - analgesic
       - estrogenic
+      - anti-inflammatory
+      - anti-fungal
+      - nausea relief
     uses:
       - flatulence and indigestion
       - diarrhea
@@ -51,3 +59,4 @@ allspice:
     - cunningham-herbs
     - kynes-correspondences
     - chevallier-herbal-medicine
+    - riteofritual-apothecary

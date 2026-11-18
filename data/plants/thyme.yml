@@ -2,49 +2,30 @@ thyme:
   type: herb & garden
   parts used: leaves
   planet: venus
-  element: water
+  element: water, air
   moon phase: new
-  zodiac sign: aries, capricorn, libra, taurus
-  chakra: throat
+  zodiac sign: aries, capricorn, libra, taurus, cancer
+  chakra: throat, heart, third eye
   properties:
-    - activate/awaken
     - adaptability
-    - attract luck
-    - authority
-    - awareness
     - calm
     - cheerfulness
-    - community
     - confidence
-    - consecrate/bless
     - courage
     - divination
     - energy
-    - grief
-    - growth
     - healing
-    - home
     - honesty
-    - increase
-    - love
-    - money
-    - negativity
-    - nightmares
     - power
-    - protection
     - psychic ability
     - psychic energy
     - purification
-    - rebirth/renewal
-    - skills
     - sleep
-    - spiritual protection
     - stimulation
     - strength
     - stress
     - well-being
     - happiness
-    - fairy magic
   toxicity:
     humans: false
     pets: false
@@ -66,6 +47,8 @@ thyme:
       - expectorant
       - expels worms
       - antioxidant
+      - digestive support
+      - antispasmodic
     uses:
       - throat and chest infections
       - coughs and bronchitis
@@ -89,3 +72,4 @@ thyme:
     - morgana-green-witch
     - kynes-correspondences
     - chevallier-herbal-medicine
+    - riteofritual-apothecary

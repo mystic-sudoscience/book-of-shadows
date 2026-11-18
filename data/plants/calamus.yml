@@ -1,11 +1,15 @@
 calamus:
   planet: moon
   element: water
+  zodiac sign: cancer
+  chakra: root, solar plexus
   properties:
     - luck
     - healing
     - money
     - protection
+    - prosperity
+    - manifestation
   toxicity:
     humans: true
     notes:
@@ -27,6 +31,9 @@ calamus:
       - antioxidant
       - anti-inflammatory
       - tonic
+      - stomach problems
+      - ulcers
+      - inflammation of the stomach lining
     uses:
       - poor digestion
       - bloating and gas
@@ -42,3 +49,4 @@ calamus:
   citation:
     - cunningham-herbs
     - chevallier-herbal-medicine
+    - riteofritual-apothecary

@@ -7,45 +7,27 @@ galangal:
   zodiac sign: aries
   chakra: sacral
   properties:
-    - astral realm
     - attract luck
     - authority
-    - awareness
-    - banish
-    - break hexes
-    - compassion
-    - consecrate/bless
-    - courage
     - desire
-    - enchantment
     - energy
-    - enmity
     - healing
-    - increase
     - justice
-    - legal matters
-    - love
     - lust
-    - magic
     - money
     - negativity
     - passion
-    - power
     - prosperity
     - protection
-    - provide comfort
-    - psychic ability
     - psychic protection
     - reversal
     - sex magic
     - skills
     - stimulation
-    - strength
-    - stress
     - success
-    - support
     - well-being
-  notes: null
+  notes:
+    - also known as low john.
   medicinal:
     parts used: rhizome
     key constituents:
@@ -61,6 +43,9 @@ galangal:
       - antibacterial
       - antifungal
       - antitumor
+      - digestive stimulant
+      - circulatory support
+      - antimicrobial
     uses:
       - gas and indigestion
       - nausea and vomiting
@@ -80,3 +65,4 @@ galangal:
     - cunningham-herbs
     - kynes-correspondences
     - chevallier-herbal-medicine
+    - riteofritual-apothecary

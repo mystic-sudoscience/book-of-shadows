@@ -4,63 +4,37 @@ sage:
   planet: jupiter
   element: air, earth
   moon phase: new
-  zodiac sign: aquarius, pisces, sagittarius, taurus
-  chakra: third eye
+  zodiac sign: aquarius, pisces, sagittarius, taurus, cancer, scorpio
+  chakra: third eye, heart, throat
   properties:
-    - balance
     - blessings
-    - business
-    - clairvoyance
     - clear mind
     - concentration/focus
-    - consciousness
     - consecrate/bless
-    - divination
     - energy
-    - fear
-    - fertility
-    - gratitude
-    - grounding
     - guidance
-    - harmony
     - healing
     - insight
     - introspection
     - knowledge
     - life
-    - love
-    - magic
     - memory/memories
-    - mental well-being
-    - money
     - negativity
     - obstacles
     - peace
-    - power
-    - prophecy
-    - prosperity
     - protection
-    - provide comfort
-    - psychic ability
     - psychic protection
     - purification
     - release attachments
     - reversal
     - ritual purification
     - secrets
-    - spirits
-    - spirituality
-    - stability
     - stimulation
-    - strength
     - strengthen senses
-    - stress
-    - truth
     - warmth
     - wisdom
-    - wishes
     - longevity
-    - visions
+    - mental clarity
   toxicity:
     humans: false
     pets: false
@@ -88,6 +62,10 @@ sage:
       - clears mucus
       - nerve tonic
       - estrogenic
+      - sore throat
+      - diabetes support
+      - stimulates appetite
+      - memory support
     uses:
       - sore throats and throat infections
       - mouth ulcers and sore gums
@@ -108,3 +86,4 @@ sage:
     - cunningham-herbs
     - kynes-correspondences
     - chevallier-herbal-medicine
+    - riteofritual-apothecary

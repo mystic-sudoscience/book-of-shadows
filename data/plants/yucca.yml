@@ -1,9 +1,19 @@
 yucca:
-  planet: mars
-  element: fire
+  planet: mars, saturn
+  element: fire, earth
+  zodiac sign: capricorn
   properties:
     - transformation
     - protection
     - purification
+    - clarity
+    - remove obstacles
+    - grounding
+  medicinal:
+    key actions:
+      - emollient
+      - antihemorrhagic
+      - anti-inflammatory
   citation:
     - cunningham-herbs
+    - riteofritual-apothecary

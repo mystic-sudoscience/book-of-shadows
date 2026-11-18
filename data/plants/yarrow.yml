@@ -1,39 +1,22 @@
 yarrow:
   type: herb & garden
   parts used: leaves, flowers, root
-  planet: venus
-  element: water
+  planet: venus, mars
+  element: water, fire
   moon phase: waxing
-  zodiac sign: gemini
+  zodiac sign: gemini, aries, scorpio
   chakra: root
   properties:
     - aggression
-    - animal magic
     - attraction
-    - authority
-    - awareness
-    - balance
-    - banish
     - beauty
-    - beginnings
-    - blessings
-    - calm
     - challenges
-    - changes
     - confidence
-    - consecrate/bless
-    - contact spirits
-    - cosmic energy
     - courage
-    - death
     - divination
     - dream work
-    - fear
-    - fertility
     - fidelity
     - friendship
-    - growth
-    - guidance
     - healing
     - heartbreak
     - love
@@ -43,18 +26,12 @@ yarrow:
     - protection
     - psychic ability
     - psychic protection
-    - purification
     - relationships
-    - skills
-    - spiritual energy
     - spiritual protection
-    - spirituality
     - stimulation
-    - stress
-    - weather
     - well-being
-    - witches/witchcraft
     - exorcism
+    - limitations/boundaries
   toxicity:
     humans: true
     pets: true
@@ -64,6 +41,8 @@ yarrow:
       - may cause severe skin allergies or dermatitis
       - may cause allergic reaction in rare cases
       - use essential oil only under professional supervision
+  notes:
+    - also known as soldier's woundwort.
   medicinal:
     parts used: aerial parts, flowers, leaves, essential oil
     key constituents:
@@ -86,6 +65,9 @@ yarrow:
       - stops internal bleeding
       - promotes menstruation
       - anti-inflammatory
+      - styptic
+      - antimicrobial
+      - circulatory support
     uses:
       - wounds
       - heavy menstrual bleeding
@@ -108,3 +90,4 @@ yarrow:
     - cunningham-herbs
     - kynes-correspondences
     - chevallier-herbal-medicine
+    - riteofritual-apothecary

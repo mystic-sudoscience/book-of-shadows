@@ -1,10 +1,18 @@
 alfalfa:
   parts used: leaves, seeds, sprouts
-  planet: venus
+  planet: venus, jupiter
   element: earth
+  zodiac sign: taurus
+  chakra: heart, third eye
   properties:
     - prosperity
     - money
+    - abundance
+    - luck
+    - financial protection
+    - home
+    - blessings
+    - longevity
   toxicity:
     notes:
       - do not take with warfarin
@@ -21,6 +29,10 @@ alfalfa:
     key actions:
       - estrogenic
       - lowers cholesterol
+      - lowers blood sugar
+      - pms support
+      - anti-inflammatory
+      - diuretic
     uses:
       - high cholesterol
       - menstrual problems
@@ -28,3 +40,4 @@ alfalfa:
   citation:
     - cunningham-herbs
     - chevallier-herbal-medicine
+    - riteofritual-apothecary

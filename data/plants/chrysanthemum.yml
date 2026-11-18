@@ -4,16 +4,20 @@ chrysanthemum:
   planet: sun
   element: fire
   moon phase: waning
-  zodiac sign: leo
-  chakra: solar plexus
+  zodiac sign: leo, scorpio, taurus
+  chakra: solar plexus, heart
   properties:
     - cheerfulness
+    - clarity
+    - happiness
     - innocence
+    - longevity
     - love
     - obstacles
     - protection
     - strength
     - truth
+    - vitality
   toxicity:
     humans: true
     pets: true
@@ -38,6 +42,9 @@ chrysanthemum:
       - lowers blood pressure
       - cooling
       - reduces fever
+      - diaphoretic
+      - infection support
+      - skin health
     uses:
       - red, sore, or tired eyes
       - tension headaches
@@ -58,3 +65,4 @@ chrysanthemum:
     - cunningham-herbs
     - kynes-correspondences
     - chevallier-herbal-medicine
+    - riteofritual-apothecary

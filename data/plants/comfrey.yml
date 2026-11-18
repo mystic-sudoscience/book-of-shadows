@@ -2,9 +2,9 @@ comfrey:
   type: herb & garden
   parts used: flowers, leaves, root
   planet: saturn
-  element: water
+  element: water, earth
   moon phase: waxing
-  zodiac sign: libra
+  zodiac sign: libra, capricorn
   chakra: root
   properties:
     - astral realm
@@ -17,6 +17,7 @@ comfrey:
     - endurance
     - enmity
     - healing
+    - long-term goals
     - loss
     - memory/memories
     - money
@@ -29,10 +30,9 @@ comfrey:
     - stimulation
     - strength
     - stress
+    - success
     - travel
     - unity
-  notes:
-    - used to heal broken skin
   toxicity:
     notes:
       - not recommended for internal use
@@ -41,6 +41,9 @@ comfrey:
       - avoid if pregnant
       - avoid if nursing
       - restricted in some countries
+      - contains pyrrolizidine alkaloids that may cause liver damage if taken internally
+  notes:
+    - used to heal broken skin
   medicinal:
     parts used: leaves, aerial parts, root
     key constituents:
@@ -56,6 +59,10 @@ comfrey:
       - astringent
       - anti-inflammatory
       - heals wounds and bones
+      - reduces inflammation
+      - supports bone and tissue repair
+      - wound support
+      - soothes bruises and sprains
     uses:
       - sprains
       - bruises
@@ -76,3 +83,4 @@ comfrey:
     - cunningham-herbs
     - kynes-correspondences
     - chevallier-herbal-medicine
+    - riteofritual-apothecary

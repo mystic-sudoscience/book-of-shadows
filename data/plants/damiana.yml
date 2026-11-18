@@ -1,11 +1,19 @@
 damiana:
-  planet: mars
+  planet: mars, venus, pluto
   element: fire
+  zodiac sign: libra, scorpio
+  chakra: root
   properties:
     - love
     - lust
     - clairvoyance
     - visions
+    - sex magic
+    - attraction
+  toxicity:
+    notes:
+      - avoid if pregnant
+      - avoid if nursing
   medicinal:
     parts used: leaves
     key constituents:
@@ -21,6 +29,12 @@ damiana:
       - mild antidepressant
       - mild laxative
       - mild diuretic
+      - headache relief
+      - nervine
+      - mild sedative
+      - antidepressant
+      - constipation relief
+      - mood support
     uses:
       - mild to moderate depression
       - nervous exhaustion
@@ -37,3 +51,4 @@ damiana:
   citation:
     - cunningham-herbs
     - chevallier-herbal-medicine
+    - riteofritual-apothecary

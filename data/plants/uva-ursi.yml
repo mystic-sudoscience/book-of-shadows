@@ -1,12 +1,18 @@
 uva ursi:
   parts used: leaves, flowers, branches
-  planet: saturn
+  planet: saturn, jupiter, pluto
   element: earth
   moon phase: full
-  zodiac sign: scorpio
-  chakra: third eye
+  zodiac sign: scorpio, libra
+  chakra: third eye, root
   properties:
+    - ancestral connections
+    - divination
+    - dream work
+    - grounding
+    - protection
     - psychic ability
+    - spiritual connections
   toxicity:
     humans: true
     pets: true
@@ -31,6 +37,10 @@ uva ursi:
       - urinary antiseptic
       - astringent
       - antibacterial
+      - antiseptic
+      - diuretic
+      - urinary tract support
+      - traditional kidney + bladder support
     uses:
       - acute and chronic cystitis
       - urethritis
@@ -38,3 +48,4 @@ uva ursi:
     - morgana-green-witch
     - cunningham-herbs
     - chevallier-herbal-medicine
+    - riteofritual-apothecary

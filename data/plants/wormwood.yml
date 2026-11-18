@@ -2,42 +2,27 @@ wormwood:
   type: misc
   parts used: leaves, flowers, stems
   planet: mars, saturn
-  element: earth
+  element: earth, air, fire
   moon phase: full
-  zodiac sign: gemini
+  zodiac sign: gemini, aries, scorpio
   chakra: root
   properties:
     - afterlife
-    - anger
-    - animals
-    - anxiety
     - astral realm
     - banish
     - bind
     - contact spirits
-    - courage
     - death
     - defense
     - divination
     - dream work
     - endings
-    - endurance
-    - enmity
-    - forgiveness
-    - guidance
-    - healing
-    - improvement
     - love
-    - magic
     - obstacles
     - peace
-    - power
     - protection
     - psychic ability
     - purification
-    - set hexes
-    - skills
-    - stress
     - astral travel
   toxicity:
     humans: true
@@ -67,6 +52,8 @@ wormwood:
       - mild antidepressant
       - antimicrobial
       - antiparasitic
+      - digestive support
+      - nervine support
     uses:
       - weak digestion
       - gas and bloating
@@ -85,3 +72,4 @@ wormwood:
     - cunningham-herbs
     - kynes-correspondences
     - chevallier-herbal-medicine
+    - riteofritual-apothecary

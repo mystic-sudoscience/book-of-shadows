@@ -1,19 +1,21 @@
 skullcap:
   type: misc
   parts used: leaves, flowers
-  planet: saturn
-  element: water
+  planet: saturn, moon, mercury, neptune, pluto
+  element: water, air
   moon phase: waning
-  zodiac sign: aquarius
-  chakra: third eye
+  zodiac sign: aquarius, gemini, virgo
+  chakra: third eye, crown
   properties:
     - calm
     - concentration/focus
+    - emotional balance
     - fear
     - fidelity
     - healing
     - love
     - peace
+    - protection
     - soothe mind
     - stress
   toxicity:
@@ -35,6 +37,10 @@ skullcap:
       - nervine tonic
       - antispasmodic
       - mild bitter
+      - antioxidant
+      - antibacterial
+      - antiviral
+      - nervous system support
     uses:
       - stress and anxiety
       - nervous tension
@@ -53,3 +59,4 @@ skullcap:
     - morgana-green-witch
     - kynes-correspondences
     - chevallier-herbal-medicine
+    - riteofritual-apothecary

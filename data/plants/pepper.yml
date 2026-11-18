@@ -1,21 +1,31 @@
 pepper:
   planet: mars
   element: fire
+  zodiac sign: aries, scorpio, capricorn
+  chakra: solar plexus
   properties:
     - alert mind
+    - amplification
     - banish
     - bind
+    - clear unwanted energy
+    - confidence
     - courage
     - defense
     - dream work
     - endurance
+    - exorcism
     - fear
     - healing
+    - inner strength
     - justice
     - lust
+    - manifestation
     - motivation
     - protection
+    - remove obstacles
     - security
+    - truth
   toxicity:
     notes:
       - do not take essential oil internally without professional supervision
@@ -32,6 +42,16 @@ pepper:
       - antibacterial
       - reduces fever
       - warming
+      - anti-inflammatory
+      - supports circulation
+      - improves breathing
+      - pain relief
+      - diaphoretic
+      - expectorant
+      - carminative
+      - antispasmodic
+      - antioxidant
+      - antimicrobial
     uses:
       - nausea and stomachache
       - flatulence and bloating
@@ -46,3 +66,4 @@ pepper:
     - cunningham-herbs
     - kynes-correspondences
     - chevallier-herbal-medicine
+    - riteofritual-apothecary

@@ -1,48 +1,29 @@
 basil:
   type: herb & garden
   parts used: leaves
-  planet: mars
+  planet: mars, venus
   element: fire
   moon phase: waxing
-  zodiac sign: aries, scorpio
-  chakra: root
+  zodiac sign: aries, scorpio, sagittarius
+  chakra: root, solar plexus, heart, throat
   properties:
-    - afterlife
-    - assertiveness
     - attract luck
     - attraction
-    - balance
     - banish
     - break hexes
     - business
-    - cheerfulness
     - clarity
-    - clear mind
     - compassion
-    - concentration/focus
-    - confidence
     - courage
-    - discipline
-    - divination
     - domestic harmony
-    - energy
     - family
-    - fertility
     - fidelity
     - friendship
     - goodness
-    - grief
-    - healing
-    - honesty
-    - inner calm
-    - memory/memories
-    - mental stimulation
-    - messages/omens
     - money
     - negativity
     - obstacles
     - peace
-    - power
     - prosperity
     - protection
     - psychic ability
@@ -50,24 +31,19 @@ basil:
     - reconciliation
     - relationships
     - release attachments
-    - sexuality
-    - smell
-    - strength
-    - stress
     - success
     - trust
-    - wishes
-    - witches/witchcraft
-    - happiness
     - defensive magic
-  holidays:
-    - imbolc
+    - love
+    - luck
   toxicity:
     notes:
       - avoid if pregnant
       - avoid if nursing
       - not recommended for internal use for infant and toddlers
       - do not take essential oil internally
+  holidays:
+    - imbolc
   medicinal:
     parts used: leaves, flowering tops, essential oil
     key constituents:
@@ -78,6 +54,10 @@ basil:
       - mild sedative
       - antibacterial
       - expels worms
+      - cramps
+      - headaches
+      - anxiety
+      - antifungal
     uses:
       - flatulence, cramps, and colic
       - indigestion
@@ -97,3 +77,4 @@ basil:
     - cunningham-herbs
     - kynes-correspondences
     - chevallier-herbal-medicine
+    - riteofritual-apothecary

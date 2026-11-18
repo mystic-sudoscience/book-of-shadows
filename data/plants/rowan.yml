@@ -8,31 +8,16 @@ rowan:
   chakra: solar plexus
   properties:
     - astral realm
-    - attract luck
-    - authority
     - bind
-    - blessings
-    - break hexes
-    - challenges
     - clairvoyance
     - control senses
-    - dedication/devotion
     - defense
     - destruction
     - divination
     - enchantment
-    - family
-    - fertility
-    - forgiveness
-    - grounding
-    - guidance
     - harmony
     - healing
-    - imagination
-    - insight
     - inspiration
-    - karma
-    - knowledge
     - life
     - magic
     - power
@@ -40,17 +25,10 @@ rowan:
     - protect from lightning
     - psychic ability
     - security
-    - self-improvement
-    - skills
     - spirits
-    - stress
     - success
-    - warrior energy
-    - wisdom
     - witches/witchcraft
     - visions
-    - fairy magic
-    - learning
   toxicity:
     humans: false
     pets: false

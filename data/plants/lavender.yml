@@ -1,58 +1,36 @@
 lavender:
   type: herb & garden
   parts used: flowers, leaves, stems
-  planet: mercury
+  planet: mercury, venus, moon
   element: air
   moon phase: waxing
   zodiac sign: aquarius, gemini, leo, pisces, virgo
-  chakra: heart
+  chakra: heart, crown
   properties:
     - love
     - anger
     - anxiety
     - attraction
-    - awareness
     - beauty
     - calm
-    - challenges
-    - clarity
-    - communication
-    - concentration/focus
     - connections
     - consecrate/bless
-    - courage
-    - divination
-    - dream work
-    - emotional balance
     - fidelity
     - friendship
-    - grief
-    - grounding
     - harmony
-    - healing
-    - heartbreak
-    - inspiration
-    - life
-    - lust
-    - manifestation
     - marriage
     - negativity
     - protection
-    - psychic ability
     - purification
-    - rebirth/renewal
     - relationships
     - ritual purification
-    - romance
-    - sensitivity
-    - sexuality
     - sleep
     - stability
     - stress
     - support
-    - well-being
-    - wishes
     - longevity
+    - peace
+    - happiness
   toxicity:
     humans: false
     pets: true
@@ -72,6 +50,10 @@ lavender:
       - antidepressant
       - neuroprotective
       - antimicrobial
+      - insect repellant
+      - headache relief
+      - antiseptic
+      - skin toner
     uses:
       - anxiety
       - insomnia
@@ -96,3 +78,4 @@ lavender:
     - morgana-green-witch
     - kynes-correspondences
     - chevallier-herbal-medicine
+    - riteofritual-apothecary

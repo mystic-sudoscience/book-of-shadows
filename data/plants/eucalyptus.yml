@@ -1,9 +1,15 @@
 eucalyptus:
-  planet: moon
-  element: water
+  planet: moon, mercury, uranus
+  element: water, air
+  zodiac sign: cancer, virgo
+  chakra: throat, third eye
   properties:
+    - clarity
     - healing
+    - prosperity
     - protection
+    - purification
+    - vitality
   toxicity:
     notes:
       - may cause liver problems
@@ -24,6 +30,10 @@ eucalyptus:
       - expectorant
       - stimulates local blood flow
       - insect repellent
+      - decongestant
+      - muscle relaxant
+      - cold relief
+      - emotional rejuvenation
     uses:
       - colds and flu
       - sore throats
@@ -43,3 +53,4 @@ eucalyptus:
   citation:
     - cunningham-herbs
     - chevallier-herbal-medicine
+    - riteofritual-apothecary

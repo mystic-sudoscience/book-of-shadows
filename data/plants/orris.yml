@@ -1,6 +1,8 @@
 orris:
   planet: venus
   element: water
+  zodiac sign: pisces
+  chakra: heart
   properties:
     - astral realm
     - attraction
@@ -10,6 +12,7 @@ orris:
     - community
     - divination
     - energy
+    - harmonize emotions
     - love
     - magic
     - obstacles
@@ -17,6 +20,16 @@ orris:
     - relationships
     - romance
     - sexuality
+  medicinal:
+    key actions:
+      - blood-purifying
+      - gland-stimulating
+      - stimulates appetite and digestion
+      - relieves headaches, toothache, muscle and joint pain
+      - eases migraine, constipation, bloating
+      - supports skin health
+      - blood sugar support
   citation:
     - cunningham-herbs
     - kynes-correspondences
+    - riteofritual-apothecary

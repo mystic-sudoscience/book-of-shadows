@@ -3,40 +3,25 @@ mandrake:
   planet: mercury
   element: earth, fire
   moon phase: waning
-  zodiac sign: taurus
-  chakra: root
+  zodiac sign: taurus, scorpio
+  chakra: root, third eye
   properties:
-    - astral realm
+    - amplification
     - authority
     - banish
-    - bind
     - black magic
-    - break hexes
-    - challenges
     - courage
     - desire
-    - discipline
     - divination
-    - dream work
     - face danger
     - fertility
-    - growth
-    - healing
     - increase
-    - love
     - magic
-    - messages/omens
     - money
     - passion
-    - power
     - prosperity
     - protection
     - security
-    - sleep
-    - solar energy
-    - spirits
-    - spiritual energy
-    - well-being
     - witches/witchcraft
   toxicity:
     humans: true
@@ -47,8 +32,14 @@ mandrake:
       - do not take internally
       - use externally only under professional supervision
       - restricted in some countries
+  medicinal:
+    key actions:
+      - trigger vomiting
+      - induce sleepiness
+      - reduce pain
   citation:
     - morgana-green-witch
     - cunningham-herbs
     - kynes-correspondences
     - chevallier-herbal-medicine
+    - riteofritual-apothecary

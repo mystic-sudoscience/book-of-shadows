@@ -1,9 +1,18 @@
 lemongrass:
   planet: mercury
   element: air
+  zodiac sign: gemini, virgo
+  chakra: third eye
   properties:
+    - clarity
+    - insight
+    - love
     - lust
+    - prosperity
+    - protection
     - psychic ability
+    - purification
+    - remove obstacles
   toxicity:
     notes:
       - do not take essential oil internally without professional supervision
@@ -16,6 +25,11 @@ lemongrass:
       - carminative
       - reduces fever
       - sedative
+      - antibacterial
+      - antifungal
+      - antimicrobial
+      - digestive support
+      - nervine
     uses:
       - digestive problems
       - cramping pains and flatulence
@@ -29,3 +43,4 @@ lemongrass:
   citation:
     - cunningham-herbs
     - chevallier-herbal-medicine
+    - riteofritual-apothecary

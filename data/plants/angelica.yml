@@ -1,63 +1,36 @@
 angelica:
   type: herb & garden
   parts used: root, stems, leaves, seeds
-  planet: sun
+  planet: sun, mercury
   element: fire
-  zodiac sign: aries, leo
   moon phase: waning
-  chakra: third eye
+  zodiac sign: aries, leo, cancer
+  chakra: third eye, root, heart, crown
   properties:
-    - acceptance
-    - attract luck
-    - attraction
-    - balance
     - banish
-    - beauty
-    - beginnings
     - bind
     - break hexes
     - calm
     - clairvoyance
-    - community
     - consecrate/bless
     - defense
     - divination
     - dream work
-    - female power
     - friendship
-    - growth
-    - harmony
     - healing
     - holy spirits
-    - insight
-    - inspiration
-    - introspection
     - life
-    - listening
     - messages/omens
     - negativity
     - obstacles
-    - peace
     - protection
     - purification
     - security
-    - self-improvement
-    - sorrow
-    - spiritual energy
     - spiritual protection
-    - spirituality
-    - stability
     - stimulation
-    - strength
-    - stress
-    - success
-    - support
     - longevity
     - visions
-  holidays:
-    - beltane
-    - imbolc
-    - samhain
+    - blessings
   toxicity:
     humans: false
     notes:
@@ -66,6 +39,10 @@ angelica:
       - may increase sensitivity to sunlight
       - avoid as a medicine if pregnant
       - do not confuse with chinese angelica
+  holidays:
+    - beltane
+    - imbolc
+    - samhain
   medicinal:
     parts used: root, leaves, stems, seeds
     key constituents:
@@ -78,6 +55,11 @@ angelica:
       - circulatory stimulant
       - expectorant
       - anti-inflammatory
+      - indigestion
+      - liver tonic
+      - reduce headaches and fevers
+      - improve circulation
+      - increase energy
     uses:
       - indigestion, gas, and colic
       - stomach spasm
@@ -89,3 +71,4 @@ angelica:
     - cunningham-herbs
     - kynes-correspondences
     - chevallier-herbal-medicine
+    - riteofritual-apothecary

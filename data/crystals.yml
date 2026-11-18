@@ -1,3 +1,12 @@
+african turquoise:
+  zodiac sign: cancer, capricorn
+  chakra: throat
+  properties:
+    - attract positive energy
+    - growth
+    - transformation
+  citation:
+    - riteofritual-crystals
 agate:
   properties:
     - anxiety
@@ -19,7 +28,9 @@ agate:
     - quiet mind
     - raise consciousness
     - reversal
+    - stability
     - storms
+    - support
     - truth
     - vitality
   varieties:
@@ -31,11 +42,15 @@ agate:
         - protection
         - stress
     black:
+      zodiac sign: capricorn
+      chakra: root
       properties:
+        - calm
         - communication
         - courage
         - darkness
         - energy
+        - grounding
         - healing
         - peace
         - protection
@@ -46,6 +61,13 @@ agate:
         - beauty
         - face danger
         - receptive energy
+    botswana:
+      zodiac sign: gemini, scorpio
+      chakra: root, sacral
+      properties:
+        - creativity
+        - inner healing
+        - universal love
     brown:
       properties:
         - courage
@@ -55,10 +77,33 @@ agate:
         - sexuality
         - success
         - wealth
-    fire:
+    cherry blossom:
+      zodiac sign: gemini, libra, capricorn
+      chakra: heart, third eye
       properties:
+        - growth
+        - nurture
+        - sensuality
+        - support
+        - transformation
+      notes:
+        - also known as flower agate.
+    crazy lace:
+      zodiac sign: gemini
+      chakra: root, sacral
+      properties:
+        - encouragement
+        - happiness
+        - stability
+    fire:
+      zodiac sign: aries
+      chakra: root, sacral
+      properties:
+        - courage
+        - protection
         - security
         - sexuality
+        - strength
     green:
       properties:
         - fertility
@@ -93,16 +138,41 @@ agate:
         - healing
         - sexual energy
     tree:
+      zodiac sign: virgo
+      chakra: heart, crown
       properties:
         - abundance
         - agriculture
         - balance
+        - calm
+        - connect with the natural world
         - growth
+        - harmony
+        - inner peace
         - introspection
+        - remove obstacles
         - wealth
         - well-being
+    yellow crazy lace:
+      zodiac sign: gemini
+      chakra: solar plexus, third eye, crown
+      properties:
+        - creativity
+        - happiness
+        - strength
+        - vitality
   citation:
     - kynes-correspondences
+    - riteofritual-crystals
+agatized coral:
+  zodiac sign: cancer, pisces
+  chakra: root, sacral
+  properties:
+    - healing
+    - strength
+    - support
+  citation:
+    - riteofritual-crystals
 alexandrite:
   properties:
     - balance
@@ -128,138 +198,109 @@ alexandrite:
   citation:
     - kynes-correspondences
 amazonite:
+  zodiac sign: leo, virgo
+  chakra: throat, heart
   properties:
-    - afterlife
     - anxiety
-    - astral realm
     - balance
     - calm
     - clarity
     - communication
     - concentration/focus
-    - courage
-    - death
     - emotional challenges
     - fear
-    - fertility
-    - grounding
-    - growth
     - honor
     - hope
     - improvement
     - inspiration
-    - life
     - luck
     - luck with money
     - memory/memories
-    - negativity
-    - receptive energy
-    - relationships
     - stability
     - success
-    - trust
-    - truth
-    - unity
-    - universal love
   citation:
     - kynes-correspondences
+    - riteofritual-crystals
 amber:
   properties:
-    - ambition
-    - angel magic
     - balance
-    - beauty
     - black magic
     - calm
     - clarity
-    - clear mind
-    - courage
     - emotions
     - energy
     - fear
-    - fidelity
-    - gently activate/awaken
     - grief
     - harmony
     - healing
-    - honesty
-    - illumination
-    - increase
-    - knowledge
     - life
-    - love
     - magic
     - manifestation
-    - memory/memories
-    - mental power
-    - motivation
     - patience
     - peace
-    - power
     - protect from witchcraft
     - protection
-    - purification
-    - romance
     - sleep
-    - solar energy
     - solar magic
-    - spirituality
     - stability
     - stimulate happiness
     - stress
-    - success
-    - transformation
     - warmth
   citation:
     - kynes-correspondences
 amethyst:
+  planet: jupiter, moon
+  zodiac sign: pisces, aquarius, capricorn, virgo
+  chakra: third eye, crown
   properties:
-    - angel magic
     - anger
-    - awareness
     - balance
     - calm
-    - calm mind
     - changes
-    - clear mind
-    - communication
-    - concentration/focus
     - consciousness
-    - contact spirits
     - divination
     - face danger
     - fear
-    - gratitude
-    - grounding
-    - guidance
     - harmony
-    - healing
-    - inner healing
-    - inspiration
-    - justice
-    - manifest love
-    - manifestation
-    - needs
+    - intuition
     - negativity
+    - peace
     - prophecy
     - protection
     - psychic ability
-    - purification
-    - quiet mind
     - rebirth/renewal
-    - sexuality
-    - skills
     - sleep
     - spiritual beginnings
     - spiritual connections
     - spirituality
     - stability
-    - success
     - transformation
     - travel
-    - well-being
+  varieties:
+    aura:
+      planet: jupiter, moon
+      zodiac sign: aquarius, pisces, virgo
+      chakra: third eye, crown
+      properties:
+        - harmony
+        - intuition
+        - protection
+      notes:
+        - natural amethyst with a man-made aura coating
+    chevron:
+      planet: neptune, jupiter
+      zodiac sign: pisces, aquarius, virgo
+      chakra: third eye, crown
+      properties:
+        - amplification
+        - insight
+        - protection
+        - purification
+        - strength
+        - stress
   citation:
     - kynes-correspondences
+    - riteofritual-crystals
 ametrine:
   properties:
     - astral realm
@@ -284,6 +325,15 @@ ametrine:
     - stress
   citation:
     - kynes-correspondences
+ammonite:
+  zodiac sign: aquarius
+  chakra: root, sacral
+  properties:
+    - connections
+    - transformation
+    - wisdom
+  citation:
+    - riteofritual-crystals
 andalusite:
   properties:
     - balance
@@ -299,6 +349,8 @@ andalusite:
   citation:
     - kynes-correspondences
 angelite:
+  zodiac sign: aquarius
+  chakra: throat, third eye, crown
   properties:
     - angel magic
     - angelic messages
@@ -306,12 +358,15 @@ angelite:
     - anxiety
     - calm
     - communicate with the angelic realm
+    - communication
     - community
     - compassion
+    - connect with higher self
     - emotional stability
     - expand awareness
     - forgiveness
     - generosity
+    - intuition
     - listening
     - protection
     - psychic ability
@@ -319,10 +374,22 @@ angelite:
     - release/dispel fear
     - self-acceptance
     - spirit guardian
+    - spiritual connections
     - spiritual protection
     - stress
   citation:
     - kynes-correspondences
+    - riteofritual-crystals
+anorthosite:
+  chakra: root, third eye, crown
+  properties:
+    - awareness
+    - grounding
+    - protection
+  notes:
+    - also known as mystery stone.
+  citation:
+    - riteofritual-crystals
 apache tears:
   properties:
     - afterlife
@@ -347,6 +414,8 @@ apache tears:
   citation:
     - kynes-correspondences
 apatite:
+  zodiac sign: gemini, libra
+  chakra: throat, third eye
   properties:
     - abundance
     - acceptance
@@ -364,19 +433,28 @@ apatite:
     - inspiration
     - manifestation
     - mental stimulation
+    - motivation
     - open to love
     - overcome shyness
     - psychic ability
     - rebirth/renewal
+    - self-expression
     - sight
     - support
   varieties:
     blue:
+      planet: pluto
+      zodiac sign: gemini, libra, scorpio
+      chakra: throat, third eye
       properties:
         - beauty
         - beginnings
+        - clarity
+        - self-expression
+        - spiritual guidance
   citation:
     - kynes-correspondences
+    - riteofritual-crystals
 apophyllite:
   properties:
     - astral realm
@@ -403,40 +481,23 @@ apophyllite:
 aquamarine:
   properties:
     - alert mind
-    - angel magic
-    - authority
-    - banish
     - calm
     - clear mind
     - communication
-    - compassion
-    - courage
-    - desire
-    - discipline
     - fear
     - grief
-    - healing
-    - inner power
     - insight
     - inspiration
     - introspection
     - knowledge
     - loss
-    - marital harmony
     - mental clarity
     - prophecy
     - protection
     - psychic ability
-    - purification
-    - rebirth/renewal
-    - receptive energy
     - relationships
-    - self-love
-    - stimulation
     - stress
     - travel
-    - well-being
-    - youth
   citation:
     - kynes-correspondences
 aragonite:
@@ -460,54 +521,87 @@ aragonite:
         - self-healing
   citation:
     - kynes-correspondences
+astrophyllite:
+  zodiac sign: cancer, scorpio, capricorn
+  chakra: crown
+  properties:
+    - astral travel
+    - awareness
+    - transformation
+  citation:
+    - riteofritual-crystals
+atlantisite:
+  zodiac sign: virgo, libra, gemini
+  chakra: heart, crown
+  properties:
+    - deepen spirituality
+    - inner healing
+    - peace
+    - protection
+    - rebirth/renewal
+    - transformation
+  citation:
+    - riteofritual-crystals
 aventurine:
   properties:
     - abundance
-    - activate/awaken
-    - balance
-    - banish
-    - changes
     - clarity
     - clear mind
     - community
     - compassion
-    - confidence
-    - courage
-    - emotions
     - empathy
     - energy
     - friendship
     - healing
-    - heartbreak
-    - imagination
-    - influence love
     - insight
     - introspection
     - justice
-    - lift emotions
     - mental power
-    - motivation
-    - negativity
     - prosperity
-    - protection
-    - sexuality
     - wealth
     - well-being
   varieties:
-    green:
+    aura:
+      zodiac sign: aries, taurus, virgo
+      chakra: heart
       properties:
+        - abundance
+        - growth
+        - healing
+    green:
+      zodiac sign: aries, taurus, virgo
+      chakra: heart
+      properties:
+        - abundance
         - anxiety
         - calm
+        - growth
+        - healing
         - inner strength
         - integrity
         - money
         - sight
         - success
+    grey:
+      zodiac sign: virgo, capricorn
+      chakra: root, third eye
+      properties:
+        - clarity
+        - emotional balance
+        - grounding
+    red:
+      zodiac sign: aries
+      chakra: root, sacral
+      properties:
+        - balance
+        - creativity
+        - prosperity
     reddish brown:
       properties:
         - personal power
   citation:
     - kynes-correspondences
+    - riteofritual-crystals
 azurite:
   properties:
     - anxiety
@@ -543,36 +637,21 @@ azurite:
     - kynes-correspondences
 beryl:
   properties:
-    - acceptance
     - awareness
-    - banish
-    - challenges
     - communication
     - concentration/focus
-    - courage
     - energy
     - enmity
-    - fame
-    - fear
     - friendship
     - goodness
     - healing
-    - increase
-    - inner balance
     - love
     - marriage
     - memory/memories
-    - moon magic
-    - protection
     - psychic ability
-    - receptive energy
     - reconcile friendships
     - reconcile marriage
     - relationships
-    - spirituality
-    - stability
-    - storms
-    - travel
     - well-being
   varieties:
     golden:
@@ -581,52 +660,39 @@ beryl:
   citation:
     - kynes-correspondences
 bloodstone:
+  planet: mars
+  zodiac sign: aries, libra, pisces
+  chakra: root, sacral, solar plexus, heart
   properties:
     - abundance
     - adaptability
     - aggression
-    - anger
     - banish
-    - beginnings
-    - business
-    - calm mind
-    - concentration/focus
     - confidence
     - consecrate/bless
     - courage
-    - emotions
     - energy
-    - enmity
-    - fairness
-    - fame
-    - fear
     - healing
     - honesty
     - integrity
     - justice
     - life
-    - love
     - luck
-    - magical power
-    - mental balance
     - money
     - obstacles
-    - order/organize
-    - passion
     - power
-    - pregnancy/childbirth
     - prosperity
-    - rebirth/renewal
-    - relationships
+    - purification
     - skills
-    - spirituality
     - stimulation
-    - stress
     - success
-    - wealth
+    - vitality
   citation:
     - kynes-correspondences
+    - riteofritual-crystals
 blue lace agate:
+  zodiac sign: gemini, pisces
+  chakra: throat, third eye
   properties:
     - angel magic
     - anger
@@ -650,6 +716,7 @@ blue lace agate:
     - receptive energy
     - relationships
     - release/dispel fear
+    - self-expression
     - sensitivity
     - spirituality
     - stress
@@ -657,6 +724,15 @@ blue lace agate:
     - trust
   citation:
     - kynes-correspondences
+    - riteofritual-crystals
+bronzite:
+  zodiac sign: leo
+  properties:
+    - grounding
+    - harmony
+    - protection
+  citation:
+    - riteofritual-crystals
 calcite:
   properties:
     - astral realm
@@ -674,13 +750,46 @@ calcite:
     - support
     - wealth
   varieties:
-    blue:
+    amber:
+      zodiac sign: cancer, leo, pisces
+      chakra: sacral, solar plexus, crown
       properties:
+        - balance
+        - clarity
+        - confidence
+      notes:
+        - also known as honey calcite.
+    blue:
+      zodiac sign: pisces, cancer
+      chakra: throat, third eye
+      properties:
+        - calm
+        - communication
+        - express emotions
         - healing
         - heartbreak
         - psychic ability
         - purification
         - receptive energy
+    caribbean blue:
+      zodiac sign: cancer, pisces
+      chakra: throat, third eye
+      properties:
+        - calm
+        - communication
+        - express emotions
+    chocolate:
+      zodiac sign: scorpio, pisces, capricorn, taurus
+      chakra: solar plexus, root
+      properties:
+        - grounding
+        - inner peace
+        - motivation
+        - provide comfort
+        - purification
+        - stability
+      notes:
+        - also known as brown calcite.
     clear:
       properties:
         - clarity
@@ -690,16 +799,38 @@ calcite:
         - introspection
         - receptive energy
         - spirituality
+    golden:
+      planet: sun, mercury
+      zodiac sign: cancer
+      chakra: solar plexus, sacral
+      properties:
+        - confidence
+        - emotional balance
+        - hope
     green:
+      zodiac sign: cancer, virgo
+      chakra: heart
       properties:
         - changes
         - emotional balance
         - fear
+        - healing
         - imagination
         - money
         - prosperity
         - receptive energy
+        - release attachments
+    mangano:
+      zodiac sign: taurus, cancer, libra
+      chakra: heart
+      properties:
+        - compassion
+        - healing
+        - universal love
     orange:
+      element: fire, earth
+      zodiac sign: cancer, leo, sagittarius
+      chakra: sacral, solar plexus
       properties:
         - confidence
         - courage
@@ -720,59 +851,51 @@ calcite:
       properties:
         - rebirth/renewal
         - spirituality
+    yellow:
+      zodiac sign: sagittarius, pisces
+      chakra: solar plexus, sacral, crown
+      properties:
+        - confidence
+        - emotional balance
+        - hope
   citation:
     - kynes-correspondences
+    - riteofritual-crystals
 carnelian:
+  planet: mars
+  zodiac sign: aries, taurus, cancer, leo
+  chakra: sacral
   properties:
     - aggression
-    - alert mind
     - anger
-    - astral realm
     - cheerfulness
-    - concentration/focus
     - confidence
     - courage
     - desire
-    - energy
-    - enmity
     - fear
     - fertility
-    - grief
     - harmony
-    - healing
-    - inspiration
-    - introspection
-    - jealousy
     - lust
-    - manifestation
-    - memory/memories
     - negativity
-    - nightmares
-    - obstacles
     - peace
     - personal power
     - power
-    - pride
     - protection
     - psychic protection
-    - rebirth/renewal
     - reversal
     - self-respect
     - sexual energy
     - sexuality
     - shyness
-    - sorrow
     - stress
-    - success
     - travel
-    - well-being
-    - wishes
   varieties:
     yellow:
       properties:
         - eloquence
   citation:
     - kynes-correspondences
+    - riteofritual-crystals
 cat's eye:
   properties:
     - animal magic
@@ -786,13 +909,18 @@ cat's eye:
   citation:
     - kynes-correspondences
 celestite:
+  planet: mercury
+  zodiac sign: gemini, libra, cancer, pisces
+  chakra: throat, third eye, crown
   properties:
     - angel magic
     - astral realm
     - awareness
     - clarity
+    - communicate with the angelic realm
     - compassion
     - develop skills
+    - divine connections
     - eloquence
     - emotional calm
     - emotions
@@ -800,13 +928,17 @@ celestite:
     - healing
     - inspiration
     - motivation
+    - self-expression
     - spiritual calm
     - spiritual energy
     - spirituality
     - stability
     - stress
+  notes:
+    - also known as celestine.
   citation:
     - kynes-correspondences
+    - riteofritual-crystals
 cerussite:
   properties:
     - astral realm
@@ -818,6 +950,24 @@ cerussite:
     - respect
   citation:
     - kynes-correspondences
+chalcedony:
+  varieties:
+    blue:
+      zodiac sign: cancer, libra, sagittarius
+      chakra: throat, third eye
+      properties:
+        - calm
+        - communication
+        - harmony
+    pink:
+      zodiac sign: taurus, libra
+      chakra: heart
+      properties:
+        - compassion
+        - heartbreak
+        - inner strength
+  citation:
+    - riteofritual-crystals
 charoite:
   properties:
     - community
@@ -838,6 +988,17 @@ charoite:
     - unity
   citation:
     - kynes-correspondences
+chinese writing stone:
+  zodiac sign: cancer
+  chakra: root
+  properties:
+    - balance
+    - stability
+    - wisdom
+  notes:
+    - also known as chinese writing rock.
+  citation:
+    - riteofritual-crystals
 chrysoberyl:
   properties:
     - abundance
@@ -854,6 +1015,8 @@ chrysoberyl:
   citation:
     - kynes-correspondences
 chrysocolla:
+  zodiac sign: taurus, gemini, virgo
+  chakra: heart, throat
   properties:
     - anger
     - anxiety
@@ -862,6 +1025,7 @@ chrysocolla:
     - communication
     - confidence
     - control senses
+    - emotional balance
     - emotions
     - fear
     - grief
@@ -875,52 +1039,45 @@ chrysocolla:
     - power
     - pregnancy/childbirth
     - relationships
+    - spiritual purification
     - stability
     - stress
+    - support
   citation:
     - kynes-correspondences
+    - riteofritual-crystals
 chrysoprase:
+  planet: venus
+  zodiac sign: taurus, libra
+  chakra: heart, throat
   properties:
     - abundance
-    - activate/awaken
-    - adaptability
     - anger
     - anxiety
     - attraction
-    - banish
-    - clairvoyance
-    - communication
     - compassion
-    - courage
     - emotional balance
     - emotions
     - enmity
     - forgiveness
-    - grace
     - grief
-    - growth
     - healing
     - heartbreak
-    - inner strength
-    - kindness
-    - light
+    - love
     - money
     - nightmares
-    - open mind
-    - patience
-    - protection
-    - receptive energy
     - sight
-    - sorrow
     - stability
     - stress
     - success
     - trust
-    - truth
-    - willpower
   citation:
     - kynes-correspondences
+    - riteofritual-crystals
 citrine:
+  planet: mercury, sun
+  zodiac sign: aries, gemini, leo, libra
+  chakra: sacral, crown, solar plexus
   properties:
     - abundance
     - authority
@@ -931,39 +1088,20 @@ citrine:
     - cheerfulness
     - clarity
     - clear mind
-    - community
-    - confidence
     - consciousness
-    - discipline
     - emotions
-    - energy
     - fear
-    - goodness
     - harmony
-    - healing
-    - magical power
     - manifest abundance
-    - manifest power
-    - marriage
     - mental power
-    - negativity
-    - nightmares
     - open mind
     - prosperity
-    - protection
-    - psychic ability
     - rebirth/renewal
-    - relationships
-    - sexual energy
     - sleep
-    - solar magic
     - spiritual guidance
     - spirituality
-    - subconscious
     - success
-    - vitality
     - wealth
-    - willpower
   varieties:
     madeira:
       properties:
@@ -971,6 +1109,7 @@ citrine:
         - passion
   citation:
     - kynes-correspondences
+    - riteofritual-crystals
 danburite:
   properties:
     - angelic connections
@@ -991,51 +1130,40 @@ danburite:
   citation:
     - kynes-correspondences
 desert rose:
+  zodiac sign: taurus, scorpio, capricorn
+  chakra: root, crown
   properties:
     - beauty
+    - confidence
     - enlightenment
     - life
     - love
+    - perseverance
+    - protection
     - spirituality
   citation:
     - kynes-correspondences
+    - riteofritual-crystals
 diamond:
   properties:
     - beauty
     - challenges
-    - clairaudience
-    - clairvoyance
     - confidence
     - consciousness
     - courage
     - dedication/devotion
-    - desire
-    - destiny
-    - enchantment
-    - encouragement
-    - energy
     - enmity
-    - fairness
     - family
     - fear
     - fidelity
     - goodness
-    - healing
     - justice
     - loving relationships
-    - magic
-    - nightmares
     - protection
-    - purification
-    - purity
     - reconciliation
-    - sleep
-    - sorrow
     - spirituality
     - trust
     - truth
-    - wealth
-    - weather
   varieties:
     blue:
       properties:
@@ -1054,16 +1182,23 @@ diamond:
   citation:
     - kynes-correspondences
 diopside:
+  planet: pluto
+  zodiac sign: virgo
+  chakra: heart
   properties:
     - community
+    - concentration/focus
     - dedication/devotion
     - dignity
+    - emotional balance
     - forgiveness
     - healing
+    - insight
     - love
     - spirituality
   citation:
     - kynes-correspondences
+    - riteofritual-crystals
 dioptase:
   properties:
     - abundance
@@ -1080,40 +1215,31 @@ dioptase:
     - well-being
   citation:
     - kynes-correspondences
+dumortierite:
+  properties:
+    - clarity
+    - patience
+    - wisdom
+  citation:
+    - riteofritual-crystals
 emerald:
   properties:
     - business
     - clairvoyance
     - clear mind
-    - contact spirits
-    - emotional balance
-    - emotions
-    - endurance
     - friendship
-    - healing
     - improvement
-    - inner truth
     - insight
-    - integrity
     - jealousy
     - knowledge
-    - manifestation
     - memory/memories
     - mental power
     - money
     - prophecy
-    - protect from enchantment
-    - protection
     - psychic ability
-    - receptive energy
     - secure love
     - security in love
-    - self-discipline
-    - sexuality
-    - sight
-    - travel
     - wealth
-    - wishes
   citation:
     - kynes-correspondences
 fluorite:
@@ -1148,59 +1274,110 @@ fluorite:
     - well-being
     - willpower
   varieties:
+    aura:
+      zodiac sign: pisces, aquarius
+      chakra: third eye, crown
+      properties:
+        - clarity
+        - intuition
+        - mental clarity
+        - raise consciousness
+    blue:
+      zodiac sign: capricorn, pisces
+      chakra: throat, third eye
+      properties:
+        - clarity
+        - communication
+        - inner peace
     green:
+      zodiac sign: pisces, capricorn
+      chakra: heart, third eye
       properties:
+        - boost energy
         - growth
+        - healing
+        - protection
         - purification
-    violet:
+    rainbow:
+      planet: mercury, neptune
+      zodiac sign: capricorn, pisces, libra
+      chakra: heart, throat, third eye, crown
       properties:
+        - boost energy
+        - clarity
+        - concentration/focus
+        - grounding
+        - harmony
+        - healing
+        - purification
+        - spiritual balance
+        - stability
+    violet:
+      zodiac sign: capricorn, pisces
+      chakra: crown, third eye
+      properties:
+        - concentration/focus
+        - creativity
         - introspection
+        - intuition
         - spirituality
+    yellow:
+      zodiac sign: pisces
+      chakra: solar plexus
+      properties:
+        - clarity
+        - creativity
+        - prosperity
   citation:
     - kynes-correspondences
+    - riteofritual-crystals
+fuchsite:
+  zodiac sign: libra, aquarius
+  chakra: heart
+  properties:
+    - compassion
+    - happiness
+    - healing
+    - rebirth/renewal
+    - vitality
+  citation:
+    - riteofritual-crystals
+galaxite:
+  zodiac sign: sagittarius
+  chakra: crown, third eye
+  properties:
+    - intuition
+    - protection
+    - spiritual purification
+  notes:
+    - also known as micro-labradorite.
+  citation:
+    - riteofritual-crystals
 garnet:
+  zodiac sign: leo, virgo, capricorn, aquarius
+  chakra: root, sacral, heart
   properties:
     - adaptability
-    - ambition
-    - anger
     - attraction
-    - balance
-    - calm
     - compassion
     - confidence
-    - darkness
-    - dedication/devotion
-    - defense
     - desire
     - determination
-    - emotions
     - endurance
     - energy
-    - fairness
     - fertility
     - fidelity
     - friendship
-    - harmony
     - healing
     - heartbreak
-    - imagination
     - life
-    - light
+    - love
     - loyalty
     - lust
-    - manifestation
-    - negativity
-    - nightmares
     - passion
-    - patience
     - personal power
-    - protection
-    - purification
     - sexuality
-    - stimulate happiness
-    - success
     - truth
-    - weather
     - well-being
   varieties:
     black:
@@ -1232,120 +1409,146 @@ garnet:
         - mind
   citation:
     - kynes-correspondences
+    - riteofritual-crystals
+goldstone:
+  notes:
+    - man-made glass with metallic inclusions
+  varieties:
+    blue:
+      zodiac sign: sagittarius
+      chakra: throat, third eye, crown
+      properties:
+        - ambition
+        - luck
+        - protection
+    copper:
+      zodiac sign: capricorn, sagittarius
+      chakra: root, solar plexus
+      properties:
+        - ambition
+        - confidence
+        - grounding
+        - motivation
+        - perseverance
+    green:
+      zodiac sign: sagittarius
+      chakra: heart
+      properties:
+        - emotional balance
+        - motivation
+        - prosperity
+  citation:
+    - riteofritual-crystals
 hawk's eye:
+  zodiac sign: capricorn, leo
+  chakra: throat, third eye
   properties:
     - animal magic
     - animals
     - attachments
     - awareness
     - balance
-    - clarity
-    - heal from negativity
-    - healing
-    - insight
-    - karma
-    - psychic ability
-    - rebirth/renewal
-  citation:
-    - kynes-correspondences
-hematite:
-  properties:
-    - activate/awaken
-    - adaptability
-    - afterlife
-    - anxiety
-    - astral realm
-    - attraction
-    - awareness
-    - balance
     - calm
     - clarity
-    - community
-    - concentration/focus
+    - confidence
+    - emotional balance
+    - heal from negativity
+    - healing
+    - inner strength
+    - insight
+    - karma
+    - mental clarity
+    - psychic ability
+    - rebirth/renewal
+  notes:
+    - also known as blue tiger's eye.
+  citation:
+    - kynes-correspondences
+    - riteofritual-crystals
+hematite:
+  zodiac sign: aries, aquarius
+  chakra: root
+  properties:
+    - adaptability
+    - afterlife
+    - awareness
+    - clarity
     - confidence
     - courage
     - death
     - discipline
-    - divination
     - energy
     - grounding
     - healing
-    - increase
-    - integrity
     - knowledge
     - light
     - limitations/boundaries
-    - loss
-    - manifestation
     - memory/memories
-    - mental purification
     - mind
     - negativity
-    - personal growth
     - power
-    - pregnancy/childbirth
     - protection
     - senses
-    - stability
-    - stress
-    - support
-    - universal energy
     - willpower
   citation:
     - kynes-correspondences
+    - riteofritual-crystals
 herkimer diamond:
   properties:
-    - agriculture
     - awareness
     - balance
-    - beauty
-    - bind relationships
     - clairaudience
     - clairvoyance
     - clear mind
-    - courage
     - energy
-    - fidelity
-    - grounding
-    - growth
     - healing
     - inner senses
     - mental power
-    - money
     - peace
-    - prosperity
-    - protection
     - psychic ability
-    - purification
-    - rebirth/renewal
-    - reconciliation
     - relationships
     - self-knowledge
-    - sexual energy
     - sleep
-    - spirituality
     - stability
     - stress
-    - travel
-    - wealth
     - well-being
   citation:
     - kynes-correspondences
 howlite:
+  zodiac sign: gemini, virgo
+  chakra: crown, third eye
   properties:
     - anger
     - anxiety
+    - awareness
+    - calm
     - express emotions
     - memory/memories
     - patience
     - pregnancy/childbirth
+    - spiritual connections
+    - spirituality
     - stress
   citation:
     - kynes-correspondences
+    - riteofritual-crystals
+hypersthene:
+  zodiac sign: aries, leo, sagittarius
+  chakra: root, third eye
+  properties:
+    - intuition
+    - protection
+    - strength
+  citation:
+    - riteofritual-crystals
 iolite:
+  planet: mars, jupiter
+  zodiac sign: aries, taurus, libra, sagittarius
+  chakra: third eye, crown, throat
   properties:
     - activate/awaken
     - astral realm
+    - awareness
     - balance the aura
     - beginnings
     - calm
@@ -1353,30 +1556,26 @@ iolite:
     - communication
     - connections
     - fairness
+    - intuition
     - manifestation
     - psychic ability
     - self-knowledge
+    - spiritual connections
     - spirituality
     - stability
     - stimulation
     - vitality
   citation:
     - kynes-correspondences
+    - riteofritual-crystals
 jade:
   properties:
     - abundance
-    - afterlife
-    - agriculture
-    - business
     - clarity
     - confidence
-    - cosmic connections
     - courage
-    - emotional balance
     - endurance
-    - fertility
     - goodness
-    - growth
     - guidance
     - heartbreak
     - inspiration
@@ -1385,20 +1584,17 @@ jade:
     - knowledge
     - luck
     - money
-    - negativity
     - nurture
-    - peace
     - prosperity
-    - protection
-    - purification
-    - rational mind
-    - receptive energy
-    - sexual energy
     - truth
-    - unconditional love
-    - weather
-    - well-being
   varieties:
+    black:
+      zodiac sign: aries, taurus, gemini, libra
+      chakra: root, third eye, crown
+      properties:
+        - grounding
+        - inner darkness
+        - protection
     blue:
       properties:
         - calm
@@ -1409,6 +1605,14 @@ jade:
         - adaptability
         - changes
         - grounding
+    green:
+      planet: venus, moon
+      zodiac sign: taurus, libra, pisces
+      chakra: root, heart
+      properties:
+        - longevity
+        - prosperity
+        - stability
     lavender:
       properties:
         - healing
@@ -1416,11 +1620,24 @@ jade:
       properties:
         - motivation
         - move/stimulate energy
-    white:
+    snowflake:
+      zodiac sign: aquarius, libra
+      chakra: throat
       properties:
+        - calm
+        - harmony
+        - peace
+    white:
+      zodiac sign: libra, pisces
+      chakra: heart, crown
+      properties:
+        - calm
+        - clarity
         - concentration/focus
+        - protection
   citation:
     - kynes-correspondences
+    - riteofritual-crystals
 jasper:
   properties:
     - action
@@ -1438,12 +1655,46 @@ jasper:
     - support
     - truth
   varieties:
+    black:
+      zodiac sign: aries, scorpio
+      chakra: root, solar plexus
+      properties:
+        - balance
+        - honesty
+        - protection
+      notes:
+        - also known as basanite.
+    brecciated:
+      planet: mars
+      zodiac sign: aries, scorpio
+      chakra: root, sacral
+      properties:
+        - concentration/focus
+        - grounding
+        - vitality
     brown:
       properties:
         - balance
         - face danger
         - grounding
         - receptive energy
+    dalmatian:
+      zodiac sign: virgo
+      chakra: root
+      properties:
+        - balance
+        - clarity
+        - grounding
+      notes:
+        - also known as dalmatian stone.
+    fancy:
+      zodiac sign: aries, scorpio
+      chakra: root, solar plexus
+      properties:
+        - concentration/focus
+        - discipline
+        - grounding
+        - perseverance
     green:
       properties:
         - balance
@@ -1461,6 +1712,32 @@ jasper:
         - sleep
         - wealth
         - well-being
+    himalayan green:
+      planet: earth, venus
+      zodiac sign: taurus, virgo, capricorn
+      chakra: heart, root
+      properties:
+        - growth
+        - heartbreak
+        - stability
+    kambaba:
+      zodiac sign: leo, virgo, scorpio
+      chakra: root, heart
+      properties:
+        - inner strength
+        - open to love
+        - stability
+      notes:
+        - also known as crocodile jasper.
+    kiwi:
+      zodiac sign: aries, leo, sagittarius
+      chakra: heart, throat
+      properties:
+        - balance
+        - healing
+        - nurture
+      notes:
+        - also known as sesame jasper.
     leopard skin:
       properties:
         - animal magic
@@ -1471,6 +1748,29 @@ jasper:
         - introspection
         - order/organize
         - travel
+    mookaite:
+      zodiac sign: virgo, scorpio
+      chakra: root, sacral, solar plexus
+      properties:
+        - awareness
+        - healing
+        - intuition
+    ocean:
+      planet: venus
+      zodiac sign: pisces, virgo, cancer, capricorn
+      chakra: heart, solar plexus
+      properties:
+        - balance
+        - calm
+        - emotional balance
+        - grounding
+        - happiness
+        - healing
+        - nurture
+        - patience
+        - protection
+      notes:
+        - also known as orbicular jasper, atlantis stone.
     picture:
       properties:
         - awareness
@@ -1481,6 +1781,13 @@ jasper:
     pink:
       properties:
         - love
+    polychrome:
+      properties:
+        - emotional balance
+        - grounding
+        - inner strength
+        - resilience
+        - vitality
     red:
       properties:
         - astral realm
@@ -1505,52 +1812,67 @@ jasper:
         - reversal
         - stability
         - well-being
+    scenery:
+      chakra: root
+      properties:
+        - courage
+        - manifestation
+        - strength
+        - wisdom
+    silver leaf:
+      chakra: root
+      properties:
+        - balance
+        - protection
+        - strength
+    tiger:
+      chakra: root
+      properties:
+        - balance
+        - emotional purification
+        - strength
     yellow:
       properties:
         - attract positive energy
         - clear mind
         - success
         - willpower
+    zebra:
+      zodiac sign: libra, virgo
+      chakra: root, sacral
+      properties:
+        - grounding
+        - happiness
+        - hope
   citation:
     - kynes-correspondences
+    - riteofritual-crystals
 jet:
+  zodiac sign: capricorn
+  chakra: root
   properties:
     - afterlife
-    - bind
-    - black magic
     - calm
-    - charity
     - clairvoyance
-    - community
-    - connections
     - darkness
     - death
     - divination
     - emotional balance
+    - emotional support
     - emotions
-    - energy
     - fear
-    - financial protection
     - grief
     - grounding
-    - healing
-    - honor
-    - illumination
-    - justice
     - magic
     - negativity
     - nightmares
+    - protection
     - psychic ability
-    - receptive energy
     - sleep
-    - spirituality
-    - storms
-    - transformation
     - travel
-    - well-being
-    - witches/witchcraft
   citation:
     - kynes-correspondences
+    - riteofritual-crystals
 kunzite:
   properties:
     - activate/awaken
@@ -1594,9 +1916,40 @@ kyanite:
     - loyalty
     - rebirth/renewal
     - stability
+  varieties:
+    black:
+      planet: saturn
+      zodiac sign: aries, taurus, libra
+      chakra: root
+      properties:
+        - grounding
+        - protection
+        - purification
+    blue:
+      zodiac sign: aries, taurus, libra, pisces
+      chakra: throat, third eye
+      properties:
+        - balance
+        - calm
+        - communication
+        - concentration/focus
+        - dream work
+        - move/stimulate energy
+        - raise consciousness
+    green:
+      zodiac sign: taurus, libra
+      chakra: heart
+      properties:
+        - balance
+        - growth
+        - healing
   citation:
     - kynes-correspondences
+    - riteofritual-crystals
 labradorite:
+  planet: jupiter, pluto
+  zodiac sign: leo, sagittarius, scorpio, aquarius, pisces
+  chakra: third eye, crown
   properties:
     - animals
     - awareness
@@ -1608,60 +1961,52 @@ labradorite:
     - courage
     - destiny
     - energy
+    - inner power
     - inner strength
     - inspiration
+    - intuition
     - listen to inner voice
     - magic
     - mindfulness
     - motivation
     - open to love
     - personal growth
+    - protection
+    - strength
     - stress
     - success
     - transformation
     - vitality
   citation:
     - kynes-correspondences
+    - riteofritual-crystals
 lapis lazuli:
+  planet: jupiter
+  zodiac sign: libra, sagittarius
+  chakra: throat, third eye
   properties:
-    - afterlife
     - awareness
-    - calm
     - communication
-    - cosmic connections
-    - courage
     - divination
-    - emotions
-    - enchantment
-    - family
     - fidelity
     - friendship
     - heartbreak
-    - improvement
-    - inner power
     - insight
-    - intellectual
     - introspection
-    - justice
+    - intuition
     - knowledge
     - love
-    - manifestation
-    - mental purification
     - mind
     - move/stimulate energy
-    - pregnancy/childbirth
     - prophecy
-    - protection during travel
     - psychic ability
     - relationships
     - sight
-    - spiritual purification
-    - spirituality
     - stimulation
-    - truth
     - unity
   citation:
     - kynes-correspondences
+    - riteofritual-crystals
 larimar:
   properties:
     - acceptance
@@ -1675,8 +2020,22 @@ larimar:
     - relationships
   citation:
     - kynes-correspondences
-lepidolite:
+lava stone:
+  zodiac sign: aries, scorpio
+  chakra: root
   properties:
+    - grounding
+    - perseverance
+    - resilience
+    - stability
+    - strength
+  citation:
+    - riteofritual-crystals
+lepidolite:
+  zodiac sign: libra, capricorn
+  chakra: solar plexus, third eye, crown, heart, throat
+  properties:
+    - awareness
     - balance
     - calm
     - change the mind
@@ -1695,97 +2054,68 @@ lepidolite:
     - shyness
     - spirituality
     - stress
+    - support during transitions
   citation:
     - kynes-correspondences
+    - riteofritual-crystals
 lodestone:
   properties:
     - attraction
     - authority
-    - balance
-    - bind
-    - blessings
     - business
     - challenges
-    - communication
-    - concentration/focus
     - confidence
-    - consecrate/bless
-    - energy
     - enmity
-    - fame
     - fidelity
-    - find your spiritual path
-    - forgiveness
     - friendship
     - goodness
-    - grounding
     - guardian
-    - guidance
-    - healing
     - love
     - luck
-    - magic
     - money
     - motivation
     - negativity
     - power
-    - pregnancy/childbirth
     - prosperity
     - protection
-    - purification
-    - receptive energy
-    - reconcile marriage
     - relationships
     - reversal
-    - romance
     - security
-    - sight
     - skills
-    - sleep
-    - strengthen loyalty
     - success
-    - weather
     - willpower
   citation:
     - kynes-correspondences
+magnesite:
+  zodiac sign: capricorn, virgo, pisces
+  chakra: heart, crown
+  properties:
+    - calm
+    - emotional balance
+    - inner peace
+  notes:
+    - often dyed to enhance its color
+  citation:
+    - riteofritual-crystals
 malachite:
+  zodiac sign: capricorn, scorpio
+  chakra: heart, throat, third eye
   properties:
     - abundance
-    - afterlife
     - agriculture
-    - astral realm
-    - black magic
     - business
     - calm
     - changes
-    - communication
-    - connections
-    - death
-    - divination
     - emotional balance
-    - emotional empowerment
-    - emotional purification
     - emotional security
     - emotions
     - face danger
-    - give love
-    - grounding
-    - guidance
-    - healing
     - hope
-    - loyalty
     - luck with money
-    - magical power
-    - mental purification
     - negativity
-    - nurture
     - peace
-    - personal power
-    - power
     - prosperity
     - protection
-    - psychic ability
-    - sight
     - skills
     - sleep
     - spirituality
@@ -1793,8 +2123,20 @@ malachite:
     - transformation
     - travel
     - wealth
+  notes:
+    - toxic when wet
   citation:
     - kynes-correspondences
+    - riteofritual-crystals
+merlinite:
+  zodiac sign: pisces
+  chakra: third eye, crown
+  properties:
+    - deepen spirituality
+    - self-discipline
+    - shamanic work
+  citation:
+    - riteofritual-crystals
 moldavite:
   properties:
     - astral realm
@@ -1822,56 +2164,68 @@ moldavite:
   citation:
     - kynes-correspondences
 moonstone:
+  planet: jupiter, moon
+  zodiac sign: cancer, libra, scorpio, sagittarius, pisces
+  chakra: sacral, third eye, crown
   properties:
-    - accomplishment
     - affection
-    - afterlife
-    - agriculture
-    - angel magic
-    - awareness
     - calm
     - clairvoyance
-    - communication
     - compassion
-    - contact spirits
-    - cycles
-    - death
-    - destiny
     - divination
     - emotional connections
     - emotions
-    - enchantment
     - friendship
-    - guidance
     - harmony
-    - healing
-    - hope
-    - knowledge
-    - light
+    - intuition
     - love
     - loyalty
-    - moon magic
     - night magic
-    - occult power
     - open to love
     - passion
     - pregnancy/childbirth
-    - protection during travel
     - psychic ability
     - reconciliation
     - sensitivity
     - sleep
     - stress
     - support
-    - travel
-    - unite mind, body, and spirit
     - youth
   varieties:
+    black:
+      planet: mercury, moon
+      zodiac sign: cancer, libra, scorpio, sagittarius
+      chakra: root, third eye, crown
+      properties:
+        - emotional protection
+        - grounding
+        - intuition
+        - protection
+        - support
     gray:
       properties:
         - obstacles
+    peach:
+      planet: venus, moon
+      zodiac sign: taurus, cancer, libra, scorpio
+      chakra: sacral, third eye, crown
+      properties:
+        - goddess magic
+        - inspiration
+        - intuition
+    rainbow:
+      planet: jupiter, moon
+      zodiac sign: cancer, sagittarius, pisces
+      chakra: sacral, third eye, crown
+      properties:
+        - intuition
+        - raise consciousness
+        - spiritual guidance
+      notes:
+        - also known as white labradorite.
   citation:
     - kynes-correspondences
+    - riteofritual-crystals
 morganite:
   properties:
     - angel magic
@@ -1889,11 +2243,15 @@ morganite:
   citation:
     - kynes-correspondences
 moss agate:
+  planet: venus, moon
+  zodiac sign: virgo
+  chakra: heart, crown
   properties:
     - abundance
     - agriculture
     - anger
     - attraction
+    - beginnings
     - calm
     - communication
     - confidence
@@ -1908,106 +2266,140 @@ moss agate:
     - hope
     - life
     - money
+    - nurture
     - power
     - receptive energy
     - spirituality
     - truth
     - wealth
     - well-being
+  varieties:
+    red:
+      planet: mars, earth
+      zodiac sign: aries, taurus, virgo
+      chakra: root, heart, sacral
+      properties:
+        - grounding
+        - inner healing
+        - stability
   citation:
     - kynes-correspondences
+    - riteofritual-crystals
+mugglestone:
+  chakra: root, solar plexus
+  properties:
+    - balance
+    - concentration/focus
+    - courage
+  notes:
+    - also known as tiger iron.
+  citation:
+    - riteofritual-crystals
+nuumite:
+  chakra: root
+  properties:
+    - elemental power
+    - empowerment
+    - grounding
+  citation:
+    - riteofritual-crystals
 obsidian:
+  zodiac sign: aries, scorpio, sagittarius, capricorn
+  chakra: root
   properties:
     - afterlife
-    - aggression
     - angelic messages
-    - balance
     - bind
     - clairvoyance
-    - clarity
-    - community
-    - connections
     - consecrate/bless
     - death
     - divination
     - emotional obstacles
     - emotional protection
-    - emotional transformation
-    - emotions
-    - enchantment
     - energetic obstacles
-    - fear
     - grounding
     - magic
-    - manifestation
-    - marriage
     - peace
-    - personal growth
-    - power
+    - protection
     - remove obstacles
-    - sexual energy
-    - spirituality
     - subconscious
-    - support
   varieties:
+    black:
+      zodiac sign: aries, scorpio, sagittarius, capricorn
+      chakra: root
+      properties:
+        - grounding
+        - protection
     gold sheen:
       properties:
         - develop skills
+    mahogany:
+      zodiac sign: libra, scorpio
+      chakra: root, sacral
+      properties:
+        - grounding
+        - protection
+        - remove obstacles
     rainbow:
       properties:
         - awareness
         - heighten senses
         - relationships
     snowflake:
+      zodiac sign: virgo, capricorn
+      chakra: root, sacral, solar plexus
       properties:
         - awareness
+        - balance
         - concentration/focus
         - confidence
+        - grounding
+        - inner balance
         - needs
         - negativity
         - protection against draining energy
         - purification
         - spiritual energy
+        - support
   citation:
     - kynes-correspondences
+    - riteofritual-crystals
 onyx:
   properties:
-    - authority
     - balance
-    - bind
-    - black magic
-    - community
     - confidence
-    - consecrate/bless
     - cool passion
     - defense
     - desire
     - discipline
-    - energy
     - fear
     - fertility
     - freedom
     - grief
-    - grounding
-    - guidance
-    - inspiration
-    - marriage
-    - memory/memories
-    - negativity in relationships
     - nightmares
     - patience
-    - personal growth
     - protection
-    - relationships
     - sexuality
-    - sorrow
-    - spiritual energy
     - stability
     - stress
-    - transformation
     - willpower
+  varieties:
+    black:
+      planet: saturn
+      zodiac sign: gemini, leo, capricorn
+      chakra: root
+      properties:
+        - protection
+        - resilience
+        - strength
+    white:
+      properties:
+        - insight
+        - psychic ability
+        - spiritual connections
   citation:
     - kynes-correspondences
+    - riteofritual-crystals
 opal:
   properties:
     - adaptability
@@ -2054,43 +2446,68 @@ opal:
         - money
         - passion
         - vitality
+    green:
+      planet: venus, moon
+      zodiac sign: libra, cancer, pisces
+      chakra: heart
+      properties:
+        - growth
+        - inner healing
+        - rebirth/renewal
+    pink:
+      zodiac sign: cancer, libra, scorpio, pisces
+      chakra: heart
+      properties:
+        - happiness
+        - insight
+        - rebirth/renewal
+    white:
+      zodiac sign: cancer, libra, scorpio, pisces
+      chakra: crown
+      properties:
+        - creativity
+        - emotional balance
+        - intuition
+    yellow:
+      chakra: solar plexus, sacral
+      properties:
+        - clarity
+        - happiness
+        - personal power
   citation:
     - kynes-correspondences
+    - riteofritual-crystals
+opalite:
+  planet: venus, moon
+  zodiac sign: cancer
+  chakra: third eye, crown
+  properties:
+    - communication
+    - confidence
+    - inner healing
+  notes:
+    - man-made glass
+  citation:
+    - riteofritual-crystals
 peridot:
+  zodiac sign: leo, virgo, libra
+  chakra: heart, solar plexus
   properties:
     - abundance
     - anger
     - balance
-    - beginnings
     - calm
-    - changes
-    - clairvoyance
     - emotions
-    - enchantment
     - energy
     - fear
-    - grounding
-    - heal relationships
     - healing
     - increase
-    - inspiration
-    - light
-    - mental stimulation
     - money
     - negativity
-    - night magic
-    - nightmares
-    - obstacles
     - peace
-    - prophecy
     - prosperity
     - protection
-    - psychic growth
-    - purification
-    - rebirth/renewal
-    - receptive energy
     - sight
-    - sleep
     - stress
     - success
     - travel
@@ -2098,7 +2515,10 @@ peridot:
     - well-being
   citation:
     - kynes-correspondences
+    - riteofritual-crystals
 petrified wood:
+  zodiac sign: leo, virgo
+  chakra: root, sacral
   properties:
     - balance
     - community
@@ -2111,10 +2531,13 @@ petrified wood:
     - protection
     - rebirth/renewal
     - receptive energy
+    - strength
     - stress
+    - support
     - vitality
   citation:
     - kynes-correspondences
+    - riteofritual-crystals
 phenacite:
   properties:
     - activate/awaken
@@ -2128,16 +2551,40 @@ phenacite:
     - travel
   citation:
     - kynes-correspondences
-pyrite:
+prehnite:
+  zodiac sign: virgo, libra
+  chakra: heart, third eye
   properties:
+    - dream work
+    - forgiveness
+    - insight
+  citation:
+    - riteofritual-crystals
+purpurite:
+  zodiac sign: virgo
+  chakra: crown
+  properties:
+    - communication
+    - express emotions
+    - insight
+  citation:
+    - riteofritual-crystals
+pyrite:
+  planet: sun
+  zodiac sign: leo, capricorn, sagittarius
+  chakra: solar plexus, root
+  properties:
+    - abundance
     - concentration/focus
     - divination
     - emotions
     - energy
+    - manifestation
     - memory/memories
     - mind
     - money
     - prosperity
+    - protect from negativity
     - protection
     - psychic ability
     - relationships
@@ -2146,8 +2593,11 @@ pyrite:
     - success
     - wealth
     - willpower
+  notes:
+    - also known as fool's gold.
   citation:
     - kynes-correspondences
+    - riteofritual-crystals
 quartz:
   properties:
     - abundance
@@ -2158,34 +2608,56 @@ quartz:
     - transformation
     - vitality
   varieties:
-    blue:
+    angel aura:
+      planet: moon, venus
+      zodiac sign: pisces, aquarius
+      chakra: crown, third eye, throat, heart
       properties:
-        - stress
-    clear:
+        - communication
+        - happiness
+        - harmony
+        - lift emotions
+        - light
+        - meditation
+        - purification
+        - spiritual connections
+        - support healing
+      notes:
+        - also known as rainbow aura quartz.
+        - clear quartz bonded with a thin layer of metal
+    aura druzy:
       properties:
         - activate/awaken
-        - afterlife
-        - angel magic
-        - astral realm
-        - awareness
-        - balance
-        - beginnings
-        - black magic
-        - blessings
-        - calm
-        - calm mind
-        - challenges
+        - growth
+        - patience
+    blue:
+      zodiac sign: gemini, libra
+      chakra: throat, third eye
+      properties:
         - clarity
         - communication
-        - community
+        - inner peace
+        - stress
+    cat's eye:
+      zodiac sign: aries, taurus, capricorn
+      chakra: root
+      properties:
+        - intuition
+        - prosperity
+        - protection
+    clear:
+      properties:
+        - amplification
+        - astral realm
+        - awareness
+        - black magic
+        - calm
+        - clarity
+        - communication
         - concentration/focus
-        - consecrate/bless
         - divination
         - enchantment
-        - friendship
-        - gratitude
         - guidance
-        - harmony
         - healing
         - inner senses
         - inspiration
@@ -2194,33 +2666,92 @@ quartz:
         - magical power
         - moon magic
         - negativity
-        - nurture
-        - open to love
-        - power
-        - pregnancy/childbirth
         - protection
         - psychic ability
-        - purification
-        - rebirth/renewal
-        - receptive energy
-        - sexuality
-        - skills
         - spirituality
         - stimulation
-        - universal energy
+    fire:
+      zodiac sign: aries, scorpio
+      chakra: root, sacral
+      properties:
+        - clarity
+        - grounding
+        - motivation
+      notes:
+        - also known as hematoid quartz.
+    golden healer:
+      chakra: crown, third eye, solar plexus
+      properties:
+        - amplification
+        - communicate with spirits
+        - healing
+        - raise consciousness
+        - spiritual connections
     green:
       properties:
         - prosperity
-    rutilated:
+    rose aura:
+      zodiac sign: taurus, libra
+      chakra: heart, crown, third eye
       properties:
+        - happiness
+        - heartbreak
+        - lift emotions
+        - love
+        - raise consciousness
+        - spiritual connections
+        - unconditional love
+      notes:
+        - quartz with a man-made metal coating
+    rutilated:
+      zodiac sign: taurus, gemini, leo
+      chakra: crown, third eye
+      properties:
+        - amplification
         - energy
         - fear
+        - intuition
+        - manifestation
         - power
         - pregnancy/childbirth
+        - psychic ability
         - willpower
+    shamanic dream:
+      zodiac sign: scorpio, pisces
+      chakra: root, third eye, crown
+      properties:
+        - calm
+        - connections
+        - dream work
+        - grounding
+        - insight
+        - meditation
+        - spiritual transformation
+        - transformation
+      notes:
+        - also known as lodolite, garden quartz.
+    spirit:
+      properties:
+        - harmony
+        - spiritual connections
+        - unity
+    sulphur:
+      zodiac sign: leo, aries
+      chakra: solar plexus, crown
+      properties:
+        - boost energy
+        - clarity
+        - purification
+        - rebirth/renewal
+        - transformation
     tourmalated:
+      zodiac sign: libra, scorpio
+      chakra: root, crown
       properties:
         - astral realm
+        - balance
+        - grounding
+        - protection
     white:
       properties:
         - family
@@ -2230,6 +2761,7 @@ quartz:
         - protection
   citation:
     - kynes-correspondences
+    - riteofritual-crystals
 rhodochrosite:
   properties:
     - abundance
@@ -2257,6 +2789,8 @@ rhodochrosite:
   citation:
     - kynes-correspondences
 rhodonite:
+  zodiac sign: taurus
+  chakra: root, heart
   properties:
     - activate/awaken
     - balance
@@ -2271,101 +2805,92 @@ rhodonite:
     - energy
     - fidelity
     - forgiveness
+    - love
     - marriage
     - patience
     - relationships
     - self-love
     - stress
+    - support
+    - vitality
   citation:
     - kynes-correspondences
+    - riteofritual-crystals
+rhyolite:
+  zodiac sign: sagittarius, gemini
+  chakra: heart, root
+  properties:
+    - connect with earth energies
+    - express emotions
+    - growth
+    - transformation
+  citation:
+    - riteofritual-crystals
 rose quartz:
+  planet: venus, moon, jupiter
+  zodiac sign: taurus, libra, cancer, pisces
+  chakra: heart
   properties:
     - acceptance
-    - activate/awaken
-    - aggression
-    - beginnings
-    - break negative self-image
     - calm
-    - charity
     - compassion
-    - confidence
-    - death
-    - dignity
     - emotional balance
     - emotions
-    - fairness
-    - fertility
     - fidelity
-    - freedom
     - friendship
     - grief
     - harmony
     - healing
     - heartbreak
-    - imagination
-    - improve self-image
-    - justice
+    - inner healing
     - love
     - nurture
-    - open to love
-    - pregnancy/childbirth
-    - protection
-    - receptive energy
     - reconciliation
     - relationships
-    - romance
+    - self-love
     - sorrow
     - stress
-    - success
+    - unconditional love
     - unity
   citation:
     - kynes-correspondences
+    - riteofritual-crystals
 ruby:
   properties:
-    - acceptance
-    - agriculture
-    - changes
     - community
     - compassion
     - connections
     - courage
-    - dedication/devotion
     - desire
     - emotional protection
-    - emotions
-    - energy
     - freedom
-    - grief
-    - growth
     - guardian
-    - healing
-    - light
     - loyalty
     - lust
-    - magical power
-    - mental balance
-    - nightmares
     - open to love
     - passion
     - peace
     - power
-    - prophecy
-    - prosperity
     - protect from negativity
     - protection
-    - psychic ability
     - self-respect
     - sexual energy
     - sexuality
     - strengthen relationships
-    - support
-    - vitality
     - warn of danger
-    - wealth
-    - weather
-    - well-being
   citation:
     - kynes-correspondences
+ruby in zoisite:
+  zodiac sign: aries, aquarius
+  chakra: crown, heart, root
+  properties:
+    - connections
+    - growth
+    - vitality
+  notes:
+    - also known as anyolite.
+  citation:
+    - riteofritual-crystals
 salt:
   properties:
     - abundance
@@ -2397,48 +2922,27 @@ salt:
     - kynes-correspondences
 sapphire:
   properties:
-    - anger
     - astral realm
-    - authority
     - beginnings
     - communication
     - consciousness
     - courage
     - dedication/devotion
-    - emotions
-    - enchantment
-    - encouragement
     - enmity
-    - fairness
-    - fear
     - fidelity
-    - freedom
     - friendship
     - goodness
-    - healing
     - imagination
-    - improvement
     - insight
     - intellectual
-    - magical power
-    - male power
     - manifest dreams
     - mind
-    - money
-    - motivation
-    - nightmares
     - peace
-    - power
     - prophecy
     - psychic ability
-    - purification
     - receptive energy
     - reconciliation
-    - sexuality
-    - sleep
     - spirituality
-    - travel
-    - truth
   varieties:
     black star:
       properties:
@@ -2470,25 +2974,55 @@ sard:
   citation:
     - kynes-correspondences
 sardonyx:
+  zodiac sign: leo, virgo, aries
+  chakra: root, sacral
   properties:
     - authority
     - blessings
     - cheerfulness
     - concentration/focus
+    - confidence
     - consecrate/bless
     - courage
+    - creativity
     - discipline
     - eloquence
+    - friendship
+    - grounding
     - love
+    - luck
     - marriage
     - peace
     - protection
     - relationships
+    - stability
+    - strength
+  varieties:
+    black:
+      zodiac sign: aries, taurus, leo, virgo
+      chakra: root
+      properties:
+        - clarity
+        - confidence
+        - stability
+    orange:
+      zodiac sign: aries, leo
+      chakra: root, sacral
+      properties:
+        - protection
+        - stability
+        - strength
   citation:
     - kynes-correspondences
+    - riteofritual-crystals
 selenite:
+  planet: moon
+  element: air
+  zodiac sign: taurus, cancer
+  chakra: third eye, crown
   properties:
     - adaptability
+    - amplification
     - calm
     - clarity
     - communication
@@ -2504,23 +3038,53 @@ selenite:
     - negativity
     - nurture
     - peace
+    - purification
+    - raise consciousness
     - rebirth/renewal
     - reconciliation
     - respect
+    - spiritual connections
   citation:
     - kynes-correspondences
+    - riteofritual-crystals
 serpentine:
+  zodiac sign: gemini
+  chakra: heart, crown
   properties:
     - balance
     - blessings
     - consecrate/bless
+    - healing
+    - inner healing
     - inspiration
     - kundalini energy
     - motivation
     - protection
+    - purification
+    - rebirth/renewal
     - spirituality
+    - transformation
   citation:
     - kynes-correspondences
+    - riteofritual-crystals
+shattuckite:
+  zodiac sign: aries, taurus, libra, sagittarius
+  chakra: throat, heart, third eye
+  properties:
+    - communication
+    - insight
+    - visions
+  citation:
+    - riteofritual-crystals
+shungite:
+  zodiac sign: cancer, scorpio, capricorn
+  chakra: root
+  properties:
+    - clear unwanted energy
+    - grounding
+    - protection
+  citation:
+    - riteofritual-crystals
 smithsonite:
   properties:
     - alert mind
@@ -2535,11 +3099,15 @@ smithsonite:
   citation:
     - kynes-correspondences
 smoky quartz:
+  planet: saturn
+  zodiac sign: capricorn, sagittarius, scorpio
+  chakra: root, solar plexus
   properties:
     - abundance
     - balance
     - calm
     - calm mind
+    - clear unwanted energy
     - community
     - conscious transformation
     - consciousness
@@ -2550,16 +3118,21 @@ smoky quartz:
     - mental stimulation
     - negativity
     - obstacles
+    - protection
     - psychic ability
     - purification
     - self-improvement
     - sexual energy
     - sexuality
+    - transformation
     - truth
     - unity
   citation:
     - kynes-correspondences
+    - riteofritual-crystals
 sodalite:
+  zodiac sign: sagittarius
+  chakra: throat, third eye
   properties:
     - adaptability
     - attraction
@@ -2569,22 +3142,36 @@ sodalite:
     - clear mind
     - communication
     - community
+    - concentration/focus
     - emotional challenges
     - emotions
     - endurance
     - energy
     - fear
+    - guidance
     - healing
     - insight
+    - intuition
     - knowledge
     - peace
     - quiet mind
     - relationships
+    - self-expression
     - stress
     - success
     - transformation
   citation:
     - kynes-correspondences
+    - riteofritual-crystals
+sphalerite:
+  zodiac sign: gemini, scorpio
+  chakra: root, sacral
+  properties:
+    - grounding
+    - strength
+    - vitality
+  citation:
+    - riteofritual-crystals
 sphene:
   properties:
     - knowledge
@@ -2672,14 +3259,20 @@ sugilite:
   citation:
     - kynes-correspondences
 sunstone:
+  planet: sun
+  zodiac sign: leo, libra
+  chakra: sacral, solar plexus
   properties:
     - action
+    - authority
+    - clarity
     - determination
     - energy
     - fear
     - healing
     - introspection
     - luck
+    - nurture
     - personal growth
     - protection
     - sexual energy
@@ -2692,6 +3285,7 @@ sunstone:
     - well-being
   citation:
     - kynes-correspondences
+    - riteofritual-crystals
 tanzanite:
   properties:
     - action
@@ -2714,98 +3308,79 @@ tanzanite:
     - willpower
   citation:
     - kynes-correspondences
+tibetan tektite:
+  zodiac sign: scorpio, sagittarius
+  chakra: root, crown
+  properties:
+    - deepen spirituality
+    - protection
+    - transformation
+  citation:
+    - riteofritual-crystals
 tiger's eye:
+  planet: sun, mars
+  zodiac sign: leo, capricorn
+  chakra: solar plexus, root, sacral, third eye
   properties:
     - abundance
-    - acceptance
-    - animal magic
-    - animals
-    - balance
-    - beauty
     - business success
     - calm
-    - cheerfulness
     - clarity
     - collect debts
     - communication
-    - community
     - confidence
     - courage
-    - desire
     - discover skills
-    - divination
     - empowerment
-    - energy
     - face danger
-    - fear
-    - goodness
-    - grounding
-    - harmony
     - healing
     - insight
     - inspiration
     - integrity
     - introspection
-    - karma
-    - loss
-    - manifestation
-    - mental well-being
     - mind
     - needs
-    - prophecy
+    - personal power
     - prosperity
     - protection
-    - psychic ability
     - psychic protection
-    - purification
-    - rebirth/renewal
-    - respect
     - security
-    - sight
     - spiritual protection
-    - stimulation
-    - stress
     - travel
     - truth
     - wealth
     - willpower
-    - youth
+  varieties:
+    red:
+      zodiac sign: leo, capricorn, aries, taurus
+      chakra: root, sacral
+      properties:
+        - confidence
+        - motivation
+        - vitality
+      notes:
+        - often heat-treated golden tiger's eye
   citation:
     - kynes-correspondences
+    - riteofritual-crystals
 topaz:
   properties:
     - abundance
-    - adaptability
     - affection
-    - afterlife
     - beauty
-    - changes
-    - consciousness
     - courage
-    - death
-    - desire
-    - divination
     - energy
     - face danger
     - fear
     - fidelity
-    - grief
     - healing
-    - integrity
     - introspection
-    - light
-    - loss
     - love
-    - mental power
-    - mental stimulation
     - money
-    - passion
     - prosperity
     - protection
     - rebirth/renewal
     - sexuality
-    - stress
-    - transformation
     - wealth
   varieties:
     blue:
@@ -2853,8 +3428,12 @@ tourmaline:
     - transformation
   varieties:
     black:
+      planet: mars, jupiter, saturn
+      zodiac sign: taurus, libra, sagittarius, capricorn, pisces
+      chakra: root
       properties:
         - absorb negativity
+        - calm
         - community
         - emotional stability
         - energy
@@ -2920,15 +3499,21 @@ tourmaline:
         - receptive energy
         - sensitivity
     pink:
+      zodiac sign: libra, scorpio, sagittarius
+      chakra: root, heart
       properties:
         - attraction
         - beginnings
         - calm
+        - compassion
+        - courage
         - dedication/devotion
         - emotions
         - harmony
         - healing
+        - inspiration
         - knowledge
+        - love
         - loving energy
         - obstacles
         - open to love
@@ -2937,6 +3522,9 @@ tourmaline:
         - romance
         - sensitivity
         - stress
+        - support
+      notes:
+        - also known as rubellite.
     red:
       properties:
         - concentration/focus
@@ -2960,6 +3548,7 @@ tourmaline:
         - relationships
   citation:
     - kynes-correspondences
+    - riteofritual-crystals
 tsavorite:
   properties:
     - balance
@@ -2973,45 +3562,24 @@ tsavorite:
     - kynes-correspondences
 turquoise:
   properties:
-    - astral realm
     - attraction
-    - awareness
     - balance
-    - beauty
     - calm
-    - changes
     - cheerfulness
-    - clarity
-    - communication
-    - compassion
-    - courage
     - emotions
     - empathy
     - energy
     - friendship
-    - goodness
-    - grounding
     - healing
     - improvement
-    - inner strength
-    - inspiration
     - love
-    - manifestation
-    - mind
     - negativity
-    - nurture
     - peace
     - prosperity
     - protection
-    - purification
-    - rebirth/renewal
-    - receptive energy
     - sight
     - skills
-    - spirituality
-    - stress
     - success
-    - support
     - travel
     - unity
     - wealth
@@ -3019,16 +3587,30 @@ turquoise:
   citation:
     - kynes-correspondences
 unakite:
+  zodiac sign: scorpio
+  chakra: heart, third eye
   properties:
     - animal magic
+    - balance
     - grounding
     - guidance
+    - insight
     - negativity
     - peace
     - personal power
+    - release attachments
     - transformation
   citation:
     - kynes-correspondences
+    - riteofritual-crystals
+verdite:
+  chakra: heart
+  properties:
+    - emotional balance
+    - enlightenment
+    - wisdom
+  citation:
+    - riteofritual-crystals
 wulfenite:
   properties:
     - energy
@@ -3040,6 +3622,15 @@ wulfenite:
     - warmth
   citation:
     - kynes-correspondences
+yooperlite:
+  zodiac sign: sagittarius
+  chakra: throat
+  properties:
+    - clarity
+    - self-expression
+    - truth
+  citation:
+    - riteofritual-crystals
 zircon:
   properties:
     - abundance

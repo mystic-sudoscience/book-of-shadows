@@ -2,21 +2,25 @@ feverfew:
   type: herb & garden
   parts used: flowers, leaves
   planet: venus
-  element: fire
+  element: fire, water
   moon phase: waning
-  zodiac sign: sagittarius
-  chakra: solar plexus
+  zodiac sign: sagittarius, taurus
+  chakra: solar plexus, heart
   properties:
     - banish
+    - consecrate/bless
     - emotions
     - healing
     - heartbreak
     - love
+    - protect from witchcraft
     - protection
+    - protection during travel
     - purification
+    - spiritual purification
     - strength
     - warmth
-  notes: null
+    - well-being
   toxicity:
     notes:
       - avoid if pregnant
@@ -24,6 +28,7 @@ feverfew:
       - eating fresh leaves may cause mouth ulcers
       - do not take with blood-thinning drugs
       - may cause allergic reaction in rare cases
+  notes: null
   medicinal:
     parts used: aerial parts, leaves
     key constituents:
@@ -36,6 +41,10 @@ feverfew:
       - reduces fever
       - antirheumatic
       - promotes menstrual flow
+      - traditionally associated with headache and fever support
+      - digestive support (folk use)
+      - menstrual cycle support (traditional use)
+      - anti-inflammatory (herbal tradition)
     uses:
       - migraine prevention
       - headaches
@@ -52,3 +61,4 @@ feverfew:
     - cunningham-herbs
     - kynes-correspondences
     - chevallier-herbal-medicine
+    - riteofritual-apothecary

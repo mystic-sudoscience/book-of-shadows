@@ -1,34 +1,24 @@
 olive:
-  planet: sun
+  planet: sun, jupiter, mercury
   element: fire
+  zodiac sign: taurus
+  chakra: solar plexus
   properties:
-    - abundance
     - attraction
     - balance
-    - consecrate/bless
-    - family
     - fertility
-    - fidelity
     - harmony
     - healing
     - hope
     - lust
-    - marriage
-    - mind
     - money
     - peace
-    - prosperity
     - protection
-    - purification
-    - rebirth/renewal
-    - reconciliation
-    - secure love
     - security
     - sex magic
     - stress
     - travel
     - virility
-    - wealth
     - well-being
   medicinal:
     parts used: leaves, oil
@@ -39,6 +29,11 @@ olive:
       - lowers blood pressure
       - mild diuretic
       - lowers blood sugar
+      - gastroprotective
+      - neuroprotective
+      - antimicrobial
+      - anti-inflammatory
+      - antioxidant
     uses:
       - high blood pressure
       - circulatory support
@@ -52,3 +47,4 @@ olive:
     - cunningham-herbs
     - kynes-correspondences
     - chevallier-herbal-medicine
+    - riteofritual-apothecary

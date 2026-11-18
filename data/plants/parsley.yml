@@ -1,14 +1,20 @@
 parsley:
   parts used: leaves
   planet: mercury
-  element: air
+  element: air, earth
   moon phase: new
-  zodiac sign: gemini
-  chakra: root
+  zodiac sign: gemini, cancer
+  chakra: root, heart
   properties:
+    - ancestral connections
+    - communicate with spirits
     - death
+    - fertility
     - lust
+    - money
+    - prosperity
     - protection
+    - psychic ability
     - purification
   toxicity:
     humans: false
@@ -32,6 +38,11 @@ parsley:
       - antioxidant
       - carminative
       - promotes menstruation
+      - antigalactagogue
+      - nutritive
+      - supports fluid regulation
+      - lowers blood pressure
+      - supports digestion
     uses:
       - nutritional supplement
       - gout, rheumatism, and arthritis
@@ -43,3 +54,4 @@ parsley:
     - morgana-green-witch
     - cunningham-herbs
     - chevallier-herbal-medicine
+    - riteofritual-apothecary

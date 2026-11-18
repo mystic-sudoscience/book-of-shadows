@@ -1,17 +1,24 @@
 coltsfoot:
   planet: venus
   element: water
+  zodiac sign: gemini
+  chakra: throat
   properties:
     - animal magic
+    - beginnings
     - clairvoyance
+    - divination
     - healing
     - justice
     - love
     - negativity
     - peace
     - power
+    - prosperity
     - protection
     - psychic ability
+    - rebirth/renewal
+    - solar magic
   toxicity:
     notes:
       - avoid if pregnant
@@ -21,6 +28,7 @@ coltsfoot:
       - do not take leaves for more than 3 to 4 weeks at a time
       - not suitable for children under 6
       - restricted in some countries
+      - contains alkaloids that can cause liver damage in large amounts
   medicinal:
     parts used: leaves, flowers
     key constituents:
@@ -36,6 +44,11 @@ coltsfoot:
       - anti-inflammatory
       - antispasmodic
       - immunostimulant
+      - cough suppressant
+      - reduces swelling and fever
+      - soothes sores and eczema
+      - relieves insect bites
+      - diuretic
     uses:
       - chest problems
       - asthma
@@ -47,3 +60,4 @@ coltsfoot:
     - cunningham-herbs
     - kynes-correspondences
     - chevallier-herbal-medicine
+    - riteofritual-apothecary

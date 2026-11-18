@@ -4,17 +4,21 @@ raspberry:
   planet: moon, venus
   element: water
   moon phase: full
-  zodiac sign: cancer, pisces
+  zodiac sign: cancer, pisces, scorpio
   chakra: root
   properties:
+    - attraction
+    - balance
     - beauty
     - clarity
     - emotional security
     - encourage love
     - fear
     - fertility
+    - harmony
     - love
     - needs
+    - nurture
     - pregnancy/childbirth
     - protection
     - release attachments
@@ -36,6 +40,8 @@ raspberry:
       - uterine tonic
       - antioxidant
       - anti-inflammatory
+      - relieves menstrual cramping
+      - supports reproductive health
     uses:
       - preparing for childbirth
       - diarrhea
@@ -52,3 +58,4 @@ raspberry:
     - morgana-green-witch
     - kynes-correspondences
     - chevallier-herbal-medicine
+    - riteofritual-apothecary

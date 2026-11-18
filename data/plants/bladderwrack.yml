@@ -1,20 +1,25 @@
 bladderwrack:
   parts used: whole plant
-  planet: moon
-  element: water
+  planet: moon, sun
+  element: water, fire
   moon phase: waxing
-  zodiac sign: cancer
-  chakra: sacral
+  zodiac sign: cancer, pisces
+  chakra: sacral, crown, throat
   properties:
+    - money
     - protection
-  notes:
-    - these are sea grapes
+    - protection during travel
+    - psychic ability
+    - water magic
+    - weather
   toxicity:
     notes:
       - avoid if pregnant
       - avoid if nursing
       - may cause hyperthyroidism
       - take on professional advice with thyroid illness or if taking insulin
+  notes:
+    - these are sea grapes
   medicinal:
     parts used: whole plant
     key constituents:
@@ -25,6 +30,9 @@ bladderwrack:
       - thyroid stimulant
       - immunostimulant
       - raises metabolic rate
+      - anti-inflammatory
+      - moisturizing
+      - increased circulation
     uses:
       - goiter
       - underactive thyroid
@@ -34,3 +42,4 @@ bladderwrack:
     - morgana-green-witch
     - cunningham-herbs
     - chevallier-herbal-medicine
+    - riteofritual-apothecary

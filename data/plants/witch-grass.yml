@@ -1,10 +1,25 @@
 witch grass:
   planet: jupiter
+  element: earth, fire
+  zodiac sign: sagittarius, aries
+  chakra: root
   properties:
     - cheerfulness
     - lust
     - love
     - banish
+    - happiness
+    - attraction
+    - break hexes
+    - luck
+    - exorcism
+    - set hexes
+    - protection
+  toxicity:
+    notes:
+      - avoid as a tea if pregnant or with kidney issues
+  notes:
+    - also known as couch grass, dog grass.
   medicinal:
     parts used: rhizome, root, seeds
     key constituents:
@@ -15,6 +30,10 @@ witch grass:
       - diuretic
       - demulcent
       - antibiotic
+      - diuretic support
+      - urinary tract support
+      - mild anti-inflammatory
+      - supports urinary tract, kidneys, prostate, liver
     uses:
       - cystitis and urethritis
       - kidney stones
@@ -27,3 +46,4 @@ witch grass:
   citation:
     - cunningham-herbs
     - chevallier-herbal-medicine
+    - riteofritual-apothecary

@@ -1,31 +1,20 @@
 wild violet:
   type: herb & garden
   parts used: flowers, leaves
-  planet: venus
+  planet: venus, jupiter
   element: water
   moon phase: waxing
-  zodiac sign: scorpio
-  chakra: third eye
+  zodiac sign: scorpio, cancer, libra
+  chakra: third eye, heart
   properties:
-    - afterlife
-    - attract luck
-    - banish
+    - attraction
     - beauty
-    - break hexes
-    - changes
-    - communication
-    - dream work
-    - endings
+    - emotional balance
     - fertility
     - fidelity
     - guardian
-    - guidance
     - healing
     - heartbreak
-    - hope
-    - innocence
-    - integrity
-    - justice
     - love
     - lust
     - marriage
@@ -33,21 +22,17 @@ wild violet:
     - passion
     - peace
     - protection
-    - purification
-    - purity
-    - quiet mind
     - sensitivity
     - sex magic
     - sexuality
     - shyness
     - sleep
-    - soothe mind
     - stress
-    - well-being
-    - wishes
   toxicity:
     humans: false
     pets: false
+  notes:
+    - also known as blue violet.
   holidays:
     - ostara
   medicinal:
@@ -62,6 +47,10 @@ wild violet:
       - gentle expectorant
       - demulcent
       - promotes light sweating
+      - expectorant
+      - mild laxative
+      - anti-inflammatory
+      - soporific
     uses:
       - coughs
       - chest colds and congestion
@@ -75,3 +64,4 @@ wild violet:
     - morgana-green-witch
     - kynes-correspondences
     - chevallier-herbal-medicine
+    - riteofritual-apothecary

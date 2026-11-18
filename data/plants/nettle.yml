@@ -3,7 +3,7 @@ nettle:
   planet: mars
   element: fire
   moon phase: waning
-  zodiac sign: leo
+  zodiac sign: leo, aries
   chakra: root
   properties:
     - banish
@@ -30,9 +30,15 @@ nettle:
     - stress
     - unity
     - exorcism
+    - vitality
+    - strength
+    - fertility
+    - growth
   toxicity:
     humans: false
     pets: false
+  notes:
+    - also known as stinging nettle.
   medicinal:
     parts used: aerial parts, leaves, root, seeds
     key constituents:
@@ -50,6 +56,10 @@ nettle:
       - anti-allergenic
       - reduces prostate enlargement
       - anti-inflammatory
+      - blood-cleansing
+      - nutrient-rich
+      - supports urinary health
+      - traditionally used for skin + circulatory support
     uses:
       - hay fever and allergies
       - mild asthma
@@ -73,3 +83,4 @@ nettle:
     - morgana-green-witch
     - kynes-correspondences
     - chevallier-herbal-medicine
+    - riteofritual-apothecary

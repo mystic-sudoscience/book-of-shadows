@@ -1,8 +1,12 @@
 hops:
   planet: mars
   element: air
+  zodiac sign: aries
   properties:
     - healing
+    - nightmares
+    - protection
+    - psychic growth
     - sleep
   toxicity:
     notes:
@@ -39,3 +43,4 @@ hops:
   citation:
     - cunningham-herbs
     - chevallier-herbal-medicine
+    - riteofritual-apothecary

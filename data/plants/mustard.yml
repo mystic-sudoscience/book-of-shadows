@@ -6,20 +6,25 @@ mustard:
   zodiac sign: aries
   chakra: sacral
   properties:
+    - abundance
     - acceptance
+    - courage
     - discipline
     - enmity
     - fairness
     - fertility
+    - growth
     - healing
     - justice
     - love
     - lust
+    - manifestation
     - mental power
     - mind
     - money
     - passion
     - power
+    - prosperity
     - protection
     - purification
     - security
@@ -30,6 +35,13 @@ mustard:
   toxicity:
     humans: false
     pets: true
+  medicinal:
+    key actions:
+      - digestive aid
+      - cardiovascular regulation
+      - antioxidant
+      - anti-inflammatory
   citation:
     - morgana-green-witch
     - kynes-correspondences
+    - riteofritual-apothecary

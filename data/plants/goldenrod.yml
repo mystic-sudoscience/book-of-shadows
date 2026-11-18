@@ -4,14 +4,17 @@ goldenrod:
   planet: venus
   element: air
   moon phase: waxing
-  zodiac sign: gemini
-  chakra: root
+  zodiac sign: gemini, leo
+  chakra: root, solar plexus
   properties:
+    - abundance
     - attract luck
     - beauty
     - challenges
     - divination
     - loss
+    - love
+    - luck
     - mind
     - money
     - prosperity
@@ -38,6 +41,10 @@ goldenrod:
       - diuretic
       - astringent
       - antifungal
+      - anti-inflammatory
+      - antiseptic
+      - urinary support
+      - kidney support
     uses:
       - cystitis and urinary infections
       - nephritis
@@ -54,3 +61,4 @@ goldenrod:
     - cunningham-herbs
     - kynes-correspondences
     - chevallier-herbal-medicine
+    - riteofritual-apothecary

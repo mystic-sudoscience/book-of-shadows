@@ -1,44 +1,30 @@
 juniper:
   type: tree
   parts used: leaves, wood, berries
-  planet: sun
+  planet: sun, jupiter
   element: fire
   moon phase: waning
   zodiac sign: sagittarius
-  chakra: root
+  chakra: root, throat, third eye
   properties:
-    - action
-    - anger
     - banish
-    - beginnings
-    - black magic
     - calm
     - community
-    - divination
-    - dream work
     - energy
-    - fertility
-    - grounding
-    - harmony
     - healing
-    - increase
     - love
     - negativity
     - prosperity
     - protection
-    - protection from theft
     - psychic ability
     - purification
-    - secrets
     - security
-    - sensuality
     - sight
-    - sleep
     - spiritual purification
-    - spirituality
     - well-being
-    - wishes
     - exorcism
+    - clarity
+    - manifestation
   toxicity:
     humans: true
     pets: true
@@ -66,6 +52,10 @@ juniper:
       - urinary antiseptic
       - warming
       - promotes menstruation
+      - anti-inflammatory
+      - antioxidant
+      - antidiabetic
+      - antibacterial
     uses:
       - cystitis and urinary infections
       - fluid retention
@@ -78,3 +68,4 @@ juniper:
     - cunningham-herbs
     - kynes-correspondences
     - chevallier-herbal-medicine
+    - riteofritual-apothecary

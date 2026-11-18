@@ -1,7 +1,9 @@
 linden:
   type: tree
-  planet: jupiter
+  planet: jupiter, mercury
   element: air
+  zodiac sign: taurus, libra
+  chakra: heart, crown
   properties:
     - attract luck
     - attraction
@@ -29,6 +31,7 @@ linden:
     - warmth
     - longevity
     - visions
+    - inner healing
   medicinal:
     parts used: flowers, bracts
     key constituents:
@@ -42,6 +45,8 @@ linden:
       - promotes sweating
       - sedative
       - emollient
+      - antipyretic
+      - decongestant
     uses:
       - tension and sinus headaches
       - insomnia
@@ -57,3 +62,4 @@ linden:
   citation:
     - kynes-correspondences
     - chevallier-herbal-medicine
+    - riteofritual-apothecary

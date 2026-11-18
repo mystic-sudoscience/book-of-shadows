@@ -1,10 +1,16 @@
 licorice:
-  planet: venus
+  planet: venus, mercury
   element: water
+  zodiac sign: gemini, virgo
+  chakra: throat
   properties:
     - lust
     - love
     - fidelity
+    - passion
+    - authority
+    - clarity
+    - protection
   toxicity:
     notes:
       - avoid if pregnant
@@ -32,6 +38,9 @@ licorice:
       - demulcent
       - adrenal agent
       - mild laxative
+      - adaptogen
+      - upper respiratory support
+      - ulcer relief
     uses:
       - canker sores
       - gastritis
@@ -55,3 +64,4 @@ licorice:
   citation:
     - cunningham-herbs
     - chevallier-herbal-medicine
+    - riteofritual-apothecary

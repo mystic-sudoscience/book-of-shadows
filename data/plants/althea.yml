@@ -1,9 +1,18 @@
 althea:
   parts used: roots, leaves, flowers
+  planet: moon, venus
   element: water
+  zodiac sign: libra, cancer
+  chakra: root
   properties:
     - protection
     - attraction
+    - ancestral connections
+    - love
+    - fertility
+    - nurture
+    - inner healing
+    - psychic protection
   notes:
     - known as marshmallow
   medicinal:
@@ -19,6 +28,12 @@ althea:
     key actions:
       - demulcent
       - mild laxative
+      - diuretic
+      - emollient
+      - nutritive
+      - vulnerary
+      - soothes irritation
+      - supports digestive and respiratory health
     uses:
       - excess stomach acid and gastritis
       - peptic ulcers
@@ -39,3 +54,4 @@ althea:
   citation:
     - cunningham-herbs
     - chevallier-herbal-medicine
+    - riteofritual-apothecary

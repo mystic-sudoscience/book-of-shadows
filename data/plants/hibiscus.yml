@@ -2,12 +2,15 @@ hibiscus:
   type: herb & garden
   planet: venus
   element: water
+  zodiac sign: aquarius, scorpio
+  chakra: sacral, root, heart
   properties:
     - concentration/focus
     - consecrate/bless
     - determination
     - divination
     - harmony
+    - healing
     - love
     - lust
     - obstacles
@@ -15,10 +18,12 @@ hibiscus:
     - peace
     - power
     - psychic ability
+    - romance
     - sensitivity
     - sensuality
     - sexual energy
     - sexuality
+    - spiritual energy
     - unity
     - warmth
   medicinal:
@@ -31,6 +36,8 @@ hibiscus:
       - demulcent
       - lowers cholesterol
       - lowers blood pressure
+      - antioxidant
+      - supports cardiovascular health
     uses:
       - hot and feverish conditions
       - colds and coughs
@@ -44,3 +51,4 @@ hibiscus:
     - cunningham-herbs
     - kynes-correspondences
     - chevallier-herbal-medicine
+    - riteofritual-apothecary

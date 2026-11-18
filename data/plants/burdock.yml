@@ -4,15 +4,17 @@ burdock:
   planet: venus
   element: water
   moon phase: waning
-  zodiac sign: cancer
-  chakra: heart
+  zodiac sign: cancer, taurus
+  chakra: heart, root
   properties:
     - balance
     - banish
     - calm
     - energy
+    - grounding
     - healing
     - love
+    - luck
     - negativity
     - protection
     - purification
@@ -35,6 +37,9 @@ burdock:
       - antibiotic
       - antiseptic
       - anti-inflammatory
+      - natural diuretic
+      - supports skin health
+      - reduces inflammation
     uses:
       - acne and boils
       - abscesses
@@ -52,3 +57,4 @@ burdock:
     - morgana-green-witch
     - kynes-correspondences
     - chevallier-herbal-medicine
+    - riteofritual-apothecary

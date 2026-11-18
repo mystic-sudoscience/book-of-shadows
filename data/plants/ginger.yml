@@ -2,38 +2,26 @@ ginger:
   type: misc
   planet: mars
   element: fire
+  zodiac sign: scorpio
+  chakra: root, crown
   properties:
-    - astral realm
     - attract luck
     - beauty
-    - break hexes
-    - calm
-    - collect debts
-    - courage
     - energy
     - healing
-    - improvement
-    - inner purification
-    - inspiration
     - love
     - lust
     - magic
+    - manifestation
     - money
     - moon magic
-    - obstacles
     - passion
-    - power
     - pregnancy/childbirth
     - prosperity
     - relationships
-    - release attachments
     - sex magic
-    - stimulation
-    - storms
-    - stress
     - success
     - unity
-    - warmth
     - well-being
   toxicity:
     notes:
@@ -54,6 +42,10 @@ ginger:
       - antiemetic
       - antiviral
       - digestive stimulant
+      - warming
+      - digestive support
+      - anti-nausea
+      - immune support
     uses:
       - nausea and motion sickness
       - morning sickness
@@ -76,3 +68,4 @@ ginger:
     - cunningham-herbs
     - kynes-correspondences
     - chevallier-herbal-medicine
+    - riteofritual-apothecary

@@ -2,12 +2,15 @@ eleuthero:
   type: misc
   planet: sun
   element: fire
+  zodiac sign: leo, virgo
   chakra: root, solar plexus
   properties:
+    - break hexes
     - concentration/focus
     - grounding
     - money
     - prosperity
+    - protection
     - resilience
     - vitality
   toxicity:
@@ -15,6 +18,8 @@ eleuthero:
       - healthy young adults should not take for more than 6 weeks without professional advice
       - avoid caffeine while taking
       - side effects more likely above the standard dose
+  notes:
+    - also known as siberian ginseng.
   medicinal:
     parts used: root
     key constituents:
@@ -26,6 +31,9 @@ eleuthero:
       - adaptogenic
       - tonic
       - protects the immune system
+      - immune support
+      - anti-fatigue
+      - stress resilience
     uses:
       - physical and mental stress
       - overwork and exhaustion

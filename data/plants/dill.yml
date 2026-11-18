@@ -1,45 +1,32 @@
 dill:
   type: herb & garden
   parts used: seeds, leaves
-  planet: mercury
+  planet: mercury, jupiter
   element: fire
   moon phase: waning
   zodiac sign: cancer, gemini, scorpio, leo, virgo
-  chakra: root
+  chakra: root, sacral, third eye
   properties:
     - desire
     - money
-    - prophecy
     - willpower
     - attract luck
-    - black magic
-    - break hexes
     - calm
-    - energy
     - home
-    - inner strength
     - justice
-    - knowledge
     - love
     - lust
     - mind
-    - nightmares
-    - obstacles
     - prosperity
     - protection
     - purification
     - security
-    - set hexes
     - sex magic
-    - sleep
-    - spirits
-    - stress
-    - support
-    - wisdom
-  notes: null
+    - luck
   toxicity:
     notes:
       - take essential oil internally only under professional supervision
+  notes: null
   medicinal:
     parts used: seeds, leaves, essential oil
     key constituents:
@@ -53,6 +40,10 @@ dill:
       - antispasmodic
       - mild diuretic
       - increases breast milk
+      - antioxidant
+      - digestive support
+      - blood sugar regulation
+      - general wellness
     uses:
       - gas and indigestion
       - intestinal cramps and colic
@@ -67,3 +58,4 @@ dill:
     - morgana-green-witch
     - kynes-correspondences
     - chevallier-herbal-medicine
+    - riteofritual-apothecary
