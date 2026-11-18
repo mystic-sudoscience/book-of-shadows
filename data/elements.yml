@@ -4,13 +4,14 @@ earth:
     - prosperity
     - fertility
     - healing
-    - employment
+    - business
   citation:
     - cunningham-herbs
 air:
   properties:
     - mental clarity
-    - divination & visions
+    - divination
+    - visions
     - wisdom
     - communication
   citation:
@@ -20,8 +21,8 @@ fire:
     - lust
     - courage
     - protection
-    - health
-    - hex-breaking
+    - healing
+    - break hexes
   citation:
     - cunningham-herbs
 water:
@@ -29,7 +30,8 @@ water:
     - sleep
     - meditation
     - purification
-    - divination & visions
+    - divination
+    - visions
     - healing
     - love
     - friendship

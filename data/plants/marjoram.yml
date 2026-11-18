@@ -26,6 +26,44 @@ marjoram:
     - well-being
     - defensive magic
     - harmony
+    - afterlife
+    - black magic
+    - break hexes
+    - community
+    - concentration/focus
+    - consciousness
+    - family
+    - grief
+    - innocence
+    - memory/memories
+    - provide comfort
+    - psychic ability
+    - purification
+    - release attachments
+    - sleep
+    - unity
+    - happiness
+    - dream work
+  core properties:
+    - attraction
+    - calm
+    - cheerfulness
+    - connections
+    - friendship
+    - healing
+    - love
+    - marriage
+    - money
+    - peace
+    - prosperity
+    - protection
+    - relationships
+    - security
+    - stress
+    - warmth
+    - well-being
+    - defensive magic
+    - harmony
   toxicity:
     humans: false
     pets: true

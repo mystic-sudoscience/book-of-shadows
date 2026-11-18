@@ -36,6 +36,65 @@ vervain:
     - release attachments
     - success
     - defensive magic
+    - anger
+    - anxiety
+    - balance
+    - challenges
+    - cheerfulness
+    - dream work
+    - empowerment
+    - enchantment
+    - freedom
+    - grace
+    - harmony
+    - knowledge
+    - life
+    - manifestation
+    - messages/omens
+    - nightmares
+    - personal power
+    - prophecy
+    - quick mind
+    - sex magic
+    - sight
+    - sleep
+    - storms
+    - stress
+    - support
+    - youth
+    - longevity
+    - creativity
+    - learning
+  core properties:
+    - love
+    - protection
+    - purification
+    - banish
+    - beginnings
+    - break hexes
+    - calm
+    - consecrate/bless
+    - discipline
+    - divination
+    - enmity
+    - fertility
+    - fidelity
+    - grounding
+    - healing
+    - home
+    - improvement
+    - inspiration
+    - justice
+    - magic
+    - marriage
+    - money
+    - obstacles
+    - peace
+    - prosperity
+    - protect from lightning
+    - release attachments
+    - success
+    - defensive magic
   toxicity:
     humans: true
     pets: true

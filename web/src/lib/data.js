@@ -1,7 +1,27 @@
 // Loads the generated correspondence data and builds lookup indexes.
 import raw from './data.json'
+import { load, save } from './storage.js'
+
+// 'full': every property from every source. 'focused': each item's `core properties`
+// (falls back to the full list where none were picked). Indexes are built once, so
+// switching modes reloads the page.
+export const MODES = ['full', 'focused']
+export const mode = MODES.includes(load('spellweb.mode', 'full')) ? load('spellweb.mode', 'full') : 'full'
+export function setMode(next) {
+  if (next === mode) return
+  save('spellweb.mode', next)
+  location.reload()
+}
 
 export const items = raw.items
+if (mode === 'focused') {
+  for (const it of items) {
+    const core = new Set(it.core ?? it.properties)
+    it.fullCount = it.properties.length
+    it.properties = it.properties.filter((p) => core.has(p))
+    it.own = it.own.filter((p) => core.has(p))
+  }
+}
 export const bibliography = raw.bibliography
 export const itemsById = new Map(items.map((it) => [it.id, it]))
 

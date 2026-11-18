@@ -22,6 +22,37 @@ garlic:
     - travel
     - well-being
     - exorcism
+    - aggression
+    - anxiety
+    - communication
+    - community
+    - concentration/focus
+    - courage
+    - enmity
+    - fear
+    - improvement
+    - jealousy
+    - justice
+    - magic
+    - protection from theft
+    - weather
+    - wishes
+  core properties:
+    - banish
+    - break hexes
+    - defense
+    - energy
+    - healing
+    - lust
+    - protection during travel
+    - purification
+    - security
+    - sex magic
+    - smell
+    - stimulation
+    - travel
+    - well-being
+    - exorcism
   toxicity:
     humans: false
     pets: true

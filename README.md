@@ -118,6 +118,26 @@ Medicinal (herbalism) information goes under `medicinal`, just before `citation`
 
 Every item in `properties` must be an intention listed in [intentions.py](scripts/intentions.py). If the intention you need is missing, add it there (lowercase, no parentheses, alphabetical order) before using it on a plant. `python scripts/validate_intentions.py` reports any property that is not in the list.
 
+#### Core properties
+
+`properties` is the full list from every source. For entries whose list is long or broad, an optional `core properties` list (placed right after `properties`) picks out the item's central meanings. Every core property must also be in `properties`; the validator checks this. Any entry in any collection can have one, including crystal varieties.
+
+```yaml
+turquoise:
+  properties:
+    - astral realm
+    - attraction
+    # ...the full list
+  core properties:
+    - balance
+    - friendship
+    - healing
+    - protection
+    # ...up to about 12
+```
+
+The app's **Properties** switch (top of the Filters panel) chooses between **Full**, which uses `properties`, and **Focused**, which uses `core properties` where an entry has them and the full list everywhere else. Varieties inherit their parent's core properties in Focused mode, the same way they inherit its properties in Full mode.
+
 ### Crystals (`crystals.yml`)
 
 ```yaml

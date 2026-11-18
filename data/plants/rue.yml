@@ -9,6 +9,37 @@ rue:
   properties:
     - banish
     - break hexes
+    - calm
+    - clarity
+    - consecrate/bless
+    - desire
+    - destruction
+    - divination
+    - emotional purification
+    - freedom
+    - grace
+    - harmony
+    - healing
+    - inspiration
+    - love
+    - magic
+    - memory/memories
+    - mental power
+    - mind
+    - negativity
+    - nightmares
+    - obstacles
+    - protection
+    - psychic ability
+    - relationships
+    - reversal
+    - sight
+    - sorrow
+    - stimulation
+    - well-being
+  core properties:
+    - banish
+    - break hexes
     - clarity
     - consecrate/bless
     - healing

@@ -18,7 +18,7 @@ LINKABLE = {"animals", "chakras", "colors", "crystals", "deities", "directions",
 # Collections whose `properties` must be intentions, including the nested
 # properties under colors' `shades`, crystals' `varieties`, and the full moon's `months`.
 NESTED = ("shades", "varieties", "months")
-CHECKED = ["animals", "chakras", "deities", "colors", "crystals", "directions", "holidays", "imagery", "metals", "moon", "numbers", "planets", "plants", "seasons", "tarot", "times", "weekdays", "zodiac"]
+CHECKED = ["animals", "chakras", "deities", "colors", "crystals", "directions", "elements", "holidays", "imagery", "metals", "moon", "numbers", "planets", "plants", "seasons", "tarot", "times", "weekdays", "zodiac"]
 
 
 def location(collection, name):
@@ -39,9 +39,14 @@ def check(where, entry, intentions, errors):
             errors.append(f"{where}: correspondences: unknown collection '{coll}'")
         if not isinstance(names, list) or not all(isinstance(n, (str, int)) for n in names):
             errors.append(f"{where}: correspondences: {coll} must be a list of names")
-    for prop in (entry or {}).get("properties", []):
+    props = (entry or {}).get("properties", []) or []
+    for prop in props:
         if prop not in intentions:
             errors.append(f"{where}: '{prop}' is not in intentions.py")
+    # `core properties`: the focused subset shown in the app's Focused mode.
+    for prop in (entry or {}).get("core properties", []) or []:
+        if prop not in props:
+            errors.append(f"{where}: core property '{prop}' is not in its properties")
 
 
 def check_groups(intentions, errors):

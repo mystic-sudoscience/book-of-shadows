@@ -30,6 +30,52 @@ cinquefoil:
     - travel
     - well-being
     - visions
+    - break hexes
+    - consecrate/bless
+    - eloquence
+    - emotions
+    - friendship
+    - grief
+    - heartbreak
+    - inspiration
+    - love
+    - magic
+    - nightmares
+    - nurture
+    - obstacles
+    - passion
+    - power
+    - self-improvement
+    - sleep
+    - spirits
+    - strength
+    - stress
+    - wisdom
+    - wishes
+  core properties:
+    - astral realm
+    - attract luck
+    - authority
+    - clairvoyance
+    - divination
+    - dream work
+    - energy
+    - healing
+    - justice
+    - legal matters
+    - life
+    - messages/omens
+    - money
+    - peace
+    - prosperity
+    - protect from negativity
+    - protection
+    - security
+    - strengthen senses
+    - success
+    - travel
+    - well-being
+    - visions
   toxicity:
     humans: false
     pets: false

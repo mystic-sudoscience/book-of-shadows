@@ -23,6 +23,38 @@ dill:
     - security
     - sex magic
     - luck
+    - prophecy
+    - black magic
+    - break hexes
+    - energy
+    - inner strength
+    - knowledge
+    - nightmares
+    - obstacles
+    - set hexes
+    - sleep
+    - spirits
+    - stress
+    - support
+    - wisdom
+    - peace
+  core properties:
+    - desire
+    - money
+    - willpower
+    - attract luck
+    - calm
+    - home
+    - justice
+    - love
+    - lust
+    - mind
+    - prosperity
+    - protection
+    - purification
+    - security
+    - sex magic
+    - luck
   toxicity:
     notes:
       - take essential oil internally only under professional supervision

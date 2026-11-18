@@ -32,6 +32,56 @@ yarrow:
     - well-being
     - exorcism
     - limitations/boundaries
+    - animal magic
+    - authority
+    - awareness
+    - balance
+    - banish
+    - beginnings
+    - blessings
+    - calm
+    - changes
+    - consecrate/bless
+    - contact spirits
+    - cosmic energy
+    - death
+    - fear
+    - fertility
+    - growth
+    - guidance
+    - purification
+    - skills
+    - spiritual energy
+    - spirituality
+    - stress
+    - weather
+    - witches/witchcraft
+  core properties:
+    - aggression
+    - attraction
+    - beauty
+    - challenges
+    - confidence
+    - courage
+    - divination
+    - dream work
+    - fidelity
+    - friendship
+    - healing
+    - heartbreak
+    - love
+    - marriage
+    - negativity
+    - power
+    - protection
+    - psychic ability
+    - psychic protection
+    - relationships
+    - spiritual protection
+    - stimulation
+    - well-being
+    - exorcism
+    - limitations/boundaries
   toxicity:
     humans: true
     pets: true

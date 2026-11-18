@@ -4,7 +4,7 @@
   import TypeToggles from './components/TypeToggles.svelte'
   import Details from './components/Details.svelte'
   import Spell from './components/Spell.svelte'
-  import { byIntention, itemsById, countFor, groupCountFor, itemsFor, relatedTo, intentions as allIntentions } from './lib/data.js'
+  import { byIntention, itemsById, countFor, groupCountFor, itemsFor, relatedTo, intentions as allIntentions, mode, setMode } from './lib/data.js'
   import { TYPE_ORDER, itemColor, shapeOf } from './lib/types.js'
   import { layoutWeb, layoutFocus } from './lib/layout.js'
   import { parseHash, intentionsHash, itemHash, go, MAX_INTENTIONS } from './lib/route.js'
@@ -163,6 +163,13 @@
   </header>
 
   <aside class="left" class:open={panelOpen}>
+    <div class="mode" role="group" aria-label="Properties">
+      <h3>Properties</h3>
+      <div class="seg">
+        <button class:on={mode === 'full'} aria-pressed={mode === 'full'} onclick={() => setMode('full')} title="Every property from every source">Full</button>
+        <button class:on={mode === 'focused'} aria-pressed={mode === 'focused'} onclick={() => setMode('focused')} title="Only each item's core properties">Focused</button>
+      </div>
+    </div>
     <TypeToggles {enabled} counts={view?.counts ?? null} onchange={(t) => (enabled = t)} />
   </aside>
 
@@ -359,6 +366,41 @@
     padding: 14px 12px;
     border-right: 1px solid var(--border);
     background: var(--surface);
+  }
+  .mode {
+    margin-bottom: 16px;
+  }
+  .mode h3 {
+    margin: 0 0 6px;
+    font-size: 11px;
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+    color: var(--muted);
+    font-weight: 600;
+  }
+  .seg {
+    display: flex;
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    overflow: hidden;
+  }
+  .seg button {
+    flex: 1;
+    padding: 5px 8px;
+    background: none;
+    border: 0;
+    color: var(--muted);
+    font: inherit;
+    font-size: 12px;
+    cursor: pointer;
+  }
+  .seg button + button {
+    border-left: 1px solid var(--border);
+  }
+  .seg button.on {
+    background: var(--surface-2);
+    color: var(--accent-text);
+    font-weight: 600;
   }
   .stage {
     grid-area: stage;

@@ -32,7 +32,7 @@ NOT_ITEMS = {"bibliography", "intention_groups"}
 NOT_IN_APP = {"deities"}
 
 # Keys handled separately rather than shown as plain fields.
-SPECIAL_KEYS = {"properties", "citation", "correspondences", *CHILD_KEYS}
+SPECIAL_KEYS = {"properties", "core properties", "citation", "correspondences", *CHILD_KEYS}
 
 # Older plant fields that also name items in another collection.
 FIELD_LINKS = {"planet": "planets", "ruling planet": "planets", "element": "elements", "zodiac sign": "zodiac",
@@ -49,11 +49,15 @@ def make_item(collection, name, entry, parent=None):
     entry = entry or {}
     own = as_list(entry.get("properties"))
     inherited = [p for p in parent["properties"] if p not in own] if parent else []
+    # Focused mode: `core properties` when given, else the full list; varieties inherit the parent's core.
+    own_core = as_list(entry.get("core properties")) or own
+    inherited_core = [p for p in parent["core"] if p not in own_core] if parent else []
     item = {
         "id": f"{collection}:{name}" if not parent else f"{parent['id']}/{name}",
         "name": name if not parent else f"{parent['name']} ({name})",
         "type": collection,
         "properties": sorted(set(own) | set(inherited)),
+        "core": sorted(set(own_core) | set(inherited_core)),
         "own": sorted(own),
         "fields": {k: v for k, v in entry.items() if k not in SPECIAL_KEYS},
         "citations": as_list(entry.get("citation")) or (parent["citations"] if parent else []),

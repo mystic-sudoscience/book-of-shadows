@@ -24,6 +24,40 @@ wormwood:
     - psychic ability
     - purification
     - astral travel
+    - anger
+    - animals
+    - anxiety
+    - courage
+    - endurance
+    - enmity
+    - forgiveness
+    - guidance
+    - healing
+    - improvement
+    - magic
+    - power
+    - set hexes
+    - skills
+    - stress
+    - spiritual connections
+  core properties:
+    - afterlife
+    - astral realm
+    - banish
+    - bind
+    - contact spirits
+    - death
+    - defense
+    - divination
+    - dream work
+    - endings
+    - love
+    - obstacles
+    - peace
+    - protection
+    - psychic ability
+    - purification
+    - astral travel
   toxicity:
     humans: true
     pets: true

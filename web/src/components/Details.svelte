@@ -1,6 +1,6 @@
 <script>
   import Value from './Value.svelte'
-  import { bibliography, itemsById, countFor, toxicityWarning, relatedTo, groupsOf } from '../lib/data.js'
+  import { bibliography, itemsById, countFor, toxicityWarning, relatedTo, groupsOf, mode } from '../lib/data.js'
   import { typeInfo, itemColor } from '../lib/types.js'
 
   let { item, active = [], exact = false, inSpell = false, onselect, onfocus, onintention, ontogglespell, onclose } = $props()
@@ -62,7 +62,7 @@
   {/if}
 
   <section>
-    <h3>Intentions <span class="n">{item.properties.length}</span></h3>
+    <h3>Intentions <span class="n">{item.properties.length}{#if mode === 'focused' && item.fullCount > item.properties.length} of {item.fullCount} · focused{/if}</span></h3>
     <div class="chips">
       {#each props as p (p)}
         <button
