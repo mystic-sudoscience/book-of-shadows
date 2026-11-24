@@ -52,6 +52,19 @@ sun:
     - warmth
     - well-being
     - willpower
+  core properties:
+    - action
+    - confidence
+    - courage
+    - energy
+    - healing
+    - illumination
+    - money
+    - power
+    - prosperity
+    - protection
+    - solar energy
+    - solar magic
   citation:
     - kynes-correspondences
     - johnson-mystical-stitches
@@ -110,6 +123,19 @@ moon:
     - subconscious
     - wisdom
     - witches/witchcraft
+  core properties:
+    - cycles
+    - divination
+    - dream work
+    - emotions
+    - fertility
+    - healing
+    - magic
+    - moon magic
+    - pregnancy/childbirth
+    - protection
+    - psychic ability
+    - subconscious
   citation:
     - kynes-correspondences
 mercury:
@@ -146,6 +172,19 @@ mercury:
     - times of crossroads
     - travel
     - wealth
+    - wisdom
+  core properties:
+    - adaptability
+    - business
+    - communication
+    - divination
+    - intelligence
+    - magic
+    - memory/memories
+    - messages/omens
+    - money
+    - skills
+    - travel
     - wisdom
   citation:
     - kynes-correspondences
@@ -187,6 +226,19 @@ venus:
     - sexuality
     - stress
     - unity
+  core properties:
+    - attraction
+    - beauty
+    - desire
+    - fertility
+    - friendship
+    - harmony
+    - love
+    - passion
+    - relationships
+    - romance
+    - sensuality
+    - sexuality
   citation:
     - kynes-correspondences
     - johnson-mystical-stitches
@@ -237,6 +289,17 @@ mars:
     - success
     - warrior energy
     - willpower
+  core properties:
+    - action
+    - aggression
+    - anger
+    - assertiveness
+    - courage
+    - defense
+    - lust
+    - passion
+    - power
+    - willpower
   citation:
     - kynes-correspondences
     - johnson-mystical-stitches
@@ -267,6 +330,17 @@ jupiter:
     - success
     - wealth
     - well-being
+  core properties:
+    - abundance
+    - authority
+    - generosity
+    - growth
+    - honor
+    - justice
+    - luck
+    - prosperity
+    - success
+    - wealth
   citation:
     - kynes-correspondences
     - johnson-mystical-stitches
@@ -303,6 +377,19 @@ saturn:
     - relationships
     - responsibility
     - stability
+  core properties:
+    - banish
+    - bind
+    - death
+    - discipline
+    - endurance
+    - justice
+    - karma
+    - knowledge
+    - limitations/boundaries
+    - obstacles
+    - responsibility
+    - stability
   citation:
     - kynes-correspondences
     - johnson-mystical-stitches
@@ -324,6 +411,15 @@ uranus:
     - relationships
     - transformation
     - unexpected changes
+  core properties:
+    - ambition
+    - changes
+    - community
+    - freedom
+    - hope
+    - illumination
+    - improvement
+    - transformation
   citation:
     - kynes-correspondences
     - johnson-mystical-stitches
@@ -351,6 +447,17 @@ neptune:
     - spirituality
     - subconscious
     - visions
+  core properties:
+    - clairvoyance
+    - dream work
+    - enchantment
+    - healing
+    - illumination
+    - imagination
+    - inspiration
+    - psychic ability
+    - sensitivity
+    - spirituality
   citation:
     - kynes-correspondences
     - johnson-mystical-stitches
@@ -373,6 +480,15 @@ pluto:
     - secrets
     - sexuality
     - spirituality
+    - transformation
+    - wealth
+  core properties:
+    - changes
+    - death
+    - karma
+    - otherworld/underworld
+    - rebirth/renewal
+    - secrets
     - transformation
     - wealth
   citation:

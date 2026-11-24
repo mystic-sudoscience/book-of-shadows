@@ -19,6 +19,15 @@ wren:
     - relationships
     - spirits
     - strength
+  core properties:
+    - activate/awaken
+    - adaptability
+    - confidence
+    - divination
+    - endurance
+    - family
+    - messages/omens
+    - prophecy
   notes:
     - no fear
     - resourceful mind

@@ -51,7 +51,6 @@ thyme:
   core properties:
     - adaptability
     - calm
-    - cheerfulness
     - confidence
     - courage
     - divination
@@ -60,14 +59,8 @@ thyme:
     - honesty
     - power
     - psychic ability
-    - psychic energy
     - purification
     - sleep
-    - stimulation
-    - strength
-    - stress
-    - well-being
-    - happiness
   toxicity:
     humans: false
     pets: false

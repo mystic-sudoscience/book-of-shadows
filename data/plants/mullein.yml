@@ -58,25 +58,16 @@ mullein:
   core properties:
     - banish
     - beauty
-    - break hexes
     - courage
     - determination
     - enmity
-    - face danger
     - honesty
     - love
-    - motivation
     - negativity
     - nurture
-    - protect animals
-    - protection
     - purification
-    - release attachments
     - security
-    - self-improvement
-    - spiritual protection
     - unity
-    - exorcism
   toxicity:
     humans: false
     pets: false

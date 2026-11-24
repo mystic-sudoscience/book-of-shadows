@@ -20,6 +20,15 @@ anise, star:
     - psychic ability
     - purification
     - skills
+  core properties:
+    - awareness
+    - consecrate/bless
+    - divination
+    - luck
+    - power
+    - protection
+    - psychic ability
+    - purification
   medicinal:
     key actions:
       - antiviral

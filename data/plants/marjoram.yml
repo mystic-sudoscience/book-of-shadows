@@ -54,9 +54,7 @@ marjoram:
   core properties:
     - attraction
     - calm
-    - cheerfulness
     - connections
-    - friendship
     - healing
     - love
     - marriage
@@ -66,11 +64,6 @@ marjoram:
     - protection
     - relationships
     - security
-    - stress
-    - warmth
-    - well-being
-    - defensive magic
-    - harmony
   toxicity:
     humans: false
     pets: true

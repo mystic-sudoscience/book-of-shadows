@@ -18,6 +18,15 @@ mouse:
     - spirits
     - success
     - visions
+  core properties:
+    - concentration/focus
+    - cunning
+    - introspection
+    - messages/omens
+    - secrets
+    - shyness
+    - skills
+    - success
   notes:
     - deceit
   correspondences:

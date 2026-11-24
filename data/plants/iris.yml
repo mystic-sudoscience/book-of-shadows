@@ -37,6 +37,19 @@ iris:
     - wealth
     - faith
     - release
+  core properties:
+    - divination
+    - faith
+    - hope
+    - inspiration
+    - love
+    - money
+    - power
+    - prophecy
+    - prosperity
+    - psychic ability
+    - purification
+    - wisdom
   toxicity:
     notes:
       - some species should not be used internally

@@ -23,6 +23,15 @@ cowslip:
     - trust
     - youth
     - fairy magic
+  core properties:
+    - beauty
+    - healing
+    - money
+    - prosperity
+    - protection
+    - secrets
+    - spirits
+    - youth
   toxicity:
     humans: true
     pets: true

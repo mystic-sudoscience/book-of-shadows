@@ -40,7 +40,6 @@ holly:
     - unity
     - wishes
   core properties:
-    - attract luck
     - balance
     - banish
     - beauty
@@ -52,10 +51,7 @@ holly:
     - healing
     - jealousy
     - mind
-    - protect from lightning
     - protection
-    - security
-    - unity
   toxicity:
     humans: true
     pets: true

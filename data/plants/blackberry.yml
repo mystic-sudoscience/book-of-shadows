@@ -31,6 +31,17 @@ blackberry:
     - luck
     - wealth
     - envy
+  core properties:
+    - fertility
+    - growth
+    - harmony
+    - healing
+    - luck
+    - money
+    - prosperity
+    - protection
+    - spirits
+    - wealth
   holidays:
     - lughnasadh
     - mabon

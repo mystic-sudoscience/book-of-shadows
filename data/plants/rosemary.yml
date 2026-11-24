@@ -71,34 +71,14 @@ rosemary:
     - attraction
     - banish
     - bind
-    - calm
-    - clear unwanted energy
     - communication
     - concentration/focus
     - consecrate/bless
     - courage
     - endings
-    - enhance memory
-    - friendship
-    - healing
-    - heartbreak
-    - inspiration
-    - knowledge
-    - love
-    - loyalty
-    - marriage
     - memory/memories
-    - mental clarity
-    - mental power
     - mind
     - negativity
-    - protection
-    - psychic protection
-    - purification
-    - reversal
-    - spiritual protection
-    - true love
-    - wisdom
   toxicity:
     humans: false
     pets: true

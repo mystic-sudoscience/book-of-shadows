@@ -57,8 +57,6 @@ hawthorn:
     - defense
     - home
   core properties:
-    - cheerfulness
-    - emotions
     - family
     - fertility
     - hope
@@ -68,19 +66,9 @@ hawthorn:
     - patience
     - peace
     - prosperity
-    - protect from lightning
-    - protect home from negative energy
     - protection
     - reconciliation
     - relationships
-    - security
-    - sexuality
-    - sorrow
-    - stress
-    - happiness
-    - fairy magic
-    - defensive magic
-    - chastity
   toxicity:
     humans: false
     pets: true

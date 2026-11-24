@@ -26,6 +26,15 @@ witch hazel:
     - witches/witchcraft
     - learning
     - chastity
+  core properties:
+    - courage
+    - divination
+    - fidelity
+    - healing
+    - inspiration
+    - protection
+    - wisdom
+    - witches/witchcraft
   toxicity:
     humans: false
     pets: true

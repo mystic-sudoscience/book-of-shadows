@@ -30,6 +30,17 @@ broom:
     - unity
     - witches/witchcraft
     - astral travel
+  core properties:
+    - banish
+    - clear mind
+    - concentration/focus
+    - divination
+    - money
+    - obstacles
+    - prosperity
+    - protection
+    - purification
+    - stimulation
   toxicity:
     humans: true
     pets: true

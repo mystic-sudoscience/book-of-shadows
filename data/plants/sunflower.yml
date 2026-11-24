@@ -36,6 +36,17 @@ sunflower:
     - luck
     - loneliness
     - release
+  core properties:
+    - cheerfulness
+    - energy
+    - fertility
+    - healing
+    - luck
+    - money
+    - solar energy
+    - strength
+    - wisdom
+    - wishes
   toxicity:
     humans: false
     pets: false

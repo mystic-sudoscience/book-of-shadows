@@ -73,35 +73,18 @@ basil:
     - release
     - sympathy
   core properties:
-    - attract luck
     - attraction
     - banish
-    - break hexes
     - business
     - clarity
-    - compassion
     - courage
-    - domestic harmony
     - family
     - fidelity
     - friendship
     - goodness
-    - money
-    - negativity
-    - obstacles
-    - peace
-    - prosperity
-    - protection
-    - psychic ability
-    - purification
-    - reconciliation
-    - relationships
-    - release attachments
-    - success
-    - trust
-    - defensive magic
     - love
     - luck
+    - psychic ability
   toxicity:
     notes:
       - avoid if pregnant

@@ -53,6 +53,19 @@ sekhmet:
     - wealth
     - well-being
     - wisdom
+  core properties:
+    - action
+    - defense
+    - destruction
+    - fear
+    - healing
+    - magic
+    - power
+    - protection
+    - purification
+    - revenge
+    - strength
+    - transformation
   notes:
     - general magic
   correspondences:

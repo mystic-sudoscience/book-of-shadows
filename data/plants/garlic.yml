@@ -45,7 +45,6 @@ garlic:
     - release
   core properties:
     - banish
-    - break hexes
     - defense
     - energy
     - healing
@@ -54,11 +53,9 @@ garlic:
     - purification
     - security
     - sex magic
-    - smell
     - stimulation
     - travel
     - well-being
-    - exorcism
   toxicity:
     humans: false
     pets: true

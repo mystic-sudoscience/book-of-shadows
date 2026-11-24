@@ -28,6 +28,15 @@ spikenard:
     - well-being
     - creativity
     - luck
+  core properties:
+    - consecrate/bless
+    - fidelity
+    - harmony
+    - healing
+    - love
+    - luck
+    - purification
+    - well-being
   toxicity:
     humans: false
     pets: false

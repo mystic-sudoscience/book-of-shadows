@@ -27,6 +27,15 @@ borage:
     - happiness
     - inner strength
     - passion
+  core properties:
+    - business
+    - cheerfulness
+    - courage
+    - healing
+    - money
+    - peace
+    - psychic ability
+    - soothe mind
   toxicity:
     humans: false
     pets: true

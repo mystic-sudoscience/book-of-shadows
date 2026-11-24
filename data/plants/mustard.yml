@@ -32,6 +32,17 @@ mustard:
     - stress
     - success
     - travel
+  core properties:
+    - abundance
+    - acceptance
+    - courage
+    - fertility
+    - manifestation
+    - mental power
+    - money
+    - prosperity
+    - protection
+    - success
   toxicity:
     humans: false
     pets: true

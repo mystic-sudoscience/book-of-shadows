@@ -16,6 +16,15 @@ spring:
     - purification
     - rebirth/renewal
     - youth
+  core properties:
+    - activate/awaken
+    - beginnings
+    - fertility
+    - healing
+    - hope
+    - purification
+    - rebirth/renewal
+    - youth
   citation:
     - kynes-correspondences
 summer:
@@ -65,5 +74,14 @@ winter:
     - self-improvement
     - sleep
     - sorrow
+  core properties:
+    - banish
+    - darkness
+    - death
+    - destruction
+    - dream work
+    - endings
+    - introspection
+    - sleep
   citation:
     - kynes-correspondences

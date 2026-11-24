@@ -52,27 +52,18 @@ peppermint:
     - intelligence
     - release
   core properties:
-    - purification
     - awareness
-    - dream work
-    - clairvoyance
     - banish
     - clarity
     - concentration/focus
-    - inspiration
     - divination
+    - dream work
     - energy
     - healing
     - life
-    - messages/omens
-    - mental power
-    - obstacles
     - psychic ability
-    - release attachments
+    - purification
     - stimulation
-    - warmth
-    - visions
-    - creativity
   toxicity:
     humans: false
     pets: true

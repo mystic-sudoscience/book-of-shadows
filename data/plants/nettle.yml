@@ -41,6 +41,19 @@ nettle:
     - luck
     - obstacles
     - danger
+  core properties:
+    - banish
+    - break hexes
+    - courage
+    - defense
+    - healing
+    - lust
+    - negativity
+    - obstacles
+    - protection
+    - psychic protection
+    - purification
+    - strength
   toxicity:
     humans: false
     pets: false

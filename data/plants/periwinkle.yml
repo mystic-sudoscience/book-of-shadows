@@ -26,6 +26,15 @@ periwinkle:
     - sex magic
     - spirits
     - wealth
+  core properties:
+    - love
+    - lust
+    - marriage
+    - memory/memories
+    - mental power
+    - money
+    - prosperity
+    - protection
   toxicity:
     humans: true
     pets: true

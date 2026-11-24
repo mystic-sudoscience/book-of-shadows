@@ -35,6 +35,17 @@ ivy:
     - stability
     - transformation
     - witches/witchcraft
+  core properties:
+    - fertility
+    - fidelity
+    - friendship
+    - growth
+    - healing
+    - love
+    - luck
+    - marriage
+    - protection
+    - security
   toxicity:
     humans: true
     pets: true

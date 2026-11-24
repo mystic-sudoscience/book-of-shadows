@@ -20,6 +20,15 @@ ares:
     - storms
     - strength
     - warrior energy
+  core properties:
+    - action
+    - aggression
+    - anger
+    - defense
+    - destruction
+    - energy
+    - protection
+    - strength
   correspondences:
     animals:
       - boar

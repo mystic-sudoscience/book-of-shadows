@@ -60,28 +60,16 @@ angelica:
   core properties:
     - banish
     - bind
-    - break hexes
     - calm
-    - clairvoyance
     - consecrate/bless
     - defense
     - divination
     - dream work
     - friendship
     - healing
-    - holy spirits
-    - life
-    - messages/omens
     - negativity
-    - obstacles
     - protection
     - purification
-    - security
-    - spiritual protection
-    - stimulation
-    - longevity
-    - visions
-    - blessings
   toxicity:
     humans: false
     notes:

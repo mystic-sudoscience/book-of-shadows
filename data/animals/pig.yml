@@ -17,6 +17,15 @@ pig:
     - transformation
     - truth
     - wealth
+  core properties:
+    - abundance
+    - cheerfulness
+    - death
+    - fertility
+    - knowledge
+    - otherworld/underworld
+    - truth
+    - wealth
   notes:
     - knowledge of past lives
   citation:

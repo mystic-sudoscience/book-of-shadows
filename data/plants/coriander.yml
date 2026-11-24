@@ -26,6 +26,17 @@ coriander:
     - longevity
     - happiness
     - influence
+  core properties:
+    - fertility
+    - fidelity
+    - healing
+    - home
+    - love
+    - passion
+    - peace
+    - protection
+    - sex magic
+    - well-being
   toxicity:
     notes:
       - do not take essential oil internally

@@ -41,25 +41,18 @@ mandrake:
     - well-being
     - witches/witchcraft
   core properties:
-    - amplification
     - authority
     - banish
-    - black magic
     - courage
     - desire
     - divination
-    - face danger
     - fertility
     - healing
     - increase
     - magic
     - money
     - passion
-    - pregnancy/childbirth
     - prosperity
-    - protection
-    - security
-    - witches/witchcraft
   toxicity:
     humans: true
     pets: true

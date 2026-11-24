@@ -55,7 +55,6 @@ white oak:
     - youth
   core properties:
     - abundance
-    - attract luck
     - authority
     - challenges
     - confidence
@@ -65,18 +64,8 @@ white oak:
     - energy
     - freedom
     - healing
-    - increase
-    - justice
-    - life
-    - money
-    - personal power
     - power
-    - prosperity
-    - protect from lightning
     - protection
-    - security
-    - warmth
-    - well-being
   toxicity:
     humans: false
     pets: false

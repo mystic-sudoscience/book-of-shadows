@@ -21,6 +21,15 @@ albatross:
     - strength
     - transformation
     - travel
+  core properties:
+    - afterlife
+    - endurance
+    - freedom
+    - messages/omens
+    - prophecy
+    - spirituality
+    - transformation
+    - travel
   notes:
     - clarity over time
     - quests

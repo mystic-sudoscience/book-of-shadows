@@ -32,6 +32,19 @@ magpie:
     - willpower
     - witches/witchcraft
     - youth
+  core properties:
+    - adaptability
+    - communication
+    - community
+    - death
+    - divination
+    - intelligence
+    - knowledge
+    - luck
+    - messages/omens
+    - prophecy
+    - secrets
+    - witches/witchcraft
   notes:
     - occult knowledge
     - opportunities

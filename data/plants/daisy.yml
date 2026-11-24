@@ -26,6 +26,17 @@ daisy:
     - skills
     - truth
     - youth
+  core properties:
+    - beauty
+    - cheerfulness
+    - divination
+    - harmony
+    - healing
+    - innocence
+    - love
+    - protection
+    - truth
+    - youth
   toxicity:
     notes:
       - poison

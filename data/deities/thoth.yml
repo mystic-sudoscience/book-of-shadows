@@ -34,6 +34,17 @@ thoth:
     - success
     - truth
     - wisdom
+  core properties:
+    - communication
+    - divination
+    - healing
+    - justice
+    - knowledge
+    - magic
+    - mind
+    - prophecy
+    - truth
+    - wisdom
   notes:
     - general magic
     - writing communication

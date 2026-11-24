@@ -31,6 +31,19 @@ dragon:
     - wealth
     - weather
     - wisdom
+  core properties:
+    - ambition
+    - balance
+    - challenges
+    - courage
+    - fertility
+    - guardian
+    - knowledge
+    - power
+    - prosperity
+    - strength
+    - wealth
+    - wisdom
   notes:
     - ancient knowledge
     - guardian of treasures

@@ -71,13 +71,8 @@ vervain:
     - optimism
     - release
   core properties:
-    - love
-    - protection
-    - purification
     - banish
     - beginnings
-    - break hexes
-    - calm
     - consecrate/bless
     - discipline
     - divination
@@ -85,21 +80,9 @@ vervain:
     - fertility
     - fidelity
     - grounding
-    - healing
-    - home
-    - improvement
     - inspiration
-    - justice
     - magic
-    - marriage
-    - money
-    - obstacles
-    - peace
-    - prosperity
-    - protect from lightning
-    - release attachments
-    - success
-    - defensive magic
+    - protection
   toxicity:
     humans: true
     pets: true

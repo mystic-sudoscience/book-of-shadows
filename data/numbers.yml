@@ -141,6 +141,8 @@
     - unity
   core properties:
     - action
+    - ambition
+    - authority
     - communication
     - creativity
     - growth
@@ -284,6 +286,8 @@
     - well-being
     - wisdom
   core properties:
+    - affection
+    - anxiety
     - balance
     - beauty
     - compassion
@@ -344,6 +348,8 @@
     - well-being
     - wisdom
   core properties:
+    - accomplishment
+    - affection
     - clairvoyance
     - connect with higher self
     - courage
@@ -397,8 +403,10 @@
     - abundance
     - accomplishment
     - ambition
+    - authority
     - business
     - challenges
+    - dedication/devotion
     - discipline
     - karma
     - money

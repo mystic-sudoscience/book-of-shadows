@@ -34,6 +34,19 @@ goose:
     - travel
     - unity
     - warn of danger
+  core properties:
+    - abundance
+    - communication
+    - community
+    - family
+    - fertility
+    - fidelity
+    - guardian
+    - home
+    - marriage
+    - support
+    - travel
+    - warn of danger
   notes:
     - general support
     - quests

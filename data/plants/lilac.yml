@@ -57,25 +57,15 @@ lilac:
     - attraction
     - banish
     - beauty
-    - break hexes
-    - clairvoyance
     - community
     - divination
     - dream work
     - friendship
-    - home
     - innocence
     - inspiration
     - love
-    - obstacles
     - peace
     - prophecy
-    - protection
-    - purification
-    - release attachments
-    - security
-    - exorcism
-    - defensive magic
   toxicity:
     humans: false
     pets: true

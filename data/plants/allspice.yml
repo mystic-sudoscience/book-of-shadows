@@ -31,6 +31,17 @@ allspice:
     - stress
     - success
     - willpower
+  core properties:
+    - attraction
+    - business
+    - courage
+    - determination
+    - energy
+    - healing
+    - luck
+    - money
+    - prosperity
+    - success
   toxicity:
     notes:
       - do not take essential oil internally without professional guidance

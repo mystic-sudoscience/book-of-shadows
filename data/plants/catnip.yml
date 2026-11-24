@@ -34,6 +34,17 @@ catnip:
     - obstacles
     - spirits
     - strength
+  core properties:
+    - animal magic
+    - cheerfulness
+    - courage
+    - friendship
+    - happiness
+    - home
+    - love
+    - peace
+    - psychic ability
+    - sleep
   toxicity:
     notes:
       - avoid if pregnant

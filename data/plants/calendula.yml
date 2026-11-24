@@ -62,7 +62,6 @@ calendula:
     - envy
   core properties:
     - affection
-    - clairvoyance
     - divination
     - dream work
     - energy
@@ -71,21 +70,9 @@ calendula:
     - healing
     - jealousy
     - life
-    - love
-    - messages/omens
-    - peace
-    - prophecy
-    - psychic ability
-    - relationships
-    - spiritual protection
-    - success
-    - warmth
-    - well-being
-    - longevity
-    - visions
     - limitations/boundaries
-    - prosperity
-    - solar energy
+    - love
+    - psychic ability
   toxicity:
     humans: false
     pets: false

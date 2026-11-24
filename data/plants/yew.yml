@@ -32,6 +32,17 @@ yew:
     - strength
     - visions
     - witches/witchcraft
+  core properties:
+    - adaptability
+    - afterlife
+    - changes
+    - death
+    - divination
+    - otherworld/underworld
+    - protection
+    - psychic ability
+    - rebirth/renewal
+    - spirits
   toxicity:
     humans: true
     pets: true

@@ -23,6 +23,17 @@ spider:
     - skills
     - wisdom
     - witches/witchcraft
+  core properties:
+    - communication
+    - creativity
+    - cycles
+    - destiny
+    - magic
+    - manifestation
+    - patience
+    - skills
+    - wisdom
+    - witches/witchcraft
   varieties:
     black widow:
       properties:

@@ -21,6 +21,15 @@ minerva:
     - skills
     - warrior energy
     - wisdom
+  core properties:
+    - business
+    - healing
+    - knowledge
+    - mind
+    - power
+    - protection
+    - skills
+    - wisdom
   notes:
     - decisions
   correspondences:

@@ -38,6 +38,19 @@ heliotrope:
     - danger
     - influence
     - release
+  core properties:
+    - authority
+    - banish
+    - clairvoyance
+    - dream work
+    - healing
+    - money
+    - prosperity
+    - psychic ability
+    - solar energy
+    - solar magic
+    - spirituality
+    - wealth
   toxicity:
     humans: true
     pets: true

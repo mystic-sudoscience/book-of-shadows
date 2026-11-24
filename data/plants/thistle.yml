@@ -32,6 +32,17 @@ thistle:
     - limitations/boundaries
     - faith
     - independence
+  core properties:
+    - banish
+    - break hexes
+    - courage
+    - defense
+    - endurance
+    - healing
+    - obstacles
+    - protection
+    - purification
+    - strength
   toxicity:
     humans: false
     pets: false

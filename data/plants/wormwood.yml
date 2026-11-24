@@ -47,10 +47,8 @@ wormwood:
     - release
   core properties:
     - afterlife
-    - astral realm
     - banish
     - bind
-    - contact spirits
     - death
     - defense
     - divination
@@ -59,10 +57,7 @@ wormwood:
     - love
     - obstacles
     - peace
-    - protection
     - psychic ability
-    - purification
-    - astral travel
   toxicity:
     humans: true
     pets: true

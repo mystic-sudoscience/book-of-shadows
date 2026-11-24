@@ -42,22 +42,18 @@ dill:
     - wealth
     - witches/witchcraft
   core properties:
-    - desire
-    - money
-    - willpower
-    - attract luck
     - calm
-    - home
+    - desire
     - justice
     - love
     - lust
     - mind
+    - money
     - prosperity
     - protection
     - purification
     - security
-    - sex magic
-    - luck
+    - willpower
   toxicity:
     notes:
       - take essential oil internally only under professional supervision

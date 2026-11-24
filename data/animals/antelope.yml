@@ -23,6 +23,17 @@ antelope:
     - obstacles
     - psychic ability
     - skills
+  core properties:
+    - action
+    - adaptability
+    - avoid danger
+    - communication
+    - community
+    - confidence
+    - energy
+    - grace
+    - psychic ability
+    - skills
   notes:
     - active imagination
     - gentleness

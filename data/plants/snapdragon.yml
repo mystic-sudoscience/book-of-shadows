@@ -23,6 +23,15 @@ snapdragon:
     - truth
     - wealth
     - witches/witchcraft
+  core properties:
+    - assertiveness
+    - banish
+    - break hexes
+    - clairaudience
+    - money
+    - protection
+    - truth
+    - witches/witchcraft
   toxicity:
     humans: false
     pets: false

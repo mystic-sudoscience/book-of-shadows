@@ -18,6 +18,15 @@ vulture:
     - transformation
     - trust
     - trust senses
+  core properties:
+    - cycles
+    - death
+    - guardian
+    - healing
+    - patience
+    - purification
+    - rebirth/renewal
+    - transformation
   notes:
     - guardian of mysteries
   varieties:

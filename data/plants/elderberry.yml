@@ -55,6 +55,19 @@ elderberry:
     - release
     - set hexes
     - sympathy
+  core properties:
+    - banish
+    - blessings
+    - consecrate/bless
+    - healing
+    - prosperity
+    - protection
+    - purification
+    - rebirth/renewal
+    - sleep
+    - transformation
+    - wisdom
+    - witches/witchcraft
   toxicity:
     humans: true
     pets: true

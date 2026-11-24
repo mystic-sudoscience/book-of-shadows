@@ -51,10 +51,6 @@ carnation:
     - protection
     - purity
     - relationships
-    - skills
-    - stimulation
-    - truth
-    - well-being
   toxicity:
     humans: false
     pets: true

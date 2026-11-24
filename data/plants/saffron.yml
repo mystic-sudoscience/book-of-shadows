@@ -37,6 +37,19 @@ saffron:
     - sexuality
     - wealth
     - moods
+  core properties:
+    - cheerfulness
+    - clairvoyance
+    - healing
+    - love
+    - lust
+    - money
+    - passion
+    - prosperity
+    - psychic ability
+    - sex magic
+    - strength
+    - wealth
   toxicity:
     humans: false
     pets: true

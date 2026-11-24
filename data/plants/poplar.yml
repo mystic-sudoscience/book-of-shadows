@@ -25,6 +25,15 @@ poplar:
     - spirituality
     - strength
     - wealth
+  core properties:
+    - astral realm
+    - courage
+    - divination
+    - endurance
+    - money
+    - prophecy
+    - prosperity
+    - wealth
   toxicity:
     humans: false
     pets: false

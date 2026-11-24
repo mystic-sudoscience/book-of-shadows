@@ -36,6 +36,17 @@ comfrey:
     - travel
     - unity
     - wealth
+  core properties:
+    - banish
+    - endurance
+    - healing
+    - memory/memories
+    - money
+    - prosperity
+    - protection
+    - stability
+    - travel
+    - wealth
   toxicity:
     notes:
       - not recommended for internal use

@@ -75,7 +75,6 @@ pine:
     - banish
     - bind
     - blessings
-    - clear unwanted energy
     - courage
     - energy
     - guardian
@@ -84,18 +83,6 @@ pine:
     - justice
     - money
     - negativity
-    - prosperity
-    - protection
-    - purification
-    - reversal
-    - smell
-    - spirituality
-    - stimulation
-    - well-being
-    - exorcism
-    - longevity
-    - vitality
-    - peace
   toxicity:
     humans: true
     pets: true

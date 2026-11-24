@@ -28,6 +28,15 @@ hazel:
     - reconciliation
     - security
     - wishes
+  core properties:
+    - beauty
+    - divination
+    - fertility
+    - inspiration
+    - knowledge
+    - magic
+    - protection
+    - wishes
   toxicity:
     humans: false
     pets: false

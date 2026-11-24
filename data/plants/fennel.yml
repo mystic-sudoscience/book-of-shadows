@@ -34,6 +34,17 @@ fennel:
     - visions
     - home
     - witches/witchcraft
+  core properties:
+    - courage
+    - energy
+    - fertility
+    - healing
+    - home
+    - longevity
+    - protection
+    - purification
+    - sight
+    - strength
   notes: null
   toxicity:
     notes:

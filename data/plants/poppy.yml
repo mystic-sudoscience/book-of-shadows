@@ -37,6 +37,19 @@ poppy:
     - acceptance
     - release attachments
     - wealth
+  core properties:
+    - afterlife
+    - divination
+    - dream work
+    - fertility
+    - love
+    - luck
+    - money
+    - moon magic
+    - prosperity
+    - rebirth/renewal
+    - sleep
+    - wealth
   toxicity:
     humans: false
     pets: true

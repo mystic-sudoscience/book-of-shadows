@@ -31,6 +31,17 @@ cougar:
     - strength
     - willpower
     - wisdom
+  core properties:
+    - authority
+    - balance
+    - confidence
+    - courage
+    - freedom
+    - intelligence
+    - leadership
+    - personal power
+    - strength
+    - willpower
   notes:
     - gentleness
     - leap at opportunities

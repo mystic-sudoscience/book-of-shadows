@@ -30,6 +30,17 @@ peony:
     - danger
     - opportunities
     - release
+  core properties:
+    - abundance
+    - anxiety
+    - banish
+    - business
+    - luck
+    - magic
+    - nightmares
+    - prosperity
+    - protection
+    - success
   toxicity:
     humans: true
     pets: true

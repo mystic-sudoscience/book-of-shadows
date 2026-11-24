@@ -22,6 +22,15 @@ njord:
     - success
     - travel
     - wealth
+  core properties:
+    - fertility
+    - luck
+    - money
+    - prosperity
+    - protection
+    - success
+    - travel
+    - wealth
   correspondences:
     animals:
       - seagull

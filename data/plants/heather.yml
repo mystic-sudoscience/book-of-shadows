@@ -47,11 +47,9 @@ heather:
     - faith
     - optimism
   core properties:
-    - attract luck
     - authority
     - clarity
     - confidence
-    - fairness
     - healing
     - love
     - passion
@@ -59,11 +57,8 @@ heather:
     - protection
     - psychic ability
     - purification
-    - spirits
     - spirituality
     - trust
-    - weather
-    - rain magic
   toxicity:
     humans: false
     pets: false

@@ -28,6 +28,15 @@ aloe:
     - sexuality
     - sorrow
     - success
+  core properties:
+    - afterlife
+    - beauty
+    - healing
+    - love
+    - peace
+    - protection
+    - security
+    - success
   toxicity:
     humans: false
     pets: true

@@ -32,6 +32,17 @@ jupiter:
     - wealth
     - weather
     - wisdom
+  core properties:
+    - abundance
+    - agriculture
+    - authority
+    - guardian
+    - honor
+    - justice
+    - prosperity
+    - protection
+    - wealth
+    - weather
   notes:
     - decisions
     - general weather

@@ -68,8 +68,6 @@ sage:
     - quests
     - release
   core properties:
-    - blessings
-    - clear mind
     - concentration/focus
     - consecrate/bless
     - energy
@@ -81,21 +79,7 @@ sage:
     - life
     - memory/memories
     - negativity
-    - obstacles
-    - peace
-    - protection
-    - psychic protection
     - purification
-    - release attachments
-    - reversal
-    - ritual purification
-    - secrets
-    - stimulation
-    - strengthen senses
-    - warmth
-    - wisdom
-    - longevity
-    - mental clarity
   toxicity:
     humans: false
     pets: false

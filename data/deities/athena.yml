@@ -32,6 +32,17 @@ athena:
     - strength
     - warrior energy
     - wisdom
+  core properties:
+    - authority
+    - courage
+    - guardian
+    - guidance
+    - justice
+    - mind
+    - protection
+    - skills
+    - strength
+    - wisdom
   correspondences:
     animals:
       - cattle (ox)

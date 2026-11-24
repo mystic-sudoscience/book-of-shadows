@@ -60,8 +60,6 @@ rowan:
   core properties:
     - astral realm
     - bind
-    - clairvoyance
-    - control senses
     - defense
     - destruction
     - divination
@@ -71,15 +69,7 @@ rowan:
     - inspiration
     - life
     - magic
-    - power
-    - prophecy
-    - protect from lightning
     - psychic ability
-    - security
-    - spirits
-    - success
-    - witches/witchcraft
-    - visions
   toxicity:
     humans: false
     pets: false

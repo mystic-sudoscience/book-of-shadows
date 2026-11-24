@@ -25,6 +25,17 @@ poseidon:
     - transformation
     - travel
     - weather
+  core properties:
+    - action
+    - animal magic
+    - animals
+    - authority
+    - energy
+    - fertility
+    - power
+    - transformation
+    - travel
+    - weather
   notes:
     - animal fertility
     - ocean storms

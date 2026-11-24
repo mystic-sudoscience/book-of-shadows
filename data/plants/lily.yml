@@ -33,6 +33,17 @@ lily:
     - harmony
     - deceit
     - quests
+  core properties:
+    - beauty
+    - harmony
+    - innocence
+    - love
+    - otherworld/underworld
+    - peace
+    - prosperity
+    - protection
+    - purity
+    - youth
   toxicity:
     humans: true
     pets: true

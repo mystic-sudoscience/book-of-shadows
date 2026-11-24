@@ -22,6 +22,15 @@ horehound:
     - purification
     - strength
     - wishes
+  core properties:
+    - banish
+    - clarity
+    - healing
+    - mental power
+    - protection
+    - purification
+    - strength
+    - wishes
   toxicity:
     humans: true
     pets: true

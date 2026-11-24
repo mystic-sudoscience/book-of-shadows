@@ -19,6 +19,15 @@ turtle:
     - skills
     - travel
     - wisdom
+  core properties:
+    - abundance
+    - courage
+    - cycles
+    - fertility
+    - grounding
+    - healing
+    - security
+    - wisdom
   varieties:
     sea:
       properties:

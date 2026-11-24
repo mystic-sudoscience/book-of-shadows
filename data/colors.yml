@@ -65,6 +65,19 @@ black:
     - truth
     - wisdom
     - witches/witchcraft
+  core properties:
+    - banish
+    - bind
+    - break hexes
+    - death
+    - divination
+    - grounding
+    - magic
+    - negativity
+    - protection
+    - rebirth/renewal
+    - secrets
+    - set hexes
   citation:
     - kynes-correspondences
 blue:
@@ -115,6 +128,19 @@ blue:
     - transformation
     - truth
     - visions
+  core properties:
+    - astral realm
+    - awareness
+    - business
+    - changes
+    - communication
+    - dream work
+    - fidelity
+    - forgiveness
+    - protection
+    - sleep
+    - spirituality
+    - truth
   shades:
     dark:
       properties:
@@ -187,6 +213,19 @@ brown:
     - success
     - travel
     - truth
+  core properties:
+    - agriculture
+    - animal magic
+    - balance
+    - concentration/focus
+    - family
+    - friendship
+    - grounding
+    - healing
+    - home
+    - money
+    - nurture
+    - stability
   citation:
     - kynes-correspondences
 copper:
@@ -241,6 +280,19 @@ gold:
     - wealth
     - well-being
     - wisdom
+  core properties:
+    - abundance
+    - astral realm
+    - confidence
+    - healing
+    - money
+    - power
+    - prosperity
+    - protection
+    - solar energy
+    - success
+    - wealth
+    - wisdom
   citation:
     - kynes-correspondences
 gray:
@@ -268,6 +320,17 @@ gray:
     - spiritual protection
     - stability
     - visions
+    - wisdom
+  core properties:
+    - authority
+    - balance
+    - endings
+    - otherworld/underworld
+    - peace
+    - psychic protection
+    - secrets
+    - spiritual protection
+    - stability
     - wisdom
   shades:
     dark:
@@ -340,6 +403,19 @@ green:
     - well-being
     - wisdom
     - youth
+  core properties:
+    - abundance
+    - agriculture
+    - fertility
+    - growth
+    - healing
+    - love
+    - luck
+    - money
+    - nature spirits
+    - prosperity
+    - success
+    - wealth
   shades:
     blue-green:
       properties:
@@ -384,6 +460,17 @@ indigo:
     - stress
     - success
     - truth
+  core properties:
+    - awareness
+    - clairvoyance
+    - clarity
+    - consciousness
+    - contact spirits
+    - dignity
+    - divination
+    - karma
+    - spiritual balance
+    - truth
   citation:
     - kynes-correspondences
 lavender:
@@ -404,6 +491,15 @@ lavender:
     - purification
     - sensitivity
     - sex magic
+    - spiritual protection
+    - spirituality
+  core properties:
+    - consecrate/bless
+    - divination
+    - dream work
+    - peace
+    - psychic ability
+    - purification
     - spiritual protection
     - spirituality
   citation:
@@ -469,6 +565,19 @@ orange:
     - travel
     - warmth
     - well-being
+  core properties:
+    - abundance
+    - ambition
+    - attraction
+    - business
+    - confidence
+    - courage
+    - creativity
+    - encouragement
+    - energy
+    - luck
+    - stimulation
+    - success
   citation:
     - kynes-correspondences
 peach:
@@ -524,6 +633,19 @@ pink:
     - warmth
     - well-being
     - youth
+  core properties:
+    - acceptance
+    - activate/awaken
+    - affection
+    - anxiety
+    - beauty
+    - compassion
+    - harmony
+    - healing
+    - love
+    - nurture
+    - peace
+    - romance
   shades:
     pale:
       properties:
@@ -582,6 +704,19 @@ purple:
     - truth
     - visions
     - wealth
+    - wisdom
+  core properties:
+    - accomplishment
+    - authority
+    - consecrate/bless
+    - dignity
+    - divination
+    - enlightenment
+    - healing
+    - power
+    - protection
+    - psychic ability
+    - success
     - wisdom
   shades:
     dark:
@@ -648,6 +783,19 @@ red:
     - willpower
     - wisdom
     - wishes
+  core properties:
+    - action
+    - courage
+    - desire
+    - energy
+    - love
+    - lust
+    - passion
+    - power
+    - protection
+    - sexuality
+    - strength
+    - willpower
   citation:
     - kynes-correspondences
 rose:
@@ -704,6 +852,19 @@ silver:
     - stability
     - stress
     - success
+  core properties:
+    - clairvoyance
+    - divination
+    - dream work
+    - enchantment
+    - healing
+    - intuition
+    - money
+    - moon magic
+    - protection
+    - psychic ability
+    - purification
+    - spirituality
   citation:
     - kynes-correspondences
 turquoise:
@@ -750,6 +911,19 @@ violet:
     - transformation
     - truth
     - well-being
+    - wisdom
+  core properties:
+    - healing
+    - insight
+    - inspiration
+    - peace
+    - power
+    - protection
+    - psychic ability
+    - purification
+    - spirituality
+    - transformation
+    - truth
     - wisdom
   citation:
     - kynes-correspondences
@@ -812,6 +986,19 @@ white:
     - unity
     - visions
     - willpower
+  core properties:
+    - blessings
+    - consecrate/bless
+    - divination
+    - healing
+    - innocence
+    - moon magic
+    - peace
+    - protection
+    - purification
+    - purity
+    - spirituality
+    - truth
   citation:
     - kynes-correspondences
 yellow:
@@ -869,6 +1056,19 @@ yellow:
     - willpower
     - wisdom
     - wishes
+  core properties:
+    - action
+    - astral realm
+    - cheerfulness
+    - clarity
+    - communication
+    - creativity
+    - energy
+    - inspiration
+    - intelligence
+    - memory/memories
+    - mind
+    - solar energy
   shades:
     yellow-green:
       properties:

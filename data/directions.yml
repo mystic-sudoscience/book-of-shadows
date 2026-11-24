@@ -31,6 +31,19 @@ north:
     - wealth
     - well-being
     - wisdom
+  core properties:
+    - abundance
+    - accomplishment
+    - balance
+    - clarity
+    - magic
+    - manifestation
+    - power
+    - secrets
+    - strength
+    - success
+    - wealth
+    - wisdom
   citation:
     - kynes-correspondences
 northeast:
@@ -61,6 +74,15 @@ east:
     - mind
     - passion
     - prosperity
+    - rebirth/renewal
+    - wisdom
+  core properties:
+    - beginnings
+    - communication
+    - illumination
+    - inspiration
+    - light
+    - mind
     - rebirth/renewal
     - wisdom
   citation:
@@ -104,6 +126,19 @@ south:
     - trust
     - warmth
     - willpower
+  core properties:
+    - courage
+    - energy
+    - light
+    - love
+    - passion
+    - protection
+    - purification
+    - sexuality
+    - strength
+    - success
+    - warmth
+    - willpower
   citation:
     - kynes-correspondences
 southwest:
@@ -135,6 +170,15 @@ west:
     - strength
     - travel
     - visions
+  core properties:
+    - afterlife
+    - balance
+    - compassion
+    - death
+    - dream work
+    - emotions
+    - love
+    - psychic ability
   citation:
     - kynes-correspondences
 northwest:

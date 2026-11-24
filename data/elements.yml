@@ -51,6 +51,19 @@ earth:
     - gentleness
     - purpose
     - set hexes
+  core properties:
+    - abundance
+    - fertility
+    - grounding
+    - growth
+    - healing
+    - home
+    - manifestation
+    - money
+    - nurture
+    - prosperity
+    - stability
+    - wealth
   citation:
     - cunningham-herbs
     - kynes-correspondences
@@ -102,6 +115,19 @@ air:
     - willpower
     - intelligence
     - release
+  core properties:
+    - clarity
+    - communication
+    - divination
+    - freedom
+    - imagination
+    - inspiration
+    - intelligence
+    - knowledge
+    - mind
+    - psychic ability
+    - travel
+    - wisdom
   citation:
     - cunningham-herbs
     - kynes-correspondences
@@ -156,6 +182,19 @@ fire:
     - leadership
     - purpose
     - release
+  core properties:
+    - action
+    - courage
+    - desire
+    - destruction
+    - energy
+    - healing
+    - passion
+    - power
+    - protection
+    - sexuality
+    - transformation
+    - willpower
   citation:
     - cunningham-herbs
     - kynes-correspondences
@@ -214,6 +253,19 @@ water:
     - transformation
     - well-being
     - influence
+  core properties:
+    - adaptability
+    - compassion
+    - divination
+    - dream work
+    - emotions
+    - healing
+    - intuition
+    - love
+    - psychic ability
+    - purification
+    - reconciliation
+    - sleep
   citation:
     - cunningham-herbs
     - kynes-correspondences

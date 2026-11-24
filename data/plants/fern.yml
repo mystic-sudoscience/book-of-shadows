@@ -32,6 +32,17 @@ fern:
     - release
     - protect from hexes
     - luck
+  core properties:
+    - banish
+    - concentration/focus
+    - luck
+    - money
+    - power
+    - prosperity
+    - protection
+    - purification
+    - wealth
+    - youth
   citation:
     - cunningham-herbs
     - kynes-correspondences

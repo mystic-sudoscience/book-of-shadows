@@ -29,6 +29,17 @@ myrtle:
     - sorrow
     - wealth
     - youth
+  core properties:
+    - death
+    - fertility
+    - fidelity
+    - love
+    - marriage
+    - money
+    - otherworld/underworld
+    - peace
+    - prosperity
+    - youth
   toxicity:
     notes:
       - may disturb some part of the digestive system if used internally

@@ -19,6 +19,15 @@ mercury:
     - messages/omens
     - prosperity
     - travel
+  core properties:
+    - business
+    - communication
+    - divination
+    - knowledge
+    - magic
+    - messages/omens
+    - prosperity
+    - travel
   correspondences:
     animals:
       - chicken (rooster)

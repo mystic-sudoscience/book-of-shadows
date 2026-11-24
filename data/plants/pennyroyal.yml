@@ -32,6 +32,17 @@ pennyroyal:
     - stimulation
     - strength
     - trust
+  core properties:
+    - banish
+    - courage
+    - healing
+    - home
+    - love
+    - marriage
+    - peace
+    - protection
+    - purification
+    - strength
   toxicity:
     humans: true
     pets: true

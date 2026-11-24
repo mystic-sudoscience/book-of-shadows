@@ -23,6 +23,15 @@ aconite:
     - strength
     - support
     - witches/witchcraft
+  core properties:
+    - anxiety
+    - astral realm
+    - calm
+    - consecrate/bless
+    - enchantment
+    - protection
+    - strength
+    - witches/witchcraft
   toxicity:
     humans: true
     pets: true

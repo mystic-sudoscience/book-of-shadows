@@ -29,6 +29,17 @@ pepper:
     - security
     - strength
     - truth
+  core properties:
+    - banish
+    - courage
+    - defense
+    - endurance
+    - lust
+    - motivation
+    - obstacles
+    - protection
+    - security
+    - strength
   toxicity:
     notes:
       - do not take essential oil internally without professional supervision

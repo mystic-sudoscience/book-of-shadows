@@ -70,31 +70,15 @@ jasmine:
     - affection
     - anxiety
     - astral realm
-    - attract luck
     - attraction
     - beauty
     - calm
-    - cheerfulness
-    - clairvoyance
-    - collect debts
     - dream work
-    - emotional balance
     - friendship
     - harmony
     - justice
     - loss
-    - love
-    - night magic
-    - peace
-    - prosperity
     - psychic ability
-    - relationships
-    - romance
-    - sleep
-    - stress
-    - support
-    - happiness
-    - visions
   toxicity:
     humans: false
     pets: false
