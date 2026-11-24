@@ -2,6 +2,7 @@ praying mantis:
   type: insect & misc
   properties:
     - agriculture
+    - battle/war
     - cycles
     - motivation
     - power

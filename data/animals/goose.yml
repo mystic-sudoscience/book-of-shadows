@@ -3,8 +3,10 @@ goose:
   properties:
     - abundance
     - action
+    - comfort
     - communication
     - community
+    - cooperation
     - divination
     - family
     - fertility

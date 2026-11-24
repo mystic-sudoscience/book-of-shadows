@@ -12,22 +12,28 @@ agate:
     - anxiety
     - avoid enmity
     - calm
+    - comfort
     - confidence
     - connect with earth energies
     - connect with the natural world
     - eloquence
+    - envy
+    - favors
     - friendship
     - generosity
     - grief
     - grounding
     - integrity
+    - intelligence
     - light
     - luck
+    - optimism
     - prosperity
     - provide comfort
     - purity
     - quiet mind
     - raise consciousness
+    - release
     - reversal
     - stability
     - storms
@@ -50,6 +56,7 @@ agate:
   varieties:
     banded:
       properties:
+        - danger
         - energy
         - face danger
         - growth
@@ -85,6 +92,7 @@ agate:
     black with white veining:
       properties:
         - beauty
+        - danger
         - face danger
         - receptive energy
     botswana:
@@ -96,8 +104,10 @@ agate:
         - universal love
     brown:
       properties:
+        - battle/war
         - courage
         - energy
+        - goals
         - money
         - security
         - sexuality
@@ -249,6 +259,7 @@ alexandrite:
     - calm
     - connections
     - fairness
+    - faith
     - growth
     - imagination
     - life
@@ -256,6 +267,7 @@ alexandrite:
     - limitations/boundaries
     - love
     - luck
+    - messages/omens
     - rebirth/renewal
     - self-respect
     - soothe emotions
@@ -301,6 +313,7 @@ amazonite:
     - hope
     - improvement
     - inspiration
+    - leadership
     - life
     - luck
     - luck with money
@@ -360,9 +373,11 @@ amber:
     - manifestation
     - memory/memories
     - mental power
+    - moods
     - motivation
     - patience
     - peace
+    - pleasure
     - power
     - protect from witchcraft
     - protection
@@ -426,6 +441,7 @@ amethyst:
     - manifestation
     - needs
     - negativity
+    - optimism
     - peace
     - prophecy
     - protection
@@ -501,6 +517,7 @@ ametrine:
     - community
     - concentration/focus
     - connect spirit and will
+    - decisions
     - guardian
     - guidance
     - healing
@@ -707,6 +724,7 @@ apatite:
         - beauty
         - beginnings
         - clarity
+        - release
         - self-expression
         - spiritual guidance
   citation:
@@ -758,17 +776,20 @@ aquamarine:
     - clear mind
     - communication
     - compassion
+    - control
     - courage
     - desire
     - discipline
     - fear
     - grief
     - healing
+    - independence
     - inner power
     - insight
     - inspiration
     - introspection
     - knowledge
+    - learning
     - loss
     - marital harmony
     - mental clarity
@@ -873,6 +894,7 @@ aventurine:
     - compassion
     - confidence
     - courage
+    - decisions
     - emotions
     - empathy
     - energy
@@ -880,6 +902,7 @@ aventurine:
     - healing
     - heartbreak
     - imagination
+    - influence
     - influence love
     - insight
     - introspection
@@ -888,6 +911,7 @@ aventurine:
     - mental power
     - motivation
     - negativity
+    - opportunities
     - prosperity
     - protection
     - sexuality
@@ -926,8 +950,10 @@ aventurine:
         - calm
         - growth
         - healing
+        - independence
         - inner strength
         - integrity
+        - intelligence
         - money
         - sight
         - success
@@ -979,6 +1005,7 @@ azurite:
     - clairvoyance
     - communication
     - connections
+    - decisions
     - divination
     - emotional empowerment
     - emotions
@@ -1036,6 +1063,7 @@ beryl:
     - marriage
     - memory/memories
     - moon magic
+    - optimism
     - protection
     - psychic ability
     - receptive energy
@@ -1064,6 +1092,7 @@ beryl:
   varieties:
     golden:
       properties:
+        - learning
         - mind
   citation:
     - kynes-correspondences
@@ -1198,10 +1227,13 @@ calcite:
     - astral realm
     - attachments
     - awareness
+    - comfort
+    - goals
     - increase
     - knowledge
     - light
     - memory/memories
+    - opportunities
     - psychic protection
     - reconciliation
     - spiritual protection
@@ -1313,6 +1345,7 @@ calcite:
         - emotional balance
         - fear
         - healing
+        - home
         - imagination
         - money
         - prosperity
@@ -1362,6 +1395,7 @@ calcite:
         - well-being
     red:
       properties:
+        - messages/omens
         - rebirth/renewal
         - spirituality
       core properties:
@@ -1390,9 +1424,11 @@ carnelian:
     - confidence
     - courage
     - creativity
+    - decisions
     - desire
     - energy
     - enmity
+    - envy
     - fear
     - fertility
     - grief
@@ -1415,6 +1451,7 @@ carnelian:
     - protection
     - psychic protection
     - rebirth/renewal
+    - release
     - reversal
     - self-respect
     - sexual energy
@@ -1454,6 +1491,7 @@ cat's eye:
     - beauty
     - generosity
     - insight
+    - optimism
     - protection
     - rebirth/renewal
     - wealth
@@ -1486,6 +1524,8 @@ celestite:
     - harmony
     - healing
     - inspiration
+    - leadership
+    - moods
     - motivation
     - self-expression
     - spiritual calm
@@ -1555,6 +1595,7 @@ charoite:
     - growth
     - inner strength
     - inspiration
+    - learning
     - life
     - logic/logical mind
     - loss
@@ -1603,7 +1644,9 @@ chrysoberyl:
     - forgiveness
     - generosity
     - integrity
+    - intelligence
     - mind
+    - optimism
     - rebirth/renewal
     - self-respect
     - support healing
@@ -1617,6 +1660,7 @@ chrysocolla:
     - anxiety
     - balance
     - calm
+    - comfort
     - communication
     - confidence
     - control senses
@@ -1795,6 +1839,7 @@ danburite:
     - communicate with the angelic realm
     - communication
     - endurance
+    - learning
     - mental stimulation
     - patience
     - psychic ability
@@ -1856,6 +1901,7 @@ diamond:
     - energy
     - enmity
     - fairness
+    - faith
     - family
     - fear
     - fidelity
@@ -1939,6 +1985,7 @@ diopside:
 dioptase:
   properties:
     - abundance
+    - comfort
     - dignity
     - emotional balance
     - forgiveness
@@ -1978,7 +2025,9 @@ emerald:
     - business
     - clairvoyance
     - clear mind
+    - cleverness
     - contact spirits
+    - deceit
     - emotional balance
     - emotions
     - endurance
@@ -1988,14 +2037,17 @@ emerald:
     - inner truth
     - insight
     - integrity
+    - intelligence
     - jealousy
     - knowledge
     - manifestation
     - memory/memories
     - mental power
+    - messages/omens
     - money
     - prophecy
     - protect from enchantment
+    - protect from hexes
     - protection
     - psychic ability
     - receptive energy
@@ -2039,6 +2091,7 @@ fluorite:
     - consciousness
     - divination
     - emotions
+    - goals
     - grief
     - grounding
     - guardian
@@ -2362,10 +2415,12 @@ hematite:
     - discipline
     - divination
     - energy
+    - favors
     - grounding
     - healing
     - increase
     - integrity
+    - intelligence
     - knowledge
     - light
     - limitations/boundaries
@@ -2375,6 +2430,7 @@ hematite:
     - mental purification
     - mind
     - negativity
+    - optimism
     - personal growth
     - power
     - pregnancy/childbirth
@@ -2462,6 +2518,7 @@ howlite:
     - awareness
     - calm
     - express emotions
+    - gentleness
     - memory/memories
     - patience
     - pregnancy/childbirth
@@ -2497,10 +2554,13 @@ iolite:
     - charity
     - communication
     - connections
+    - cooperation
     - fairness
+    - faith
     - intuition
     - manifestation
     - psychic ability
+    - release
     - self-knowledge
     - spiritual connections
     - spirituality
@@ -2533,6 +2593,7 @@ jade:
     - confidence
     - cosmic connections
     - courage
+    - decisions
     - emotional balance
     - endurance
     - fertility
@@ -2540,12 +2601,14 @@ jade:
     - growth
     - guidance
     - heartbreak
+    - independence
     - inspiration
     - justice
     - kindness
     - knowledge
     - luck
     - money
+    - morality
     - negativity
     - nurture
     - peace
@@ -2555,6 +2618,7 @@ jade:
     - rational mind
     - receptive energy
     - sexual energy
+    - spirits
     - truth
     - unconditional love
     - weather
@@ -2647,6 +2711,7 @@ jasper:
   properties:
     - action
     - agriculture
+    - comfort
     - communication
     - courage
     - determination
@@ -2697,6 +2762,7 @@ jasper:
     brown:
       properties:
         - balance
+        - danger
         - face danger
         - grounding
         - receptive energy
@@ -2736,6 +2802,7 @@ jasper:
         - growth
         - healing
         - integrity
+        - intelligence
         - money
         - promote empathy
         - receptive energy
@@ -2819,6 +2886,7 @@ jasper:
         - balance
         - calm
         - connect with earth energies
+        - cooperation
         - emotional balance
         - grounding
         - happiness
@@ -3002,6 +3070,7 @@ kunzite:
     - emotional protection
     - emotional support
     - express emotions
+    - gentleness
     - grounding
     - guidance
     - harmony
@@ -3175,6 +3244,7 @@ lapis lazuli:
     - family
     - fidelity
     - friendship
+    - gentleness
     - heartbreak
     - improvement
     - inner power
@@ -3194,6 +3264,7 @@ lapis lazuli:
     - protection during travel
     - psychic ability
     - relationships
+    - release
     - sight
     - spiritual purification
     - spirituality
@@ -3314,6 +3385,7 @@ lodestone:
     - guardian
     - guidance
     - healing
+    - influence
     - love
     - luck
     - magic
@@ -3328,6 +3400,7 @@ lodestone:
     - receptive energy
     - reconcile marriage
     - relationships
+    - release
     - reversal
     - romance
     - security
@@ -3516,6 +3589,7 @@ moonstone:
     - light
     - love
     - loyalty
+    - moods
     - moon magic
     - night magic
     - occult power
@@ -3525,6 +3599,7 @@ moonstone:
     - protection during travel
     - psychic ability
     - reconciliation
+    - release
     - sensitivity
     - sleep
     - stress
@@ -3633,6 +3708,7 @@ moss agate:
     - connect with earth energies
     - emotional balance
     - energy
+    - favors
     - fertility
     - growth
     - guidance
@@ -3642,6 +3718,7 @@ moss agate:
     - life
     - money
     - nurture
+    - optimism
     - power
     - receptive energy
     - spirituality
@@ -3731,6 +3808,7 @@ obsidian:
     - magic
     - manifestation
     - marriage
+    - messages/omens
     - peace
     - personal growth
     - power
@@ -3818,6 +3896,7 @@ onyx:
     - confidence
     - consecrate/bless
     - cool passion
+    - decisions
     - defense
     - desire
     - discipline
@@ -3831,10 +3910,12 @@ onyx:
     - inspiration
     - marriage
     - memory/memories
+    - morality
     - negativity in relationships
     - nightmares
     - patience
     - personal growth
+    - protect from hexes
     - protection
     - relationships
     - sexuality
@@ -3878,6 +3959,7 @@ opal:
   properties:
     - adaptability
     - astral realm
+    - battle/war
     - beauty
     - charity
     - clairvoyance
@@ -3921,6 +4003,7 @@ opal:
     black:
       properties:
         - authority
+        - control
         - cosmic awareness
         - discipline
         - moon magic
@@ -4050,6 +4133,7 @@ petrified wood:
     - community
     - connections
     - energy
+    - goals
     - grounding
     - harmony
     - healing
@@ -4117,6 +4201,7 @@ pyrite:
   properties:
     - abundance
     - concentration/focus
+    - deceit
     - divination
     - emotions
     - energy
@@ -4251,6 +4336,7 @@ quartz:
         - open to love
         - power
         - pregnancy/childbirth
+        - protect from hexes
         - protection
         - psychic ability
         - purification
@@ -4394,6 +4480,7 @@ rhodochrosite:
     - activate/awaken
     - balance
     - beauty
+    - comfort
     - compassion
     - connections
     - emotional balance
@@ -4561,11 +4648,14 @@ ruby:
     - growth
     - guardian
     - healing
+    - influence
+    - leadership
     - light
     - loyalty
     - lust
     - magical power
     - mental balance
+    - messages/omens
     - nightmares
     - open to love
     - passion
@@ -4622,8 +4712,10 @@ salt:
     - enmity
     - grounding
     - healing
+    - home
     - knowledge
     - life
+    - messages/omens
     - money
     - prosperity
     - psychic protection
@@ -4668,11 +4760,15 @@ sapphire:
     - enchantment
     - encouragement
     - enmity
+    - envy
     - fairness
+    - faith
+    - favors
     - fear
     - fidelity
     - freedom
     - friendship
+    - goals
     - goodness
     - healing
     - imagination
@@ -4695,6 +4791,7 @@ sapphire:
     - reconciliation
     - sexuality
     - sleep
+    - spirits
     - spirituality
     - travel
     - truth
@@ -4726,6 +4823,7 @@ sapphire:
       properties:
         - attract prosperity
         - magic
+        - moods
   citation:
     - kynes-correspondences
 sard:
@@ -4951,6 +5049,7 @@ smoky quartz:
     - fear
     - grounding
     - mental stimulation
+    - moods
     - negativity
     - obstacles
     - protection
@@ -5052,10 +5151,12 @@ spinel:
   properties:
     - challenges
     - changes
+    - cooperation
     - energy
     - grief
     - obstacles
     - protection
+    - purpose
     - relationships
     - sorrow
     - success
@@ -5093,6 +5194,7 @@ staurolite:
     - energy
     - grounding
     - guidance
+    - leadership
     - magic
     - manifestation
     - money
@@ -5259,6 +5361,7 @@ tiger's eye:
     - animal magic
     - animals
     - balance
+    - battle/war
     - beauty
     - business success
     - calm
@@ -5269,6 +5372,7 @@ tiger's eye:
     - community
     - confidence
     - courage
+    - danger
     - desire
     - discover skills
     - divination
@@ -5283,6 +5387,7 @@ tiger's eye:
     - insight
     - inspiration
     - integrity
+    - intelligence
     - introspection
     - karma
     - loss
@@ -5291,12 +5396,14 @@ tiger's eye:
     - mind
     - needs
     - personal power
+    - pleasure
     - prophecy
     - prosperity
     - protection
     - psychic ability
     - psychic protection
     - purification
+    - purpose
     - rebirth/renewal
     - respect
     - security
@@ -5345,16 +5452,19 @@ topaz:
     - changes
     - consciousness
     - courage
+    - danger
     - death
     - desire
     - divination
     - energy
     - face danger
+    - favors
     - fear
     - fidelity
     - grief
     - healing
     - integrity
+    - intelligence
     - introspection
     - light
     - loss
@@ -5365,6 +5475,7 @@ topaz:
     - passion
     - prosperity
     - protection
+    - purpose
     - rebirth/renewal
     - sexuality
     - stress
@@ -5400,12 +5511,14 @@ topaz:
         - growth
         - heartbreak
         - inspiration
+        - leadership
         - mental balance
         - needs
         - nightmares
         - peace
         - psychic ability
         - purification
+        - release
         - sleep
         - truth
       core properties:
@@ -5433,7 +5546,9 @@ tourmaline:
     - compassion
     - confidence
     - consciousness
+    - danger
     - face danger
+    - favors
     - guardian
     - guidance
     - increase
@@ -5669,6 +5784,7 @@ turquoise:
     - attraction
     - awareness
     - balance
+    - battle/war
     - beauty
     - calm
     - changes
@@ -5681,6 +5797,7 @@ turquoise:
     - empathy
     - energy
     - friendship
+    - goals
     - goodness
     - grounding
     - healing
@@ -5690,6 +5807,7 @@ turquoise:
     - love
     - manifestation
     - mind
+    - moods
     - negativity
     - nurture
     - peace
@@ -5733,6 +5851,7 @@ unakite:
     - guidance
     - insight
     - negativity
+    - optimism
     - peace
     - personal power
     - release attachments
@@ -5766,6 +5885,7 @@ wulfenite:
     - harmonize emotions
     - motivation
     - physical balance
+    - release
     - sexuality
     - warmth
   core properties:
@@ -5851,6 +5971,7 @@ zircon:
         - money
         - peace
         - power
+        - spirits
         - wealth
       core properties:
         - acceptance
@@ -5881,6 +6002,7 @@ zoisite:
     - growth
     - integrity
     - love
+    - optimism
     - psychic ability
     - release/dispel fear
   core properties:

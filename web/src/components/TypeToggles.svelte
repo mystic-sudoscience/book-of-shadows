@@ -33,7 +33,7 @@
     {@const allOn = types.every(([t]) => on.has(t))}
     <section>
       <header>
-        <h3>{group.label}</h3>
+        <h3 class="label">{group.label}</h3>
         <button class="link" onclick={() => setGroup(group.id, !allOn)}>{allOn ? 'Hide' : 'Show'}</button>
       </header>
       {#each types as [type, info] (type)}
@@ -67,28 +67,14 @@
     display: flex;
     gap: 12px;
   }
+  .link {
+    font-size: 12px;
+  }
   header {
     display: flex;
     align-items: baseline;
     justify-content: space-between;
     margin-bottom: 4px;
-  }
-  h3 {
-    margin: 0;
-    font-size: 11px;
-    text-transform: uppercase;
-    letter-spacing: 0.06em;
-    color: var(--muted);
-    font-weight: 600;
-  }
-  .link {
-    background: none;
-    border: 0;
-    padding: 0;
-    color: var(--accent-text);
-    font: inherit;
-    font-size: 12px;
-    cursor: pointer;
   }
   .row {
     display: flex;

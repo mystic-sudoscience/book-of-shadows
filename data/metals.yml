@@ -16,6 +16,7 @@ antimony:
     - energy
     - power of belief
     - protect from negativity
+    - protection
   citation:
     - kynes-correspondences
 bornite:
@@ -23,6 +24,7 @@ bornite:
     - clairvoyance
     - communication
     - community
+    - creativity
     - desire
     - guidance
     - healing
@@ -74,6 +76,7 @@ gold:
     - attract love
     - authority
     - balance
+    - comfort
     - confidence
     - divination
     - energy
@@ -83,12 +86,15 @@ gold:
     - hope
     - illumination
     - light
+    - longevity
+    - love
     - magic
     - mind
     - money
     - personal power
     - power of belief
     - prosperity
+    - protection
     - purification
     - solar magic
     - strength
@@ -96,16 +102,20 @@ gold:
     - success
     - wealth
     - willpower
+    - wisdom
   citation:
     - kynes-correspondences
 iron:
   properties:
+    - battle/war
     - defense from psychic attack
     - enmity
     - grounding
     - healing
     - manifestation
     - negativity
+    - obstacles
+    - protection
     - psychic ability
     - reversal
     - security
@@ -122,6 +132,7 @@ lead:
     - energy
     - lust
     - protect from negativity
+    - protection
     - receptive energy
     - set hexes
   citation:
@@ -131,11 +142,13 @@ mercury:
     - changes
     - communication
     - energy
+    - luck
     - lust
     - magic
     - motivation
     - power
     - receptive energy
+    - shamanic work
     - transformation
   citation:
     - kynes-correspondences
@@ -150,27 +163,37 @@ silver:
     - calm
     - clear mind
     - communication
+    - creativity
     - divination
     - divine/higher power
+    - dream work
+    - emotions
     - energy
     - healing
     - improvement
+    - influence
+    - intuition
     - life
     - light
+    - luck
     - lust
     - marriage
     - money
+    - moods
     - moon magic
     - motivation
     - negativity
+    - obstacles
     - peace
     - power
     - prosperity
+    - protection
     - psychic ability
     - purification
     - purity
     - receptive energy
     - security
+    - spirits
     - stress
     - subconscious
     - travel
@@ -179,12 +202,15 @@ silver:
     - kynes-correspondences
 steel:
   properties:
+    - battle/war
     - defense
+    - dream work
     - energy
     - enmity
     - healing
     - negativity
     - nightmares
+    - protection
     - strength
     - support
   citation:
@@ -193,7 +219,9 @@ tin:
   properties:
     - divination
     - energy
+    - gentleness
     - hope
+    - luck
     - lust
     - money
     - prosperity

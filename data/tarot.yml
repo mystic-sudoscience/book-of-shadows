@@ -1,10 +1,13 @@
 chariot:
   arcana: major
   properties:
+    - battle/war
     - changes
     - concentration/focus
     - revenge
+    - strength
     - stress
+    - success
   citation:
     - kynes-correspondences
 cups:
@@ -12,16 +15,19 @@ cups:
   element: water
   properties:
     - compassion
+    - emotions
     - empathy
     - express emotions
     - imagination
     - nurture
     - patience
+    - pleasure
     - psychic ability
     - relationships
     - sensitivity
     - stimulation
     - subconscious
+    - sympathy
   citation:
     - kynes-correspondences
     - johnson-mystical-stitches
@@ -37,6 +43,7 @@ devil:
     - black magic
     - endurance
     - express anger
+    - influence
     - limitations/boundaries
     - subconscious
   citation:
@@ -46,9 +53,12 @@ emperor:
   properties:
     - ambition
     - authority
+    - battle/war
     - confidence
+    - control
     - energy
     - power
+    - strength
   citation:
     - kynes-correspondences
 empress:
@@ -96,8 +106,10 @@ hierophant:
     - authority
     - forgiveness
     - inspiration
+    - intuition
     - manifestation
     - spirituality
+    - wisdom
   citation:
     - kynes-correspondences
 high priestess:
@@ -108,12 +120,15 @@ high priestess:
     - cycles
     - illumination
     - increase
+    - intuition
     - secrets
+    - wisdom
   citation:
     - kynes-correspondences
 judgement:
   arcana: major
   properties:
+    - decisions
     - determination
     - introspection about the past
     - justice
@@ -126,6 +141,7 @@ justice:
     - balance
     - fairness
     - legal matters
+    - strength
   citation:
     - kynes-correspondences
 lovers:
@@ -134,6 +150,7 @@ lovers:
     - attraction
     - balance
     - beauty
+    - emotions
     - harmony
     - love
     - relationships
@@ -145,17 +162,24 @@ magician:
   arcana: major
   properties:
     - communication
+    - control
+    - creativity
+    - deceit
     - integrity
+    - intelligence
     - manifestation
     - power
     - skills
     - willpower
+    - wisdom
   citation:
     - kynes-correspondences
 moon:
   arcana: major
   properties:
+    - danger
     - darkness
+    - deceit
     - face danger
     - obstacles
     - secrets
@@ -178,6 +202,7 @@ pentacles:
     - senses
     - stability
     - stress
+    - success
   citation:
     - kynes-correspondences
     - johnson-mystical-stitches
@@ -187,7 +212,9 @@ star:
     - balance
     - clarity
     - fairness
+    - faith
     - hope
+    - influence
     - insight
     - inspiration
     - spiritual guidance
@@ -197,10 +224,12 @@ strength:
   arcana: major
   properties:
     - action
+    - control
     - courage
     - energy
     - overcome weakness
     - power
+    - strength
   citation:
     - kynes-correspondences
 sun:
@@ -208,8 +237,12 @@ sun:
   properties:
     - accomplishment
     - enlightenment
+    - happiness
     - healing
+    - optimism
+    - pleasure
     - stress
+    - success
     - truth
   citation:
     - kynes-correspondences
@@ -218,17 +251,22 @@ swords:
   element: air
   properties:
     - balance the subconscious
+    - control
+    - deceit
     - defense
     - desire
     - determination
     - freedom
+    - goals
     - growth
     - honesty
     - inner guidance
     - integrity
     - intellectual
+    - intelligence
     - justice
     - knowledge
+    - learning
     - mental power
     - mind
     - motivation
@@ -250,7 +288,9 @@ tower:
   arcana: major
   properties:
     - ambition
+    - battle/war
     - courage
+    - danger
     - destruction
     - enmity
     - face danger
@@ -263,8 +303,11 @@ wands:
   properties:
     - action
     - confidence
+    - creativity
     - fairness
+    - faith
     - inspiration
+    - intuition
     - personal power
     - power
     - transformation
@@ -276,7 +319,9 @@ wheel of fortune:
   properties:
     - changes
     - destiny
+    - luck
     - stress
+    - success
   citation:
     - kynes-correspondences
 world:
@@ -287,5 +332,6 @@ world:
     - manifestation
     - patience
     - stress
+    - success
   citation:
     - kynes-correspondences

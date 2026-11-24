@@ -2,6 +2,7 @@ chicken:
   type: bird
   properties:
     - abundance
+    - comfort
     - community
     - divination
     - family
@@ -47,6 +48,7 @@ chicken:
         - light
         - lust
         - negativity
+        - optimism
         - past lives
         - psychic protection
         - secrets

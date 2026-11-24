@@ -32,6 +32,12 @@ heliotrope:
     - well-being
     - willpower
     - exorcism
+    - clairvoyance
+    - happiness
+    - wealth
+    - danger
+    - influence
+    - release
   toxicity:
     humans: true
     pets: true

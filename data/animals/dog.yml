@@ -3,6 +3,7 @@ dog:
   properties:
     - aggression
     - agriculture
+    - battle/war
     - black magic
     - consciousness
     - courage

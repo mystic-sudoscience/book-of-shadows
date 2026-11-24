@@ -19,9 +19,12 @@ raspberry:
     - love
     - needs
     - nurture
+    - optimism
     - pregnancy/childbirth
     - protection
     - release attachments
+    - security
+    - self-improvement
     - trust
   toxicity:
     humans: false

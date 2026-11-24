@@ -59,6 +59,7 @@ moon:
   properties:
     - action
     - agriculture
+    - animals
     - beginnings
     - changes
     - consciousness
@@ -67,6 +68,7 @@ moon:
     - death
     - divination
     - dream work
+    - emotions
     - enchantment
     - endings
     - energy
@@ -81,9 +83,11 @@ moon:
     - inspiration
     - jealousy
     - light
+    - loneliness
     - love
     - magic
     - manifestation
+    - moods
     - moon magic
     - negativity
     - night magic
@@ -98,10 +102,13 @@ moon:
     - receptive energy
     - rhythms of life
     - secrets
+    - self-improvement
     - sensitivity
     - set hexes
     - sorrow
+    - spirits
     - subconscious
+    - wisdom
     - witches/witchcraft
   citation:
     - kynes-correspondences
@@ -111,7 +118,10 @@ mercury:
     - balance
     - business
     - changes
+    - cleverness
     - communication
+    - crossroads
+    - deceit
     - divination
     - eloquence
     - enhance memory
@@ -119,12 +129,16 @@ mercury:
     - improvement
     - inspiration
     - integrity
+    - intelligence
     - justice
+    - learning
     - love
     - magic
     - memory/memories
     - mental stimulation
+    - messages/omens
     - money
+    - moods
     - power
     - protection during travel
     - rebirth/renewal
@@ -132,6 +146,7 @@ mercury:
     - times of crossroads
     - travel
     - wealth
+    - wisdom
   citation:
     - kynes-correspondences
     - johnson-mystical-stitches
@@ -148,9 +163,12 @@ venus:
     - connections
     - creativity
     - desire
+    - emotions
     - family
     - fertility
     - friendship
+    - gentleness
+    - happiness
     - harmony
     - kindness
     - love
@@ -183,7 +201,9 @@ earth:
     - nurture
     - peace
     - protection
+    - purpose
     - revenge
+    - spirits
   citation:
     - kynes-correspondences
     - johnson-mystical-stitches
@@ -193,12 +213,14 @@ mars:
     - aggression
     - anger
     - assertiveness
+    - battle/war
     - beginnings
     - courage
     - death
     - defense
     - desire
     - determination
+    - emotions
     - endurance
     - enmity
     - growth
@@ -264,11 +286,13 @@ saturn:
     - endings
     - endurance
     - freedom
+    - goals
     - grounding
     - justice
     - karma
     - knowledge
     - limitations/boundaries
+    - longevity
     - loyalty
     - lust
     - mind
@@ -288,8 +312,10 @@ uranus:
     - anger
     - changes
     - community
+    - cooperation
     - creativity
     - freedom
+    - goals
     - hope
     - illumination
     - improvement
@@ -324,6 +350,7 @@ neptune:
     - sensitivity
     - spirituality
     - subconscious
+    - visions
   citation:
     - kynes-correspondences
     - johnson-mystical-stitches
@@ -332,6 +359,7 @@ pluto:
     - afterlife
     - changes
     - cycles
+    - danger
     - death
     - destruction
     - dream work

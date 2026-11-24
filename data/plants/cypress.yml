@@ -37,6 +37,19 @@ cypress:
     - truth
     - willpower
     - witches/witchcraft
+    - defense
+    - defensive magic
+    - happiness
+    - learning
+    - loss
+    - memory/memories
+    - sorrow
+    - strength
+    - transformation
+    - wisdom
+    - comfort
+    - influence
+    - release
   core properties:
     - acceptance
     - afterlife

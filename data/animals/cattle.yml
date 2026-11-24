@@ -26,6 +26,7 @@ cattle:
     cow:
       properties:
         - abundance
+        - comfort
         - connections
         - death
         - enlightenment

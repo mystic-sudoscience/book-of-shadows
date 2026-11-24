@@ -16,20 +16,21 @@
     return n.includes(q) ? 3 : -1
   }
 
+  /** Entries whose name matches q, best match first, then by `tiebreak`. */
+  const matching = (list, q, tiebreak, limit) =>
+    list
+      .map((x) => ({ ...x, r: rank(x.name, q) }))
+      .filter((x) => x.r >= 0)
+      .sort((a, b) => a.r - b.r || tiebreak(a, b))
+      .slice(0, limit)
+
   const results = $derived.by(() => {
     const q = query.trim().toLowerCase()
     if (!q) return []
-    const ints = intentions
-      .map((name) => ({ kind: 'intention', name, r: rank(name, q) }))
-      .filter((x) => x.r >= 0)
-      .sort((a, b) => a.r - b.r || groupCountFor(b.name) - groupCountFor(a.name))
-      .slice(0, 8)
-    const its = items
-      .map((item) => ({ kind: 'item', item, name: item.name, r: rank(item.name, q) }))
-      .filter((x) => x.r >= 0)
-      .sort((a, b) => a.r - b.r || a.name.localeCompare(b.name))
-      .slice(0, 6)
-    return [...ints, ...its]
+    return [
+      ...matching(intentions.map((name) => ({ kind: 'intention', name })), q, (a, b) => groupCountFor(b.name) - groupCountFor(a.name), 8),
+      ...matching(items.map((item) => ({ kind: 'item', item, name: item.name })), q, (a, b) => a.name.localeCompare(b.name), 6),
+    ]
   })
 
   function choose(res) {

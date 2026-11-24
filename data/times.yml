@@ -7,6 +7,7 @@ dawn:
     - hope
     - light
     - nurture
+    - purpose
     - romance
     - vitality
     - youth
@@ -16,6 +17,7 @@ noon:
   properties:
     - determination
     - obstacles
+    - strength
     - willpower
   citation:
     - kynes-correspondences
@@ -32,5 +34,6 @@ midnight:
   properties:
     - crossroads
     - endings
+    - release
   citation:
     - kynes-correspondences

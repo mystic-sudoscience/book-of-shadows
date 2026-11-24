@@ -6,12 +6,20 @@ anise, star:
   chakra: root
   properties:
     - abundance
+    - authority
+    - awareness
+    - banish
+    - consecrate/bless
+    - divination
+    - energy
     - fidelity
     - happiness
     - luck
+    - power
     - protection
     - psychic ability
     - purification
+    - skills
   medicinal:
     key actions:
       - antiviral
@@ -20,3 +28,4 @@ anise, star:
       - expectorant
   citation:
     - riteofritual-apothecary
+    - kynes-correspondences

@@ -1,14 +1,17 @@
 beltane:
   properties:
     - agriculture
+    - creativity
     - fertility
     - lust
     - marriage
     - otherworld/underworld
+    - pleasure
     - psychic ability
     - purification
     - sensuality
     - sexuality
+    - visions
     - warmth
     - youth
   citation:
@@ -33,6 +36,7 @@ earth day:
     - awareness
     - beauty
     - community
+    - cooperation
     - empowerment
     - goodness
     - grounding
@@ -81,6 +85,7 @@ imbolc:
     - prophecy
     - prosperity
     - purification
+    - transformation
     - well-being
     - youth
   citation:
@@ -93,11 +98,16 @@ lughnasadh:
     - darkness
     - death
     - endings
+    - release
+    - transformation
   citation:
     - kynes-correspondences
 lunantishees:
   properties:
     - connect with the fairy realm
+    - connections
+    - fairy magic
+    - spirits
   citation:
     - kynes-correspondences
 lupercalia:
@@ -112,6 +122,7 @@ mabon:
     - accomplishment
     - agriculture
     - balance
+    - goals
     - gratitude
     - grounding
   citation:
@@ -120,6 +131,7 @@ midsummer's eve:
   properties:
     - otherworld/underworld
     - purification
+    - visions
   citation:
     - kynes-correspondences
 new year's day:
@@ -164,11 +176,15 @@ samhain:
     - honor ancestors
     - introspection
     - otherworld/underworld
+    - release
+    - visions
+    - wisdom
   citation:
     - kynes-correspondences
 saturnalia:
   properties:
     - lust
+    - pleasure
     - reversal of roles
   citation:
     - kynes-correspondences
@@ -183,7 +199,10 @@ summer solstice:
     - light
     - manifestation
     - power
+    - purpose
+    - strength
     - stress
+    - success
     - unity
   citation:
     - kynes-correspondences
@@ -191,6 +210,7 @@ twelfth night:
   properties:
     - manifestation
     - return from darkness
+    - visions
   citation:
     - kynes-correspondences
 vasant panchami:

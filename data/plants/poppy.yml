@@ -36,6 +36,7 @@ poppy:
     - invisibility
     - acceptance
     - release attachments
+    - wealth
   toxicity:
     humans: false
     pets: true

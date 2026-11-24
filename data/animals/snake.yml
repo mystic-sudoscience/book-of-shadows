@@ -10,6 +10,7 @@ snake:
     - enchantment
     - energy
     - enmity
+    - favors
     - fertility
     - forgiveness
     - jealousy
@@ -99,6 +100,7 @@ snake:
         - healing
     rattlesnake:
       properties:
+        - danger
         - face danger
         - fear
         - healing

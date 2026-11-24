@@ -4,10 +4,16 @@ solomon's seal:
   element: water
   zodiac sign: capricorn
   properties:
+    - banish
     - break hexes
+    - decisions
     - dedication/devotion
     - exorcism
+    - intuition
     - protection
+    - purification
+    - sex magic
+    - soothe mind
     - success
     - wisdom
   toxicity:
@@ -21,3 +27,4 @@ solomon's seal:
       - anti-inflammatory
   citation:
     - riteofritual-apothecary
+    - kynes-correspondences

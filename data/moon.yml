@@ -9,13 +9,16 @@ new:
     - divination
     - illumination
     - improvement
+    - loneliness
     - manifestation
     - night magic
+    - optimism
     - psychic ability
     - rebirth/renewal
     - relationships
     - stability
     - well-being
+    - wisdom
   citation:
     - kynes-correspondences
     - johnson-mystical-stitches
@@ -27,6 +30,7 @@ waxing:
     - beginnings
     - business
     - courage
+    - creativity
     - divination
     - empathy
     - friendship
@@ -34,6 +38,7 @@ waxing:
     - inspiration
     - knowledge
     - love
+    - luck
     - money
     - motivation
     - passion
@@ -41,6 +46,8 @@ waxing:
     - protection
     - psychic ability
     - sensuality
+    - strength
+    - wisdom
   citation:
     - kynes-correspondences
 waxing summer:
@@ -82,11 +89,14 @@ full:
     - beauty
     - business
     - community
+    - creativity
     - divination
+    - emotions
     - empowerment
     - energy
     - express emotions
     - fertility
+    - goals
     - growth
     - healing
     - illumination
@@ -110,11 +120,15 @@ full:
     - romance
     - sex magic
     - sexuality
+    - strength
+    - transformation
+    - wisdom
   months:
     january:
       properties:
         - money
         - protection
+        - strength
     february:
       properties:
         - astral realm
@@ -125,6 +139,7 @@ full:
       properties:
         - innocence
         - stress
+        - success
     april:
       properties:
         - growth
@@ -140,6 +155,8 @@ full:
       properties:
         - dream work
         - magic
+        - purpose
+        - strength
     july summer:
       properties:
         - light
@@ -147,9 +164,11 @@ full:
       properties:
         - animal magic
         - prophecy
+        - wisdom
     september:
       properties:
         - confidence
+        - home
         - manifestation
     october:
       properties:
@@ -159,14 +178,18 @@ full:
         - stability
     november:
       properties:
+        - cooperation
         - darkness
         - hope
     december:
       properties:
         - dedication/devotion
         - peace
+        - strength
     13th:
       properties:
+        - goals
+        - home
         - truth
   citation:
     - kynes-correspondences
@@ -176,10 +199,12 @@ waning:
   properties:
     - banish
     - bind
+    - creativity
     - darkness
     - death
     - divination
     - endings
+    - intuition
     - loss
     - obstacles
     - otherworld/underworld
@@ -187,9 +212,13 @@ waning:
     - protection
     - purification
     - rebirth/renewal
+    - release
     - reversal
     - secrets
+    - spirits
     - spirituality
+    - transformation
+    - wisdom
   citation:
     - kynes-correspondences
 waning gibbous:

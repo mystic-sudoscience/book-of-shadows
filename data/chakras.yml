@@ -9,6 +9,7 @@ root:
     - arthritis
   properties:
     - attachments
+    - comfort
     - endurance
     - grounding
     - manifestation
@@ -36,6 +37,7 @@ sacral:
     - abundance
     - connections
     - desire
+    - emotions
     - fertility
     - freedom
     - motivation
@@ -62,6 +64,7 @@ solar plexus:
     - pride
     - respect
     - sensitivity
+    - transformation
     - willpower
   citation:
     - healthline-chakras
@@ -100,6 +103,7 @@ throat:
   properties:
     - communication
     - inspiration
+    - release
     - truth
   citation:
     - healthline-chakras
@@ -123,6 +127,8 @@ third eye:
     - imagination
     - insight
     - psychic ability
+    - visions
+    - wisdom
   citation:
     - healthline-chakras
     - kynes-correspondences
@@ -143,6 +149,7 @@ crown:
     - illumination
     - knowledge
     - spirituality
+    - wisdom
   citation:
     - healthline-chakras
     - kynes-correspondences

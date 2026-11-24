@@ -1,6 +1,7 @@
 // Loads the generated correspondence data and builds lookup indexes.
 import raw from './data.json'
 import { load, save } from './storage.js'
+import { groupBy } from './util.js'
 
 // 'full': every property from every source. 'focused': each item's `core properties`
 // (falls back to the full list where none were picked). Indexes are built once, so
@@ -26,13 +27,7 @@ export const bibliography = raw.bibliography
 export const itemsById = new Map(items.map((it) => [it.id, it]))
 
 /** intention -> items that list it in their properties */
-export const byIntention = new Map()
-for (const it of items) {
-  for (const p of it.properties) {
-    if (!byIntention.has(p)) byIntention.set(p, [])
-    byIntention.get(p).push(it)
-  }
-}
+export const byIntention = groupBy(items, (it) => it.properties)
 
 /** Every intention used by at least one item, most common first then A–Z. */
 export const intentions = [...byIntention.keys()].sort(
@@ -47,13 +42,9 @@ export function countFor(intention) {
 export const groups = raw.groups ?? {}
 
 /** member -> the groups it is listed under */
-export const groupsOf = new Map()
-for (const [group, members] of Object.entries(groups)) {
-  for (const m of members) {
-    if (!groupsOf.has(m)) groupsOf.set(m, [])
-    groupsOf.get(m).push(group)
-  }
-}
+export const groupsOf = new Map(
+  [...groupBy(Object.entries(groups), ([, members]) => members)].map(([m, entries]) => [m, entries.map(([group]) => group)]),
+)
 
 const relatedCache = new Map()
 /** The intention plus every more specific wording under it (following nested groups). */
@@ -94,17 +85,8 @@ export function matchingProps(item, intention, exact = false) {
   return item.properties.filter((p) => rel.has(p))
 }
 
-// Fields whose values name items in another collection, so they can link.
-export const FIELD_LINKS = {
-  planet: 'planets',
-  'ruling planet': 'planets',
-  element: 'elements',
-  'zodiac sign': 'zodiac',
-  chakra: 'chakras',
-  'moon phase': 'moon',
-  holidays: 'holidays',
-  color: 'colors',
-}
+// Fields whose values name items in another collection (defined once, in build_web_data.py).
+export const FIELD_LINKS = raw.fieldLinks ?? {}
 
 /** Split a field value ("venus, mercury" or a list) into separate strings. */
 export function splitValues(value) {

@@ -1,7 +1,15 @@
 palm:
   properties:
     - abundance
+    - anxiety
     - fertility
+    - happiness
+    - hope
+    - limitations/boundaries
+    - longevity
+    - messages/omens
+    - pregnancy/childbirth
     - travel
   citation:
     - johnson-mystical-stitches
+    - kynes-correspondences

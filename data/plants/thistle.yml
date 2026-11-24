@@ -30,6 +30,8 @@ thistle:
     - defensive magic
     - defense
     - limitations/boundaries
+    - faith
+    - independence
   toxicity:
     humans: false
     pets: false

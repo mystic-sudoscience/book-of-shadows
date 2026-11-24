@@ -20,6 +20,46 @@ bay leaf:
     - success
     - visions
     - wisdom
+    - banish
+    - blessings
+    - break hexes
+    - clarity
+    - courage
+    - defense
+    - defensive magic
+    - determination
+    - divination
+    - dream work
+    - expand awareness
+    - fame
+    - fear
+    - home
+    - honor
+    - inner power
+    - inspiration
+    - intuition
+    - justice
+    - life
+    - light
+    - longevity
+    - loyalty
+    - marriage
+    - messages/omens
+    - negativity
+    - obstacles
+    - peace
+    - pregnancy/childbirth
+    - psychic ability
+    - sleep
+    - spirituality
+    - truth
+    - weather
+    - willpower
+    - wishes
+    - witches/witchcraft
+    - influence
+    - opportunities
+    - release
   toxicity:
     notes:
       - never take essential oil internally
@@ -55,3 +95,4 @@ bay leaf:
     - chevallier-herbal-medicine
     - riteofritual-apothecary
     - johnson-mystical-stitches
+    - kynes-correspondences

@@ -13,6 +13,7 @@ galangal:
     - awareness
     - banish
     - break hexes
+    - comfort
     - compassion
     - consecrate/bless
     - courage
@@ -20,11 +21,14 @@ galangal:
     - enchantment
     - energy
     - enmity
+    - favors
     - healing
     - increase
+    - influence
     - justice
     - legal matters
     - love
+    - luck
     - lust
     - magic
     - money
@@ -44,6 +48,8 @@ galangal:
     - stress
     - success
     - support
+    - sympathy
+    - wealth
     - well-being
   core properties:
     - attract luck

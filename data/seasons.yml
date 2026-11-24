@@ -5,12 +5,14 @@ spring:
     - beginnings
     - calm
     - fertility
+    - gentleness
     - healing
     - hope
     - increase
     - innocence
     - life
     - light
+    - magic
     - purification
     - rebirth/renewal
     - youth
@@ -27,6 +29,7 @@ summer:
     - nurture
     - patience
     - protection
+    - strength
     - warmth
   citation:
     - kynes-correspondences
@@ -34,10 +37,15 @@ autumn:
   properties:
     - abundance
     - accomplishment
+    - battle/war
     - death
+    - goals
+    - home
+    - magic
     - manifestation
     - money
     - sorrow
+    - transformation
   citation:
     - kynes-correspondences
 winter:
@@ -52,7 +60,9 @@ winter:
     - illumination
     - insight
     - introspection
+    - magic
     - power
+    - self-improvement
     - sleep
     - sorrow
   citation:

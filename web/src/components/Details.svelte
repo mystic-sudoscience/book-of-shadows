@@ -1,9 +1,11 @@
 <script>
   import Value from './Value.svelte'
+  import RefList from './RefList.svelte'
   import { bibliography, itemsById, countFor, toxicityWarning, relatedTo, groupsOf, mode } from '../lib/data.js'
   import { typeInfo, itemColor } from '../lib/types.js'
+  import { groupBy } from '../lib/util.js'
 
-  let { item, active = [], exact = false, inSpell = false, onselect, onfocus, onintention, ontogglespell, onclose } = $props()
+  let { item, active = [], exact = false, inSpell = false, inWeb = false, onselect, onfocus, onintention, ontogglespell, onaddhub, onclose } = $props()
 
   const parent = $derived(item.parent ? itemsById.get(item.parent) : null)
   const children = $derived(item.children.map((id) => itemsById.get(id)).filter(Boolean))
@@ -19,16 +21,16 @@
       .sort((a, b) => a.label.localeCompare(b.label)),
   )
   // Items that name this one, grouped by type.
-  const backGroups = $derived.by(() => {
-    const groups = new Map()
-    for (const id of item.linkedFrom ?? []) {
-      const it = itemsById.get(id)
-      if (!it) continue
-      if (!groups.has(it.type)) groups.set(it.type, [])
-      groups.get(it.type).push(it)
-    }
-    return [...groups.entries()].map(([type, list]) => ({ type, label: typeInfo(type).label, list: list.sort((a, b) => a.name.localeCompare(b.name)) }))
-  })
+  const backGroups = $derived(
+    [...groupBy((item.linkedFrom ?? []).map((id) => itemsById.get(id)).filter(Boolean), (it) => it.type)].map(([type, list]) => ({
+      type,
+      label: typeInfo(type).label,
+      list: list.sort((a, b) => a.name.localeCompare(b.name)),
+    })),
+  )
+  // How a sub-item relates to its parent, singular and plural.
+  const RELATION = { shades: ['shade', 'shades'], months: ['by month', 'months'], varieties: ['variety', 'varieties'] }
+  const relation = (key) => RELATION[key] ?? RELATION.varieties
   // Matched intentions first, then the rest alphabetically.
   const props = $derived([...item.properties].sort((a, b) => activeSet.has(b) - activeSet.has(a) || a.localeCompare(b)))
 </script>
@@ -40,7 +42,7 @@
       <h2>{item.name}</h2>
       <p class="kind">
         {typeInfo(item.type).label}{#if item.fields.type}&nbsp;· {item.fields.type}{/if}
-        {#if parent}&nbsp;· {item.relation === 'shades' ? 'shade' : item.relation === 'months' ? 'by month' : 'variety'} of
+        {#if parent}&nbsp;· {relation(item.relation)[0]} of
           <button class="ref" onclick={() => onselect(parent.id)}>{parent.name}</button>{/if}
       </p>
     </div>
@@ -48,10 +50,11 @@
   </header>
 
   <div class="actions">
-    <button class="primary" class:on={inSpell} onclick={() => ontogglespell(item.id)}>
+    <button class="btn primary" class:on={inSpell} onclick={() => ontogglespell(item.id)}>
       {inSpell ? '✓ In spell' : '+ Add to spell'}
     </button>
-    <button onclick={() => onfocus(item.id)}>Centre web on this</button>
+    <button class="btn" onclick={() => onfocus(item.id)}>Centre web on this</button>
+    <button class="btn" disabled={inWeb} onclick={() => onaddhub(item.id)} title="Add as a hub to the intention web, to overlap with your intentions and other items">{inWeb ? '✓ In web' : '+ Add to web'}</button>
   </div>
 
   {#if warning}
@@ -62,7 +65,7 @@
   {/if}
 
   <section>
-    <h3>Intentions <span class="n">{item.properties.length}{#if mode === 'focused' && item.fullCount > item.properties.length} of {item.fullCount} · focused{/if}</span></h3>
+    <h3 class="label">Intentions <span class="n">{item.properties.length}{#if mode === 'focused' && item.fullCount > item.properties.length} of {item.fullCount} · focused{/if}</span></h3>
     <div class="chips">
       {#each props as p (p)}
         <button
@@ -78,7 +81,7 @@
 
   {#if children.length}
     <section>
-      <h3>{item.children.length} {children[0].relation === 'shades' ? 'shades' : children[0].relation === 'months' ? 'months' : 'varieties'}</h3>
+      <h3 class="label">{item.children.length} {relation(children[0].relation)[1]}</h3>
       <div class="chips">
         {#each children as c (c.id)}
           <button class="chip child" onclick={() => onselect(c.id)}>
@@ -91,12 +94,12 @@
 
   {#if linkGroups.length || backGroups.length}
     <section>
-      <h3>Linked items</h3>
+      <h3 class="label">Linked items</h3>
       <dl class="links">
         {#each linkGroups as g (g.coll)}
           <dt>{g.label}</dt>
           <dd>
-            {#each g.list as l, i (l.name)}{#if i},&nbsp;{/if}{#if l.id}<button class="ref" onclick={() => onselect(l.id)}>{l.name}</button>{:else}<span class="unlinked" title="Not in the data yet">{l.name}</span>{/if}{/each}
+            <RefList refs={g.list} {onselect} />
           </dd>
         {/each}
       </dl>
@@ -106,7 +109,7 @@
           {#each backGroups as g (g.type)}
             <dt>{g.label} <span class="n">{g.list.length}</span></dt>
             <dd>
-              {#each g.list as it, i (it.id)}{#if i},&nbsp;{/if}<button class="ref" onclick={() => onselect(it.id)}>{it.name}</button>{/each}
+              <RefList refs={g.list} {onselect} />
             </dd>
           {/each}
         </dl>
@@ -116,7 +119,7 @@
 
   {#if fields.length}
     <section>
-      <h3>Correspondences & details</h3>
+      <h3 class="label">Correspondences & details</h3>
       <dl>
         {#each fields as [k, v] (k)}
           <dt>{k}</dt>
@@ -128,7 +131,7 @@
 
   {#if item.citations.length}
     <section>
-      <h3>Sources</h3>
+      <h3 class="label">Sources</h3>
       <ul class="sources">
         {#each item.citations as c (c)}<li>{bibliography[c] ?? c}</li>{/each}
       </ul>
@@ -186,19 +189,6 @@
     gap: 8px;
     flex-wrap: wrap;
   }
-  .actions button {
-    padding: 6px 12px;
-    border-radius: 8px;
-    border: 1px solid var(--border);
-    background: var(--surface);
-    color: var(--text);
-    font: inherit;
-    font-size: 13px;
-    cursor: pointer;
-  }
-  .actions button:hover {
-    background: var(--surface-2);
-  }
   .actions .primary {
     background: var(--accent);
     border-color: var(--accent);
@@ -217,12 +207,7 @@
     font-size: 13px;
   }
   h3 {
-    margin: 0 0 6px;
-    font-size: 11px;
-    text-transform: uppercase;
-    letter-spacing: 0.06em;
-    color: var(--muted);
-    font-weight: 600;
+    margin-bottom: 6px;
   }
   .n {
     font-weight: 400;
@@ -286,22 +271,10 @@
   .links dd {
     line-height: 1.6;
   }
-  .unlinked {
-    color: var(--muted);
-  }
   .sources {
     margin: 0;
     padding-left: 18px;
     font-size: 12px;
     color: var(--muted);
-  }
-  .ref {
-    background: none;
-    border: 0;
-    padding: 0;
-    color: var(--accent-text);
-    font: inherit;
-    cursor: pointer;
-    text-decoration: underline;
   }
 </style>

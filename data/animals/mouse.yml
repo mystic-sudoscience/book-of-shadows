@@ -3,6 +3,7 @@ mouse:
   properties:
     - concentration/focus
     - cunning
+    - danger
     - destruction
     - determination
     - enchantment

@@ -33,6 +33,10 @@ saffron:
     - virility
     - well-being
     - happiness
+    - clairvoyance
+    - sexuality
+    - wealth
+    - moods
   toxicity:
     humans: false
     pets: true

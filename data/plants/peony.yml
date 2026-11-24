@@ -26,6 +26,10 @@ peony:
     - exorcism
     - abundance
     - luck
+    - magic
+    - danger
+    - opportunities
+    - release
   toxicity:
     humans: true
     pets: true

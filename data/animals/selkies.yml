@@ -1,6 +1,7 @@
 selkies:
   type: mythical
   properties:
+    - danger
     - desire
     - destiny
     - emotions

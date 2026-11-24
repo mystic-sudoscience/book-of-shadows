@@ -3,6 +3,7 @@ ladybug:
   properties:
     - aggression
     - agriculture
+    - goals
     - happiness
     - long-term goals
     - luck

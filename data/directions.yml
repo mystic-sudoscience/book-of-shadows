@@ -3,10 +3,13 @@ north:
     - abundance
     - accomplishment
     - balance
+    - battle/war
     - clarity
     - empathy
     - enmity
+    - envy
     - fertility
+    - gentleness
     - gratitude
     - healing
     - jealousy
@@ -19,15 +22,22 @@ north:
     - purity
     - rebirth/renewal
     - secrets
+    - self-improvement
+    - strength
     - stress
+    - success
     - trust
+    - visions
     - wealth
     - well-being
+    - wisdom
   citation:
     - kynes-correspondences
 northeast:
   properties:
     - knowledge
+    - self-improvement
+    - wisdom
   citation:
     - kynes-correspondences
 east:
@@ -37,12 +47,14 @@ east:
     - beginnings
     - communication
     - community
+    - creativity
     - divination
     - family
     - healing
     - illumination
     - inspiration
     - integrity
+    - intelligence
     - legal matters
     - life
     - light
@@ -50,6 +62,7 @@ east:
     - passion
     - prosperity
     - rebirth/renewal
+    - wisdom
   citation:
     - kynes-correspondences
 southeast:
@@ -63,10 +76,13 @@ south:
     - ambition
     - changes
     - courage
+    - creativity
     - energy
     - fairness
+    - faith
     - fame
     - fertility
+    - gentleness
     - illumination
     - increase
     - innocence
@@ -82,7 +98,9 @@ south:
     - respect
     - sexuality
     - spirituality
+    - strength
     - stress
+    - success
     - trust
     - warmth
     - willpower
@@ -100,20 +118,29 @@ west:
     - afterlife
     - balance
     - compassion
+    - creativity
     - death
     - destruction
     - dream work
+    - emotions
     - endings
+    - goals
     - imagination
+    - learning
     - love
     - passion
     - psychic ability
+    - quests
+    - self-improvement
+    - strength
     - travel
+    - visions
   citation:
     - kynes-correspondences
 northwest:
   properties:
     - accomplishment
     - guidance of others
+    - influence
   citation:
     - kynes-correspondences

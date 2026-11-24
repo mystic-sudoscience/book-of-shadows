@@ -31,6 +31,8 @@ lily:
     - happiness
     - creativity
     - harmony
+    - deceit
+    - quests
   toxicity:
     humans: true
     pets: true

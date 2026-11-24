@@ -10,6 +10,18 @@ datura:
     - shape shift
     - break hexes
     - sleep
+    - angel magic
+    - astral realm
+    - calm mind
+    - clairvoyance
+    - desire
+    - dream work
+    - increase
+    - prophecy
+    - protection
+    - sight
+    - visions
+    - deceit
   chakra: crown
   toxicity:
     humans: true
@@ -41,3 +53,4 @@ datura:
     - morgana-green-witch
     - cunningham-herbs
     - chevallier-herbal-medicine
+    - kynes-correspondences

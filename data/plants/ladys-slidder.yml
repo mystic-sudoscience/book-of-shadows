@@ -2,7 +2,17 @@ lady's slidder:
   planet: saturn
   element: water
   properties:
+    - authority
+    - awareness
+    - beauty
+    - beginnings
+    - calm
+    - energy
+    - gentleness
+    - nurture
     - protection
+    - sleep
+    - touch
   toxicity:
     notes:
       - rare
@@ -10,3 +20,4 @@ lady's slidder:
   citation:
     - cunningham-herbs
     - chevallier-herbal-medicine
+    - kynes-correspondences

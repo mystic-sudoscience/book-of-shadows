@@ -19,6 +19,42 @@ elderberry:
     - harmony
     - purification
     - psychic ability
+    - abundance
+    - animals
+    - beginnings
+    - blessings
+    - burial customs
+    - challenges
+    - changes
+    - compassion
+    - consciousness
+    - consecrate/bless
+    - creativity
+    - endings
+    - energy
+    - fairy magic
+    - fidelity
+    - grounding
+    - inner power
+    - knowledge
+    - life
+    - light
+    - rebirth/renewal
+    - security
+    - self-improvement
+    - sleep
+    - sorrow
+    - spirituality
+    - success
+    - wealth
+    - weather
+    - well-being
+    - wisdom
+    - witches/witchcraft
+    - danger
+    - release
+    - set hexes
+    - sympathy
   toxicity:
     humans: true
     pets: true
@@ -69,3 +105,4 @@ elderberry:
     - morgana-green-witch
     - chevallier-herbal-medicine
     - riteofritual-apothecary
+    - kynes-correspondences

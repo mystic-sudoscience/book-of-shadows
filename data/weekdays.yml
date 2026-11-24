@@ -9,13 +9,16 @@ sunday:
     - authority
     - beauty
     - confidence
+    - creativity
     - fame
     - freedom
     - friendship
+    - goals
     - healing
     - hope
     - illumination
     - justice
+    - leadership
     - legal matters
     - light
     - money
@@ -28,6 +31,7 @@ sunday:
     - spirituality
     - stress
     - success
+    - visions
     - vitality
     - warmth
     - well-being
@@ -98,21 +102,27 @@ wednesday:
   norse diety: odin
   properties:
     - business
+    - cleverness
     - communication
+    - creativity
     - crossroads
     - divination
     - fear
+    - improvement
     - insight
     - integrity
+    - intelligence
     - introspection
     - knowledge
     - loss
     - mental clarity
     - money
+    - obstacles
     - problem-solving
     - self-improvement
     - skills
     - travel
+    - wisdom
   citation:
     - cunningham-herbs
     - kynes-correspondences
@@ -128,6 +138,7 @@ thursday:
     - endurance
     - fidelity
     - honor
+    - leadership
     - legal matters
     - loyalty
     - luck
@@ -146,8 +157,10 @@ friday:
   norse diety: freyja
   properties:
     - beauty
+    - emotions
     - fertility
     - friendship
+    - happiness
     - harmony
     - love
     - magic
@@ -155,6 +168,7 @@ friday:
     - pleasure
     - romance
     - sexuality
+    - wisdom
   citation:
     - cunningham-herbs
     - kynes-correspondences
@@ -176,6 +190,7 @@ saturday:
     - money
     - motivation
     - negativity
+    - obstacles
     - patience
     - peace
     - perseverance
@@ -183,6 +198,7 @@ saturday:
     - remove obstacles
     - self-discipline
     - willpower
+    - wisdom
   citation:
     - cunningham-herbs
     - kynes-correspondences

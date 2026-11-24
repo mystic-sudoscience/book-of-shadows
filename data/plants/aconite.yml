@@ -6,9 +6,23 @@ aconite:
   zodiac sign: scorpio
   chakra: root
   properties:
+    - anxiety
+    - astral realm
+    - calm
     - consecrate/bless
+    - enchantment
+    - fear
     - invisibility
     - protection
+    - relationships
+    - self-improvement
+    - sensitivity
+    - skills
+    - soothe mind
+    - stimulation
+    - strength
+    - support
+    - witches/witchcraft
   toxicity:
     humans: true
     pets: true
@@ -34,3 +48,4 @@ aconite:
   citation:
     - morgana-green-witch
     - chevallier-herbal-medicine
+    - kynes-correspondences

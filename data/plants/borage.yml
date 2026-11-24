@@ -26,6 +26,7 @@ borage:
     - sorrow
     - happiness
     - inner strength
+    - passion
   toxicity:
     humans: false
     pets: true

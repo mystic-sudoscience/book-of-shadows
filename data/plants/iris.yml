@@ -33,6 +33,10 @@ iris:
     - divination
     - hope
     - prophecy
+    - luck
+    - wealth
+    - faith
+    - release
   toxicity:
     notes:
       - some species should not be used internally

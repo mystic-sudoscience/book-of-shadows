@@ -11,6 +11,7 @@ yew:
     - afterlife
     - black magic
     - changes
+    - communication
     - contact spirits
     - death
     - destruction
@@ -18,6 +19,7 @@ yew:
     - enchantment
     - grief
     - knowledge
+    - longevity
     - nightmares
     - otherworld/underworld
     - protection
@@ -25,6 +27,10 @@ yew:
     - rebirth/renewal
     - skills
     - sleep
+    - sorrow
+    - spirits
+    - strength
+    - visions
     - witches/witchcraft
   toxicity:
     humans: true

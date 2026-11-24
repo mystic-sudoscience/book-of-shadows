@@ -9,6 +9,7 @@ feverfew:
   properties:
     - banish
     - consecrate/bless
+    - defense
     - emotions
     - healing
     - heartbreak

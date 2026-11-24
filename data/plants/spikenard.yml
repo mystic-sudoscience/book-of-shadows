@@ -27,6 +27,7 @@ spikenard:
     - stability
     - well-being
     - creativity
+    - luck
   toxicity:
     humans: false
     pets: false

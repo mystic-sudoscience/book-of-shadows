@@ -54,15 +54,4 @@
     margin: 0;
     padding-left: 18px;
   }
-  .ref {
-    background: none;
-    border: 0;
-    padding: 0;
-    color: var(--accent-text);
-    font: inherit;
-    cursor: pointer;
-    text-decoration: underline;
-    text-decoration-color: color-mix(in srgb, currentColor 40%, transparent);
-    text-underline-offset: 2px;
-  }
 </style>

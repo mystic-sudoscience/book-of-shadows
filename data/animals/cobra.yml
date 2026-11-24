@@ -2,6 +2,7 @@ cobra:
   type: reptile & amphibian
   properties:
     - action
+    - danger
     - enmity
     - face danger
     - guidance

@@ -5,6 +5,10 @@ corn:
     - protection
     - attract luck
     - divination
+    - action
+    - balance
+    - mind
+    - pregnancy/childbirth
   medicinal:
     parts used: cornsilk, meal
     key constituents:
@@ -35,3 +39,4 @@ corn:
   citation:
     - cunningham-herbs
     - chevallier-herbal-medicine
+    - kynes-correspondences

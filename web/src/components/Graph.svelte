@@ -6,7 +6,7 @@
    * nodes: {id, label, kind: 'hub'|'item'|'intention'|'center', x, y, color?, shape?, size?, hub?, itemId?, name?, inSpell?}
    * edges: {id, source, target, hub?, relation?}
    */
-  let { nodes, edges, selected = null, onselect, onfocus, onintention } = $props()
+  let { nodes, edges, selected = null, onselect, onfocus, onintention, onadditem } = $props()
 
   let container
 
@@ -93,8 +93,8 @@
           opacity: 0.5,
         },
       },
-      ...[0, 1, 2].map((i) => ({ selector: `node[kind = "hub"][hub = ${i}]`, style: { 'background-color': css(`--hub-${i}`) } })),
-      ...[0, 1, 2].map((i) => ({ selector: `edge[hub = ${i}]`, style: { 'line-color': css(`--hub-${i}`), opacity: 0.35 } })),
+      ...[0, 1, 2, 3, 4].map((i) => ({ selector: `node[kind = "hub"][hub = ${i}]`, style: { 'background-color': css(`--hub-${i}`) } })),
+      ...[0, 1, 2, 3, 4].map((i) => ({ selector: `edge[hub = ${i}]`, style: { 'line-color': css(`--hub-${i}`), opacity: 0.35 } })),
       {
         selector: 'edge[link]',
         style: { 'curve-style': 'straight', 'line-color': css('--accent'), opacity: 0.3 },
@@ -126,6 +126,7 @@
     instance.on('tap', 'node', (e) => {
       const d = e.target.data()
       if (d.kind === 'intention') onintention?.(d.name, e.originalEvent?.shiftKey)
+      else if (d.itemId && e.originalEvent?.shiftKey && d.kind !== 'hub') onadditem?.(d.itemId)
       else if (d.itemId) onselect?.(d.itemId)
     })
     instance.on('dbltap', 'node', (e) => {

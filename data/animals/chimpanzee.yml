@@ -2,12 +2,14 @@ chimpanzee:
   type: mammal
   properties:
     - aggression
+    - awareness
     - changes
     - communication
     - community
     - compassion
     - integrity
     - intellectual
+    - intelligence
     - obstacles
     - self-awareness
     - skills

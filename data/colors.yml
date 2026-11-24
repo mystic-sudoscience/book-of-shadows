@@ -1,6 +1,7 @@
 aqua:
   properties:
     - compassion
+    - gentleness
     - harmony
   citation:
     - kynes-correspondences
@@ -17,9 +18,12 @@ black:
     - break hexes
     - challenges
     - changes
+    - control
+    - creativity
     - crossroads
     - darkness
     - death
+    - deceit
     - deepen spirituality
     - defense
     - determination
@@ -28,6 +32,7 @@ black:
     - dream work
     - endings
     - enmity
+    - envy
     - fear
     - fertility
     - grief
@@ -49,13 +54,16 @@ black:
     - quiet power
     - rebirth/renewal
     - receptive energy
+    - release
     - revenge
     - reversal
     - secrets
     - security
     - set hexes
     - sleep
+    - transformation
     - truth
+    - wisdom
     - witches/witchcraft
   citation:
     - kynes-correspondences
@@ -78,16 +86,21 @@ blue:
     - goodness
     - hearing
     - higher wisdom
+    - home
     - honor
     - hope
     - integrity
+    - intelligence
+    - intuition
     - justice
     - knowledge
     - life
     - light
+    - loneliness
     - mind
     - nightmares
     - obstacles
+    - optimism
     - order/organize
     - pregnancy/childbirth
     - prosperity
@@ -99,7 +112,9 @@ blue:
     - sleep
     - spirituality
     - stress
+    - transformation
     - truth
+    - visions
   shades:
     dark:
       properties:
@@ -107,14 +122,17 @@ blue:
         - guardian
         - guidance
         - harmony
+        - luck
         - negativity
         - night magic
         - occult power
+        - purpose
     light:
       properties:
         - calm
         - dedication/devotion
         - emotions
+        - happiness
         - harmony
         - inspiration
         - kindness
@@ -126,10 +144,13 @@ blue:
     royal:
       properties:
         - confidence
+        - happiness
         - increase
+        - influence
         - loyalty
         - psychic ability
         - purification
+        - strength
   citation:
     - kynes-correspondences
 brown:
@@ -140,6 +161,7 @@ brown:
     - beginnings
     - concentration/focus
     - courage
+    - decisions
     - energy
     - family
     - fear
@@ -148,9 +170,12 @@ brown:
     - guardian
     - guidance
     - healing
+    - home
     - honesty
     - increase
+    - influence
     - justice
+    - longevity
     - loss
     - money
     - nurture
@@ -159,6 +184,7 @@ brown:
     - rebirth/renewal
     - stability
     - stress
+    - success
     - travel
     - truth
   citation:
@@ -167,6 +193,7 @@ copper:
   properties:
     - business
     - energy
+    - goals
     - money
     - professional growth
   citation:
@@ -186,14 +213,19 @@ gold:
     - confidence
     - consciousness
     - consecrate/bless
+    - creativity
     - dispel darkness
     - divination
     - divine connections
     - expand awareness
     - friendship
+    - happiness
     - healing
+    - home
     - illumination
     - increase
+    - influence
+    - intuition
     - knowledge
     - light
     - money
@@ -203,9 +235,12 @@ gold:
     - security
     - skills
     - solar energy
+    - strength
     - stress
+    - success
     - wealth
     - well-being
+    - wisdom
   citation:
     - kynes-correspondences
 gray:
@@ -217,16 +252,23 @@ gray:
     - endings
     - energy
     - imagination
+    - influence
+    - learning
+    - loneliness
     - loss
     - negativity
     - otherworld/underworld
     - patience
     - peace
     - psychic protection
+    - quests
     - secrets
     - sorrow
+    - spirits
     - spiritual protection
     - stability
+    - visions
+    - wisdom
   shades:
     dark:
       properties:
@@ -252,36 +294,51 @@ green:
     - community
     - compassion
     - courage
+    - creativity
+    - deceit
     - emotional balance
     - energy
     - enmity
+    - envy
     - fairness
+    - faith
+    - favors
     - fertility
     - generosity
     - goodness
     - grounding
     - growth
     - healing
+    - home
+    - independence
     - justice
     - kindness
     - life
+    - longevity
     - love
+    - luck
     - marriage
     - money
     - nature spirits
     - nurture
+    - optimism
     - peace
     - prosperity
     - protection
     - rebirth/renewal
     - receptive energy
     - relationships
+    - self-improvement
     - sight
     - sleep
+    - strength
     - stress
+    - success
+    - sympathy
     - trust
     - wealth
     - well-being
+    - wisdom
     - youth
   shades:
     blue-green:
@@ -294,6 +351,7 @@ green:
     sea:
       properties:
         - harmony
+        - influence
   citation:
     - kynes-correspondences
 indigo:
@@ -306,6 +364,7 @@ indigo:
     - clarity
     - clear sight
     - communicate with spirits
+    - connections
     - consciousness
     - contact spirits
     - dignity
@@ -317,10 +376,13 @@ indigo:
     - karma
     - karmic balance
     - marriage
+    - quests
     - rebirth/renewal
     - relationships
+    - self-improvement
     - spiritual balance
     - stress
+    - success
     - truth
   citation:
     - kynes-correspondences
@@ -330,8 +392,10 @@ lavender:
     - dignity
     - divination
     - dream work
+    - gentleness
     - insight
     - integrity
+    - intelligence
     - introspection
     - marriage
     - otherworld/underworld
@@ -365,32 +429,43 @@ orange:
     - changes
     - communication
     - confidence
+    - control
     - courage
+    - creativity
     - discipline
     - encouragement
     - energy
     - fear
     - freedom
+    - goals
     - goodness
     - healing
+    - home
     - illumination
     - integrity
+    - intelligence
     - justice
     - kindness
     - life
+    - luck
     - memory/memories
     - mind
     - money
     - needs
+    - optimism
     - order/organize
+    - pleasure
     - power
     - pride
     - reconciliation
     - relationships
     - reversal
     - stimulation
+    - strength
     - stress
+    - success
     - support
+    - transformation
     - travel
     - warmth
     - well-being
@@ -403,6 +478,8 @@ peach:
     - communication
     - confidence
     - encouragement
+    - happiness
+    - strength
   citation:
     - kynes-correspondences
 pink:
@@ -416,26 +493,33 @@ pink:
     - balance
     - beauty
     - compassion
+    - creativity
     - cycles
     - fidelity
     - generosity
+    - gentleness
+    - happiness
     - harmony
     - healing
     - honor
     - increase
     - inspiration
+    - intuition
     - life
     - love
     - marriage
+    - morality
     - nurture
     - passion
     - peace
     - relationships
     - romance
     - security
+    - self-improvement
     - sensuality
     - sorrow
     - stress
+    - sympathy
     - unity
     - warmth
     - well-being
@@ -453,6 +537,7 @@ purple:
     - authority
     - awareness
     - banish
+    - blessings
     - clairvoyance
     - consciousness
     - consecrate/bless
@@ -466,25 +551,38 @@ purple:
     - freedom
     - growth
     - healing
+    - home
+    - independence
+    - influence
     - inspiration
     - integrity
+    - intelligence
+    - intuition
     - justice
     - listening
+    - luck
     - manifestation
     - negativity
+    - optimism
     - passion
     - power
     - prophecy
     - protection
     - psychic ability
     - purification
+    - release
     - security
+    - self-improvement
     - sex magic
     - skills
     - sorrow
     - stress
+    - success
+    - transformation
     - truth
+    - visions
     - wealth
+    - wisdom
   shades:
     dark:
       properties:
@@ -499,11 +597,14 @@ red:
     - ambition
     - assertiveness
     - attachments
+    - battle/war
     - break hexes
     - changes
     - concentration/focus
     - courage
+    - creativity
     - crossroads
+    - danger
     - death
     - desire
     - destruction
@@ -517,11 +618,14 @@ red:
     - guidance
     - healing
     - justice
+    - leadership
     - life
+    - longevity
     - love
     - loyalty
     - lust
     - marriage
+    - messages/omens
     - motivation
     - otherworld/underworld
     - passion
@@ -538,9 +642,11 @@ red:
     - sexual energy
     - sexuality
     - stimulation
+    - strength
     - taste
     - truth
     - willpower
+    - wisdom
     - wishes
   citation:
     - kynes-correspondences
@@ -551,6 +657,7 @@ rose:
     - friendship
     - honor
     - love
+    - morality
     - passion
     - patience
     - peace
@@ -570,6 +677,7 @@ silver:
     - clarity
     - communicate with ancestors
     - consciousness
+    - creativity
     - defense
     - divination
     - dream work
@@ -577,8 +685,10 @@ silver:
     - energy
     - fame
     - healing
+    - influence
     - insight
     - inspiration
+    - intuition
     - money
     - moon magic
     - negativity
@@ -593,11 +703,13 @@ silver:
     - spirituality
     - stability
     - stress
+    - success
   citation:
     - kynes-correspondences
 turquoise:
   properties:
     - balance
+    - creativity
     - growth
     - healing
     - peace
@@ -612,11 +724,14 @@ violet:
     - clarity
     - concentration/focus
     - connect with higher self
+    - connections
+    - creativity
     - divination
     - healing
     - insight
     - inspiration
     - introspection
+    - intuition
     - manifestation
     - motivation
     - peace
@@ -625,13 +740,17 @@ violet:
     - psychic ability
     - purification
     - security
+    - self-improvement
     - sensitivity
     - skills
     - sorrow
     - spirituality
     - stress
+    - success
+    - transformation
     - truth
     - well-being
+    - wisdom
   citation:
     - kynes-correspondences
 white:
@@ -640,7 +759,9 @@ white:
     - angel magic
     - astral realm
     - balance
+    - battle/war
     - beginnings
+    - blessings
     - calm
     - changes
     - clarity
@@ -648,6 +769,7 @@ white:
     - concentration/focus
     - consciousness
     - consecrate/bless
+    - creativity
     - death
     - divination
     - divine/higher power
@@ -659,6 +781,7 @@ white:
     - grounding
     - guardian
     - guidance
+    - happiness
     - harmony
     - healing
     - hope
@@ -669,6 +792,7 @@ white:
     - love
     - moon magic
     - nightmares
+    - optimism
     - otherworld/underworld
     - passion
     - peace
@@ -677,12 +801,16 @@ white:
     - purification
     - purity
     - receptive energy
+    - self-improvement
     - sexuality
     - sight
+    - spirits
     - spiritual protection
     - spirituality
+    - strength
     - truth
     - unity
+    - visions
     - willpower
   citation:
     - kynes-correspondences
@@ -695,37 +823,51 @@ yellow:
     - cheerfulness
     - clairvoyance
     - clarity
+    - comfort
     - communication
     - community
     - concentration/focus
     - consecrate/bless
     - contact spirits
+    - creativity
+    - deceit
     - dedication/devotion
     - divine/higher power
     - dream work
     - energy
     - fairness
+    - faith
     - friendship
+    - gentleness
     - grounding
+    - happiness
+    - home
     - imagination
     - inspiration
     - integrity
+    - intelligence
+    - intuition
     - knowledge
+    - learning
     - light
     - memory/memories
     - mind
     - nurture
+    - optimism
     - protection
     - psychic ability
     - purification
+    - self-improvement
     - shyness
     - skills
     - smell
     - solar energy
     - stimulation
     - support
+    - visions
     - warmth
     - willpower
+    - wisdom
     - wishes
   shades:
     yellow-green:

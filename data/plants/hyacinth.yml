@@ -22,6 +22,11 @@ hyacinth:
     - stress
     - wisdom
     - happiness
+    - sorrow
+    - gentleness
+    - influence
+    - loneliness
+    - optimism
   toxicity:
     notes:
       - not recommended for internal use

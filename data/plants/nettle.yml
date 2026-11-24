@@ -34,6 +34,13 @@ nettle:
     - strength
     - fertility
     - growth
+    - break hexes
+    - defense
+    - emotions
+    - home
+    - luck
+    - obstacles
+    - danger
   toxicity:
     humans: false
     pets: false

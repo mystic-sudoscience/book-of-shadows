@@ -143,6 +143,8 @@ def build():
         "groups": {k: v or [] for k, v in groups.items()},
         "items": list(items.values()),
         "bibliography": bibliography,
+        # Fields whose values name items in another collection; the app reads this rather than repeating it.
+        "fieldLinks": FIELD_LINKS,
     }
 
 
