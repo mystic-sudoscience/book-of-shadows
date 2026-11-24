@@ -1,0 +1,38 @@
+coffee:
+  parts used: beans, grounds, oil
+  planet: mars
+  element: fire, air, earth
+  zodiac sign: sagittarius, aries
+  chakra: root, sacral
+  properties:
+    - remove obstacles
+    - energy
+    - vitality
+    - protection
+    - grounding
+    - happiness
+    - cheerfulness
+    - luck
+    - love
+    - lust
+    - romance
+    - banish
+  core properties:
+    - remove obstacles
+    - energy
+    - protection
+    - grounding
+    - banish
+    - vitality
+    - luck
+    - love
+    - happiness
+  toxicity:
+    humans: false
+    pets: true
+    notes:
+      - safe for humans in moderation; too much caffeine can cause anxiety or trouble sleeping
+      - if pregnant, keep caffeine under 200 mg a day
+      - caffeine is toxic to dogs and cats, so keep grounds, beans and drinks away from them
+  citation:
+    - awesomeon20-herbs

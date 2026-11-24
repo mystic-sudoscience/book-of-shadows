@@ -1,0 +1,49 @@
+cocoa:
+  parts used: seeds, nibs, powder
+  planet: venus, earth, moon, mars, saturn
+  element: water, earth, fire
+  zodiac sign: pisces, aquarius, cancer, libra, scorpio, virgo, aries
+  chakra: heart, sacral
+  properties:
+    - love
+    - prosperity
+    - happiness
+    - attract positive energy
+    - receptive energy
+    - self-love
+    - friendship
+    - pleasure
+    - emotions
+    - balance
+    - romance
+    - passion
+    - grounding
+    - reconciliation
+    - meditation
+    - calm mind
+    - higher consciousness
+    - protection
+    - healing
+    - memory/memories
+    - concentration/focus
+  core properties:
+    - love
+    - prosperity
+    - happiness
+    - attract positive energy
+    - receptive energy
+    - self-love
+    - friendship
+    - romance
+    - passion
+    - protection
+    - healing
+  toxicity:
+    humans: false
+    pets: true
+    notes:
+      - generally safe for humans as food; contains caffeine and theobromine
+      - consult a professional before using medicinally
+      - toxic to dogs and cats (theobromine); dark chocolate and cocoa powder are the most dangerous
+  citation:
+    - awesomeon20-herbs

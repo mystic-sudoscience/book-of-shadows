@@ -1,0 +1,39 @@
+carrot:
+  type: herb & garden
+  parts used: root, seeds, leaves
+  planet: mars, mercury
+  element: fire
+  chakra: solar plexus
+  properties:
+    - fertility
+    - passion
+    - clarity
+    - love
+    - lust
+    - energy
+    - creativity
+    - grounding
+    - manifestation
+    - purification
+    - balance
+    - healing
+    - sight
+  core properties:
+    - fertility
+    - passion
+    - clarity
+    - love
+    - lust
+    - healing
+    - sight
+    - grounding
+  toxicity:
+    humans: false
+    pets: false
+    notes:
+      - safe for humans as food
+      - avoid carrot seed tea if pregnant or trying to conceive
+      - wild carrot (queen anne's lace) is considered toxic, and it looks like poison hemlock, so take care when foraging
+      - plain carrots are safe for dogs and cats
+  citation:
+    - awesomeon20-herbs
